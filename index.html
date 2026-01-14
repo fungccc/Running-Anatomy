@@ -298,7 +298,7 @@
     // --- 4. INIT ---
     window.onload = async () => {
         initTheme();
-        async loadData();
+        await loadData();
         renderCategorizedFilters();
         document.getElementById('import-text').value = JSON.stringify(db, null, 2);
     };
