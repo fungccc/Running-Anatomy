@@ -1,1232 +1,84 @@
 [
   {
-    "id": "neck_digastric",
-    "name_zh": "二腹肌",
-    "name_en": "Digastric",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gray_%E2%80%94_musculus_digastricus.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_digastricus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "雖然不是跑步動力肌，但在高強度跑步時協助呼吸道暢通。透過穩定舌骨與下顎，有助於維持頭部穩定位置，避免過度緊繃影響頸部放鬆。",
-    "desc_en": "While not a propulsion muscle, it assists in maintaining airway patency during high-intensity running. By stabilizing the hyoid and mandible, it contributes to head stability and helps prevent excessive tension in the neck region.",
+    "id": "abdomen_external_oblique",
+    "name_zh": "腹外斜肌",
+    "name_en": "External Abdominal Oblique",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Grays_Anatomy_Muscle_oblique_externe.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Grays_Anatomy_Muscle_oblique_externe.png\">Par Henry Vandyke Carter</a>, CC0, via Wikimedia Commons",
+    "desc": "跑步「前側斜向動力鏈 (Anterior Oblique Sling)」的關鍵部分。負責將擺臂產生的旋轉力矩傳遞至對側髖部，協調上下半身的動作。",
+    "desc_en": "Key component of the 'Anterior Oblique Sling' in running. Transfers rotational torque from the arm swing to the contralateral hip, coordinating upper and lower body movements.",
     "tags": [
-      "頸部肌群",
+      "腹部與核心",
       "跑步",
-      "游泳",
-      "瑜伽",
-      "提升/下壓",
-      "穩定肌",
-      "呼吸輔助",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "shoulder_deltoid_middle",
-    "name_zh": "三角肌中部",
-    "name_en": "Middle Deltoid",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "在跑步擺臂過程中，負責維持手臂與身體的適當距離（外展），避免手臂過度交叉於胸前，確保擺臂軌跡正直以提升動能傳遞效率。",
-    "desc_en": "Maintains proper arm carriage width (abduction) during the arm swing, preventing excessive cross-body movement. This ensures a linear swing trajectory for efficient kinetic energy transfer.",
-    "tags": [
-      "肩帶與肩關節",
-      "跑步",
-      "游泳",
-      "籃球",
-      "健身/重訓",
-      "羽毛球",
       "網球",
-      "外展",
-      "穩定肌",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "shoulder_deltoid_anterior",
-    "name_zh": "三角肌前部",
-    "name_en": "Anterior Deltoid",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "負責跑步擺臂的「前擺」動作（肩屈曲）。強有力的前擺能帶動對側腿的推蹬力量，在上坡跑或衝刺時尤為重要。",
-    "desc_en": "Responsible for the forward phase (shoulder flexion) of the arm swing. A powerful forward drive assists in generating contralateral leg drive, which is critical during uphill running or sprinting.",
-    "tags": [
-      "肩帶與肩關節",
-      "跑步",
-      "游泳",
-      "籃球",
       "健身/重訓",
-      "羽毛球",
-      "網球",
+      "拳擊/格鬥",
       "屈曲",
-      "內旋",
+      "側屈",
+      "軀幹旋轉與對角線",
       "原動肌",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "shoulder_deltoid_posterior",
-    "name_zh": "三角肌後部",
-    "name_en": "Posterior Deltoid",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "負責跑步擺臂的「後擺」動作（肩伸展）。有效的後擺有助於維持軀幹挺直，防止圓肩姿勢，並為下一次前擺儲存彈性位能。",
-    "desc_en": "Responsible for the backward phase (shoulder extension) of the arm swing. Effective backward drive helps maintain an upright trunk posture, prevents rounding of shoulders, and stores elastic energy for the subsequent forward swing.",
-    "tags": [
-      "肩帶與肩關節",
-      "跑步",
-      "游泳",
-      "划艇",
-      "羽毛球",
-      "網球",
-      "棒球/壘球",
-      "伸展",
-      "外旋",
-      "原動肌",
-      "穩定肌",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "thigh_adductor_magnus",
-    "name_zh": "大內收肌",
-    "name_en": "Adductor Magnus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Muscle_grand_adducteur_copie.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_grand_adducteur_copie.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
-    "desc": "被視為「第四條腿後肌」。除了內收功能，其後部纖維是強大的髖伸展肌，在跑步推蹬期（特別是髖屈角度較大如上坡跑時）提供重要動力，同時穩定骨盆防止過度旋轉。",
-    "desc_en": "Often considered the 'fourth hamstring.' Beyond adduction, its posterior fibers are powerful hip extensors. It provides significant propulsion during the push-off phase (especially in uphill running where hip flexion is greater) and stabilizes the pelvis against excessive rotation.",
-    "tags": [
-      "髖部與大腿",
-      "跑步",
-      "足球",
-      "籃球",
-      "健身/重訓",
-      "登山/健行",
-      "瑜伽",
-      "游泳",
-      "內收",
-      "伸展",
-      "原動肌",
-      "穩定肌",
-      "下肢拉/髖絞鍊",
       "核心穩定",
       "步態與移動"
     ]
   },
   {
-    "id": "shoulder_teres_major",
-    "name_zh": "大圓肌",
-    "name_en": "Teres Major",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Gray_%E2%80%94_musculus_teres_major.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_teres_major.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "與背闊肌協同工作，協助跑步擺臂的後擺動作（伸展與內旋）。在高速奔跑需要強力擺臂時，協助穩定肩胛骨下角。",
-    "desc_en": "Works synergistically with the latissimus dorsi to assist in the backward phase (extension and internal rotation) of the arm swing. helps stabilize the inferior angle of the scapula during vigorous arm swinging in sprinting.",
+    "id": "abdomen_internal_oblique",
+    "name_zh": "腹內斜肌",
+    "name_en": "Internal Abdominal Oblique",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Gray395.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray395.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "與腹外斜肌協同工作，控制軀幹的旋轉。在跑步時，當右肩向前擺動，左側內斜肌與右側外斜肌共同收縮，形成穩定的「對角線」張力。",
+    "desc_en": "Works synergistically with the external oblique to control trunk rotation. During running, as the right shoulder swings forward, the left internal oblique contracts with the right external oblique to create stable diagonal tension.",
     "tags": [
-      "肩帶與肩關節",
+      "腹部與核心",
       "跑步",
-      "游泳",
-      "划艇",
-      "健身/重訓",
-      "伸展",
-      "內收",
-      "內旋",
-      "上肢拉-垂直",
-      "原動肌",
-      "穩定肌"
-    ]
-  },
-  {
-    "id": "hand_abductor_digiti_minimi",
-    "name_zh": "小指外展肌",
-    "name_en": "Abductor Digiti Minimi",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gray_%E2%80%94_musculus_abductor_digiti_minimi.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "在跑步時應保持放鬆狀態。握拳過緊會導致前臂與肩部不必要的緊張，浪費能量。此肌肉負責小指動作，跑者應意識其放鬆。",
-    "desc_en": "Should remain relaxed during running. Excessive clenching creates unnecessary tension in the forearm and shoulders, wasting energy. Runners should focus on keeping this muscle relaxed.",
-    "tags": [
-      "手腕與手部",
-      "跑步",
-      "外展",
-      "精細運動",
-      "原動肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "forearm_extensor_digiti_minimi",
-    "name_zh": "小指伸肌",
-    "name_en": "Extensor Digiti Minimi",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gray_%E2%80%94_musculus_extensor_digiti_minimi.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "跑步時手部應微握或自然伸展。此肌肉負責小指伸展，過度啟動代表手部僵硬，可能影響擺臂的流暢性。",
-    "desc_en": "Hands should be loosely cupped or naturally extended while running. Activation of this muscle indicates tension, which can negatively affect the fluidity of the arm swing.",
-    "tags": [
-      "肘部與前臂",
-      "跑步",
-      "伸展",
-      "原動肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "hand_flexor_digiti_minimi",
-    "name_zh": "小指屈肌短",
-    "name_en": "Flexor Digiti Minimi Brevis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Gray_%E2%80%94_musculus_flexor_digiti_minimi_brevis.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_digiti_minimi_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "跑步時負責維持手部自然的半握拳姿勢。應避免過度用力屈曲，以免造成前臂肌肉疲勞。",
-    "desc_en": "Helps maintain a natural, loose fist while running. Runners should avoid forceful flexion to prevent forearm muscle fatigue.",
-    "tags": [
-      "手腕與手部",
-      "跑步",
-      "屈曲",
-      "精細運動",
-      "原動肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "hand_opponens_digiti_minimi",
-    "name_zh": "小指對立肌",
-    "name_en": "Opponens Digiti Minimi",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Gray_%E2%80%94_musculus_opponens_digiti_minimi.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_opponens_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "協助維持手掌杯狀結構。在長距離跑步中，保持手掌核心放鬆對於減少上肢能量消耗很重要。",
-    "desc_en": "Helps maintain the cupped shape of the palm. Keeping the intrinsic hand muscles relaxed is important for minimizing upper body energy expenditure during long-distance runs.",
-    "tags": [
-      "手腕與手部",
-      "跑步",
-      "對立",
-      "精細運動",
-      "原動肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "foot_abductor_digiti_minimi",
-    "name_zh": "小趾外展肌",
-    "name_en": "Abductor Digiti Minimi",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gray_%E2%80%94_musculus_abductor_digiti_minimi.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "在站立期（Stance Phase）負責擴大足底支撐面積，提供足部外側的動態穩定。在不平路面或轉彎時，對於防止足內翻扭傷有關鍵作用。",
-    "desc_en": "Increases the plantar base of support during the stance phase, providing dynamic lateral stability. plays a critical role in preventing inversion sprains, especially on uneven terrain or during cornering.",
-    "tags": [
-      "踝部與足部",
-      "跑步",
-      "足球",
-      "瑜伽",
-      "外展",
-      "屈曲",
-      "原動肌",
-      "足弓支撐",
-      "穩定肌",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "shoulder_teres_minor",
-    "name_zh": "小圓肌",
-    "name_en": "Teres Minor",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gray_%E2%80%94_musculus_teres_minor.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_teres_minor.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "雖然主要功能是外旋，但在跑步中作為肩袖肌群，負責在長時間擺臂運動中穩定肱骨頭，防止肩關節因疲勞而位置偏移。",
-    "desc_en": "While primarily an external rotator, as part of the rotator cuff, it stabilizes the humeral head during prolonged arm swinging, preventing joint malposition due to fatigue.",
-    "tags": [
-      "肩帶與肩關節",
-      "跑步",
-      "游泳",
-      "棒球/壘球",
       "網球",
-      "羽毛球",
       "健身/重訓",
-      "外旋",
-      "原動肌",
+      "皮拉提斯",
+      "屈曲",
+      "側屈",
+      "軀幹旋轉與對角線",
       "穩定肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "thorax_intercostal_internal",
-    "name_zh": "內側肋間肌",
-    "name_en": "Internal Intercostal",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Internal_intercostal_muscles_animation.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Internal_intercostal_muscles_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "在高強度無氧跑步或衝刺後的恢復期間，負責強制呼氣，將二氧化碳快速排出。有助於穩定胸廓，作為核心的一部分傳遞力量。",
-    "desc_en": "Active during forced expiration, particularly during high-intensity anaerobic running or recovery, helping to expel carbon dioxide rapidly. Stabilizes the rib cage, acting as part of the core for force transmission.",
-    "tags": [
-      "胸廓",
-      "跑步",
-      "HIIT/CrossFit",
-      "呼吸輔助",
       "核心穩定"
     ]
   },
   {
-    "id": "head_medial_pterygoid",
-    "name_zh": "內翼肌",
-    "name_en": "Medial Pterygoid",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Medial_pterygoid_muscle_animation_2.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Medial_pterygoid_muscle_animation_2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "跑步時咬牙切齒會導致此肌肉過度緊繃，進而引起頸部與肩部緊張。放鬆下顎有助於提升整體跑步經濟性。",
-    "desc_en": "Clenching the jaw during running tightens this muscle, leading to referred tension in the neck and shoulders. Relaxing the jaw improves overall running economy.",
+    "id": "abdomen_rectus_abdominis",
+    "name_zh": "腹直肌",
+    "name_en": "Rectus Abdominis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/94/Rectus_abdominis_vi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Rectus_abdominis_vi.png\">Mongrangvebet</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "防止骨盆過度前傾（Anti-extension）。在跑步時負責連結胸廓與骨盆，確保力量傳遞效率。無力的腹直肌會導致核心塌陷與下背壓力增加。",
+    "desc_en": "Prevents excessive anterior pelvic tilt (anti-extension). Connects the rib cage and pelvis during running to ensure efficient force transfer. Weakness leads to core collapse and increased lower back stress.",
     "tags": [
-      "顱骨與顳顎關節",
+      "腹部與核心",
       "跑步",
-      "拳擊/格鬥",
       "健身/重訓",
-      "屈曲",
-      "內收",
-      "原動肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "forearm_extensor_carpi_ulnaris",
-    "name_zh": "尺側腕伸肌",
-    "name_en": "Extensor Carpi Ulnaris",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gray_%E2%80%94_musculus_extensor_carpi_ulnaris.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_carpi_ulnaris.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "在擺臂過程中負責穩定手腕，防止手部在加速擺動時出現過度甩動，確保力量沿直線傳遞。",
-    "desc_en": "Stabilizes the wrist during the arm swing, preventing excessive flopping or deviation of the hand during rapid acceleration, ensuring linear force transmission.",
-    "tags": [
-      "肘部與前臂",
-      "跑步",
-      "伸展",
-      "內收",
-      "原動肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "forearm_flexor_carpi_ulnaris",
-    "name_zh": "尺側腕屈肌",
-    "name_en": "Flexor Carpi Ulnaris",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/7/75/Flexor_carpi_ulnaris.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Flexor_carpi_ulnaris.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "協助穩定手腕位置。其肌腱是尺神經的保護標地，跑步時手肘長時間彎曲可能對此區域造成壓力，需注意放鬆。",
-    "desc_en": "Assists in stabilizing wrist position. Prolonged elbow flexion during long runs can place stress near its tendon (ulnar nerve path), highlighting the need for periodic arm relaxation.",
-    "tags": [
-      "肘部與前臂",
-      "跑步",
-      "屈曲",
-      "內收",
-      "原動肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "foot_quadratus_plantae",
-    "name_zh": "方形肌",
-    "name_en": "Quadratus Plantae",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Muscle_carr%C3%A9_plantaire.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_carr%C3%A9_plantaire.png\">Berichard d&#039;après Gray&#039;s anatomy</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
-    "desc": "跑步推蹬期（Push-off）的關鍵輔助肌。修正屈趾長肌的斜向拉力，確保腳趾能直線抓地與推進，提高推進效率並維持足弓穩定。",
-    "desc_en": "Crucial accessory muscle during the push-off phase. It corrects the oblique pull of the flexor digitorum longus, ensuring linear toe flexion for efficient propulsion and arch stability.",
-    "tags": [
-      "踝部與足部",
-      "跑步",
-      "足球",
-      "瑜伽",
-      "屈曲",
-      "原動肌",
-      "足弓支撐",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "forearm_pronator_quadratus",
-    "name_zh": "方形旋前肌",
-    "name_en": "Pronator Quadratus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Pronator-quadratus.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pronator-quadratus.png\">Selket at English Wikipedia</a>, Public domain, via Wikimedia Commons",
-    "desc": "維持跑步時前臂的輕微旋前姿勢（手掌朝向身體）。在長時間擺臂中提供深層穩定，減少肘部關節剪力。",
-    "desc_en": "Maintains the slightly pronated forearm position (palms facing the body) typical in running form. Provides deep stabilization during prolonged arm swinging, reducing shear forces at the elbow.",
-    "tags": [
-      "肘部與前臂",
-      "跑步",
-      "旋前",
-      "原動肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "calf_soleus",
-    "name_zh": "比目魚肌",
-    "name_en": "Soleus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Soleus_muscle_-_animation.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Soleus_muscle_-_animation.gif\">Polygon data is generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "長跑者的引擎。主要由抗疲勞的慢縮肌纖維組成，在站立期中期（Mid-stance）負責控制脛骨前傾，並在推蹬期提供持續動力。對於長距離跑步的耐力與減少垂直震幅至關重要。",
-    "desc_en": "The marathoner's engine. Composed mainly of fatigue-resistant slow-twitch fibers. Controls tibial advancement during mid-stance and provides sustained propulsion during push-off. Critical for endurance and minimizing vertical oscillation.",
-    "tags": [
-      "小腿",
-      "跑步",
-      "籃球",
-      "足球",
-      "健身/重訓",
-      "登山/健行",
-      "單車",
-      "蹠屈",
-      "姿勢維持",
-      "原動肌",
-      "穩定肌",
-      "衝擊吸收",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "posterior_thigh_semitendinosus",
-    "name_zh": "半腱肌",
-    "name_en": "Semitendinosus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Semitendinosus.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Semitendinosus.png\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "在擺腿期（Swing Phase）末期負責減速小腿的前甩，保護膝關節；在著地瞬間負責伸展髖部以推進身體。其快速收縮能力對於衝刺與步頻轉換很重要。",
-    "desc_en": "Decelerates the lower leg at the end of the swing phase, protecting the knee. Extends the hip upon ground contact to propel the body forward. Its rapid contraction capability is vital for sprinting and cadence changes.",
-    "tags": [
-      "髖部與大腿",
-      "跑步",
-      "籃球",
-      "足球",
-      "健身/重訓",
-      "登山/健行",
-      "瑜伽",
-      "屈曲",
-      "伸展",
-      "膝關節屈曲",
-      "髖關節伸展",
-      "原動肌",
-      "衝擊吸收",
-      "步態與移動",
-      "下肢拉/髖絞鍊"
-    ]
-  },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  {
-    "id": "neck_digastric",
-    "name_zh": "二腹肌",
-    "name_en": "Digastric",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gray_%E2%80%94_musculus_digastricus.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_digastricus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "雖然不是跑步動力肌，但在高強度跑步時協助呼吸道暢通。透過穩定舌骨與下顎，有助於維持頭部穩定位置，避免過度緊繃影響頸部放鬆。",
-    "desc_en": "While not a propulsion muscle, it assists in maintaining airway patency during high-intensity running. By stabilizing the hyoid and mandible, it contributes to head stability and helps prevent excessive tension in the neck region.",
-    "tags": [
-      "頸部肌群",
-      "跑步",
-      "游泳",
-      "瑜伽",
-      "提升/下壓",
-      "穩定肌",
-      "呼吸輔助",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "shoulder_deltoid_middle",
-    "name_zh": "三角肌中部",
-    "name_en": "Middle Deltoid",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "在跑步擺臂過程中，負責維持手臂與身體的適當距離（外展），避免手臂過度交叉於胸前，確保擺臂軌跡正直以提升動能傳遞效率。",
-    "desc_en": "Maintains proper arm carriage width (abduction) during the arm swing, preventing excessive cross-body movement. This ensures a linear swing trajectory for efficient kinetic energy transfer.",
-    "tags": [
-      "肩帶與肩關節",
-      "跑步",
-      "游泳",
-      "籃球",
-      "健身/重訓",
-      "羽毛球",
-      "網球",
-      "外展",
-      "穩定肌",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "shoulder_deltoid_anterior",
-    "name_zh": "三角肌前部",
-    "name_en": "Anterior Deltoid",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "負責跑步擺臂的「前擺」動作（肩屈曲）。強有力的前擺能帶動對側腿的推蹬力量，在上坡跑或衝刺時尤為重要。",
-    "desc_en": "Responsible for the forward phase (shoulder flexion) of the arm swing. A powerful forward drive assists in generating contralateral leg drive, which is critical during uphill running or sprinting.",
-    "tags": [
-      "肩帶與肩關節",
-      "跑步",
-      "游泳",
-      "籃球",
-      "健身/重訓",
-      "羽毛球",
-      "網球",
-      "屈曲",
-      "內旋",
-      "原動肌",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "shoulder_deltoid_posterior",
-    "name_zh": "三角肌後部",
-    "name_en": "Posterior Deltoid",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "負責跑步擺臂的「後擺」動作（肩伸展）。有效的後擺有助於維持軀幹挺直，防止圓肩姿勢，並為下一次前擺儲存彈性位能。",
-    "desc_en": "Responsible for the backward phase (shoulder extension) of the arm swing. Effective backward drive helps maintain an upright trunk posture, prevents rounding of shoulders, and stores elastic energy for the subsequent forward swing.",
-    "tags": [
-      "肩帶與肩關節",
-      "跑步",
-      "游泳",
-      "划艇",
-      "羽毛球",
-      "網球",
-      "棒球/壘球",
-      "伸展",
-      "外旋",
-      "原動肌",
-      "穩定肌",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "thigh_adductor_magnus",
-    "name_zh": "大內收肌",
-    "name_en": "Adductor Magnus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Muscle_grand_adducteur_copie.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_grand_adducteur_copie.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
-    "desc": "被視為「第四條腿後肌」。除了內收功能，其後部纖維是強大的髖伸展肌，在跑步推蹬期（特別是髖屈角度較大如上坡跑時）提供重要動力，同時穩定骨盆防止過度旋轉。",
-    "desc_en": "Often considered the 'fourth hamstring.' Beyond adduction, its posterior fibers are powerful hip extensors. It provides significant propulsion during the push-off phase (especially in uphill running where hip flexion is greater) and stabilizes the pelvis against excessive rotation.",
-    "tags": [
-      "髖部與大腿",
-      "跑步",
-      "足球",
-      "籃球",
-      "健身/重訓",
-      "登山/健行",
-      "瑜伽",
-      "游泳",
-      "內收",
-      "伸展",
-      "原動肌",
-      "穩定肌",
-      "下肢拉/髖絞鍊",
-      "核心穩定",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "shoulder_teres_major",
-    "name_zh": "大圓肌",
-    "name_en": "Teres Major",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Gray_%E2%80%94_musculus_teres_major.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_teres_major.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "與背闊肌協同工作，協助跑步擺臂的後擺動作（伸展與內旋）。在高速奔跑需要強力擺臂時，協助穩定肩胛骨下角。",
-    "desc_en": "Works synergistically with the latissimus dorsi to assist in the backward phase (extension and internal rotation) of the arm swing. helps stabilize the inferior angle of the scapula during vigorous arm swinging in sprinting.",
-    "tags": [
-      "肩帶與肩關節",
-      "跑步",
-      "游泳",
-      "划艇",
-      "健身/重訓",
-      "伸展",
-      "內收",
-      "內旋",
-      "上肢拉-垂直",
-      "原動肌",
-      "穩定肌"
-    ]
-  },
-  {
-    "id": "hand_abductor_digiti_minimi",
-    "name_zh": "小指外展肌",
-    "name_en": "Abductor Digiti Minimi",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gray_%E2%80%94_musculus_abductor_digiti_minimi.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "在跑步時應保持放鬆狀態。握拳過緊會導致前臂與肩部不必要的緊張，浪費能量。此肌肉負責小指動作，跑者應意識其放鬆。",
-    "desc_en": "Should remain relaxed during running. Excessive clenching creates unnecessary tension in the forearm and shoulders, wasting energy. Runners should focus on keeping this muscle relaxed.",
-    "tags": [
-      "手腕與手部",
-      "跑步",
-      "外展",
-      "精細運動",
-      "原動肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "forearm_extensor_digiti_minimi",
-    "name_zh": "小指伸肌",
-    "name_en": "Extensor Digiti Minimi",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gray_%E2%80%94_musculus_extensor_digiti_minimi.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "跑步時手部應微握或自然伸展。此肌肉負責小指伸展，過度啟動代表手部僵硬，可能影響擺臂的流暢性。",
-    "desc_en": "Hands should be loosely cupped or naturally extended while running. Activation of this muscle indicates tension, which can negatively affect the fluidity of the arm swing.",
-    "tags": [
-      "肘部與前臂",
-      "跑步",
-      "伸展",
-      "原動肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "hand_flexor_digiti_minimi",
-    "name_zh": "小指屈肌短",
-    "name_en": "Flexor Digiti Minimi Brevis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Gray_%E2%80%94_musculus_flexor_digiti_minimi_brevis.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_digiti_minimi_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "跑步時負責維持手部自然的半握拳姿勢。應避免過度用力屈曲，以免造成前臂肌肉疲勞。",
-    "desc_en": "Helps maintain a natural, loose fist while running. Runners should avoid forceful flexion to prevent forearm muscle fatigue.",
-    "tags": [
-      "手腕與手部",
-      "跑步",
-      "屈曲",
-      "精細運動",
-      "原動肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "hand_opponens_digiti_minimi",
-    "name_zh": "小指對立肌",
-    "name_en": "Opponens Digiti Minimi",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Gray_%E2%80%94_musculus_opponens_digiti_minimi.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_opponens_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "協助維持手掌杯狀結構。在長距離跑步中，保持手掌核心放鬆對於減少上肢能量消耗很重要。",
-    "desc_en": "Helps maintain the cupped shape of the palm. Keeping the intrinsic hand muscles relaxed is important for minimizing upper body energy expenditure during long-distance runs.",
-    "tags": [
-      "手腕與手部",
-      "跑步",
-      "對立",
-      "精細運動",
-      "原動肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "foot_abductor_digiti_minimi",
-    "name_zh": "小趾外展肌",
-    "name_en": "Abductor Digiti Minimi",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gray_%E2%80%94_musculus_abductor_digiti_minimi.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "在站立期（Stance Phase）負責擴大足底支撐面積，提供足部外側的動態穩定。在不平路面或轉彎時，對於防止足內翻扭傷有關鍵作用。",
-    "desc_en": "Increases the plantar base of support during the stance phase, providing dynamic lateral stability. plays a critical role in preventing inversion sprains, especially on uneven terrain or during cornering.",
-    "tags": [
-      "踝部與足部",
-      "跑步",
-      "足球",
-      "瑜伽",
-      "外展",
-      "屈曲",
-      "原動肌",
-      "足弓支撐",
-      "穩定肌",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "shoulder_teres_minor",
-    "name_zh": "小圓肌",
-    "name_en": "Teres Minor",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gray_%E2%80%94_musculus_teres_minor.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_teres_minor.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "雖然主要功能是外旋，但在跑步中作為肩袖肌群，負責在長時間擺臂運動中穩定肱骨頭，防止肩關節因疲勞而位置偏移。",
-    "desc_en": "While primarily an external rotator, as part of the rotator cuff, it stabilizes the humeral head during prolonged arm swinging, preventing joint malposition due to fatigue.",
-    "tags": [
-      "肩帶與肩關節",
-      "跑步",
-      "游泳",
-      "棒球/壘球",
-      "網球",
-      "羽毛球",
-      "健身/重訓",
-      "外旋",
-      "原動肌",
-      "穩定肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "thorax_intercostal_internal",
-    "name_zh": "內側肋間肌",
-    "name_en": "Internal Intercostal",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Internal_intercostal_muscles_animation.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Internal_intercostal_muscles_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "在高強度無氧跑步或衝刺後的恢復期間，負責強制呼氣，將二氧化碳快速排出。有助於穩定胸廓，作為核心的一部分傳遞力量。",
-    "desc_en": "Active during forced expiration, particularly during high-intensity anaerobic running or recovery, helping to expel carbon dioxide rapidly. Stabilizes the rib cage, acting as part of the core for force transmission.",
-    "tags": [
-      "胸廓",
-      "跑步",
       "HIIT/CrossFit",
-      "呼吸輔助",
-      "核心穩定"
-    ]
-  },
-  {
-    "id": "head_medial_pterygoid",
-    "name_zh": "內翼肌",
-    "name_en": "Medial Pterygoid",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Medial_pterygoid_muscle_animation_2.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Medial_pterygoid_muscle_animation_2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "跑步時咬牙切齒會導致此肌肉過度緊繃，進而引起頸部與肩部緊張。放鬆下顎有助於提升整體跑步經濟性。",
-    "desc_en": "Clenching the jaw during running tightens this muscle, leading to referred tension in the neck and shoulders. Relaxing the jaw improves overall running economy.",
-    "tags": [
-      "顱骨與顳顎關節",
-      "跑步",
-      "拳擊/格鬥",
-      "健身/重訓",
       "屈曲",
-      "內收",
-      "原動肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "forearm_extensor_carpi_ulnaris",
-    "name_zh": "尺側腕伸肌",
-    "name_en": "Extensor Carpi Ulnaris",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gray_%E2%80%94_musculus_extensor_carpi_ulnaris.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_carpi_ulnaris.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "在擺臂過程中負責穩定手腕，防止手部在加速擺動時出現過度甩動，確保力量沿直線傳遞。",
-    "desc_en": "Stabilizes the wrist during the arm swing, preventing excessive flopping or deviation of the hand during rapid acceleration, ensuring linear force transmission.",
-    "tags": [
-      "肘部與前臂",
-      "跑步",
-      "伸展",
-      "內收",
-      "原動肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "forearm_flexor_carpi_ulnaris",
-    "name_zh": "尺側腕屈肌",
-    "name_en": "Flexor Carpi Ulnaris",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/7/75/Flexor_carpi_ulnaris.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Flexor_carpi_ulnaris.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "協助穩定手腕位置。其肌腱是尺神經的保護標地，跑步時手肘長時間彎曲可能對此區域造成壓力，需注意放鬆。",
-    "desc_en": "Assists in stabilizing wrist position. Prolonged elbow flexion during long runs can place stress near its tendon (ulnar nerve path), highlighting the need for periodic arm relaxation.",
-    "tags": [
-      "肘部與前臂",
-      "跑步",
-      "屈曲",
-      "內收",
-      "原動肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "foot_quadratus_plantae",
-    "name_zh": "方形肌",
-    "name_en": "Quadratus Plantae",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Muscle_carr%C3%A9_plantaire.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_carr%C3%A9_plantaire.png\">Berichard d&#039;après Gray&#039;s anatomy</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
-    "desc": "跑步推蹬期（Push-off）的關鍵輔助肌。修正屈趾長肌的斜向拉力，確保腳趾能直線抓地與推進，提高推進效率並維持足弓穩定。",
-    "desc_en": "Crucial accessory muscle during the push-off phase. It corrects the oblique pull of the flexor digitorum longus, ensuring linear toe flexion for efficient propulsion and arch stability.",
-    "tags": [
-      "踝部與足部",
-      "跑步",
-      "足球",
-      "瑜伽",
-      "屈曲",
-      "原動肌",
-      "足弓支撐",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "forearm_pronator_quadratus",
-    "name_zh": "方形旋前肌",
-    "name_en": "Pronator Quadratus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Pronator-quadratus.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pronator-quadratus.png\">Selket at English Wikipedia</a>, Public domain, via Wikimedia Commons",
-    "desc": "維持跑步時前臂的輕微旋前姿勢（手掌朝向身體）。在長時間擺臂中提供深層穩定，減少肘部關節剪力。",
-    "desc_en": "Maintains the slightly pronated forearm position (palms facing the body) typical in running form. Provides deep stabilization during prolonged arm swinging, reducing shear forces at the elbow.",
-    "tags": [
-      "肘部與前臂",
-      "跑步",
-      "旋前",
-      "原動肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "calf_soleus",
-    "name_zh": "比目魚肌",
-    "name_en": "Soleus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Soleus_muscle_-_animation.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Soleus_muscle_-_animation.gif\">Polygon data is generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "長跑者的引擎。主要由抗疲勞的慢縮肌纖維組成，在站立期中期（Mid-stance）負責控制脛骨前傾，並在推蹬期提供持續動力。對於長距離跑步的耐力與減少垂直震幅至關重要。",
-    "desc_en": "The marathoner's engine. Composed mainly of fatigue-resistant slow-twitch fibers. Controls tibial advancement during mid-stance and provides sustained propulsion during push-off. Critical for endurance and minimizing vertical oscillation.",
-    "tags": [
-      "小腿",
-      "跑步",
-      "籃球",
-      "足球",
-      "健身/重訓",
-      "登山/健行",
-      "單車",
-      "蹠屈",
-      "姿勢維持",
-      "原動肌",
-      "穩定肌",
-      "衝擊吸收",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "posterior_thigh_semitendinosus",
-    "name_zh": "半腱肌",
-    "name_en": "Semitendinosus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Semitendinosus.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Semitendinosus.png\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "在擺腿期（Swing Phase）末期負責減速小腿的前甩，保護膝關節；在著地瞬間負責伸展髖部以推進身體。其快速收縮能力對於衝刺與步頻轉換很重要。",
-    "desc_en": "Decelerates the lower leg at the end of the swing phase, protecting the knee. Extends the hip upon ground contact to propel the body forward. Its rapid contraction capability is vital for sprinting and cadence changes.",
-    "tags": [
-      "髖部與大腿",
-      "跑步",
-      "籃球",
-      "足球",
-      "健身/重訓",
-      "登山/健行",
-      "瑜伽",
-      "屈曲",
-      "伸展",
-      "膝關節屈曲",
-      "髖關節伸展",
-      "原動肌",
-      "衝擊吸收",
-      "步態與移動",
-      "下肢拉/髖絞鍊"
-    ]
-  },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  {
-    "id": "foot_adductor_hallucis",
-    "name_zh": "拇內收肌",
-    "name_en": "Adductor Hallucis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Musculus_adductor_hallucis.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Musculus_adductor_hallucis.png\">Image:Gray445.png modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
-    "desc": "呈「7」字形的足底肌肉。在跑步推蹬期，負責穩定大拇指，協助「絞盤機制 (Windlass Mechanism)」運作，將足底筋膜拉緊以硬化足弓，提供強大的推進槓桿。",
-    "desc_en": "Shaped like a '7' on the plantar foot. Stabilizes the big toe during the push-off phase, assisting the 'Windlass Mechanism' to tighten the plantar fascia. This stiffens the arch, creating a rigid lever for propulsion.",
-    "tags": [
-      "踝部與足部",
-      "跑步",
-      "足球",
-      "瑜伽",
-      "內收",
-      "屈曲",
-      "原動肌",
-      "足弓支撐",
-      "橫向足弓",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "foot_abductor_hallucis",
-    "name_zh": "拇外展肌",
-    "name_en": "Abductor Hallucis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Abductor_hallucis.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Abductor_hallucis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
-    "desc": "足部內側縱弓的守護者。在站立期（Stance Phase）抵抗足部過度旋前（Overpronation），防止足弓塌陷。此肌肉疲勞常導致足底筋膜炎與拇指外翻。",
-    "desc_en": "Guardian of the medial longitudinal arch. Resists excessive pronation during the stance phase, preventing arch collapse. Fatigue in this muscle is a common precursor to plantar fasciitis and bunions.",
-    "tags": [
-      "踝部與足部",
-      "跑步",
-      "足球",
-      "瑜伽",
-      "登山/健行",
-      "外展",
-      "屈曲",
-      "原動肌",
-      "足弓支撐",
-      "足部穩定",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "hand_adductor_pollicis",
-    "name_zh": "拇指內收肌",
-    "name_en": "Adductor Pollicis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gray_%E2%80%94_musculus_adductor_pollicis.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_adductor_pollicis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "跑步時手部應保持放鬆。若此肌肉緊繃（如大拇指緊扣掌心），會導致前臂與肩部連鎖緊張，影響擺臂流暢度。",
-    "desc_en": "Hands should remain relaxed while running. Tension in this muscle (e.g., gripping the thumb tightly against the palm) creates a kinetic chain of tension into the forearm and shoulder, impairing arm swing fluidity.",
-    "tags": [
-      "手腕與手部",
-      "跑步",
-      "內收",
-      "精細運動",
-      "原動肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "hand_abductor_pollicis_brevis",
-    "name_zh": "拇指外展短肌",
-    "name_en": "Abductor Pollicis Brevis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Gray_%E2%80%94_musculus_abductor_pollicis_brevis.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_pollicis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "協助維持手部的自然張力。在跑步時，大拇指應輕輕放在食指上緣，保持此肌肉處於中性放鬆狀態。",
-    "desc_en": "Helps maintain natural hand tone. While running, the thumb should rest lightly on the index finger, keeping this muscle in a neutral, relaxed state.",
-    "tags": [
-      "手腕與手部",
-      "跑步",
-      "外展",
-      "屈曲",
-      "精細運動",
-      "原動肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "forearm_abductor_pollicis_longus",
-    "name_zh": "拇指外展長肌",
-    "name_en": "Abductor Pollicis Longus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/61/Gray_%E2%80%94_musculus_abductor_pollicis_longus.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_pollicis_longus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "位於前臂，跑步時若手腕過度僵硬或翹起大拇指，會導致此肌肉疲勞。應保持手腕中立位，避免多餘張力。",
-    "desc_en": "Located in the forearm. Excessive wrist stiffness or hitchhiking the thumb while running fatigues this muscle. Maintain a neutral wrist position to avoid unnecessary tension.",
-    "tags": [
-      "肘部與前臂",
-      "跑步",
-      "外展",
-      "原動肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "forearm_extensor_pollicis_longus",
-    "name_zh": "拇指伸長肌",
-    "name_en": "Extensor Pollicis Longus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/8/80/Gray_%E2%80%94_musculus_extensor_pollicis_longus.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_pollicis_longus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "負責伸展拇指。跑者常見錯誤是將大拇指翹起（豎大拇指跑姿），這會造成前臂伸肌群持續收縮，應予以糾正。",
-    "desc_en": "Extends the thumb. A common runner's error is extending the thumb upwards (hitchhiker's thumb), causing continuous contraction of the forearm extensors. This should be corrected to a relaxed grip.",
-    "tags": [
-      "肘部與前臂",
-      "跑步",
-      "伸展",
-      "原動肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "forearm_extensor_pollicis_brevis",
-    "name_zh": "拇指伸短肌",
-    "name_en": "Extensor Pollicis Brevis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Gray_%E2%80%94_musculus_extensor_pollicis_brevis.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_pollicis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "與長肌協同作用。在長距離跑步中，手部與前臂的微小肌肉應盡量「關閉」以節省神經與代謝能量。",
-    "desc_en": "Works with the longus muscle. During long-distance running, small hand and forearm muscles should be effectively 'switched off' to conserve neural and metabolic energy.",
-    "tags": [
-      "肘部與前臂",
-      "跑步",
-      "伸展",
-      "外展",
-      "原動肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "hand_flexor_pollicis_brevis",
-    "name_zh": "拇指屈短肌",
-    "name_en": "Flexor Pollicis Brevis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Gray_%E2%80%94_musculus_flexor_pollicis_brevis.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_pollicis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "位於大魚際區。跑步時若不自覺地用力握拳，會導致手掌緊繃，進而影響肩部放鬆。想像手中握著易碎的洋芋片。",
-    "desc_en": "Located in the thenar eminence. Unconscious clenching while running tightens the palm and prevents shoulder relaxation. Visualize holding a fragile potato chip to maintain relaxation.",
-    "tags": [
-      "手腕與手部",
-      "跑步",
-      "屈曲",
-      "精細運動",
-      "原動肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "hand_opponens_pollicis",
-    "name_zh": "拇指對立肌",
-    "name_en": "Opponens Pollicis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Gray_%E2%80%94_musculus_opponens_pollicis.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_opponens_pollicis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "負責拇指對掌動作。在跑步擺臂時，手部應維持輕微對掌的自然姿勢，而非完全張開或握死。",
-    "desc_en": "Responsible for thumb opposition. During the arm swing, the hand should maintain a slightly opposed, natural posture, rather than being fully splayed or tightly clenched.",
-    "tags": [
-      "手腕與手部",
-      "跑步",
-      "對立",
-      "精細運動",
-      "原動肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "foot_intrinsic_abductor_hallucis",
-    "name_zh": "拇趾外展肌（內在肌視角）",
-    "name_en": "Abductor Hallucis (Intrinsic)",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Abductor_hallucis.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Abductor_hallucis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
-    "desc": "足部核心肌群（Foot Core）的關鍵成員。主動控制大拇指外展，增加前腳掌的觸地寬度與穩定性，是從赤足跑或功能性訓練中獲益最多的肌肉之一。",
-    "desc_en": "A key member of the 'Foot Core.' Actively controls great toe abduction, increasing forefoot contact width and stability. One of the primary beneficiaries of barefoot running or functional foot training.",
-    "tags": [
-      "踝部與足部",
-      "跑步",
-      "外展",
-      "穩定肌",
-      "足弓支撐",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "posterior_thigh_biceps_femoris",
-    "name_zh": "股二頭肌",
-    "name_en": "Biceps Femoris",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Biceps_femoris_muscle_-_animation_1.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Biceps_femoris_muscle_-_animation_1.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "腿後肌群的外側部分。除了伸髖與屈膝，還負責在膝蓋彎曲時穩定外旋。能防止跑步著地時膝蓋過度內旋（動態外翻），保護前十字韌帶（ACL）。",
-    "desc_en": "The lateral hamstring. Beyond hip extension and knee flexion, it stabilizes external rotation when the knee is flexed. Prevents excessive internal knee rotation (dynamic valgus) upon landing, protecting the ACL.",
-    "tags": [
-      "腿後肌群",
-      "跑步",
-      "籃球",
-      "足球",
-      "健身/重訓",
-      "登山/健行",
-      "瑜伽",
-      "屈曲",
-      "伸展",
-      "膝關節屈曲",
-      "髖關節伸展",
-      "膝關節外旋",
-      "原動肌",
-      "衝擊吸收",
-      "步態與移動",
-      "下肢拉/髖絞鍊"
-    ]
-  },
-  {
-    "id": "thigh_vastus_intermedius",
-    "name_zh": "股中間肌",
-    "name_en": "Vastus Intermedius",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Vastus_intermedialis.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Vastus_intermedialis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "位於股直肌下方的深層力量來源。作為純粹的膝伸展肌，在跑步著地期（Stance Phase）透過離心收縮吸收體重衝擊，並在推蹬期輸出垂直力量。",
-    "desc_en": "Deep power source beneath the rectus femoris. As a pure knee extensor, it absorbs impact via eccentric contraction during the stance phase and generates vertical force during propulsion.",
-    "tags": [
-      "股四頭肌",
-      "跑步",
-      "籃球",
-      "足球",
-      "健身/重訓",
-      "瑜伽",
-      "登山/健行",
-      "伸展",
-      "膝關節伸展",
-      "原動肌",
-      "膝關節穩定",
-      "下肢推",
-      "衝擊吸收",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "thigh_vastus_medialis",
-    "name_zh": "股內側肌",
-    "name_en": "Vastus Medialis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Vastus_medialis.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Vastus_medialis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "特別是其斜頭（VMO），負責將髕骨向內拉，對抗股外側肌的拉力。維持髕骨在滑車溝內的正確軌跡，是預防「跑者膝」（髕股關節疼痛症候群）的最關鍵肌肉。",
-    "desc_en": "Especially its oblique fibers (VMO), pulls the patella medially to counter the lateral pull of the vastus lateralis. Maintains proper patellar tracking within the trochlear groove; the most critical muscle for preventing 'Runner's Knee' (PFPS).",
-    "tags": [
-      "股四頭肌",
-      "跑步",
-      "籃球",
-      "足球",
-      "健身/重訓",
-      "瑜伽",
-      "登山/健行",
-      "伸展",
-      "膝關節伸展",
-      "原動肌",
-      "膝關節穩定",
-      "下肢推",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "hip_quadratus_femoris",
-    "name_zh": "股方肌",
-    "name_en": "Quadratus Femoris",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Quadratus_femoris_large.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Quadratus_femoris_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "深層外旋肌。在單腳站立期提供細微但重要的股骨頭穩定，防止骨盆隨意轉動。對於越野跑者適應不平路面尤為重要。",
-    "desc_en": "Deep external rotator. Provides subtle but vital stability to the femoral head during single-leg stance, preventing uncontrolled pelvic rotation. Particularly important for trail runners adapting to uneven terrain.",
-    "tags": [
-      "深層外旋肌群",
-      "跑步",
-      "籃球",
-      "健身/重訓",
-      "外旋",
-      "穩定肌",
-      "股骨頭穩定",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "thigh_vastus_lateralis",
-    "name_zh": "股外側肌",
-    "name_en": "Vastus Lateralis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Vastus_lateralis.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Vastus_lateralis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "股四頭肌中體積最大的部分，也是跑步著地時主要的吸震器。其過度緊繃常透過外側肌間隔拉扯髂脛束（IT Band），導致膝外側疼痛。",
-    "desc_en": "The largest component of the quadriceps and the primary shock absorber during landing. Excessive tightness here often pulls on the IT Band via the lateral intermuscular septum, contributing to lateral knee pain.",
-    "tags": [
-      "股四頭肌",
-      "跑步",
-      "籃球",
-      "足球",
-      "健身/重訓",
-      "瑜伽",
-      "登山/健行",
-      "單車",
-      "伸展",
-      "膝關節伸展",
-      "原動肌",
-      "膝關節穩定",
-      "下肢推",
-      "衝擊吸收",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "thigh_rectus_femoris",
-    "name_zh": "股直肌",
-    "name_en": "Rectus Femoris",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/4/48/Rectus_femoris_3D.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Rectus_femoris_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "跨越雙關節的獨特肌肉。在擺腿期初期負責屈髖（提腿），在擺腿期末期準備著地時伸膝。是步態週期中連結髖部與膝蓋能量傳遞的橋樑。",
-    "desc_en": "Unique biarticular muscle. Flexes the hip (lifts the leg) during early swing phase and extends the knee preparing for contact at late swing. Acts as a bridge for energy transfer between hip and knee during the gait cycle.",
-    "tags": [
-      "股四頭肌",
-      "跑步",
-      "籃球",
-      "足球",
-      "健身/重訓",
-      "瑜伽",
-      "登山/健行",
-      "伸展",
-      "屈曲",
-      "膝關節伸展",
-      "髖關節屈曲",
-      "原動肌",
-      "下肢推",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "thigh_gracilis",
-    "name_zh": "股薄肌",
-    "name_en": "Gracilis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gracilis.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gracilis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "協助髖內收與膝屈曲。在跑步變向或突然煞車時，與縫匠肌、半腱肌共同組成的「鵝足」結構負責穩定膝關節內側，抵抗外翻應力。",
-    "desc_en": "Assists in hip adduction and knee flexion. During cutting or sudden deceleration, works as part of the 'pes anserinus' (with sartorius and semitendinosus) to stabilize the medial knee against valgus stress.",
-    "tags": [
-      "髖部與大腿",
-      "跑步",
-      "籃球",
-      "足球",
-      "瑜伽",
-      "單車",
-      "內收",
-      "屈曲",
-      "膝關節屈曲",
-      "膝關節內旋",
-      "原動肌",
-      "穩定肌",
-      "步態與移動",
-      "膝關節穩定"
-    ]
-  },
-  {
-    "id": "shoulder_subscapularis",
-    "name_zh": "肩胛下肌",
-    "name_en": "Subscapularis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Subscapularis_muscle_animation3.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Subscapularis_muscle_animation3.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "肩袖肌群的前壁。在跑步劇烈擺臂時，負責控制肱骨頭的旋轉與前後位移，維持肩關節中心化，確保上半身動力鏈的穩定傳遞。",
-    "desc_en": "The anterior wall of the rotator cuff. During vigorous arm swinging, it controls rotation and translation of the humeral head, maintaining glenohumeral centering for stable upper body force transmission.",
-    "tags": [
-      "肩帶與肩關節",
-      "跑步",
-      "游泳",
-      "健身/重訓",
-      "棒球/壘球",
-      "內旋",
-      "上肢推-水平",
-      "原動肌",
-      "穩定肌",
+      "側屈",
       "核心穩定",
       "姿勢維持"
     ]
   },
   {
-    "id": "neck_omohyoid",
-    "name_zh": "肩胛舌骨肌",
-    "name_en": "Omohyoid",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Muscle_omo-hyoidien.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_omo-hyoidien.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
-    "desc": "連結肩胛骨與舌骨。在劇烈呼吸（高換氣量）時，協助維持頸部筋膜張力，間接輔助呼吸道暢通，並穩定肩胛骨與頸部的連動。",
-    "desc_en": "Connects scapula to hyoid. During heavy breathing (high ventilation), helps maintain cervical fascia tension, indirectly aiding airway patency and stabilizing the scapula-neck linkage.",
+    "id": "abdomen_transversus_abdominis",
+    "name_zh": "腹橫肌",
+    "name_en": "Transversus Abdominis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Transversus_abdominis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Transversus_abdominis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "人體的天然腰帶。在四肢動作發生「之前」就預先收縮（預期性姿勢控制），增加腹內壓以穩定脊椎。是所有跑步動作的穩定基石。",
+    "desc_en": "The body's natural corset. Contracts *before* limb movement (anticipatory postural control) to increase intra-abdominal pressure and stabilize the spine. The foundational stabilizer for all running actions.",
     "tags": [
-      "頸部肌群",
+      "腹部與核心",
       "跑步",
-      "游泳",
+      "單車",
       "瑜伽",
-      "提升/下壓",
+      "皮拉提斯",
       "穩定肌",
-      "姿勢維持",
-      "呼吸輔助"
+      "核心穩定",
+      "呼吸輔助",
+      "姿勢維持"
     ]
   },
   {
@@ -1250,46 +102,41 @@
       "姿勢維持"
     ]
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   {
-    "id": "arm_triceps_brachii_medial",
-    "name_zh": "肱三頭肌內側頭",
-    "name_en": "Triceps Brachii (Medial Head)",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Triceps_brachii_muscle06.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Triceps_brachii_muscle06.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "作為肘關節伸展的耐力部分，負責在跑步擺臂的「後擺期」維持手肘角度穩定，防止手臂過度捲曲，確保擺動半徑的一致性。",
-    "desc_en": "As the endurance component of elbow extension, it maintains a stable elbow angle during the backward phase of the arm swing, preventing excessive curling and ensuring a consistent swing radius.",
+    "id": "arm_brachialis",
+    "name_zh": "肱肌",
+    "name_en": "Brachialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/Brachialis_muscle_-_animation03.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Brachialis_muscle_-_animation03.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "肘關節最強的屈肌。在長時間跑步中，持續負責維持手肘彎曲的姿勢（Isometric contraction），容易在馬拉松後段出現疲勞性痠痛。",
+    "desc_en": "The strongest flexor of the elbow. During long runs, it is responsible for maintaining the flexed elbow position via isometric contraction, making it prone to fatigue-induced aching in the late stages of a marathon.",
     "tags": [
       "上臂",
       "跑步",
       "健身/重訓",
-      "拳擊/格鬥",
-      "伸展",
-      "上肢推-垂直",
+      "攀岩/抱石",
+      "屈曲",
+      "上肢拉-垂直",
       "原動肌",
-      "穩定肌",
       "姿勢維持"
+    ]
+  },
+  {
+    "id": "arm_coracobrachialis",
+    "name_zh": "喙肱肌",
+    "name_en": "Coracobrachialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Coracobrachialis_muscle_-_animation02.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Coracobrachialis_muscle_-_animation02.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助肩關節屈曲與內收。在擺臂的前擺階段（Forward Swing）與三角肌前束協同工作，確保手臂沿著身體縱軸擺動而非外開。",
+    "desc_en": "Assists in shoulder flexion and adduction. Works with the anterior deltoid during the forward swing, ensuring the arm swings along the body's longitudinal axis rather than flaring out.",
+    "tags": [
+      "上臂",
+      "跑步",
+      "屈曲",
+      "內收",
+      "上肢推-垂直",
+      "穩定肌",
+      "步態與移動"
     ]
   },
   {
@@ -1333,80 +180,294 @@
     ]
   },
   {
-    "id": "arm_brachialis",
-    "name_zh": "肱肌",
-    "name_en": "Brachialis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/Brachialis_muscle_-_animation03.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Brachialis_muscle_-_animation03.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "肘關節最強的屈肌。在長時間跑步中，持續負責維持手肘彎曲的姿勢（Isometric contraction），容易在馬拉松後段出現疲勞性痠痛。",
-    "desc_en": "The strongest flexor of the elbow. During long runs, it is responsible for maintaining the flexed elbow position via isometric contraction, making it prone to fatigue-induced aching in the late stages of a marathon.",
+    "id": "arm_triceps_brachii_medial",
+    "name_zh": "肱三頭肌內側頭",
+    "name_en": "Triceps Brachii (Medial Head)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Triceps_brachii_muscle06.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Triceps_brachii_muscle06.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "作為肘關節伸展的耐力部分，負責在跑步擺臂的「後擺期」維持手肘角度穩定，防止手臂過度捲曲，確保擺動半徑的一致性。",
+    "desc_en": "As the endurance component of elbow extension, it maintains a stable elbow angle during the backward phase of the arm swing, preventing excessive curling and ensuring a consistent swing radius.",
     "tags": [
       "上臂",
       "跑步",
       "健身/重訓",
-      "攀岩/抱石",
-      "屈曲",
-      "上肢拉-垂直",
-      "原動肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "forearm_brachioradialis",
-    "name_zh": "肱橈肌",
-    "name_en": "Brachioradialis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/0/09/Brachioradialis.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Brachioradialis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "將前臂維持在「中立位」（大拇指朝上），這是跑步時最自然的擺臂姿勢。負責在前擺階段穩定肘關節。",
-    "desc_en": "Maintains the forearm in a 'neutral position' (thumb up), which is the most efficient arm posture for running. Stabilizes the elbow during the forward swing phase.",
-    "tags": [
-      "肘部與前臂",
-      "跑步",
-      "屈曲",
-      "上肢拉-水平",
-      "原動肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "thigh_adductor_longus",
-    "name_zh": "長內收肌",
-    "name_en": "Adductor Longus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/Adductor_longus.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Adductor_longus.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "步態擺腿期（Swing Phase）負責協助屈髖（提腿）與內收。在衝刺或突然變向時承受巨大張力，是跑者「鼠蹊部拉傷」最常見的受傷部位。",
-    "desc_en": "Assists in hip flexion (leg lift) and adduction during the swing phase. Undergoes high tension during sprinting or sudden directional changes, making it the most common site for 'groin strains' in runners.",
-    "tags": [
-      "內收肌群",
-      "髖部與大腿",
-      "跑步",
-      "足球",
-      "籃球",
-      "健身/重訓",
-      "瑜伽",
-      "內收",
-      "屈曲",
-      "內旋",
+      "拳擊/格鬥",
+      "伸展",
+      "上肢推-垂直",
       "原動肌",
       "穩定肌",
-      "核心",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "back_erector_spinae",
+    "name_zh": "豎脊肌",
+    "name_en": "Erector Spinae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Gray389_-_Erector_spinae.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray389_-_Erector_spinae.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "對抗地心引力的主要肌肉。在長距離跑步中維持軀幹直立，防止身體隨疲勞而前傾（垮掉）。在著地時吸收傳遞至脊椎的垂直衝擊力。",
+    "desc_en": "The primary anti-gravity muscle group. Maintains upright trunk posture during long runs, preventing forward lean (slouching) due to fatigue. Absorbs vertical shock transmitted to the spine at landing.",
+    "tags": [
+      "脊柱骨骼",
+      "背部肌群",
+      "跑步",
+      "健身/重訓",
+      "登山/健行",
+      "伸展",
+      "側屈",
+      "衝擊吸收",
+      "姿勢維持",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "back_latissimus_dorsi",
+    "name_zh": "背闊肌",
+    "name_en": "Latissimus Dorsi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/Latissimus_dorsi_muscle_animation3.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Latissimus_dorsi_muscle_animation3.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "跑步核心穩定的樞紐。透過胸腰筋膜與對側臀大肌連接，形成「後側斜向動力鏈 (Posterior Oblique Sling)」。擺臂後拉時，它協助將力量傳遞至對側腿的推進動作，是速度與效率的關鍵。",
+    "desc_en": "A hub for core stability in running. Connects to the contralateral gluteus maximus via the thoracolumbar fascia to form the 'Posterior Oblique Sling.' During the backward arm drive, it helps transfer force to the opposite leg's propulsion, vital for speed and efficiency.",
+    "tags": [
+      "背部肌群",
+      "跑步",
+      "游泳",
+      "攀岩/抱石",
+      "健身/重訓",
+      "內收",
+      "伸展",
+      "內旋",
+      "上肢拉-垂直",
+      "原動肌",
+      "核心穩定",
+      "步態與移動",
+      "軀幹旋轉與對角線"
+    ]
+  },
+  {
+    "id": "back_quadratus_lumborum",
+    "name_zh": "腰方肌",
+    "name_en": "Quadratus Lumborum",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Quadratuslumborum.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Quadratuslumborum.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責擺腿期的「提骨盆 (Hip Hiking)」動作，防止擺動腿拖地。同時在單腳站立期穩定脊椎，防止對側骨盆過度下墜。是下背痛的常見源頭。",
+    "desc_en": "Responsible for 'Hip Hiking' during the swing phase, ensuring foot clearance. Stabilizes the spine in the frontal plane during single-leg stance, preventing contralateral pelvic drop. A common source of lower back pain.",
+    "tags": [
+      "背部肌群",
+      "腹部與核心",
+      "跑步",
+      "登山/健行",
+      "側屈",
+      "伸展",
+      "穩定肌",
+      "核心穩定",
+      "步態與移動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "calf_fibularis_brevis",
+    "name_zh": "腓骨短肌",
+    "name_en": "Fibularis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/be/Fibularis_brevis_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Fibularis_brevis_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "專注於防止足內翻扭傷（翻腳刀）。在不平路面跑步或疲勞時，此肌肉需快速反應以穩定外側腳踝。若有舊傷，此處常為弱點。",
+    "desc_en": "Specializes in preventing inversion sprains. During trail running or fatigue, this muscle must react quickly to stabilize the lateral ankle. Often a weak link in runners with a history of ankle sprains.",
+    "tags": [
+      "小腿外側肌群",
+      "跑步",
+      "籃球",
+      "足球",
+      "登山/健行",
+      "衝浪",
+      "瑜伽",
+      "外翻",
+      "蹠屈",
+      "踝關節蹠屈",
+      "足部外翻",
+      "原動肌",
+      "踝關節穩定",
       "步態與移動"
     ]
   },
   {
-    "id": "forearm_flexor_pollicis_longus",
-    "name_zh": "長拇指屈肌",
-    "name_en": "Flexor Pollicis Longus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Musculus_flexor_pollicis_longus.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Musculus_flexor_pollicis_longus.png\">Me</a>, Public domain, via Wikimedia Commons",
-    "desc": "跑步時若過度用力握拳，會導致此深層肌肉持續收縮，浪費能量並可能引起前臂腔室壓力升高。應保持放鬆。",
-    "desc_en": "Excessive clenching while running causes sustained contraction of this deep muscle, wasting energy and potentially increasing forearm compartment pressure. Should remain relaxed.",
+    "id": "calf_fibularis_longus",
+    "name_zh": "腓骨長肌（重複項-請參照Peroneus Longus）",
+    "name_en": "Fibularis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Superior_view_fibularis_longus_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Superior_view_fibularis_longus_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責足部外翻與蹠屈。其長肌腱橫跨足底，像扣帶一樣鎖住橫向足弓，是跑步推進時足部剛性轉換（由軟變硬）的關鍵機制。",
+    "desc_en": "Responsible for eversion and plantarflexion. Its long tendon crosses the sole, locking the transverse arch like a strap. Critical for the foot's rigid-lever transformation during push-off.",
     "tags": [
-      "肘部與前臂",
+      "小腿外側肌群",
       "跑步",
+      "籃球",
+      "足球",
+      "登山/健行",
+      "瑜伽",
+      "衝浪",
+      "外翻",
+      "蹠屈",
+      "踝關節蹠屈",
+      "足部外翻",
+      "原動肌",
+      "足弓支撐",
+      "足部穩定",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "calf_gastrocnemius",
+    "name_zh": "腓腸肌",
+    "name_en": "Gastrocnemius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Gastrocnemius_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gastrocnemius_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "跑步的「爆發力來源」。含有較多快縮肌纖維，主要負責推蹬期（Push-off）產生向前的強大動力。因跨越膝關節，在膝蓋伸直時效率最高（如衝刺或上坡跑）。",
+    "desc_en": "The 'explosive power source' of running. Contains more fast-twitch fibers, generating powerful forward propulsion during push-off. Most efficient when the knee is extended (e.g., sprinting or uphill running) due to its biarticular nature.",
+    "tags": [
+      "小腿",
+      "跑步",
+      "籃球",
+      "足球",
+      "健身/重訓",
+      "登山/健行",
+      "單車",
+      "蹠屈",
+      "膝關節屈曲",
+      "原動肌",
+      "衝擊吸收",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "calf_soleus",
+    "name_zh": "比目魚肌",
+    "name_en": "Soleus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Soleus_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Soleus_muscle_-_animation.gif\">Polygon data is generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "長跑者的引擎。主要由抗疲勞的慢縮肌纖維組成，在站立期中期（Mid-stance）負責控制脛骨前傾，並在推蹬期提供持續動力。對於長距離跑步的耐力與減少垂直震幅至關重要。",
+    "desc_en": "The marathoner's engine. Composed mainly of fatigue-resistant slow-twitch fibers. Controls tibial advancement during mid-stance and provides sustained propulsion during push-off. Critical for endurance and minimizing vertical oscillation.",
+    "tags": [
+      "小腿",
+      "跑步",
+      "籃球",
+      "足球",
+      "健身/重訓",
+      "登山/健行",
+      "單車",
+      "蹠屈",
+      "姿勢維持",
+      "原動肌",
+      "穩定肌",
+      "衝擊吸收",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "calf_tibialis_posterior",
+    "name_zh": "脛骨後肌",
+    "name_en": "Tibialis Posterior",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/df/Inferior_view_of_tibialis_posterior_muscle_-_animation.gif",
+    "img_source": "https://upload.wikimedia.org/wikipedia/commons/d/df/Inferior_view_of_tibialis_posterior_muscle_-_animation.gif",
+    "desc": "足弓的動態懸吊系統。在站立期負責抵抗足部過度旋前（Overpronation），維持內側足弓的高度。若此肌肉失能，會導致足弓塌陷、足底筋膜炎及內側脛骨壓力症候群。",
+    "desc_en": "The dynamic suspension system of the arch. Resists excessive pronation during the stance phase, maintaining medial arch height. Dysfunction leads to arch collapse, plantar fasciitis, and medial tibial stress syndrome.",
+    "tags": [
+      "小腿深層肌群",
+      "跑步",
+      "籃球",
+      "足球",
+      "登山/健行",
+      "瑜伽",
+      "單車",
+      "蹠屈",
+      "內翻",
+      "足弓支撐",
+      "原動肌",
+      "穩定肌",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "foot_abductor_digiti_minimi",
+    "name_zh": "小趾外展肌",
+    "name_en": "Abductor Digiti Minimi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gray_%E2%80%94_musculus_abductor_digiti_minimi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在站立期（Stance Phase）負責擴大足底支撐面積，提供足部外側的動態穩定。在不平路面或轉彎時，對於防止足內翻扭傷有關鍵作用。",
+    "desc_en": "Increases the plantar base of support during the stance phase, providing dynamic lateral stability. plays a critical role in preventing inversion sprains, especially on uneven terrain or during cornering.",
+    "tags": [
+      "踝部與足部",
+      "跑步",
+      "足球",
+      "瑜伽",
+      "外展",
       "屈曲",
       "原動肌",
-      "姿勢維持"
+      "足弓支撐",
+      "穩定肌",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "foot_abductor_hallucis",
+    "name_zh": "拇外展肌",
+    "name_en": "Abductor Hallucis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Abductor_hallucis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Abductor_hallucis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "足部內側縱弓的守護者。在站立期（Stance Phase）抵抗足部過度旋前（Overpronation），防止足弓塌陷。此肌肉疲勞常導致足底筋膜炎與拇指外翻。",
+    "desc_en": "Guardian of the medial longitudinal arch. Resists excessive pronation during the stance phase, preventing arch collapse. Fatigue in this muscle is a common precursor to plantar fasciitis and bunions.",
+    "tags": [
+      "踝部與足部",
+      "跑步",
+      "足球",
+      "瑜伽",
+      "登山/健行",
+      "外展",
+      "屈曲",
+      "原動肌",
+      "足弓支撐",
+      "足部穩定",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "foot_adductor_hallucis",
+    "name_zh": "拇內收肌",
+    "name_en": "Adductor Hallucis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Musculus_adductor_hallucis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Musculus_adductor_hallucis.png\">Image:Gray445.png modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "呈「7」字形的足底肌肉。在跑步推蹬期，負責穩定大拇指，協助「絞盤機制 (Windlass Mechanism)」運作，將足底筋膜拉緊以硬化足弓，提供強大的推進槓桿。",
+    "desc_en": "Shaped like a '7' on the plantar foot. Stabilizes the big toe during the push-off phase, assisting the 'Windlass Mechanism' to tighten the plantar fascia. This stiffens the arch, creating a rigid lever for propulsion.",
+    "tags": [
+      "踝部與足部",
+      "跑步",
+      "足球",
+      "瑜伽",
+      "內收",
+      "屈曲",
+      "原動肌",
+      "足弓支撐",
+      "橫向足弓",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "foot_extensor_digitorum_longus",
+    "name_zh": "長趾伸肌（足部段）",
+    "name_en": "Extensor Digitorum Longus (Distal)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/77/Extensor_digitorum_longus_muscle_-_animation_2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_digitorum_longus_muscle_-_animation_2.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在著地瞬間（Touchdown），肌腱張力協助分散衝擊力，並預防腳趾撞擊鞋頭（黑指甲的成因之一是鞋子太小導致此肌肉無法有效緩衝）。",
+    "desc_en": "At touchdown, tendon tension helps distribute impact forces and prevents toes from jamming into the toe box (a cause of runner's toe/black toenails if shoes are too small).",
+    "tags": [
+      "小腿",
+      "踝部與足部",
+      "跑步",
+      "足球",
+      "背屈",
+      "伸展",
+      "原動肌",
+      "衝擊吸收"
     ]
   },
   {
@@ -1429,22 +490,58 @@
     ]
   },
   {
-    "id": "foot_extensor_digitorum_longus",
-    "name_zh": "長趾伸肌（足部段）",
-    "name_en": "Extensor Digitorum Longus (Distal)",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/7/77/Extensor_digitorum_longus_muscle_-_animation_2.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_digitorum_longus_muscle_-_animation_2.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "在著地瞬間（Touchdown），肌腱張力協助分散衝擊力，並預防腳趾撞擊鞋頭（黑指甲的成因之一是鞋子太小導致此肌肉無法有效緩衝）。",
-    "desc_en": "At touchdown, tendon tension helps distribute impact forces and prevents toes from jamming into the toe box (a cause of runner's toe/black toenails if shoes are too small).",
+    "id": "foot_intrinsic_abductor_hallucis",
+    "name_zh": "拇趾外展肌（內在肌視角）",
+    "name_en": "Abductor Hallucis (Intrinsic)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Abductor_hallucis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Abductor_hallucis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "足部核心肌群（Foot Core）的關鍵成員。主動控制大拇指外展，增加前腳掌的觸地寬度與穩定性，是從赤足跑或功能性訓練中獲益最多的肌肉之一。",
+    "desc_en": "A key member of the 'Foot Core.' Actively controls great toe abduction, increasing forefoot contact width and stability. One of the primary beneficiaries of barefoot running or functional foot training.",
     "tags": [
-      "小腿",
       "踝部與足部",
       "跑步",
-      "足球",
-      "背屈",
-      "伸展",
-      "原動肌",
+      "外展",
+      "穩定肌",
+      "足弓支撐",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "foot_intrinsic_flexor_digitorum_brevis",
+    "name_zh": "短趾屈肌（足部內在肌）",
+    "name_en": "Flexor Digitorum Brevis (Intrinsic)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Muscle_court_fl%C3%A9chisseur_des_orteils.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_court_fl%C3%A9chisseur_des_orteils.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "足底最表層肌肉，直接支撐縱向足弓。在站立期透過收縮縮短足底長度，增強足部剛性以利推進。是足底筋膜炎復健的重點強化肌肉。",
+    "desc_en": "Most superficial plantar muscle, directly supporting the longitudinal arch. Contracts during stance to shorten the foot, increasing rigidity for propulsion. A key muscle to strengthen for plantar fasciitis rehabilitation.",
+    "tags": [
+      "踝部與足部",
+      "跑步",
+      "屈曲",
+      "穩定肌",
+      "足弓支撐",
+      "步態與移動",
       "衝擊吸收"
+    ]
+  },
+  {
+    "id": "foot_lumbricals",
+    "name_zh": "足部蚓狀肌",
+    "name_en": "Lumbricals (Foot)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Lumbricales_pedis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_pedis.png\">Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責穩定蹠趾關節（MTP joint）並伸展趾間關節。在跑步推蹬期，防止腳趾出現「抓地（Clawing）」現象，確保腳趾平貼地面以最大化推進面積。",
+    "desc_en": "Stabilizes the MTP joints and extends the IP joints. During push-off, prevents toe 'clawing', ensuring toes remain flat against the ground to maximize the propulsion surface area.",
+    "tags": [
+      "足部內在肌-第二層",
+      "跑步",
+      "足球",
+      "瑜伽",
+      "屈曲",
+      "伸展",
+      "足部穩定",
+      "原動肌",
+      "步態與移動"
     ]
   },
   {
@@ -1470,68 +567,121 @@
     ]
   },
   {
-    "id": "neck_anterior_scalene",
-    "name_zh": "前斜角肌",
-    "name_en": "Anterior Scalene",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Scalenus_anterior_-_animation04.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Scalenus_anterior_-_animation04.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "輔助呼吸肌。在跑步強度極高、需要大量換氣時，協助提升第一肋以擴張胸廓。過度依賴此肌肉呼吸（而非橫隔膜）會導致頸部緊繃與上肢麻木（胸廓出口症候群）。",
-    "desc_en": "Accessory muscle of respiration. Lifts the first rib to expand the thorax during high-intensity running. Over-reliance on this muscle (chest breathing) instead of the diaphragm leads to neck tightness and potential thoracic outlet syndrome.",
+    "id": "foot_quadratus_plantae",
+    "name_zh": "方形肌",
+    "name_en": "Quadratus Plantae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Muscle_carr%C3%A9_plantaire.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_carr%C3%A9_plantaire.png\">Berichard d&#039;après Gray&#039;s anatomy</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "跑步推蹬期（Push-off）的關鍵輔助肌。修正屈趾長肌的斜向拉力，確保腳趾能直線抓地與推進，提高推進效率並維持足弓穩定。",
+    "desc_en": "Crucial accessory muscle during the push-off phase. It corrects the oblique pull of the flexor digitorum longus, ensuring linear toe flexion for efficient propulsion and arch stability.",
     "tags": [
-      "頸部肌群",
-      "頸椎",
+      "踝部與足部",
       "跑步",
-      "單車",
-      "游泳",
-      "攀岩/抱石",
-      "步態與移動",
+      "足球",
+      "瑜伽",
       "屈曲",
-      "側屈",
-      "穩定肌",
-      "呼吸輔助",
+      "原動肌",
+      "足弓支撐",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "forearm_abductor_pollicis_longus",
+    "name_zh": "拇指外展長肌",
+    "name_en": "Abductor Pollicis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/61/Gray_%E2%80%94_musculus_abductor_pollicis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_pollicis_longus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "位於前臂，跑步時若手腕過度僵硬或翹起大拇指，會導致此肌肉疲勞。應保持手腕中立位，避免多餘張力。",
+    "desc_en": "Located in the forearm. Excessive wrist stiffness or hitchhiking the thumb while running fatigues this muscle. Maintain a neutral wrist position to avoid unnecessary tension.",
+    "tags": [
+      "肘部與前臂",
+      "跑步",
+      "外展",
+      "原動肌",
       "姿勢維持"
     ]
   },
   {
-    "id": "thorax_serratus_anterior",
-    "name_zh": "前鋸肌",
-    "name_en": "Serratus Anterior",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/3/31/Serratus_anterior_muscle_animation_small.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Serratus_anterior_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "將肩胛骨貼緊胸壁，防止跑步擺臂時肩胛骨不穩定（翼狀肩胛）。同時協助肋骨擴張，對深呼吸至關重要。強壯的前鋸肌有助於跑者保持挺胸姿勢。",
-    "desc_en": "Anchors the scapula to the chest wall, preventing instability (winging) during the arm swing. Assists in rib expansion for deep breathing. A strong serratus anterior helps runners maintain an upright, open-chest posture.",
+    "id": "forearm_brachioradialis",
+    "name_zh": "肱橈肌",
+    "name_en": "Brachioradialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/09/Brachioradialis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Brachioradialis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "將前臂維持在「中立位」（大拇指朝上），這是跑步時最自然的擺臂姿勢。負責在前擺階段穩定肘關節。",
+    "desc_en": "Maintains the forearm in a 'neutral position' (thumb up), which is the most efficient arm posture for running. Stabilizes the elbow during the forward swing phase.",
     "tags": [
-      "胸廓",
-      "肩帶與肋關節",
+      "肘部與前臂",
       "跑步",
-      "游泳",
-      "拳擊/格鬥",
-      "健身/重訓",
-      "攀岩/抱石",
-      "外展",
-      "上肢推-水平",
-      "上肢推-垂直",
       "屈曲",
-      "肩帶穩定",
-      "核心穩定",
-      "呼吸輔助"
+      "上肢拉-水平",
+      "原動肌",
+      "姿勢維持"
     ]
   },
   {
-    "id": "head_masseter",
-    "name_zh": "咬肌",
-    "name_en": "Masseter",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/1/13/Masseter_muscle_animation_small.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Masseter_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "壓力指示器。許多跑者在疲勞時會不自覺用力咬合，消耗能量並增加全身張力。意識到咬肌放鬆（嘴微張）是提升跑步放鬆度的技巧。",
-    "desc_en": "Stress indicator. Many runners unconsciously clench their jaw when fatigued, wasting energy and increasing systemic tension. Conscious relaxation of the masseter (slight mouth opening) is a technique to improve running relaxation.",
+    "id": "forearm_extensor_carpi_radialis_brevis",
+    "name_zh": "橈側腕伸肌短肌",
+    "name_en": "Extensor Carpi Radialis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Gray_%E2%80%94_musculus_extensor_carpi_radialis_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_carpi_radialis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "與長肌共同穩定手腕中心。在長時間跑步中，持續的等長收縮有助於維持上肢動力鏈的完整性。",
+    "desc_en": "Works with the longus to stabilize the wrist center. Continuous isometric contraction during long runs helps maintain the integrity of the upper body kinetic chain.",
     "tags": [
-      "顱骨與顳顎關節",
+      "肘部與前臂",
       "跑步",
-      "拳擊/格鬥",
-      "健身/重訓",
-      "屈曲",
-      "提升/下壓",
+      "伸展",
+      "外展",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_carpi_radialis_longus",
+    "name_zh": "橈側腕伸肌長肌",
+    "name_en": "Extensor Carpi Radialis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/53/Extensor_carpi_radialis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_carpi_radialis_longus.png\">Me</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責在擺臂時穩定手腕，保持輕微伸展的功能性位置。避免手腕像鐘擺一樣無力甩動。",
+    "desc_en": "Stabilizes the wrist during arm swing, maintaining a functional, slightly extended position. Prevents the wrist from flopping like a pendulum.",
+    "tags": [
+      "肘部與前臂",
+      "跑步",
+      "伸展",
+      "外展",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_carpi_ulnaris",
+    "name_zh": "尺側腕伸肌",
+    "name_en": "Extensor Carpi Ulnaris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gray_%E2%80%94_musculus_extensor_carpi_ulnaris.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_carpi_ulnaris.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在擺臂過程中負責穩定手腕，防止手部在加速擺動時出現過度甩動，確保力量沿直線傳遞。",
+    "desc_en": "Stabilizes the wrist during the arm swing, preventing excessive flopping or deviation of the hand during rapid acceleration, ensuring linear force transmission.",
+    "tags": [
+      "肘部與前臂",
+      "跑步",
+      "伸展",
+      "內收",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_digiti_minimi",
+    "name_zh": "小指伸肌",
+    "name_en": "Extensor Digiti Minimi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gray_%E2%80%94_musculus_extensor_digiti_minimi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "跑步時手部應微握或自然伸展。此肌肉負責小指伸展，過度啟動代表手部僵硬，可能影響擺臂的流暢性。",
+    "desc_en": "Hands should be loosely cupped or naturally extended while running. Activation of this muscle indicates tension, which can negatively affect the fluidity of the arm swing.",
+    "tags": [
+      "肘部與前臂",
+      "跑步",
+      "伸展",
+      "原動肌",
       "姿勢維持"
     ]
   },
@@ -1547,6 +697,254 @@
       "肘部與前臂",
       "跑步",
       "伸展",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_indicis",
+    "name_zh": "食指伸肌",
+    "name_en": "Extensor Indicis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Extensor_indicis_muscle.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_indicis_muscle.png\">Mikael Häggström</a>, Public domain, via Wikimedia Commons",
+    "desc": "跑步時不應單獨翹起食指。保持所有手指放鬆並輕微彎曲，有助於降低前臂張力。",
+    "desc_en": "The index finger should not be pointed or extended during running. Keeping all fingers relaxed and slightly curled helps reduce forearm tension.",
+    "tags": [
+      "肘部與前臂",
+      "跑步",
+      "伸展",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_pollicis_brevis",
+    "name_zh": "拇指伸短肌",
+    "name_en": "Extensor Pollicis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Gray_%E2%80%94_musculus_extensor_pollicis_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_pollicis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "與長肌協同作用。在長距離跑步中，手部與前臂的微小肌肉應盡量「關閉」以節省神經與代謝能量。",
+    "desc_en": "Works with the longus muscle. During long-distance running, small hand and forearm muscles should be effectively 'switched off' to conserve neural and metabolic energy.",
+    "tags": [
+      "肘部與前臂",
+      "跑步",
+      "伸展",
+      "外展",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_pollicis_longus",
+    "name_zh": "拇指伸長肌",
+    "name_en": "Extensor Pollicis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/80/Gray_%E2%80%94_musculus_extensor_pollicis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_pollicis_longus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責伸展拇指。跑者常見錯誤是將大拇指翹起（豎大拇指跑姿），這會造成前臂伸肌群持續收縮，應予以糾正。",
+    "desc_en": "Extends the thumb. A common runner's error is extending the thumb upwards (hitchhiker's thumb), causing continuous contraction of the forearm extensors. This should be corrected to a relaxed grip.",
+    "tags": [
+      "肘部與前臂",
+      "跑步",
+      "伸展",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_flexor_carpi_radialis",
+    "name_zh": "橈側腕屈肌",
+    "name_en": "Flexor Carpi Radialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Gray_%E2%80%94_musculus_flexor_carpi_radialis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_carpi_radialis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "平衡腕伸肌的張力，確保手腕在擺臂加速過程中保持穩定。應保持適度放鬆。",
+    "desc_en": "Balances the tension of wrist extensors, ensuring wrist stability during arm swing acceleration. Should remain moderately relaxed.",
+    "tags": [
+      "肘部與前臂",
+      "跑步",
+      "屈曲",
+      "外展",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_flexor_carpi_ulnaris",
+    "name_zh": "尺側腕屈肌",
+    "name_en": "Flexor Carpi Ulnaris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/75/Flexor_carpi_ulnaris.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Flexor_carpi_ulnaris.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助穩定手腕位置。其肌腱是尺神經的保護標地，跑步時手肘長時間彎曲可能對此區域造成壓力，需注意放鬆。",
+    "desc_en": "Assists in stabilizing wrist position. Prolonged elbow flexion during long runs can place stress near its tendon (ulnar nerve path), highlighting the need for periodic arm relaxation.",
+    "tags": [
+      "肘部與前臂",
+      "跑步",
+      "屈曲",
+      "內收",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_flexor_digitorum_profundus",
+    "name_zh": "深指屈肌",
+    "name_en": "Flexor Digitorum Profundus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/24/Flexor-digitorum-profundis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Flexor-digitorum-profundis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責手指遠端的屈曲。跑步時若握拳過緊（死握），此肌肉會持續高度收縮，消耗不必要的能量。建議手指輕觸掌心即可。",
+    "desc_en": "Flexes distal finger joints. Running with a 'death grip' causes sustained high contraction here, wasting energy. Fingers should lightly touch the palms.",
+    "tags": [
+      "肘部與前臂",
+      "跑步",
+      "屈曲",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_flexor_digitorum_superficialis",
+    "name_zh": "淺指屈肌",
+    "name_en": "Flexor Digitorum Superficialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/93/Gray_%E2%80%94_musculus_flexor_digitorum_superficialis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_digitorum_superficialis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "與深指屈肌協同工作。保持輕鬆的半握拳姿勢能讓此肌肉處於最佳長度張力關係，避免前臂疲勞。",
+    "desc_en": "Works with the deep flexor. Keeping a relaxed, loose fist allows this muscle to operate efficiently without causing forearm fatigue.",
+    "tags": [
+      "肘部與前臂",
+      "跑步",
+      "屈曲",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_flexor_pollicis_longus",
+    "name_zh": "長拇指屈肌",
+    "name_en": "Flexor Pollicis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Musculus_flexor_pollicis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Musculus_flexor_pollicis_longus.png\">Me</a>, Public domain, via Wikimedia Commons",
+    "desc": "跑步時若過度用力握拳，會導致此深層肌肉持續收縮，浪費能量並可能引起前臂腔室壓力升高。應保持放鬆。",
+    "desc_en": "Excessive clenching while running causes sustained contraction of this deep muscle, wasting energy and potentially increasing forearm compartment pressure. Should remain relaxed.",
+    "tags": [
+      "肘部與前臂",
+      "跑步",
+      "屈曲",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_palmaris_longus",
+    "name_zh": "掌長肌",
+    "name_en": "Palmaris Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/86/Palmaris-longus-horizontal.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Palmaris-longus-horizontal.png\">Henry Gray</a>, Public domain, via Wikimedia Commons",
+    "desc": "部分人群缺失的肌肉。跑步時應保持放鬆，若過度屈腕或握拳，此肌腱會浮起並增加前臂張力。",
+    "desc_en": "Absent in some individuals. Should remain relaxed during running. Excessive wrist flexion or fist clenching causes this tendon to protrude and increases forearm tension.",
+    "tags": [
+      "肘部與前臂",
+      "跑步",
+      "屈曲",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_pronator_quadratus",
+    "name_zh": "方形旋前肌",
+    "name_en": "Pronator Quadratus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Pronator-quadratus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pronator-quadratus.png\">Selket at English Wikipedia</a>, Public domain, via Wikimedia Commons",
+    "desc": "維持跑步時前臂的輕微旋前姿勢（手掌朝向身體）。在長時間擺臂中提供深層穩定，減少肘部關節剪力。",
+    "desc_en": "Maintains the slightly pronated forearm position (palms facing the body) typical in running form. Provides deep stabilization during prolonged arm swinging, reducing shear forces at the elbow.",
+    "tags": [
+      "肘部與前臂",
+      "跑步",
+      "旋前",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_pronator_teres",
+    "name_zh": "旋前圓肌",
+    "name_en": "Pronator Teres",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Gray_%E2%80%94_musculus_pronator_teres.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_pronator_teres.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助維持跑步時前臂的旋前姿勢（手掌朝內/下）。適當的張力有助於鎖定手肘結構，但過度緊繃可能引起手肘內側不適。",
+    "desc_en": "Assists in maintaining the pronated forearm position (palms facing in/down) during running. Appropriate tension helps lock the elbow structure, but excessive tightness can cause medial elbow discomfort.",
+    "tags": [
+      "肘部與前臂",
+      "跑步",
+      "屈曲",
+      "旋前",
+      "上肢拉-水平",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_supinator",
+    "name_zh": "旋後肌",
+    "name_en": "Supinator",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Gray_%E2%80%94_musculus_supinator.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_supinator.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "跑步時通常處於放鬆狀態。若擺臂姿勢怪異（如前臂過度外旋），會造成此肌肉疲勞。",
+    "desc_en": "Usually relaxed during running. Abnormal arm swing mechanics (e.g., excessive external rotation of the forearm) can cause fatigue in this muscle.",
+    "tags": [
+      "肘部與前臂",
+      "跑步",
+      "旋後",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_abductor_digiti_minimi",
+    "name_zh": "小指外展肌",
+    "name_en": "Abductor Digiti Minimi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gray_%E2%80%94_musculus_abductor_digiti_minimi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在跑步時應保持放鬆狀態。握拳過緊會導致前臂與肩部不必要的緊張，浪費能量。此肌肉負責小指動作，跑者應意識其放鬆。",
+    "desc_en": "Should remain relaxed during running. Excessive clenching creates unnecessary tension in the forearm and shoulders, wasting energy. Runners should focus on keeping this muscle relaxed.",
+    "tags": [
+      "手腕與手部",
+      "跑步",
+      "外展",
+      "精細運動",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_abductor_pollicis_brevis",
+    "name_zh": "拇指外展短肌",
+    "name_en": "Abductor Pollicis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Gray_%E2%80%94_musculus_abductor_pollicis_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_pollicis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助維持手部的自然張力。在跑步時，大拇指應輕輕放在食指上緣，保持此肌肉處於中性放鬆狀態。",
+    "desc_en": "Helps maintain natural hand tone. While running, the thumb should rest lightly on the index finger, keeping this muscle in a neutral, relaxed state.",
+    "tags": [
+      "手腕與手部",
+      "跑步",
+      "外展",
+      "屈曲",
+      "精細運動",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_adductor_pollicis",
+    "name_zh": "拇指內收肌",
+    "name_en": "Adductor Pollicis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gray_%E2%80%94_musculus_adductor_pollicis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_adductor_pollicis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "跑步時手部應保持放鬆。若此肌肉緊繃（如大拇指緊扣掌心），會導致前臂與肩部連鎖緊張，影響擺臂流暢度。",
+    "desc_en": "Hands should remain relaxed while running. Tension in this muscle (e.g., gripping the thumb tightly against the palm) creates a kinetic chain of tension into the forearm and shoulder, impairing arm swing fluidity.",
+    "tags": [
+      "手腕與手部",
+      "跑步",
+      "內收",
+      "精細運動",
+      "原動肌",
       "姿勢維持"
     ]
   },
@@ -1619,212 +1017,37 @@
     ]
   },
   {
-    "id": "back_latissimus_dorsi",
-    "name_zh": "背闊肌",
-    "name_en": "Latissimus Dorsi",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/Latissimus_dorsi_muscle_animation3.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Latissimus_dorsi_muscle_animation3.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "跑步核心穩定的樞紐。透過胸腰筋膜與對側臀大肌連接，形成「後側斜向動力鏈 (Posterior Oblique Sling)」。擺臂後拉時，它協助將力量傳遞至對側腿的推進動作，是速度與效率的關鍵。",
-    "desc_en": "A hub for core stability in running. Connects to the contralateral gluteus maximus via the thoracolumbar fascia to form the 'Posterior Oblique Sling.' During the backward arm drive, it helps transfer force to the opposite leg's propulsion, vital for speed and efficiency.",
+    "id": "hand_flexor_digiti_minimi",
+    "name_zh": "小指屈肌短",
+    "name_en": "Flexor Digiti Minimi Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Gray_%E2%80%94_musculus_flexor_digiti_minimi_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_digiti_minimi_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "跑步時負責維持手部自然的半握拳姿勢。應避免過度用力屈曲，以免造成前臂肌肉疲勞。",
+    "desc_en": "Helps maintain a natural, loose fist while running. Runners should avoid forceful flexion to prevent forearm muscle fatigue.",
     "tags": [
-      "背部肌群",
+      "手腕與手部",
       "跑步",
-      "游泳",
-      "攀岩/抱石",
-      "健身/重訓",
-      "內收",
-      "伸展",
-      "內旋",
-      "上肢拉-垂直",
-      "原動肌",
-      "核心穩定",
-      "步態與移動",
-      "軀幹旋轉與對角線"
-    ]
-  },
-  {
-    "id": "forearm_extensor_indicis",
-    "name_zh": "食指伸肌",
-    "name_en": "Extensor Indicis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Extensor_indicis_muscle.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_indicis_muscle.png\">Mikael Häggström</a>, Public domain, via Wikimedia Commons",
-    "desc": "跑步時不應單獨翹起食指。保持所有手指放鬆並輕微彎曲，有助於降低前臂張力。",
-    "desc_en": "The index finger should not be pointed or extended during running. Keeping all fingers relaxed and slightly curled helps reduce forearm tension.",
-    "tags": [
-      "肘部與前臂",
-      "跑步",
-      "伸展",
-      "姿勢維持"
-    ]
-  },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  {
-    "id": "hip_pectineus",
-    "name_zh": "恥骨肌",
-    "name_en": "Pectineus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Pectineus_3D.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pectineus_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "負責髖關節的內收與屈曲。在跑步的擺腿期（Swing Phase）協助提腿並將大腿向中線拉近，防止雙腿過度外開。是常被忽視的鼠蹊部疼痛來源之一。",
-    "desc_en": "Responsible for hip adduction and flexion. During the swing phase, it assists in lifting the leg and bringing the thigh toward the midline, preventing excessive leg splaying. An often overlooked source of groin pain in runners.",
-    "tags": [
-      "內收肌群",
-      "跑步",
-      "足球",
-      "健身/重訓",
-      "瑜伽",
-      "內收",
       "屈曲",
-      "內旋",
+      "精細運動",
       "原動肌",
-      "穩定肌",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "thorax_pectoralis_major",
-    "name_zh": "胸大肌",
-    "name_en": "Pectoralis Major",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/3/39/PectoralisMajor.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:PectoralisMajor.gif\">DrJanaOfficial</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
-    "desc": "跑步擺臂的主要動力來源之一，負責手臂的前擺（屈曲與內收）。過度緊繃的胸大肌會造成圓肩，限制胸廓擴張，影響最大攝氧量時的呼吸效率。",
-    "desc_en": "A primary driver of the arm swing, responsible for the forward drive (flexion and adduction). Excessive tightness causes rounded shoulders, restricting thoracic expansion and impairing breathing efficiency at VO2 max.",
-    "tags": [
-      "胸廓",
-      "肩帶與肋關節",
-      "跑步",
-      "游泳",
-      "健身/重訓",
-      "籃球",
-      "拳擊/格鬥",
-      "屈曲",
-      "內收",
-      "內旋",
-      "上肢推-水平",
-      "原動肌",
-      "步態與移動",
       "姿勢維持"
     ]
   },
   {
-    "id": "thorax_pectoralis_minor",
-    "name_zh": "胸小肌",
-    "name_en": "Pectoralis Minor",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/3/37/Pectoralis_minor_muscle_animation_small.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pectoralis_minor_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "輔助呼吸肌。在費力呼吸時協助提起肋骨。然而，跑者常見的此肌肉緊繃會將肩胛骨向前向下拉（前傾），導致不良的上半身跑姿，限制擺臂幅度。",
-    "desc_en": "Accessory respiratory muscle. Assists in lifting ribs during labored breathing. However, tightness here (common in runners) pulls the scapula anteriorly and inferiorly (tilt), leading to poor upper body posture and restricted arm swing.",
+    "id": "hand_flexor_pollicis_brevis",
+    "name_zh": "拇指屈短肌",
+    "name_en": "Flexor Pollicis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Gray_%E2%80%94_musculus_flexor_pollicis_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_pollicis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "位於大魚際區。跑步時若不自覺地用力握拳，會導致手掌緊繃，進而影響肩部放鬆。想像手中握著易碎的洋芋片。",
+    "desc_en": "Located in the thenar eminence. Unconscious clenching while running tightens the palm and prevents shoulder relaxation. Visualize holding a fragile potato chip to maintain relaxation.",
     "tags": [
-      "胸廓",
-      "肩帶與肋關節",
+      "手腕與手部",
       "跑步",
-      "游泳",
-      "健身/重訓",
-      "下壓",
-      "前伸",
-      "下迴旋",
-      "內旋",
-      "肩帶穩定",
-      "穩定肌",
-      "呼吸輔助",
+      "屈曲",
+      "精細運動",
+      "原動肌",
       "姿勢維持"
-    ]
-  },
-  {
-    "id": "neck_sternohyoid",
-    "name_zh": "胸骨舌骨肌",
-    "name_en": "Sternohyoid",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/67/Sternohyoid_muscle.PNG",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Sternohyoid_muscle.PNG\">User:Mikael Häggström</a>, Public domain, via Wikimedia Commons",
-    "desc": "在劇烈運動且大口喘氣時，負責穩定喉部位置，確保氣流順暢進出氣管。協助頸部前側的動態穩定。",
-    "desc_en": "Stabilizes the laryngeal position during heavy panting in intense exercise, ensuring smooth airflow through the trachea. Assists in dynamic stability of the anterior neck.",
-    "tags": [
-      "頸部肌群",
-      "跑步",
-      "游泳",
-      "瑜伽",
-      "皮拉提斯",
-      "提升/下壓",
-      "穩定肌",
-      "姿勢維持",
-      "呼吸輔助"
-    ]
-  },
-  {
-    "id": "thorax_transversus_thoracis",
-    "name_zh": "胸橫肌",
-    "name_en": "Transversus Thoracis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Transversus_thoracis.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Transversus_thoracis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
-    "desc": "位於胸廓內部，協助強制呼氣。在間歇跑（Intervals）的休息空檔或高強度衝刺時，幫助快速排出肺部氣體。",
-    "desc_en": "Located inside the thoracic cage, assisting in forced expiration. Helps rapidly expel air from the lungs during rest intervals or high-intensity sprints.",
-    "tags": [
-      "胸廓",
-      "跑步",
-      "呼吸輔助"
-    ]
-  },
-  {
-    "id": "neck_sternocleidomastoid",
-    "name_zh": "胸鎖乳突肌",
-    "name_en": "Sternocleidomastoid",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Sternomastoid_muscle_animation_small2.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Sternomastoid_muscle_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "重要的輔助呼吸肌。當跑步極度疲勞時，身體會代償性地使用此肌肉提起胸廓呼吸，導致頸部明顯浮筋與緊繃。同時負責穩定頭部視線水平。",
-    "desc_en": "Important accessory respiratory muscle. When extremely fatigued, the body compensatorily uses this muscle to lift the rib cage, leading to visible neck straining. Also stabilizes the head to keep the visual field level.",
-    "tags": [
-      "頸部肌群",
-      "跑步",
-      "單車",
-      "游泳",
-      "拳擊/格鬥",
-      "瑜伽",
-      "步態與移動",
-      "軀幹旋轉與對角線",
-      "屈曲",
-      "側屈",
-      "原動肌",
-      "穩定肌",
-      "姿勢維持",
-      "呼吸輔助"
-    ]
-  },
-  {
-    "id": "foot_lumbricals",
-    "name_zh": "足部蚓狀肌",
-    "name_en": "Lumbricals (Foot)",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Lumbricales_pedis.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_pedis.png\">Uwe Gille</a>, Public domain, via Wikimedia Commons",
-    "desc": "負責穩定蹠趾關節（MTP joint）並伸展趾間關節。在跑步推蹬期，防止腳趾出現「抓地（Clawing）」現象，確保腳趾平貼地面以最大化推進面積。",
-    "desc_en": "Stabilizes the MTP joints and extends the IP joints. During push-off, prevents toe 'clawing', ensuring toes remain flat against the ground to maximize the propulsion surface area.",
-    "tags": [
-      "足部內在肌-第二層",
-      "跑步",
-      "足球",
-      "瑜伽",
-      "屈曲",
-      "伸展",
-      "足部穩定",
-      "原動肌",
-      "步態與移動"
     ]
   },
   {
@@ -1896,316 +1119,35 @@
     ]
   },
   {
-    "id": "hip_tensor_fasciae_latae",
-    "name_zh": "闊筋膜張肌 (TFL)",
-    "name_en": "Tensor Fasciae Latae",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Tensor-fasciae-latae.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Tensor-fasciae-latae.png\">colorized by Michael Gasperl</a>, Public domain, via Wikimedia Commons",
-    "desc": "髂脛束（IT Band）的調節器。在擺腿期協助屈髖，在站立期透過拉緊髂脛束來穩定膝關節外側。若過度代償無力的臀中肌，極易緊繃導致「跑者膝」或髂脛束摩擦症候群。",
-    "desc_en": "The tensioner of the IT Band. Assists hip flexion during swing phase and stabilizes the lateral knee via IT Band tension during stance. If compensating for weak glutes, it becomes tight, causing 'Runner's Knee' or IT Band Syndrome.",
+    "id": "hand_opponens_digiti_minimi",
+    "name_zh": "小指對立肌",
+    "name_en": "Opponens Digiti Minimi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Gray_%E2%80%94_musculus_opponens_digiti_minimi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_opponens_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助維持手掌杯狀結構。在長距離跑步中，保持手掌核心放鬆對於減少上肢能量消耗很重要。",
+    "desc_en": "Helps maintain the cupped shape of the palm. Keeping the intrinsic hand muscles relaxed is important for minimizing upper body energy expenditure during long-distance runs.",
     "tags": [
-      "髖屈肌群",
+      "手腕與手部",
       "跑步",
-      "籃球",
-      "足球",
-      "瑜伽",
-      "登山/健行",
-      "屈曲",
-      "外展",
-      "內旋",
-      "穩定肌",
-      "核心穩定",
-      "步態與移動",
-      "下肢推"
-    ]
-  },
-  {
-    "id": "shoulder_trapezius_upper",
-    "name_zh": "斜方肌上部",
-    "name_en": "Trapezius (Upper)",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Trapezius_animation_small2.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Trapezius_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "常見的「壓力儲存庫」。許多跑者在疲勞時會不自覺聳肩，導致此肌肉過度活躍且耗能。理想的跑姿應保持肩膀下沉放鬆，抑制此肌肉的非必要收縮。",
-    "desc_en": "Common 'stress reservoir'. Many runners unconsciously shrug their shoulders when fatigued, causing overactivity and energy waste. Ideal form requires keeping shoulders down and relaxed, suppressing unnecessary contraction here.",
-    "tags": [
-      "肩帶與肩關節",
-      "跑步",
-      "游泳",
-      "健身/重訓",
-      "划艇",
-      "提升/下壓",
-      "外旋",
-      "肩帶穩定",
-      "原動肌",
-      "穩定肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "shoulder_trapezius_lower",
-    "name_zh": "斜方肌下部",
-    "name_en": "Trapezius (Lower)",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Trapezius_animation_small2.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Trapezius_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "維持良好跑姿的關鍵肌。負責下壓肩胛骨，對抗上斜方肌的聳肩動作，確保肩膀遠離耳朵，使手臂擺動更有效率。",
-    "desc_en": "Key muscle for good running posture. Depresses the scapula, counteracting the shrugging action of the upper trapezius. Ensures shoulders stay 'down and back', allowing for efficient arm swing kinematics.",
-    "tags": [
-      "肩帶與肩關節",
-      "跑步",
-      "游泳",
-      "划艇",
-      "健身/重訓",
-      "下壓",
-      "外旋",
-      "肩帶穩定",
-      "原動肌",
-      "穩定肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "shoulder_trapezius_middle",
-    "name_zh": "斜方肌中部",
-    "name_en": "Trapezius (Middle)",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Trapezius_animation_small2.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Trapezius_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "負責肩胛骨後收（Retraction）。防止圓肩（Hunched posture），幫助打開胸廓，讓呼吸更順暢，並提升跑步時的脊椎挺直度。",
-    "desc_en": "Responsible for scapular retraction. Prevents rounded shoulders (hunched posture), helps open the chest for better breathing mechanics, and promotes an upright spine during running.",
-    "tags": [
-      "肩帶與肩關節",
-      "跑步",
-      "划艇",
-      "游泳",
-      "健身/重訓",
-      "內收",
-      "肩帶穩定",
-      "原動肌",
-      "穩定肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "forearm_pronator_teres",
-    "name_zh": "旋前圓肌",
-    "name_en": "Pronator Teres",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Gray_%E2%80%94_musculus_pronator_teres.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_pronator_teres.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "協助維持跑步時前臂的旋前姿勢（手掌朝內/下）。適當的張力有助於鎖定手肘結構，但過度緊繃可能引起手肘內側不適。",
-    "desc_en": "Assists in maintaining the pronated forearm position (palms facing in/down) during running. Appropriate tension helps lock the elbow structure, but excessive tightness can cause medial elbow discomfort.",
-    "tags": [
-      "肘部與前臂",
-      "跑步",
-      "屈曲",
-      "旋前",
-      "上肢拉-水平",
+      "對立",
+      "精細運動",
       "原動肌",
       "姿勢維持"
     ]
   },
   {
-    "id": "forearm_supinator",
-    "name_zh": "旋後肌",
-    "name_en": "Supinator",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Gray_%E2%80%94_musculus_supinator.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_supinator.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "跑步時通常處於放鬆狀態。若擺臂姿勢怪異（如前臂過度外旋），會造成此肌肉疲勞。",
-    "desc_en": "Usually relaxed during running. Abnormal arm swing mechanics (e.g., excessive external rotation of the forearm) can cause fatigue in this muscle.",
+    "id": "hand_opponens_pollicis",
+    "name_zh": "拇指對立肌",
+    "name_en": "Opponens Pollicis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Gray_%E2%80%94_musculus_opponens_pollicis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_opponens_pollicis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責拇指對掌動作。在跑步擺臂時，手部應維持輕微對掌的自然姿勢，而非完全張開或握死。",
+    "desc_en": "Responsible for thumb opposition. During the arm swing, the hand should maintain a slightly opposed, natural posture, rather than being fully splayed or tightly clenched.",
     "tags": [
-      "肘部與前臂",
+      "手腕與手部",
       "跑步",
-      "旋後",
-      "原動肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "hip_piriformis",
-    "name_zh": "梨狀肌",
-    "name_en": "Piriformis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/3/39/Piriformis_large.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Piriformis_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "關鍵的臀部穩定肌。在著地期控制大腿的內旋速度，防止膝蓋內扣。跑者常見問題是梨狀肌因過度使用而肥大或痙攣，壓迫坐骨神經引發類似坐骨神經痛的症狀（梨狀肌症候群）。",
-    "desc_en": "Critical hip stabilizer. Controls the rate of femoral internal rotation during the stance phase, preventing knee valgus. Commonly in runners, it hypertrophies or spasms from overuse, compressing the sciatic nerve (Piriformis Syndrome).",
-    "tags": [
-      "深層外旋肌群",
-      "跑步",
-      "籃球",
-      "瑜伽",
-      "健身/重訓",
-      "外旋",
-      "外展",
-      "穩定肌",
-      "核心穩定",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "forearm_flexor_digitorum_profundus",
-    "name_zh": "深指屈肌",
-    "name_en": "Flexor Digitorum Profundus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/2/24/Flexor-digitorum-profundis.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Flexor-digitorum-profundis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "負責手指遠端的屈曲。跑步時若握拳過緊（死握），此肌肉會持續高度收縮，消耗不必要的能量。建議手指輕觸掌心即可。",
-    "desc_en": "Flexes distal finger joints. Running with a 'death grip' causes sustained high contraction here, wasting energy. Fingers should lightly touch the palms.",
-    "tags": [
-      "肘部與前臂",
-      "跑步",
-      "屈曲",
-      "原動肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "forearm_flexor_digitorum_superficialis",
-    "name_zh": "淺指屈肌",
-    "name_en": "Flexor Digitorum Superficialis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/9/93/Gray_%E2%80%94_musculus_flexor_digitorum_superficialis.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_digitorum_superficialis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "與深指屈肌協同工作。保持輕鬆的半握拳姿勢能讓此肌肉處於最佳長度張力關係，避免前臂疲勞。",
-    "desc_en": "Works with the deep flexor. Keeping a relaxed, loose fist allows this muscle to operate efficiently without causing forearm fatigue.",
-    "tags": [
-      "肘部與前臂",
-      "跑步",
-      "屈曲",
-      "原動肌",
-      "姿勢維持"
-    ]
-  },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  {
-    "id": "shin_tibialis_anterior",
-    "name_zh": "脛骨前肌",
-    "name_en": "Tibialis Anterior",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/63/Tibialis_anterior_muscle_-_animation_1.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Tibialis_anterior_muscle_-_animation_1.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "負責步態週期的兩大關鍵任務：1. 擺腿期勾起腳尖（背屈）防止絆倒；2. 著地瞬間進行「離心收縮」，控制腳掌緩慢落下。此肌肉疲勞或肌力不足是導致「脛前疼痛 (Shin Splints)」的主因。",
-    "desc_en": "Handles two critical gait tasks: 1. Dorsiflexes the foot during the swing phase for ground clearance; 2. Performs eccentric contraction at heel strike to control foot descent (preventing foot slap). Fatigue or weakness here is a primary cause of Shin Splints.",
-    "tags": [
-      "小腿前側肌群",
-      "跑步",
-      "籃球",
-      "足球",
-      "登山/健行",
-      "瑜伽",
-      "單車",
-      "背屈",
-      "內翻",
-      "原動肌",
-      "衝擊吸收",
-      "足弓支撐",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "calf_tibialis_posterior",
-    "name_zh": "脛骨後肌",
-    "name_en": "Tibialis Posterior",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/d/df/Inferior_view_of_tibialis_posterior_muscle_-_animation.gif",
-    "img_source": "https://upload.wikimedia.org/wikipedia/commons/d/df/Inferior_view_of_tibialis_posterior_muscle_-_animation.gif",
-    "desc": "足弓的動態懸吊系統。在站立期負責抵抗足部過度旋前（Overpronation），維持內側足弓的高度。若此肌肉失能，會導致足弓塌陷、足底筋膜炎及內側脛骨壓力症候群。",
-    "desc_en": "The dynamic suspension system of the arch. Resists excessive pronation during the stance phase, maintaining medial arch height. Dysfunction leads to arch collapse, plantar fasciitis, and medial tibial stress syndrome.",
-    "tags": [
-      "小腿深層肌群",
-      "跑步",
-      "籃球",
-      "足球",
-      "登山/健行",
-      "瑜伽",
-      "單車",
-      "蹠屈",
-      "內翻",
-      "足弓支撐",
-      "原動肌",
-      "穩定肌",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "hip_obturator_internus",
-    "name_zh": "閉孔內肌",
-    "name_en": "Obturator Internus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Obturator_internus_large.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Obturator_internus_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "深層髖部穩定肌。在跑步單腳著地承重時，微調股骨頭位置，與其他外旋肌共同防止股骨內轉（膝蓋內扣），保護髖關節與膝關節。",
-    "desc_en": "Deep hip stabilizer. Fine-tunes the femoral head position during single-leg weight bearing. Works with other external rotators to prevent internal femoral rotation (knee valgus), protecting both hip and knee joints.",
-    "tags": [
-      "深層外旋肌群",
-      "跑步",
-      "籃球",
-      "健身/重訓",
-      "外旋",
-      "外展",
-      "穩定肌",
-      "股骨頭穩定",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "hip_obturator_externus",
-    "name_zh": "閉孔外肌",
-    "name_en": "Obturator Externus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/1/14/Obturator_externus_large.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Obturator_externus_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "協助穩定髖臼中的股骨頭。在複雜的越野跑地形或變向動作中，提供關節深層的本體感覺與穩定性。",
-    "desc_en": "Stabilizes the femoral head within the acetabulum. Provides deep joint proprioception and stability during complex trail running terrain or directional changes.",
-    "tags": [
-      "深層外旋肌群",
-      "跑步",
-      "籃球",
-      "健身/重訓",
-      "外旋",
-      "穩定肌",
-      "股骨頭穩定"
-    ]
-  },
-  {
-    "id": "arm_coracobrachialis",
-    "name_zh": "喙肱肌",
-    "name_en": "Coracobrachialis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Coracobrachialis_muscle_-_animation02.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Coracobrachialis_muscle_-_animation02.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "協助肩關節屈曲與內收。在擺臂的前擺階段（Forward Swing）與三角肌前束協同工作，確保手臂沿著身體縱軸擺動而非外開。",
-    "desc_en": "Assists in shoulder flexion and adduction. Works with the anterior deltoid during the forward swing, ensuring the arm swings along the body's longitudinal axis rather than flaring out.",
-    "tags": [
-      "上臂",
-      "跑步",
-      "屈曲",
-      "內收",
-      "上肢推-垂直",
-      "穩定肌",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "forearm_palmaris_longus",
-    "name_zh": "掌長肌",
-    "name_en": "Palmaris Longus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/8/86/Palmaris-longus-horizontal.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Palmaris-longus-horizontal.png\">Henry Gray</a>, Public domain, via Wikimedia Commons",
-    "desc": "部分人群缺失的肌肉。跑步時應保持放鬆，若過度屈腕或握拳，此肌腱會浮起並增加前臂張力。",
-    "desc_en": "Absent in some individuals. Should remain relaxed during running. Excessive wrist flexion or fist clenching causes this tendon to protrude and increases forearm tension.",
-    "tags": [
-      "肘部與前臂",
-      "跑步",
-      "屈曲",
+      "對立",
+      "精細運動",
       "原動肌",
       "姿勢維持"
     ]
@@ -2277,85 +1219,58 @@
     ]
   },
   {
-    "id": "pelvis_levator_ani",
-    "name_zh": "提肛肌",
-    "name_en": "Levator Ani",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Levator_ani.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Levator_ani.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
-    "desc": "核心肌群的「底板」。在跑步著地的瞬間，反射性收縮以承托骨盆內臟器，對抗地面反作用力。與橫隔膜、腹橫肌共同調節腹內壓，保護腰椎。",
-    "desc_en": "The 'floor' of the core. Reflexively contracts at heel strike to support pelvic organs against ground reaction forces. Works with the diaphragm and transversus abdominis to regulate intra-abdominal pressure, protecting the lumbar spine.",
+    "id": "head_masseter",
+    "name_zh": "咬肌",
+    "name_en": "Masseter",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/13/Masseter_muscle_animation_small.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Masseter_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "壓力指示器。許多跑者在疲勞時會不自覺用力咬合，消耗能量並增加全身張力。意識到咬肌放鬆（嘴微張）是提升跑步放鬆度的技巧。",
+    "desc_en": "Stress indicator. Many runners unconsciously clench their jaw when fatigued, wasting energy and increasing systemic tension. Conscious relaxation of the masseter (slight mouth opening) is a technique to improve running relaxation.",
     "tags": [
-      "骨盆帶",
+      "顱骨與顳顎關節",
       "跑步",
-      "瑜伽",
-      "皮拉提斯",
+      "拳擊/格鬥",
+      "健身/重訓",
+      "屈曲",
       "提升/下壓",
-      "核心穩定",
-      "姿勢維持",
-      "穩定肌",
-      "衝擊吸收"
-    ]
-  },
-  {
-    "id": "shoulder_levator_scapulae",
-    "name_zh": "提肩胛肌",
-    "name_en": "Levator Scapulae",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/9/97/Levator_scapulae_muscle_animation_small.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Levator_scapulae_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "常見的跑者肩頸痛源頭。疲勞時容易代償性聳肩，導致此肌肉過度緊繃僵硬。保持「沉肩」跑姿能減少其負擔。",
-    "desc_en": "A common source of runner's neck pain. Fatigue often leads to compensatory shrugging, causing stiffness in this muscle. Maintaining a 'shoulders down' posture reduces its burden.",
-    "tags": [
-      "肩帶與肩關節",
-      "頸部肌群",
-      "跑步",
-      "提升/下壓",
-      "內旋",
-      "肩帶穩定",
-      "穩定肌",
       "姿勢維持"
     ]
   },
   {
-    "id": "shoulder_supraspinatus",
-    "name_zh": "棘上肌",
-    "name_en": "Supraspinatus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Supraspinatus_muscle_animation.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Supraspinatus_muscle_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "在跑步擺臂過程中，持續將肱骨頭壓入關節窩，防止手臂向下脫位，提供動態穩定。長時間跑步後肩部深層的痠痛常源於此。",
-    "desc_en": "Continuously compresses the humeral head into the socket during the arm swing, preventing inferior displacement and providing dynamic stability. Deep shoulder ache after long runs often originates here.",
+    "id": "head_medial_pterygoid",
+    "name_zh": "內翼肌",
+    "name_en": "Medial Pterygoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Medial_pterygoid_muscle_animation_2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Medial_pterygoid_muscle_animation_2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "跑步時咬牙切齒會導致此肌肉過度緊繃，進而引起頸部與肩部緊張。放鬆下顎有助於提升整體跑步經濟性。",
+    "desc_en": "Clenching the jaw during running tightens this muscle, leading to referred tension in the neck and shoulders. Relaxing the jaw improves overall running economy.",
     "tags": [
-      "肩帶與肩關節",
+      "顱骨與顳顎關節",
       "跑步",
-      "游泳",
-      "棒球/壘球",
+      "拳擊/格鬥",
       "健身/重訓",
-      "外展",
-      "上肢推-垂直",
+      "屈曲",
+      "內收",
       "原動肌",
-      "穩定肌",
-      "核心穩定",
       "姿勢維持"
     ]
   },
   {
-    "id": "shoulder_infraspinatus",
-    "name_zh": "棘下肌",
-    "name_en": "Infraspinatus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Infraspinatus_muscle_animation.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Infraspinatus_muscle_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "與小圓肌協同，在跑步擺臂的「後擺期」末端進行離心收縮以減速手臂內旋，並穩定肩關節後方。",
-    "desc_en": "Works with teres minor. Performs eccentric contraction at the end of the backward arm swing to decelerate internal rotation and stabilize the posterior shoulder capsule.",
+    "id": "head_temporalis",
+    "name_zh": "顳肌",
+    "name_en": "Temporalis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Temporal_muscle_-_lateral_view.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Temporal_muscle_-_lateral_view.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "跑步時不必要的緊張來源。跑者若感到頭痛或太陽穴緊繃，通常是因為此肌肉與咬肌過度用力。放鬆臉部表情是放鬆全身的起點。",
+    "desc_en": "A source of unnecessary tension while running. Runners experiencing headaches or temple tightness often have overactive temporalis and masseter muscles. Relaxing facial expressions is the starting point for total body relaxation.",
     "tags": [
-      "肩帶與肩關節",
+      "顱骨與顳顎關節",
       "跑步",
-      "游泳",
-      "棒球/壘球",
+      "拳擊/格鬥",
       "健身/重訓",
-      "外旋",
-      "上肢拉-水平",
-      "原動肌",
-      "穩定肌",
-      "核心穩定"
+      "屈曲",
+      "提升/下壓",
+      "姿勢維持"
     ]
   },
   {
@@ -2379,398 +1294,6 @@
       "原動肌",
       "穩定肌",
       "步態與移動"
-    ]
-  },
-  {
-    "id": "foot_intrinsic_flexor_digitorum_brevis",
-    "name_zh": "短趾屈肌（足部內在肌）",
-    "name_en": "Flexor Digitorum Brevis (Intrinsic)",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Muscle_court_fl%C3%A9chisseur_des_orteils.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_court_fl%C3%A9chisseur_des_orteils.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
-    "desc": "足底最表層肌肉，直接支撐縱向足弓。在站立期透過收縮縮短足底長度，增強足部剛性以利推進。是足底筋膜炎復健的重點強化肌肉。",
-    "desc_en": "Most superficial plantar muscle, directly supporting the longitudinal arch. Contracts during stance to shorten the foot, increasing rigidity for propulsion. A key muscle to strengthen for plantar fasciitis rehabilitation.",
-    "tags": [
-      "踝部與足部",
-      "跑步",
-      "屈曲",
-      "穩定肌",
-      "足弓支撐",
-      "步態與移動",
-      "衝擊吸收"
-    ]
-  },
-  {
-    "id": "calf_fibularis_longus",
-    "name_zh": "腓骨長肌（重複項-請參照Peroneus Longus）",
-    "name_en": "Fibularis Longus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Superior_view_fibularis_longus_muscle_-_animation.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Superior_view_fibularis_longus_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "負責足部外翻與蹠屈。其長肌腱橫跨足底，像扣帶一樣鎖住橫向足弓，是跑步推進時足部剛性轉換（由軟變硬）的關鍵機制。",
-    "desc_en": "Responsible for eversion and plantarflexion. Its long tendon crosses the sole, locking the transverse arch like a strap. Critical for the foot's rigid-lever transformation during push-off.",
-    "tags": [
-      "小腿外側肌群",
-      "跑步",
-      "籃球",
-      "足球",
-      "登山/健行",
-      "瑜伽",
-      "衝浪",
-      "外翻",
-      "蹠屈",
-      "踝關節蹠屈",
-      "足部外翻",
-      "原動肌",
-      "足弓支撐",
-      "足部穩定",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "calf_fibularis_brevis",
-    "name_zh": "腓骨短肌",
-    "name_en": "Fibularis Brevis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/b/be/Fibularis_brevis_muscle_-_animation.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Fibularis_brevis_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "專注於防止足內翻扭傷（翻腳刀）。在不平路面跑步或疲勞時，此肌肉需快速反應以穩定外側腳踝。若有舊傷，此處常為弱點。",
-    "desc_en": "Specializes in preventing inversion sprains. During trail running or fatigue, this muscle must react quickly to stabilize the lateral ankle. Often a weak link in runners with a history of ankle sprains.",
-    "tags": [
-      "小腿外側肌群",
-      "跑步",
-      "籃球",
-      "足球",
-      "登山/健行",
-      "衝浪",
-      "瑜伽",
-      "外翻",
-      "蹠屈",
-      "踝關節蹠屈",
-      "足部外翻",
-      "原動肌",
-      "踝關節穩定",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "calf_gastrocnemius",
-    "name_zh": "腓腸肌",
-    "name_en": "Gastrocnemius",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Gastrocnemius_muscle_-_animation.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gastrocnemius_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "跑步的「爆發力來源」。含有較多快縮肌纖維，主要負責推蹬期（Push-off）產生向前的強大動力。因跨越膝關節，在膝蓋伸直時效率最高（如衝刺或上坡跑）。",
-    "desc_en": "The 'explosive power source' of running. Contains more fast-twitch fibers, generating powerful forward propulsion during push-off. Most efficient when the knee is extended (e.g., sprinting or uphill running) due to its biarticular nature.",
-    "tags": [
-      "小腿",
-      "跑步",
-      "籃球",
-      "足球",
-      "健身/重訓",
-      "登山/健行",
-      "單車",
-      "蹠屈",
-      "膝關節屈曲",
-      "原動肌",
-      "衝擊吸收",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "hip_psoas_major",
-    "name_zh": "腰大肌",
-    "name_en": "Psoas Major",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Psoas_major_muscle_-_animation04.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Psoas_major_muscle_-_animation04.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "步態週期的「啟動引擎」。負責擺腿期（Swing Phase）的屈髖提腿動作。同時穩定腰椎，過度緊繃（久坐造成）會限制髖伸展，導致步幅縮短與下背痛。",
-    "desc_en": "The 'starter engine' of the gait cycle. Initiates hip flexion and leg lift during the swing phase. Stabilizes the lumbar spine; excessive tightness (from sitting) restricts hip extension, shortening stride length and causing lower back pain.",
-    "tags": [
-      "髖屈肌群",
-      "跑步",
-      "籃球",
-      "瑜伽",
-      "健身/重訓",
-      "單車",
-      "屈曲",
-      "內旋",
-      "側屈",
-      "原動肌",
-      "步態與移動",
-      "姿勢維持",
-      "核心穩定"
-    ]
-  },
-
-
-
-
-
-
-
-
-
-
-  {
-    "id": "back_quadratus_lumborum",
-    "name_zh": "腰方肌",
-    "name_en": "Quadratus Lumborum",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Quadratuslumborum.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Quadratuslumborum.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
-    "desc": "負責擺腿期的「提骨盆 (Hip Hiking)」動作，防止擺動腿拖地。同時在單腳站立期穩定脊椎，防止對側骨盆過度下墜。是下背痛的常見源頭。",
-    "desc_en": "Responsible for 'Hip Hiking' during the swing phase, ensuring foot clearance. Stabilizes the spine in the frontal plane during single-leg stance, preventing contralateral pelvic drop. A common source of lower back pain.",
-    "tags": [
-      "背部肌群",
-      "腹部與核心",
-      "跑步",
-      "登山/健行",
-      "側屈",
-      "伸展",
-      "穩定肌",
-      "核心穩定",
-      "步態與移動",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "abdomen_internal_oblique",
-    "name_zh": "腹內斜肌",
-    "name_en": "Internal Abdominal Oblique",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Gray395.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray395.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "與腹外斜肌協同工作，控制軀幹的旋轉。在跑步時，當右肩向前擺動，左側內斜肌與右側外斜肌共同收縮，形成穩定的「對角線」張力。",
-    "desc_en": "Works synergistically with the external oblique to control trunk rotation. During running, as the right shoulder swings forward, the left internal oblique contracts with the right external oblique to create stable diagonal tension.",
-    "tags": [
-      "腹部與核心",
-      "跑步",
-      "網球",
-      "健身/重訓",
-      "皮拉提斯",
-      "屈曲",
-      "側屈",
-      "軀幹旋轉與對角線",
-      "穩定肌",
-      "核心穩定"
-    ]
-  },
-  {
-    "id": "abdomen_external_oblique",
-    "name_zh": "腹外斜肌",
-    "name_en": "External Abdominal Oblique",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Grays_Anatomy_Muscle_oblique_externe.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Grays_Anatomy_Muscle_oblique_externe.png\">Par Henry Vandyke Carter</a>, CC0, via Wikimedia Commons",
-    "desc": "跑步「前側斜向動力鏈 (Anterior Oblique Sling)」的關鍵部分。負責將擺臂產生的旋轉力矩傳遞至對側髖部，協調上下半身的動作。",
-    "desc_en": "Key component of the 'Anterior Oblique Sling' in running. Transfers rotational torque from the arm swing to the contralateral hip, coordinating upper and lower body movements.",
-    "tags": [
-      "腹部與核心",
-      "跑步",
-      "網球",
-      "健身/重訓",
-      "拳擊/格鬥",
-      "屈曲",
-      "側屈",
-      "軀幹旋轉與對角線",
-      "原動肌",
-      "核心穩定",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "abdomen_rectus_abdominis",
-    "name_zh": "腹直肌",
-    "name_en": "Rectus Abdominis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/9/94/Rectus_abdominis_vi.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Rectus_abdominis_vi.png\">Mongrangvebet</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
-    "desc": "防止骨盆過度前傾（Anti-extension）。在跑步時負責連結胸廓與骨盆，確保力量傳遞效率。無力的腹直肌會導致核心塌陷與下背壓力增加。",
-    "desc_en": "Prevents excessive anterior pelvic tilt (anti-extension). Connects the rib cage and pelvis during running to ensure efficient force transfer. Weakness leads to core collapse and increased lower back stress.",
-    "tags": [
-      "腹部與核心",
-      "跑步",
-      "健身/重訓",
-      "HIIT/CrossFit",
-      "屈曲",
-      "側屈",
-      "核心穩定",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "abdomen_transversus_abdominis",
-    "name_zh": "腹橫肌",
-    "name_en": "Transversus Abdominis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Transversus_abdominis.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Transversus_abdominis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
-    "desc": "人體的天然腰帶。在四肢動作發生「之前」就預先收縮（預期性姿勢控制），增加腹內壓以穩定脊椎。是所有跑步動作的穩定基石。",
-    "desc_en": "The body's natural corset. Contracts *before* limb movement (anticipatory postural control) to increase intra-abdominal pressure and stabilize the spine. The foundational stabilizer for all running actions.",
-    "tags": [
-      "腹部與核心",
-      "跑步",
-      "單車",
-      "瑜伽",
-      "皮拉提斯",
-      "穩定肌",
-      "核心穩定",
-      "呼吸輔助",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "knee_popliteus",
-    "name_zh": "膕肌",
-    "name_en": "Popliteus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Popliteus_muscle_-animation.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Popliteus_muscle_-animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "膝關節的「解鎖鑰匙」。在腳尖離地瞬間負責微量內旋脛骨，使膝關節能順利屈曲進入擺腿期。同時防止膝蓋在下坡跑時過度伸直。",
-    "desc_en": "The 'key to unlock the knee'. Internalizes the tibia slightly at toe-off to allow smooth knee flexion into the swing phase. Also prevents knee hyperextension during downhill running.",
-    "tags": [
-      "膝關節",
-      "跑步",
-      "籃球",
-      "足球",
-      "瑜伽",
-      "登山/健行",
-      "屈曲",
-      "膝關節屈曲",
-      "膝關節內旋",
-      "穩定肌",
-      "膝關節穩定",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "back_erector_spinae",
-    "name_zh": "豎脊肌",
-    "name_en": "Erector Spinae",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Gray389_-_Erector_spinae.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray389_-_Erector_spinae.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "對抗地心引力的主要肌肉。在長距離跑步中維持軀幹直立，防止身體隨疲勞而前傾（垮掉）。在著地時吸收傳遞至脊椎的垂直衝擊力。",
-    "desc_en": "The primary anti-gravity muscle group. Maintains upright trunk posture during long runs, preventing forward lean (slouching) due to fatigue. Absorbs vertical shock transmitted to the spine at landing.",
-    "tags": [
-      "脊柱骨骼",
-      "背部肌群",
-      "跑步",
-      "健身/重訓",
-      "登山/健行",
-      "伸展",
-      "側屈",
-      "衝擊吸收",
-      "姿勢維持",
-      "穩定肌"
-    ]
-  },
-  {
-    "id": "forearm_extensor_carpi_radialis_longus",
-    "name_zh": "橈側腕伸肌長肌",
-    "name_en": "Extensor Carpi Radialis Longus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/5/53/Extensor_carpi_radialis_longus.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_carpi_radialis_longus.png\">Me</a>, Public domain, via Wikimedia Commons",
-    "desc": "負責在擺臂時穩定手腕，保持輕微伸展的功能性位置。避免手腕像鐘擺一樣無力甩動。",
-    "desc_en": "Stabilizes the wrist during arm swing, maintaining a functional, slightly extended position. Prevents the wrist from flopping like a pendulum.",
-    "tags": [
-      "肘部與前臂",
-      "跑步",
-      "伸展",
-      "外展",
-      "穩定肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "forearm_extensor_carpi_radialis_brevis",
-    "name_zh": "橈側腕伸肌短肌",
-    "name_en": "Extensor Carpi Radialis Brevis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Gray_%E2%80%94_musculus_extensor_carpi_radialis_brevis.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_carpi_radialis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "與長肌共同穩定手腕中心。在長時間跑步中，持續的等長收縮有助於維持上肢動力鏈的完整性。",
-    "desc_en": "Works with the longus to stabilize the wrist center. Continuous isometric contraction during long runs helps maintain the integrity of the upper body kinetic chain.",
-    "tags": [
-      "肘部與前臂",
-      "跑步",
-      "伸展",
-      "外展",
-      "穩定肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "forearm_flexor_carpi_radialis",
-    "name_zh": "橈側腕屈肌",
-    "name_en": "Flexor Carpi Radialis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Gray_%E2%80%94_musculus_flexor_carpi_radialis.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_carpi_radialis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "平衡腕伸肌的張力，確保手腕在擺臂加速過程中保持穩定。應保持適度放鬆。",
-    "desc_en": "Balances the tension of wrist extensors, ensuring wrist stability during arm swing acceleration. Should remain moderately relaxed.",
-    "tags": [
-      "肘部與前臂",
-      "跑步",
-      "屈曲",
-      "外展",
-      "穩定肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "thorax_diaphragm",
-    "name_zh": "橫隔膜",
-    "name_en": "Diaphragm",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/7/71/Diaphragm_-_2.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Diaphragm_-_2.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "跑步的「呼吸引擎」。透過有節奏的收縮提供氧氣，同時增加腹內壓（IAP）以穩定核心。跑者常見的「側腹痛（Stitch）」通常與橫隔膜痙攣或韌帶拉扯有關。",
-    "desc_en": "The 'engine of breath' for running. Provides oxygen via rhythmic contraction while increasing intra-abdominal pressure (IAP) to stabilize the core. The common 'side stitch' is often linked to diaphragm spasm or ligament stress.",
-    "tags": [
-      "胸廓",
-      "跑步",
-      "游泳",
-      "HIIT/CrossFit",
-      "屈曲",
-      "提升/下壓",
-      "核心穩定",
-      "呼吸輔助",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "neck_longus_colli",
-    "name_zh": "頸長肌",
-    "name_en": "Longus Colli",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/9/96/Gray_%E2%80%94_musculus_longus_colli.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_longus_colli.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "深層頸屈肌。負責維持「收下巴」的正確姿勢，抵抗跑步震動造成的頭部前傾。對於預防頸椎壓力與維持呼吸道暢通至關重要。",
-    "desc_en": "Deep neck flexor. Maintains the correct 'chin tuck' posture, resisting forward head carriage caused by running impact. Critical for preventing cervical stress and maintaining airway alignment.",
-    "tags": [
-      "頸椎",
-      "頸部肌群",
-      "跑步",
-      "單車",
-      "游泳",
-      "瑜伽",
-      "皮拉提斯",
-      "步態與移動",
-      "屈曲",
-      "穩定肌",
-      "姿勢維持",
-      "核心穩定"
-    ]
-  },
-  {
-    "id": "thigh_sartorius",
-    "name_zh": "縫匠肌",
-    "name_en": "Sartorius",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Sartorius_3D.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Sartorius_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "在擺腿期（Swing Phase）協助屈髖與屈膝，將腿向前帶。同時作為「鵝足」的一部分，協助穩定膝關節內側。",
-    "desc_en": "Assists hip and knee flexion during the swing phase, bringing the leg forward. Also stabilizes the medial knee as part of the 'pes anserinus' structure.",
-    "tags": [
-      "髖部與大腿",
-      "跑步",
-      "籃球",
-      "足球",
-      "瑜伽",
-      "單車",
-      "屈曲",
-      "外旋",
-      "外展",
-      "膝關節屈曲",
-      "膝關節內旋",
-      "原動肌",
-      "步態與移動",
-      "膝關節穩定"
     ]
   },
   {
@@ -2800,27 +1323,6 @@
     ]
   },
   {
-    "id": "hip_gluteus_minimus",
-    "name_zh": "臀小肌",
-    "name_en": "Gluteus Minimus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Gluteus_minimus_muscle_animation04.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gluteus_minimus_muscle_animation04.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "與臀中肌協同，將股骨頭緊緊固定在髖臼中。在單腳承重時防止骨盆傾斜，是深層的骨盆穩定器。",
-    "desc_en": "Works with gluteus medius to secure the femoral head in the acetabulum. Prevents pelvic tilt during single-leg weight bearing, acting as a deep pelvic stabilizer.",
-    "tags": [
-      "臀部肌群",
-      "跑步",
-      "籃球",
-      "登山/健行",
-      "瑜伽",
-      "外展",
-      "內旋",
-      "穩定肌",
-      "核心穩定",
-      "步態與移動"
-    ]
-  },
-  {
     "id": "hip_gluteus_medius",
     "name_zh": "臀中肌",
     "name_en": "Gluteus Medius",
@@ -2845,6 +1347,27 @@
     ]
   },
   {
+    "id": "hip_gluteus_minimus",
+    "name_zh": "臀小肌",
+    "name_en": "Gluteus Minimus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Gluteus_minimus_muscle_animation04.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gluteus_minimus_muscle_animation04.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "與臀中肌協同，將股骨頭緊緊固定在髖臼中。在單腳承重時防止骨盆傾斜，是深層的骨盆穩定器。",
+    "desc_en": "Works with gluteus medius to secure the femoral head in the acetabulum. Prevents pelvic tilt during single-leg weight bearing, acting as a deep pelvic stabilizer.",
+    "tags": [
+      "臀部肌群",
+      "跑步",
+      "籃球",
+      "登山/健行",
+      "瑜伽",
+      "外展",
+      "內旋",
+      "穩定肌",
+      "核心穩定",
+      "步態與移動"
+    ]
+  },
+  {
     "id": "hip_gracilis",
     "name_zh": "薄肌（髖部段）",
     "name_en": "Gracilis (Hip)",
@@ -2865,42 +1388,6 @@
       "原動肌",
       "穩定肌",
       "步態與移動"
-    ]
-  },
-  {
-    "id": "thorax_subclavius",
-    "name_zh": "鎖下肌",
-    "name_en": "Subclavius",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Subclavius_muscle_animation2.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Subclavius_muscle_animation2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "在劇烈跑步呼吸急促時，負責穩定鎖骨與第一肋，保護臂叢神經與血管免受壓迫。",
-    "desc_en": "Stabilizes the clavicle and first rib during heavy breathing in intense running, protecting the brachial plexus and vessels from compression.",
-    "tags": [
-      "胸廓",
-      "跑步",
-      "呼吸輔助",
-      "穩定肌"
-    ]
-  },
-  {
-    "id": "neck_mylohyoid",
-    "name_zh": "顎舌骨肌",
-    "name_en": "Mylohyoid",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/9/92/Mylohyoid_muscle.PNG",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Mylohyoid_muscle.PNG\">User:Mikael Häggström</a>, Public domain, via Wikimedia Commons",
-    "desc": "協助吞嚥與呼吸道維持。跑步時應保持下顎放鬆，避免舌頭過度用力頂住上顎造成頸部緊張。",
-    "desc_en": "Assists in swallowing and airway maintenance. Runners should keep the jaw relaxed and avoid forcefully pressing the tongue against the palate to prevent neck tension.",
-    "tags": [
-      "頸部肌群",
-      "跑步",
-      "游泳",
-      "瑜伽",
-      "皮拉提斯",
-      "屈曲",
-      "提升/下壓",
-      "穩定肌",
-      "姿勢維持",
-      "呼吸輔助"
     ]
   },
   {
@@ -2949,21 +1436,1020 @@
     ]
   },
   {
-    "id": "head_temporalis",
-    "name_zh": "顳肌",
-    "name_en": "Temporalis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Temporal_muscle_-_lateral_view.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Temporal_muscle_-_lateral_view.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "跑步時不必要的緊張來源。跑者若感到頭痛或太陽穴緊繃，通常是因為此肌肉與咬肌過度用力。放鬆臉部表情是放鬆全身的起點。",
-    "desc_en": "A source of unnecessary tension while running. Runners experiencing headaches or temple tightness often have overactive temporalis and masseter muscles. Relaxing facial expressions is the starting point for total body relaxation.",
+    "id": "hip_obturator_externus",
+    "name_zh": "閉孔外肌",
+    "name_en": "Obturator Externus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/14/Obturator_externus_large.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Obturator_externus_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助穩定髖臼中的股骨頭。在複雜的越野跑地形或變向動作中，提供關節深層的本體感覺與穩定性。",
+    "desc_en": "Stabilizes the femoral head within the acetabulum. Provides deep joint proprioception and stability during complex trail running terrain or directional changes.",
     "tags": [
-      "顱骨與顳顎關節",
+      "深層外旋肌群",
       "跑步",
-      "拳擊/格鬥",
+      "籃球",
       "健身/重訓",
+      "外旋",
+      "穩定肌",
+      "股骨頭穩定"
+    ]
+  },
+  {
+    "id": "hip_obturator_internus",
+    "name_zh": "閉孔內肌",
+    "name_en": "Obturator Internus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Obturator_internus_large.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Obturator_internus_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "深層髖部穩定肌。在跑步單腳著地承重時，微調股骨頭位置，與其他外旋肌共同防止股骨內轉（膝蓋內扣），保護髖關節與膝關節。",
+    "desc_en": "Deep hip stabilizer. Fine-tunes the femoral head position during single-leg weight bearing. Works with other external rotators to prevent internal femoral rotation (knee valgus), protecting both hip and knee joints.",
+    "tags": [
+      "深層外旋肌群",
+      "跑步",
+      "籃球",
+      "健身/重訓",
+      "外旋",
+      "外展",
+      "穩定肌",
+      "股骨頭穩定",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "hip_pectineus",
+    "name_zh": "恥骨肌",
+    "name_en": "Pectineus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Pectineus_3D.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pectineus_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責髖關節的內收與屈曲。在跑步的擺腿期（Swing Phase）協助提腿並將大腿向中線拉近，防止雙腿過度外開。是常被忽視的鼠蹊部疼痛來源之一。",
+    "desc_en": "Responsible for hip adduction and flexion. During the swing phase, it assists in lifting the leg and bringing the thigh toward the midline, preventing excessive leg splaying. An often overlooked source of groin pain in runners.",
+    "tags": [
+      "內收肌群",
+      "跑步",
+      "足球",
+      "健身/重訓",
+      "瑜伽",
+      "內收",
+      "屈曲",
+      "內旋",
+      "原動肌",
+      "穩定肌",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "hip_piriformis",
+    "name_zh": "梨狀肌",
+    "name_en": "Piriformis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/39/Piriformis_large.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Piriformis_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "關鍵的臀部穩定肌。在著地期控制大腿的內旋速度，防止膝蓋內扣。跑者常見問題是梨狀肌因過度使用而肥大或痙攣，壓迫坐骨神經引發類似坐骨神經痛的症狀（梨狀肌症候群）。",
+    "desc_en": "Critical hip stabilizer. Controls the rate of femoral internal rotation during the stance phase, preventing knee valgus. Commonly in runners, it hypertrophies or spasms from overuse, compressing the sciatic nerve (Piriformis Syndrome).",
+    "tags": [
+      "深層外旋肌群",
+      "跑步",
+      "籃球",
+      "瑜伽",
+      "健身/重訓",
+      "外旋",
+      "外展",
+      "穩定肌",
+      "核心穩定",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "hip_psoas_major",
+    "name_zh": "腰大肌",
+    "name_en": "Psoas Major",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Psoas_major_muscle_-_animation04.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Psoas_major_muscle_-_animation04.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "步態週期的「啟動引擎」。負責擺腿期（Swing Phase）的屈髖提腿動作。同時穩定腰椎，過度緊繃（久坐造成）會限制髖伸展，導致步幅縮短與下背痛。",
+    "desc_en": "The 'starter engine' of the gait cycle. Initiates hip flexion and leg lift during the swing phase. Stabilizes the lumbar spine; excessive tightness (from sitting) restricts hip extension, shortening stride length and causing lower back pain.",
+    "tags": [
+      "髖屈肌群",
+      "跑步",
+      "籃球",
+      "瑜伽",
+      "健身/重訓",
+      "單車",
+      "屈曲",
+      "內旋",
+      "側屈",
+      "原動肌",
+      "步態與移動",
+      "姿勢維持",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "hip_quadratus_femoris",
+    "name_zh": "股方肌",
+    "name_en": "Quadratus Femoris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Quadratus_femoris_large.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Quadratus_femoris_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "深層外旋肌。在單腳站立期提供細微但重要的股骨頭穩定，防止骨盆隨意轉動。對於越野跑者適應不平路面尤為重要。",
+    "desc_en": "Deep external rotator. Provides subtle but vital stability to the femoral head during single-leg stance, preventing uncontrolled pelvic rotation. Particularly important for trail runners adapting to uneven terrain.",
+    "tags": [
+      "深層外旋肌群",
+      "跑步",
+      "籃球",
+      "健身/重訓",
+      "外旋",
+      "穩定肌",
+      "股骨頭穩定",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "hip_tensor_fasciae_latae",
+    "name_zh": "闊筋膜張肌 (TFL)",
+    "name_en": "Tensor Fasciae Latae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Tensor-fasciae-latae.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Tensor-fasciae-latae.png\">colorized by Michael Gasperl</a>, Public domain, via Wikimedia Commons",
+    "desc": "髂脛束（IT Band）的調節器。在擺腿期協助屈髖，在站立期透過拉緊髂脛束來穩定膝關節外側。若過度代償無力的臀中肌，極易緊繃導致「跑者膝」或髂脛束摩擦症候群。",
+    "desc_en": "The tensioner of the IT Band. Assists hip flexion during swing phase and stabilizes the lateral knee via IT Band tension during stance. If compensating for weak glutes, it becomes tight, causing 'Runner's Knee' or IT Band Syndrome.",
+    "tags": [
+      "髖屈肌群",
+      "跑步",
+      "籃球",
+      "足球",
+      "瑜伽",
+      "登山/健行",
+      "屈曲",
+      "外展",
+      "內旋",
+      "穩定肌",
+      "核心穩定",
+      "步態與移動",
+      "下肢推"
+    ]
+  },
+  {
+    "id": "knee_popliteus",
+    "name_zh": "膕肌",
+    "name_en": "Popliteus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Popliteus_muscle_-animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Popliteus_muscle_-animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "膝關節的「解鎖鑰匙」。在腳尖離地瞬間負責微量內旋脛骨，使膝關節能順利屈曲進入擺腿期。同時防止膝蓋在下坡跑時過度伸直。",
+    "desc_en": "The 'key to unlock the knee'. Internalizes the tibia slightly at toe-off to allow smooth knee flexion into the swing phase. Also prevents knee hyperextension during downhill running.",
+    "tags": [
+      "膝關節",
+      "跑步",
+      "籃球",
+      "足球",
+      "瑜伽",
+      "登山/健行",
+      "屈曲",
+      "膝關節屈曲",
+      "膝關節內旋",
+      "穩定肌",
+      "膝關節穩定",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "neck_anterior_scalene",
+    "name_zh": "前斜角肌",
+    "name_en": "Anterior Scalene",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Scalenus_anterior_-_animation04.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Scalenus_anterior_-_animation04.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "輔助呼吸肌。在跑步強度極高、需要大量換氣時，協助提升第一肋以擴張胸廓。過度依賴此肌肉呼吸（而非橫隔膜）會導致頸部緊繃與上肢麻木（胸廓出口症候群）。",
+    "desc_en": "Accessory muscle of respiration. Lifts the first rib to expand the thorax during high-intensity running. Over-reliance on this muscle (chest breathing) instead of the diaphragm leads to neck tightness and potential thoracic outlet syndrome.",
+    "tags": [
+      "頸部肌群",
+      "頸椎",
+      "跑步",
+      "單車",
+      "游泳",
+      "攀岩/抱石",
+      "步態與移動",
+      "屈曲",
+      "側屈",
+      "穩定肌",
+      "呼吸輔助",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "neck_digastric",
+    "name_zh": "二腹肌",
+    "name_en": "Digastric",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gray_%E2%80%94_musculus_digastricus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_digastricus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "雖然不是跑步動力肌，但在高強度跑步時協助呼吸道暢通。透過穩定舌骨與下顎，有助於維持頭部穩定位置，避免過度緊繃影響頸部放鬆。",
+    "desc_en": "While not a propulsion muscle, it assists in maintaining airway patency during high-intensity running. By stabilizing the hyoid and mandible, it contributes to head stability and helps prevent excessive tension in the neck region.",
+    "tags": [
+      "頸部肌群",
+      "跑步",
+      "游泳",
+      "瑜伽",
+      "提升/下壓",
+      "穩定肌",
+      "呼吸輔助",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "neck_longus_colli",
+    "name_zh": "頸長肌",
+    "name_en": "Longus Colli",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/96/Gray_%E2%80%94_musculus_longus_colli.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_longus_colli.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "深層頸屈肌。負責維持「收下巴」的正確姿勢，抵抗跑步震動造成的頭部前傾。對於預防頸椎壓力與維持呼吸道暢通至關重要。",
+    "desc_en": "Deep neck flexor. Maintains the correct 'chin tuck' posture, resisting forward head carriage caused by running impact. Critical for preventing cervical stress and maintaining airway alignment.",
+    "tags": [
+      "頸椎",
+      "頸部肌群",
+      "跑步",
+      "單車",
+      "游泳",
+      "瑜伽",
+      "皮拉提斯",
+      "步態與移動",
+      "屈曲",
+      "穩定肌",
+      "姿勢維持",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "neck_mylohyoid",
+    "name_zh": "顎舌骨肌",
+    "name_en": "Mylohyoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/92/Mylohyoid_muscle.PNG",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Mylohyoid_muscle.PNG\">User:Mikael Häggström</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助吞嚥與呼吸道維持。跑步時應保持下顎放鬆，避免舌頭過度用力頂住上顎造成頸部緊張。",
+    "desc_en": "Assists in swallowing and airway maintenance. Runners should keep the jaw relaxed and avoid forcefully pressing the tongue against the palate to prevent neck tension.",
+    "tags": [
+      "頸部肌群",
+      "跑步",
+      "游泳",
+      "瑜伽",
+      "皮拉提斯",
       "屈曲",
       "提升/下壓",
+      "穩定肌",
+      "姿勢維持",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "neck_omohyoid",
+    "name_zh": "肩胛舌骨肌",
+    "name_en": "Omohyoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Muscle_omo-hyoidien.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_omo-hyoidien.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "連結肩胛骨與舌骨。在劇烈呼吸（高換氣量）時，協助維持頸部筋膜張力，間接輔助呼吸道暢通，並穩定肩胛骨與頸部的連動。",
+    "desc_en": "Connects scapula to hyoid. During heavy breathing (high ventilation), helps maintain cervical fascia tension, indirectly aiding airway patency and stabilizing the scapula-neck linkage.",
+    "tags": [
+      "頸部肌群",
+      "跑步",
+      "游泳",
+      "瑜伽",
+      "提升/下壓",
+      "穩定肌",
+      "姿勢維持",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "neck_sternocleidomastoid",
+    "name_zh": "胸鎖乳突肌",
+    "name_en": "Sternocleidomastoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Sternomastoid_muscle_animation_small2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Sternomastoid_muscle_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "重要的輔助呼吸肌。當跑步極度疲勞時，身體會代償性地使用此肌肉提起胸廓呼吸，導致頸部明顯浮筋與緊繃。同時負責穩定頭部視線水平。",
+    "desc_en": "Important accessory respiratory muscle. When extremely fatigued, the body compensatorily uses this muscle to lift the rib cage, leading to visible neck straining. Also stabilizes the head to keep the visual field level.",
+    "tags": [
+      "頸部肌群",
+      "跑步",
+      "單車",
+      "游泳",
+      "拳擊/格鬥",
+      "瑜伽",
+      "步態與移動",
+      "軀幹旋轉與對角線",
+      "屈曲",
+      "側屈",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "neck_sternohyoid",
+    "name_zh": "胸骨舌骨肌",
+    "name_en": "Sternohyoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/67/Sternohyoid_muscle.PNG",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Sternohyoid_muscle.PNG\">User:Mikael Häggström</a>, Public domain, via Wikimedia Commons",
+    "desc": "在劇烈運動且大口喘氣時，負責穩定喉部位置，確保氣流順暢進出氣管。協助頸部前側的動態穩定。",
+    "desc_en": "Stabilizes the laryngeal position during heavy panting in intense exercise, ensuring smooth airflow through the trachea. Assists in dynamic stability of the anterior neck.",
+    "tags": [
+      "頸部肌群",
+      "跑步",
+      "游泳",
+      "瑜伽",
+      "皮拉提斯",
+      "提升/下壓",
+      "穩定肌",
+      "姿勢維持",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "pelvis_levator_ani",
+    "name_zh": "提肛肌",
+    "name_en": "Levator Ani",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Levator_ani.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Levator_ani.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "核心肌群的「底板」。在跑步著地的瞬間，反射性收縮以承托骨盆內臟器，對抗地面反作用力。與橫隔膜、腹橫肌共同調節腹內壓，保護腰椎。",
+    "desc_en": "The 'floor' of the core. Reflexively contracts at heel strike to support pelvic organs against ground reaction forces. Works with the diaphragm and transversus abdominis to regulate intra-abdominal pressure, protecting the lumbar spine.",
+    "tags": [
+      "骨盆帶",
+      "跑步",
+      "瑜伽",
+      "皮拉提斯",
+      "提升/下壓",
+      "核心穩定",
+      "姿勢維持",
+      "穩定肌",
+      "衝擊吸收"
+    ]
+  },
+  {
+    "id": "posterior_thigh_biceps_femoris",
+    "name_zh": "股二頭肌",
+    "name_en": "Biceps Femoris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Biceps_femoris_muscle_-_animation_1.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Biceps_femoris_muscle_-_animation_1.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "腿後肌群的外側部分。除了伸髖與屈膝，還負責在膝蓋彎曲時穩定外旋。能防止跑步著地時膝蓋過度內旋（動態外翻），保護前十字韌帶（ACL）。",
+    "desc_en": "The lateral hamstring. Beyond hip extension and knee flexion, it stabilizes external rotation when the knee is flexed. Prevents excessive internal knee rotation (dynamic valgus) upon landing, protecting the ACL.",
+    "tags": [
+      "腿後肌群",
+      "跑步",
+      "籃球",
+      "足球",
+      "健身/重訓",
+      "登山/健行",
+      "瑜伽",
+      "屈曲",
+      "伸展",
+      "膝關節屈曲",
+      "髖關節伸展",
+      "膝關節外旋",
+      "原動肌",
+      "衝擊吸收",
+      "步態與移動",
+      "下肢拉/髖絞鍊"
+    ]
+  },
+  {
+    "id": "posterior_thigh_semitendinosus",
+    "name_zh": "半腱肌",
+    "name_en": "Semitendinosus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Semitendinosus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Semitendinosus.png\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在擺腿期（Swing Phase）末期負責減速小腿的前甩，保護膝關節；在著地瞬間負責伸展髖部以推進身體。其快速收縮能力對於衝刺與步頻轉換很重要。",
+    "desc_en": "Decelerates the lower leg at the end of the swing phase, protecting the knee. Extends the hip upon ground contact to propel the body forward. Its rapid contraction capability is vital for sprinting and cadence changes.",
+    "tags": [
+      "髖部與大腿",
+      "跑步",
+      "籃球",
+      "足球",
+      "健身/重訓",
+      "登山/健行",
+      "瑜伽",
+      "屈曲",
+      "伸展",
+      "膝關節屈曲",
+      "髖關節伸展",
+      "原動肌",
+      "衝擊吸收",
+      "步態與移動",
+      "下肢拉/髖絞鍊"
+    ]
+  },
+  {
+    "id": "shin_tibialis_anterior",
+    "name_zh": "脛骨前肌",
+    "name_en": "Tibialis Anterior",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/63/Tibialis_anterior_muscle_-_animation_1.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Tibialis_anterior_muscle_-_animation_1.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責步態週期的兩大關鍵任務：1. 擺腿期勾起腳尖（背屈）防止絆倒；2. 著地瞬間進行「離心收縮」，控制腳掌緩慢落下。此肌肉疲勞或肌力不足是導致「脛前疼痛 (Shin Splints)」的主因。",
+    "desc_en": "Handles two critical gait tasks: 1. Dorsiflexes the foot during the swing phase for ground clearance; 2. Performs eccentric contraction at heel strike to control foot descent (preventing foot slap). Fatigue or weakness here is a primary cause of Shin Splints.",
+    "tags": [
+      "小腿前側肌群",
+      "跑步",
+      "籃球",
+      "足球",
+      "登山/健行",
+      "瑜伽",
+      "單車",
+      "背屈",
+      "內翻",
+      "原動肌",
+      "衝擊吸收",
+      "足弓支撐",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "shoulder_deltoid_anterior",
+    "name_zh": "三角肌前部",
+    "name_en": "Anterior Deltoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責跑步擺臂的「前擺」動作（肩屈曲）。強有力的前擺能帶動對側腿的推蹬力量，在上坡跑或衝刺時尤為重要。",
+    "desc_en": "Responsible for the forward phase (shoulder flexion) of the arm swing. A powerful forward drive assists in generating contralateral leg drive, which is critical during uphill running or sprinting.",
+    "tags": [
+      "肩帶與肩關節",
+      "跑步",
+      "游泳",
+      "籃球",
+      "健身/重訓",
+      "羽毛球",
+      "網球",
+      "屈曲",
+      "內旋",
+      "原動肌",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "shoulder_deltoid_middle",
+    "name_zh": "三角肌中部",
+    "name_en": "Middle Deltoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在跑步擺臂過程中，負責維持手臂與身體的適當距離（外展），避免手臂過度交叉於胸前，確保擺臂軌跡正直以提升動能傳遞效率。",
+    "desc_en": "Maintains proper arm carriage width (abduction) during the arm swing, preventing excessive cross-body movement. This ensures a linear swing trajectory for efficient kinetic energy transfer.",
+    "tags": [
+      "肩帶與肩關節",
+      "跑步",
+      "游泳",
+      "籃球",
+      "健身/重訓",
+      "羽毛球",
+      "網球",
+      "外展",
+      "穩定肌",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "shoulder_deltoid_posterior",
+    "name_zh": "三角肌後部",
+    "name_en": "Posterior Deltoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責跑步擺臂的「後擺」動作（肩伸展）。有效的後擺有助於維持軀幹挺直，防止圓肩姿勢，並為下一次前擺儲存彈性位能。",
+    "desc_en": "Responsible for the backward phase (shoulder extension) of the arm swing. Effective backward drive helps maintain an upright trunk posture, prevents rounding of shoulders, and stores elastic energy for the subsequent forward swing.",
+    "tags": [
+      "肩帶與肩關節",
+      "跑步",
+      "游泳",
+      "划艇",
+      "羽毛球",
+      "網球",
+      "棒球/壘球",
+      "伸展",
+      "外旋",
+      "原動肌",
+      "穩定肌",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "shoulder_infraspinatus",
+    "name_zh": "棘下肌",
+    "name_en": "Infraspinatus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Infraspinatus_muscle_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Infraspinatus_muscle_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "與小圓肌協同，在跑步擺臂的「後擺期」末端進行離心收縮以減速手臂內旋，並穩定肩關節後方。",
+    "desc_en": "Works with teres minor. Performs eccentric contraction at the end of the backward arm swing to decelerate internal rotation and stabilize the posterior shoulder capsule.",
+    "tags": [
+      "肩帶與肩關節",
+      "跑步",
+      "游泳",
+      "棒球/壘球",
+      "健身/重訓",
+      "外旋",
+      "上肢拉-水平",
+      "原動肌",
+      "穩定肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "shoulder_levator_scapulae",
+    "name_zh": "提肩胛肌",
+    "name_en": "Levator Scapulae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/97/Levator_scapulae_muscle_animation_small.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Levator_scapulae_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "常見的跑者肩頸痛源頭。疲勞時容易代償性聳肩，導致此肌肉過度緊繃僵硬。保持「沉肩」跑姿能減少其負擔。",
+    "desc_en": "A common source of runner's neck pain. Fatigue often leads to compensatory shrugging, causing stiffness in this muscle. Maintaining a 'shoulders down' posture reduces its burden.",
+    "tags": [
+      "肩帶與肩關節",
+      "頸部肌群",
+      "跑步",
+      "提升/下壓",
+      "內旋",
+      "肩帶穩定",
+      "穩定肌",
       "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_subscapularis",
+    "name_zh": "肩胛下肌",
+    "name_en": "Subscapularis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Subscapularis_muscle_animation3.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Subscapularis_muscle_animation3.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "肩袖肌群的前壁。在跑步劇烈擺臂時，負責控制肱骨頭的旋轉與前後位移，維持肩關節中心化，確保上半身動力鏈的穩定傳遞。",
+    "desc_en": "The anterior wall of the rotator cuff. During vigorous arm swinging, it controls rotation and translation of the humeral head, maintaining glenohumeral centering for stable upper body force transmission.",
+    "tags": [
+      "肩帶與肩關節",
+      "跑步",
+      "游泳",
+      "健身/重訓",
+      "棒球/壘球",
+      "內旋",
+      "上肢推-水平",
+      "原動肌",
+      "穩定肌",
+      "核心穩定",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_supraspinatus",
+    "name_zh": "棘上肌",
+    "name_en": "Supraspinatus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Supraspinatus_muscle_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Supraspinatus_muscle_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在跑步擺臂過程中，持續將肱骨頭壓入關節窩，防止手臂向下脫位，提供動態穩定。長時間跑步後肩部深層的痠痛常源於此。",
+    "desc_en": "Continuously compresses the humeral head into the socket during the arm swing, preventing inferior displacement and providing dynamic stability. Deep shoulder ache after long runs often originates here.",
+    "tags": [
+      "肩帶與肩關節",
+      "跑步",
+      "游泳",
+      "棒球/壘球",
+      "健身/重訓",
+      "外展",
+      "上肢推-垂直",
+      "原動肌",
+      "穩定肌",
+      "核心穩定",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_teres_major",
+    "name_zh": "大圓肌",
+    "name_en": "Teres Major",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Gray_%E2%80%94_musculus_teres_major.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_teres_major.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "與背闊肌協同工作，協助跑步擺臂的後擺動作（伸展與內旋）。在高速奔跑需要強力擺臂時，協助穩定肩胛骨下角。",
+    "desc_en": "Works synergistically with the latissimus dorsi to assist in the backward phase (extension and internal rotation) of the arm swing. helps stabilize the inferior angle of the scapula during vigorous arm swinging in sprinting.",
+    "tags": [
+      "肩帶與肩關節",
+      "跑步",
+      "游泳",
+      "划艇",
+      "健身/重訓",
+      "伸展",
+      "內收",
+      "內旋",
+      "上肢拉-垂直",
+      "原動肌",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "shoulder_teres_minor",
+    "name_zh": "小圓肌",
+    "name_en": "Teres Minor",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gray_%E2%80%94_musculus_teres_minor.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_teres_minor.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "雖然主要功能是外旋，但在跑步中作為肩袖肌群，負責在長時間擺臂運動中穩定肱骨頭，防止肩關節因疲勞而位置偏移。",
+    "desc_en": "While primarily an external rotator, as part of the rotator cuff, it stabilizes the humeral head during prolonged arm swinging, preventing joint malposition due to fatigue.",
+    "tags": [
+      "肩帶與肩關節",
+      "跑步",
+      "游泳",
+      "棒球/壘球",
+      "網球",
+      "羽毛球",
+      "健身/重訓",
+      "外旋",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_trapezius_lower",
+    "name_zh": "斜方肌下部",
+    "name_en": "Trapezius (Lower)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Trapezius_animation_small2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Trapezius_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "維持良好跑姿的關鍵肌。負責下壓肩胛骨，對抗上斜方肌的聳肩動作，確保肩膀遠離耳朵，使手臂擺動更有效率。",
+    "desc_en": "Key muscle for good running posture. Depresses the scapula, counteracting the shrugging action of the upper trapezius. Ensures shoulders stay 'down and back', allowing for efficient arm swing kinematics.",
+    "tags": [
+      "肩帶與肩關節",
+      "跑步",
+      "游泳",
+      "划艇",
+      "健身/重訓",
+      "下壓",
+      "外旋",
+      "肩帶穩定",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_trapezius_middle",
+    "name_zh": "斜方肌中部",
+    "name_en": "Trapezius (Middle)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Trapezius_animation_small2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Trapezius_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責肩胛骨後收（Retraction）。防止圓肩（Hunched posture），幫助打開胸廓，讓呼吸更順暢，並提升跑步時的脊椎挺直度。",
+    "desc_en": "Responsible for scapular retraction. Prevents rounded shoulders (hunched posture), helps open the chest for better breathing mechanics, and promotes an upright spine during running.",
+    "tags": [
+      "肩帶與肩關節",
+      "跑步",
+      "划艇",
+      "游泳",
+      "健身/重訓",
+      "內收",
+      "肩帶穩定",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_trapezius_upper",
+    "name_zh": "斜方肌上部",
+    "name_en": "Trapezius (Upper)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Trapezius_animation_small2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Trapezius_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "常見的「壓力儲存庫」。許多跑者在疲勞時會不自覺聳肩，導致此肌肉過度活躍且耗能。理想的跑姿應保持肩膀下沉放鬆，抑制此肌肉的非必要收縮。",
+    "desc_en": "Common 'stress reservoir'. Many runners unconsciously shrug their shoulders when fatigued, causing overactivity and energy waste. Ideal form requires keeping shoulders down and relaxed, suppressing unnecessary contraction here.",
+    "tags": [
+      "肩帶與肩關節",
+      "跑步",
+      "游泳",
+      "健身/重訓",
+      "划艇",
+      "提升/下壓",
+      "外旋",
+      "肩帶穩定",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "thigh_adductor_longus",
+    "name_zh": "長內收肌",
+    "name_en": "Adductor Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/Adductor_longus.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Adductor_longus.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "步態擺腿期（Swing Phase）負責協助屈髖（提腿）與內收。在衝刺或突然變向時承受巨大張力，是跑者「鼠蹊部拉傷」最常見的受傷部位。",
+    "desc_en": "Assists in hip flexion (leg lift) and adduction during the swing phase. Undergoes high tension during sprinting or sudden directional changes, making it the most common site for 'groin strains' in runners.",
+    "tags": [
+      "內收肌群",
+      "髖部與大腿",
+      "跑步",
+      "足球",
+      "籃球",
+      "健身/重訓",
+      "瑜伽",
+      "內收",
+      "屈曲",
+      "內旋",
+      "原動肌",
+      "穩定肌",
+      "核心",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "thigh_adductor_magnus",
+    "name_zh": "大內收肌",
+    "name_en": "Adductor Magnus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Muscle_grand_adducteur_copie.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_grand_adducteur_copie.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "被視為「第四條腿後肌」。除了內收功能，其後部纖維是強大的髖伸展肌，在跑步推蹬期（特別是髖屈角度較大如上坡跑時）提供重要動力，同時穩定骨盆防止過度旋轉。",
+    "desc_en": "Often considered the 'fourth hamstring.' Beyond adduction, its posterior fibers are powerful hip extensors. It provides significant propulsion during the push-off phase (especially in uphill running where hip flexion is greater) and stabilizes the pelvis against excessive rotation.",
+    "tags": [
+      "髖部與大腿",
+      "跑步",
+      "足球",
+      "籃球",
+      "健身/重訓",
+      "登山/健行",
+      "瑜伽",
+      "游泳",
+      "內收",
+      "伸展",
+      "原動肌",
+      "穩定肌",
+      "下肢拉/髖絞鍊",
+      "核心穩定",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "thigh_gracilis",
+    "name_zh": "股薄肌",
+    "name_en": "Gracilis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gracilis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gracilis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助髖內收與膝屈曲。在跑步變向或突然煞車時，與縫匠肌、半腱肌共同組成的「鵝足」結構負責穩定膝關節內側，抵抗外翻應力。",
+    "desc_en": "Assists in hip adduction and knee flexion. During cutting or sudden deceleration, works as part of the 'pes anserinus' (with sartorius and semitendinosus) to stabilize the medial knee against valgus stress.",
+    "tags": [
+      "髖部與大腿",
+      "跑步",
+      "籃球",
+      "足球",
+      "瑜伽",
+      "單車",
+      "內收",
+      "屈曲",
+      "膝關節屈曲",
+      "膝關節內旋",
+      "原動肌",
+      "穩定肌",
+      "步態與移動",
+      "膝關節穩定"
+    ]
+  },
+  {
+    "id": "thigh_rectus_femoris",
+    "name_zh": "股直肌",
+    "name_en": "Rectus Femoris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/48/Rectus_femoris_3D.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Rectus_femoris_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "跨越雙關節的獨特肌肉。在擺腿期初期負責屈髖（提腿），在擺腿期末期準備著地時伸膝。是步態週期中連結髖部與膝蓋能量傳遞的橋樑。",
+    "desc_en": "Unique biarticular muscle. Flexes the hip (lifts the leg) during early swing phase and extends the knee preparing for contact at late swing. Acts as a bridge for energy transfer between hip and knee during the gait cycle.",
+    "tags": [
+      "股四頭肌",
+      "跑步",
+      "籃球",
+      "足球",
+      "健身/重訓",
+      "瑜伽",
+      "登山/健行",
+      "伸展",
+      "屈曲",
+      "膝關節伸展",
+      "髖關節屈曲",
+      "原動肌",
+      "下肢推",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "thigh_sartorius",
+    "name_zh": "縫匠肌",
+    "name_en": "Sartorius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Sartorius_3D.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Sartorius_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在擺腿期（Swing Phase）協助屈髖與屈膝，將腿向前帶。同時作為「鵝足」的一部分，協助穩定膝關節內側。",
+    "desc_en": "Assists hip and knee flexion during the swing phase, bringing the leg forward. Also stabilizes the medial knee as part of the 'pes anserinus' structure.",
+    "tags": [
+      "髖部與大腿",
+      "跑步",
+      "籃球",
+      "足球",
+      "瑜伽",
+      "單車",
+      "屈曲",
+      "外旋",
+      "外展",
+      "膝關節屈曲",
+      "膝關節內旋",
+      "原動肌",
+      "步態與移動",
+      "膝關節穩定"
+    ]
+  },
+  {
+    "id": "thigh_vastus_intermedius",
+    "name_zh": "股中間肌",
+    "name_en": "Vastus Intermedius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Vastus_intermedialis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Vastus_intermedialis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "位於股直肌下方的深層力量來源。作為純粹的膝伸展肌，在跑步著地期（Stance Phase）透過離心收縮吸收體重衝擊，並在推蹬期輸出垂直力量。",
+    "desc_en": "Deep power source beneath the rectus femoris. As a pure knee extensor, it absorbs impact via eccentric contraction during the stance phase and generates vertical force during propulsion.",
+    "tags": [
+      "股四頭肌",
+      "跑步",
+      "籃球",
+      "足球",
+      "健身/重訓",
+      "瑜伽",
+      "登山/健行",
+      "伸展",
+      "膝關節伸展",
+      "原動肌",
+      "膝關節穩定",
+      "下肢推",
+      "衝擊吸收",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "thigh_vastus_lateralis",
+    "name_zh": "股外側肌",
+    "name_en": "Vastus Lateralis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Vastus_lateralis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Vastus_lateralis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "股四頭肌中體積最大的部分，也是跑步著地時主要的吸震器。其過度緊繃常透過外側肌間隔拉扯髂脛束（IT Band），導致膝外側疼痛。",
+    "desc_en": "The largest component of the quadriceps and the primary shock absorber during landing. Excessive tightness here often pulls on the IT Band via the lateral intermuscular septum, contributing to lateral knee pain.",
+    "tags": [
+      "股四頭肌",
+      "跑步",
+      "籃球",
+      "足球",
+      "健身/重訓",
+      "瑜伽",
+      "登山/健行",
+      "單車",
+      "伸展",
+      "膝關節伸展",
+      "原動肌",
+      "膝關節穩定",
+      "下肢推",
+      "衝擊吸收",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "thigh_vastus_medialis",
+    "name_zh": "股內側肌",
+    "name_en": "Vastus Medialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Vastus_medialis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Vastus_medialis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "特別是其斜頭（VMO），負責將髕骨向內拉，對抗股外側肌的拉力。維持髕骨在滑車溝內的正確軌跡，是預防「跑者膝」（髕股關節疼痛症候群）的最關鍵肌肉。",
+    "desc_en": "Especially its oblique fibers (VMO), pulls the patella medially to counter the lateral pull of the vastus lateralis. Maintains proper patellar tracking within the trochlear groove; the most critical muscle for preventing 'Runner's Knee' (PFPS).",
+    "tags": [
+      "股四頭肌",
+      "跑步",
+      "籃球",
+      "足球",
+      "健身/重訓",
+      "瑜伽",
+      "登山/健行",
+      "伸展",
+      "膝關節伸展",
+      "原動肌",
+      "膝關節穩定",
+      "下肢推",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "thorax_diaphragm",
+    "name_zh": "橫隔膜",
+    "name_en": "Diaphragm",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/71/Diaphragm_-_2.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Diaphragm_-_2.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "跑步的「呼吸引擎」。透過有節奏的收縮提供氧氣，同時增加腹內壓（IAP）以穩定核心。跑者常見的「側腹痛（Stitch）」通常與橫隔膜痙攣或韌帶拉扯有關。",
+    "desc_en": "The 'engine of breath' for running. Provides oxygen via rhythmic contraction while increasing intra-abdominal pressure (IAP) to stabilize the core. The common 'side stitch' is often linked to diaphragm spasm or ligament stress.",
+    "tags": [
+      "胸廓",
+      "跑步",
+      "游泳",
+      "HIIT/CrossFit",
+      "屈曲",
+      "提升/下壓",
+      "核心穩定",
+      "呼吸輔助",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "thorax_intercostal_internal",
+    "name_zh": "內側肋間肌",
+    "name_en": "Internal Intercostal",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Internal_intercostal_muscles_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Internal_intercostal_muscles_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在高強度無氧跑步或衝刺後的恢復期間，負責強制呼氣，將二氧化碳快速排出。有助於穩定胸廓，作為核心的一部分傳遞力量。",
+    "desc_en": "Active during forced expiration, particularly during high-intensity anaerobic running or recovery, helping to expel carbon dioxide rapidly. Stabilizes the rib cage, acting as part of the core for force transmission.",
+    "tags": [
+      "胸廓",
+      "跑步",
+      "HIIT/CrossFit",
+      "呼吸輔助",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "thorax_pectoralis_major",
+    "name_zh": "胸大肌",
+    "name_en": "Pectoralis Major",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/39/PectoralisMajor.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:PectoralisMajor.gif\">DrJanaOfficial</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "跑步擺臂的主要動力來源之一，負責手臂的前擺（屈曲與內收）。過度緊繃的胸大肌會造成圓肩，限制胸廓擴張，影響最大攝氧量時的呼吸效率。",
+    "desc_en": "A primary driver of the arm swing, responsible for the forward drive (flexion and adduction). Excessive tightness causes rounded shoulders, restricting thoracic expansion and impairing breathing efficiency at VO2 max.",
+    "tags": [
+      "胸廓",
+      "肩帶與肋關節",
+      "跑步",
+      "游泳",
+      "健身/重訓",
+      "籃球",
+      "拳擊/格鬥",
+      "屈曲",
+      "內收",
+      "內旋",
+      "上肢推-水平",
+      "原動肌",
+      "步態與移動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "thorax_pectoralis_minor",
+    "name_zh": "胸小肌",
+    "name_en": "Pectoralis Minor",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/37/Pectoralis_minor_muscle_animation_small.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pectoralis_minor_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "輔助呼吸肌。在費力呼吸時協助提起肋骨。然而，跑者常見的此肌肉緊繃會將肩胛骨向前向下拉（前傾），導致不良的上半身跑姿，限制擺臂幅度。",
+    "desc_en": "Accessory respiratory muscle. Assists in lifting ribs during labored breathing. However, tightness here (common in runners) pulls the scapula anteriorly and inferiorly (tilt), leading to poor upper body posture and restricted arm swing.",
+    "tags": [
+      "胸廓",
+      "肩帶與肋關節",
+      "跑步",
+      "游泳",
+      "健身/重訓",
+      "下壓",
+      "前伸",
+      "下迴旋",
+      "內旋",
+      "肩帶穩定",
+      "穩定肌",
+      "呼吸輔助",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "thorax_serratus_anterior",
+    "name_zh": "前鋸肌",
+    "name_en": "Serratus Anterior",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/31/Serratus_anterior_muscle_animation_small.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Serratus_anterior_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "將肩胛骨貼緊胸壁，防止跑步擺臂時肩胛骨不穩定（翼狀肩胛）。同時協助肋骨擴張，對深呼吸至關重要。強壯的前鋸肌有助於跑者保持挺胸姿勢。",
+    "desc_en": "Anchors the scapula to the chest wall, preventing instability (winging) during the arm swing. Assists in rib expansion for deep breathing. A strong serratus anterior helps runners maintain an upright, open-chest posture.",
+    "tags": [
+      "胸廓",
+      "肩帶與肋關節",
+      "跑步",
+      "游泳",
+      "拳擊/格鬥",
+      "健身/重訓",
+      "攀岩/抱石",
+      "外展",
+      "上肢推-水平",
+      "上肢推-垂直",
+      "屈曲",
+      "肩帶穩定",
+      "核心穩定",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "thorax_subclavius",
+    "name_zh": "鎖下肌",
+    "name_en": "Subclavius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Subclavius_muscle_animation2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Subclavius_muscle_animation2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在劇烈跑步呼吸急促時，負責穩定鎖骨與第一肋，保護臂叢神經與血管免受壓迫。",
+    "desc_en": "Stabilizes the clavicle and first rib during heavy breathing in intense running, protecting the brachial plexus and vessels from compression.",
+    "tags": [
+      "胸廓",
+      "跑步",
+      "呼吸輔助",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "thorax_transversus_thoracis",
+    "name_zh": "胸橫肌",
+    "name_en": "Transversus Thoracis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Transversus_thoracis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Transversus_thoracis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "位於胸廓內部，協助強制呼氣。在間歇跑（Intervals）的休息空檔或高強度衝刺時，幫助快速排出肺部氣體。",
+    "desc_en": "Located inside the thoracic cage, assisting in forced expiration. Helps rapidly expel air from the lungs during rest intervals or high-intensity sprints.",
+    "tags": [
+      "胸廓",
+      "跑步",
+      "呼吸輔助"
     ]
   }
 ]
