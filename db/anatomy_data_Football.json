@@ -411,414 +411,24 @@
     ]
   },
   {
-    "id": "neck_digastric",
-    "name_zh": "二腹肌",
-    "name_en": "Digastric",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gray_%E2%80%94_musculus_digastricus.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_digastricus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "在足球激烈的爭頂頭球（Header）過程中，協助穩定下顎與舌骨，確保頸部核心的剛性以安全傳導衝擊力。同時在衝刺後的劇烈喘息中輔助張口呼吸。",
-    "desc_en": "Assists in stabilizing the mandible and hyoid during aerial duels and headers, ensuring neck rigidity to safely transmit impact forces. Also facilitates mouth opening for heavy breathing after high-intensity sprints.",
+    "id": "foot_lumbricals",
+    "name_zh": "足部蚓狀肌",
+    "name_en": "Lumbricals (Foot)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Lumbricales_pedis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_pedis.png\">Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "在足球鞋內的精密穩定器。防止腳趾在急停或轉向時出現「抓地（Clawing）」，確保腳趾平貼鞋墊，提供最大的摩擦面積與推進力。",
+    "desc_en": "Precision stabilizers inside the football boot. Prevent toe 'clawing' during sudden stops or turns, ensuring toes remain flat against the insole for maximum friction and propulsion.",
     "tags": [
-      "頸部肌群",
+      "足部內在肌-第二層",
       "足球",
-      "游泳",
+      "跑步",
       "瑜伽",
-      "提升/下壓",
-      "穩定肌",
-      "呼吸輔助",
-      "姿勢維持",
-      "頭球"
-    ]
-  },
-  {
-    "id": "shoulder_deltoid_middle",
-    "name_zh": "三角肌中部",
-    "name_en": "Middle Deltoid",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "在足球護球（Shielding）動作中至關重要，負責抬起手臂卡住對手以保護球權。同時在快速變向與射門時，協助手臂外展以維持身體動態平衡。",
-    "desc_en": "Crucial for shielding the ball; lifts the arm to hold off opponents and protect possession. Also aids in arm abduction to maintain dynamic balance during rapid changes of direction and shooting.",
-    "tags": [
-      "肩帶與肩關節",
-      "足球",
-      "游泳",
-      "籃球",
-      "健身/重訓",
-      "羽毛球",
-      "網球",
-      "外展",
-      "穩定肌",
-      "步態與移動",
-      "護球"
-    ]
-  },
-  {
-    "id": "shoulder_deltoid_anterior",
-    "name_zh": "三角肌前部",
-    "name_en": "Anterior Deltoid",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "負責衝刺時的強力前擺臂，以及邊線擲球（Throw-in）時將球舉過頭頂並向前投擲的關鍵肌肉。在身體對抗中，也用於推擠爭搶位置。",
-    "desc_en": "Responsible for powerful forward arm drive during sprinting and is a key muscle for overhead throw-ins. Also used in physical duels to jostle for position.",
-    "tags": [
-      "肩帶與肩關節",
-      "足球",
-      "游泳",
-      "籃球",
-      "健身/重訓",
-      "羽毛球",
-      "網球",
       "屈曲",
-      "內旋",
-      "原動肌",
-      "步態與移動",
-      "擲界外球"
-    ]
-  },
-  {
-    "id": "shoulder_deltoid_posterior",
-    "name_zh": "三角肌後部",
-    "name_en": "Posterior Deltoid",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "在擲界外球的準備動作（引臂）中負責手臂伸展。射門或長傳時，手臂的後擺動作能協助平衡對側腿的強力擺動，維持軀幹穩定。",
-    "desc_en": "Responsible for arm extension during the cocking phase of throw-ins. During shooting or long passing, the backward arm swing balances the forceful movement of the contralateral leg, maintaining trunk stability.",
-    "tags": [
-      "肩帶與肩關節",
-      "足球",
-      "游泳",
-      "划艇",
-      "羽毛球",
-      "網球",
-      "棒球/壘球",
       "伸展",
-      "外旋",
+      "足部穩定",
       "原動肌",
-      "穩定肌",
-      "步態與移動",
-      "擲界外球"
-    ]
-  },
-  {
-    "id": "thigh_adductor_magnus",
-    "name_zh": "大內收肌",
-    "name_en": "Adductor Magnus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Muscle_grand_adducteur_copie.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_grand_adducteur_copie.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
-    "desc": "足球員極易受傷的部位。它是「足弓傳球（Inside Pass）」的主要動力來源，並在快速變向（Cutting）與鏟球時穩定骨盆。肌力不足常導致嚴重的鼠蹊部拉傷。",
-    "desc_en": "A site of high injury risk for footballers. It is the primary engine for the 'inside pass' and stabilizes the pelvis during rapid cutting and tackling. Weakness often leads to severe groin strains.",
-    "tags": [
-      "髖部與大腿",
-      "足球",
-      "籃球",
-      "健身/重訓",
-      "登山/健行",
-      "瑜伽",
-      "游泳",
-      "內收",
-      "伸展",
-      "原動肌",
-      "穩定肌",
-      "下肢拉/髖絞鍊",
-      "核心穩定",
-      "步態與移動",
-      "傳球"
-    ]
-  },
-  {
-    "id": "shoulder_teres_major",
-    "name_zh": "大圓肌",
-    "name_en": "Teres Major",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Gray_%E2%80%94_musculus_teres_major.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_teres_major.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "協助擲界外球時的加速投擲動作。在激烈的身體推擠中，協助背闊肌穩定上半身，確保在與對手糾纏時不失去平衡。",
-    "desc_en": "Assists in the acceleration phase of throw-ins. Works with the latissimus dorsi to stabilize the upper body during physical jostling, ensuring balance is maintained while grappling with opponents.",
-    "tags": [
-      "肩帶與肩關節",
-      "足球",
-      "游泳",
-      "划艇",
-      "健身/重訓",
-      "伸展",
-      "內收",
-      "內旋",
-      "上肢拉-垂直",
-      "原動肌",
-      "穩定肌"
-    ]
-  },
-  {
-    "id": "hand_abductor_digiti_minimi",
-    "name_zh": "小指外展肌",
-    "name_en": "Abductor Digiti Minimi",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gray_%E2%80%94_musculus_abductor_digiti_minimi.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "對一般球員應保持放鬆。對守門員而言，此肌肉負責擴大手指張開範圍，增加撲救時的觸球面積，提升接球穩定性。",
-    "desc_en": "Should remain relaxed for field players. For goalkeepers, this muscle spreads the fingers to maximize contact area during saves, improving catching stability.",
-    "tags": [
-      "手腕與手部",
-      "足球",
-      "外展",
-      "精細運動",
-      "原動肌",
-      "姿勢維持",
-      "守門"
-    ]
-  },
-  {
-    "id": "forearm_extensor_digiti_minimi",
-    "name_zh": "小指伸肌",
-    "name_en": "Extensor Digiti Minimi",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gray_%E2%80%94_musculus_extensor_digiti_minimi.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "場上奔跑時應放鬆。守門員在單手托球或拳擊球（Punching）時需啟動，以確保手部剛性並保護手指關節。",
-    "desc_en": "Should be relaxed while running. Activated by goalkeepers during tipping or punching the ball to ensure hand rigidity and protect finger joints.",
-    "tags": [
-      "肘部與前臂",
-      "足球",
-      "伸展",
-      "原動肌",
-      "姿勢維持",
-      "守門"
-    ]
-  },
-  {
-    "id": "hand_flexor_digiti_minimi",
-    "name_zh": "小指屈肌短",
-    "name_en": "Flexor Digiti Minimi Brevis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Gray_%E2%80%94_musculus_flexor_digiti_minimi_brevis.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_digiti_minimi_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "協助維持擲界外球時的手掌抓握力。守門員接高空球時，負責手指末端的屈曲控制，防止脫手。",
-    "desc_en": "Assists in maintaining grip strength for throw-ins. For goalkeepers, controls distal finger flexion when catching high balls to prevent fumbling.",
-    "tags": [
-      "手腕與手部",
-      "足球",
-      "屈曲",
-      "精細運動",
-      "原動肌",
-      "姿勢維持",
-      "守門"
-    ]
-  },
-  {
-    "id": "hand_opponens_digiti_minimi",
-    "name_zh": "小指對立肌",
-    "name_en": "Opponens Digiti Minimi",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Gray_%E2%80%94_musculus_opponens_digiti_minimi.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_opponens_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "對守門員至關重要，負責形成「W」型手勢的杯狀結構，確保能穩穩接住強勁的射門。場上球員在倒地撐地時提供手掌邊緣支撐。",
-    "desc_en": "Crucial for goalkeepers to form the cupped shape (W-technique) for securing powerful shots. Provides hypothenar support for field players when bracing a fall.",
-    "tags": [
-      "手腕與手部",
-      "足球",
-      "對立",
-      "精細運動",
-      "原動肌",
-      "姿勢維持",
-      "守門"
-    ]
-  },
-  {
-    "id": "foot_abductor_digiti_minimi",
-    "name_zh": "小趾外展肌",
-    "name_en": "Abductor Digiti Minimi",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gray_%E2%80%94_musculus_abductor_digiti_minimi.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "足球員的「防扭傷護衛」。在變向過人（Dribbling）或射門支撐腳著地時，負責穩定足部外側，抵抗巨大的側向剪力，預防腳踝內翻（翻腳刀）。",
-    "desc_en": "The footballer's 'anti-sprain guard'. Stabilizes the lateral foot during dribbling cuts or when planting the support foot for a shot, resisting lateral shear forces and preventing ankle inversion.",
-    "tags": [
-      "踝部與足部",
-      "足球",
-      "瑜伽",
-      "外展",
-      "屈曲",
-      "原動肌",
-      "足弓支撐",
-      "穩定肌",
       "步態與移動",
       "變向能力"
-    ]
-  },
-  {
-    "id": "shoulder_teres_minor",
-    "name_zh": "小圓肌",
-    "name_en": "Teres Minor",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gray_%E2%80%94_musculus_teres_minor.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_teres_minor.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "在投擲界外球的「準備期」負責外旋動作。更重要的是在身體衝撞倒地時，保護肩關節穩定，防止脫臼。",
-    "desc_en": "Responsible for external rotation during the cocking phase of throw-ins. More importantly, stabilizes the shoulder joint during falls from physical challenges, preventing dislocation.",
-    "tags": [
-      "肩帶與肩關節",
-      "足球",
-      "游泳",
-      "棒球/壘球",
-      "網球",
-      "羽毛球",
-      "健身/重訓",
-      "外旋",
-      "原動肌",
-      "穩定肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "thorax_intercostal_internal",
-    "name_zh": "內側肋間肌",
-    "name_en": "Internal Intercostal",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Internal_intercostal_muscles_animation.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Internal_intercostal_muscles_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "在全場衝刺回防後的恢復期協助快速排氣。在胸部停球（Chest Trap）或頭球爭頂時，瞬間收縮以固化胸廓，承受球的衝擊力。",
-    "desc_en": "Assists rapid expiration during recovery after box-to-box sprints. Contracts momentarily during chest traps or aerial duels to rigidify the rib cage for impact absorption.",
-    "tags": [
-      "胸廓",
-      "足球",
-      "HIIT/CrossFit",
-      "呼吸輔助",
-      "核心穩定",
-      "停球"
-    ]
-  },
-  {
-    "id": "head_medial_pterygoid",
-    "name_zh": "內翼肌",
-    "name_en": "Medial Pterygoid",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Medial_pterygoid_muscle_animation_2.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Medial_pterygoid_muscle_animation_2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "足球員在射門發力或爭頂時常不自覺用力咬合。過度緊繃會消耗專注力與能量，學習在非對抗狀態下放鬆下顎有助於比賽表現。",
-    "desc_en": "Footballers often unconsciously clench their jaw when shooting or heading. Excessive tension drains focus and energy; learning to relax the jaw during non-contact phases improves performance.",
-    "tags": [
-      "顱骨與顳顎關節",
-      "足球",
-      "拳擊/格鬥",
-      "健身/重訓",
-      "屈曲",
-      "內收",
-      "原動肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "forearm_extensor_carpi_ulnaris",
-    "name_zh": "尺側腕伸肌",
-    "name_en": "Extensor Carpi Ulnaris",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gray_%E2%80%94_musculus_extensor_carpi_ulnaris.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_carpi_ulnaris.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "守門員關鍵肌群，負責在單手撲救（Tipping）時手腕的尺側偏移與伸展，將球撥出門框。場上球員則在跳躍爭頂時協助擺臂。",
-    "desc_en": "Key muscle for goalkeepers, responsible for wrist ulnar deviation and extension during one-handed saves (tipping) to deflect the ball. Assists arm swing during jumps for headers in field players.",
-    "tags": [
-      "肘部與前臂",
-      "足球",
-      "伸展",
-      "內收",
-      "原動肌",
-      "姿勢維持",
-      "守門"
-    ]
-  },
-  {
-    "id": "forearm_flexor_carpi_ulnaris",
-    "name_zh": "尺側腕屈肌",
-    "name_en": "Flexor Carpi Ulnaris",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/7/75/Flexor_carpi_ulnaris.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Flexor_carpi_ulnaris.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "守門員抱球時負責手腕屈曲與內收。一般球員在被鏟倒落地時，此肌肉常需承受手掌撐地的衝擊力。",
-    "desc_en": "Responsible for wrist flexion and adduction when goalkeepers cradle the ball. For field players, this muscle bears impact forces when breaking a fall with the hands.",
-    "tags": [
-      "肘部與前臂",
-      "足球",
-      "屈曲",
-      "內收",
-      "原動肌",
-      "姿勢維持",
-      "守門"
-    ]
-  },
-  {
-    "id": "foot_quadratus_plantae",
-    "name_zh": "方形肌",
-    "name_en": "Quadratus Plantae",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Muscle_carr%C3%A9_plantaire.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_carr%C3%A9_plantaire.png\">Berichard d&#039;après Gray&#039;s anatomy</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
-    "desc": "在足球鞋內的隱形功臣。修正腳趾的抓地角度，在急停轉向或啟動衝刺的瞬間，確保足底能在釘鞋內有效發力，減少能量流失。",
-    "desc_en": "Unsung hero inside the boot. Corrects toe traction angles, ensuring effective force generation within the cleats during sudden stops, turns, or acceleration, minimizing energy loss.",
-    "tags": [
-      "踝部與足部",
-      "足球",
-      "跑步",
-      "瑜伽",
-      "屈曲",
-      "原動肌",
-      "足弓支撐",
-      "步態與移動",
-      "變向能力"
-    ]
-  },
-  {
-    "id": "forearm_pronator_quadratus",
-    "name_zh": "方形旋前肌",
-    "name_en": "Pronator Quadratus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Pronator-quadratus.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pronator-quadratus.png\">Selket at English Wikipedia</a>, Public domain, via Wikimedia Commons",
-    "desc": "守門員在地面撲接滾地球時，負責將前臂快速旋前以使手掌貼地。場上球員在護球推人時也需此肌肉穩定前臂。",
-    "desc_en": "Enables goalkeepers to rapidly pronate forearms to seal hands against the ground for low saves. Field players need it for forearm stability when shielding opponents.",
-    "tags": [
-      "肘部與前臂",
-      "足球",
-      "旋前",
-      "原動肌",
-      "姿勢維持",
-      "守門"
-    ]
-  },
-  {
-    "id": "calf_soleus",
-    "name_zh": "比目魚肌",
-    "name_en": "Soleus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Soleus_muscle_-_animation.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Soleus_muscle_-_animation.gif\">Polygon data is generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "支撐90分鐘跑動的耐力基礎。在膝蓋微彎的防守姿勢（Jockeying）中，負責穩定踝關節並承受持續的負荷。對於吸收跳躍爭頂落地時的衝擊至關重要。",
-    "desc_en": "The endurance base for 90 minutes. Stabilizes the ankle and bears continuous load during the knees-bent defensive jockeying stance. Vital for absorbing shock when landing from headers.",
-    "tags": [
-      "小腿",
-      "足球",
-      "跑步",
-      "籃球",
-      "健身/重訓",
-      "登山/健行",
-      "單車",
-      "蹠屈",
-      "姿勢維持",
-      "原動肌",
-      "穩定肌",
-      "衝擊吸收",
-      "步態與移動"
-    ]
-  },
-  {
-    "id": "posterior_thigh_semitendinosus",
-    "name_zh": "半腱肌",
-    "name_en": "Semitendinosus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Semitendinosus.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Semitendinosus.png\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "爆發性衝刺的主力。在射門擺腿的末端負責「煞車」小腿，防止膝蓋過度伸直。這是足球員腿後肌拉傷（Hamstring Strain）最常見的肌肉與時機。",
-    "desc_en": "Driver of explosive sprints. 'Brakes' the lower leg at the end of the kicking swing to prevent knee hyperextension. The most common site and mechanism for hamstring strains in footballers.",
-    "tags": [
-      "髖部與大腿",
-      "足球",
-      "跑步",
-      "籃球",
-      "健身/重訓",
-      "登山/健行",
-      "瑜伽",
-      "屈曲",
-      "伸展",
-      "膝關節屈曲",
-      "髖關節伸展",
-      "原動肌",
-      "衝擊吸收",
-      "步態與移動",
-      "下肢拉/髖絞鍊",
-      "射門"
     ]
   },
   {
@@ -884,6 +494,23 @@
     ]
   },
   {
+    "id": "forearm_abductor_pollicis_longus",
+    "name_zh": "拇指外展長肌",
+    "name_en": "Abductor Pollicis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/61/Gray_%E2%80%94_musculus_abductor_pollicis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_pollicis_longus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "守門員肌肉。協助手腕與拇指的穩定外展，在撲接強力射門時提供手部結構的支撐，防止手腕挫傷。",
+    "desc_en": "Goalkeeper muscle. Assists in stable abduction of the wrist and thumb, providing structural support to the hand when blocking powerful shots, helping to prevent wrist sprains.",
+    "tags": [
+      "肘部與前臂",
+      "足球",
+      "外展",
+      "原動肌",
+      "姿勢維持",
+      "守門"
+    ]
+  },
+  {
     "id": "hand_abductor_pollicis_brevis",
     "name_zh": "拇指外展短肌",
     "name_en": "Abductor Pollicis Brevis",
@@ -897,23 +524,6 @@
       "外展",
       "屈曲",
       "精細運動",
-      "原動肌",
-      "姿勢維持",
-      "守門"
-    ]
-  },
-  {
-    "id": "forearm_abductor_pollicis_longus",
-    "name_zh": "拇指外展長肌",
-    "name_en": "Abductor Pollicis Longus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/61/Gray_%E2%80%94_musculus_abductor_pollicis_longus.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_pollicis_longus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "守門員肌肉。協助手腕與拇指的穩定外展，在撲接強力射門時提供手部結構的支撐，防止手腕挫傷。",
-    "desc_en": "Goalkeeper muscle. Assists in stable abduction of the wrist and thumb, providing structural support to the hand when blocking powerful shots, helping to prevent wrist sprains.",
-    "tags": [
-      "肘部與前臂",
-      "足球",
-      "外展",
       "原動肌",
       "姿勢維持",
       "守門"
@@ -1793,27 +1403,6 @@
     ]
   },
   {
-    "id": "foot_lumbricals",
-    "name_zh": "足部蚓狀肌",
-    "name_en": "Lumbricals (Foot)",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Lumbricales_pedis.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_pedis.png\">Uwe Gille</a>, Public domain, via Wikimedia Commons",
-    "desc": "在足球鞋內的精密穩定器。防止腳趾在急停或轉向時出現「抓地（Clawing）」，確保腳趾平貼鞋墊，提供最大的摩擦面積與推進力。",
-    "desc_en": "Precision stabilizers inside the football boot. Prevent toe 'clawing' during sudden stops or turns, ensuring toes remain flat against the insole for maximum friction and propulsion.",
-    "tags": [
-      "足部內在肌-第二層",
-      "足球",
-      "跑步",
-      "瑜伽",
-      "屈曲",
-      "伸展",
-      "足部穩定",
-      "原動肌",
-      "步態與移動",
-      "變向能力"
-    ]
-  },
-  {
     "id": "hand_lumbrical_1",
     "name_zh": "蚓狀肌一（食指）",
     "name_en": "Lumbrical 1 (Index)",
@@ -1883,31 +1472,6 @@
       "精細運動",
       "姿勢維持",
       "守門"
-    ]
-  },
-  {
-    "id": "hip_tensor_fasciae_latae",
-    "name_zh": "闊筋膜張肌 (TFL)",
-    "name_en": "Tensor Fasciae Latae",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Tensor-fasciae-latae.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Tensor-fasciae-latae.png\">colorized by Michael Gasperl</a>, Public domain, via Wikimedia Commons",
-    "desc": "單腳支撐（如射門的立足腳）時的關鍵穩定肌。拉緊髂脛束以鎖定膝蓋外側。足球員常見的「髂脛束摩擦症候群」通常源於此肌肉過度代償臀肌無力。",
-    "desc_en": "Critical stabilizer during single-leg stance (e.g., the plant foot during shooting). Tightens the IT Band to lock the lateral knee. Common 'IT Band Syndrome' in footballers often stems from this muscle compensating for weak glutes.",
-    "tags": [
-      "髖屈肌群",
-      "足球",
-      "籃球",
-      "跑步",
-      "瑜伽",
-      "登山/健行",
-      "屈曲",
-      "外展",
-      "內旋",
-      "穩定肌",
-      "核心穩定",
-      "步態與移動",
-      "下肢推",
-      "射門"
     ]
   },
   {
@@ -2887,6 +2451,31 @@
     ]
   },
   {
+    "id": "hip_tensor_fasciae_latae",
+    "name_zh": "闊筋膜張肌 (TFL)",
+    "name_en": "Tensor Fasciae Latae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Tensor-fasciae-latae.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Tensor-fasciae-latae.png\">colorized by Michael Gasperl</a>, Public domain, via Wikimedia Commons",
+    "desc": "單腳支撐（如射門的立足腳）時的關鍵穩定肌。拉緊髂脛束以鎖定膝蓋外側。足球員常見的「髂脛束摩擦症候群」通常源於此肌肉過度代償臀肌無力。",
+    "desc_en": "Critical stabilizer during single-leg stance (e.g., the plant foot during shooting). Tightens the IT Band to lock the lateral knee. Common 'IT Band Syndrome' in footballers often stems from this muscle compensating for weak glutes.",
+    "tags": [
+      "髖屈肌群",
+      "足球",
+      "籃球",
+      "跑步",
+      "瑜伽",
+      "登山/健行",
+      "屈曲",
+      "外展",
+      "內旋",
+      "穩定肌",
+      "核心穩定",
+      "步態與移動",
+      "下肢推",
+      "射門"
+    ]
+  },
+  {
     "id": "thorax_subclavius",
     "name_zh": "鎖下肌",
     "name_en": "Subclavius",
@@ -2988,4 +2577,4 @@
       "姿勢維持"
     ]
   }
-］
+]
