@@ -1,0 +1,2197 @@
+[
+  {
+    "id": "abdomen_external_oblique",
+    "name_zh": "腹外斜肌",
+    "name_en": "External Abdominal Oblique",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Grays_Anatomy_Muscle_oblique_externe.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Grays_Anatomy_Muscle_oblique_externe.png\">Par Henry Vandyke Carter</a>, CC0, via Wikimedia Commons",
+    "desc": "拳擊出拳力量的核心傳遞者。負責產生強大的軀幹旋轉力矩（Torque），特別是在投擲勾拳（Hook）與後手直拳（Cross）時。同時作為側面護甲，吸收對手針對腹部的擊打（Body Shot）。",
+    "desc_en": "Core transmitter of punching power. Generates powerful trunk rotational torque, especially during hooks and crosses. Acts as lateral armor to absorb body shots.",
+    "tags": [
+      "腹部與核心",
+      "拳擊",
+      "屈曲",
+      "側屈",
+      "軀幹旋轉與對角線",
+      "原動肌",
+      "核心穩定",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "abdomen_internal_oblique",
+    "name_zh": "腹內斜肌",
+    "name_en": "Internal Abdominal Oblique",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Gray395.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray395.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "與腹外斜肌協同運作，控制精細的旋轉動作。在閃躲（Slipping）與滾動（Rolling）防守動作中，協助快速扭轉軀幹。亦是腹部抗擊打能力的重要防線。",
+    "desc_en": "Works synergistically with external obliques to control fine rotation. Assists in rapid trunk twisting during defensive slips and rolls. A crucial line of defense for abdominal impact absorption.",
+    "tags": [
+      "腹部與核心",
+      "拳擊",
+      "屈曲",
+      "側屈",
+      "軀幹旋轉與對角線",
+      "穩定肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "abdomen_rectus_abdominis",
+    "name_zh": "腹直肌",
+    "name_en": "Rectus Abdominis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/94/Rectus_abdominis_vi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Rectus_abdominis_vi.png\">Mongrangvebet</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "身體正面的主要盾牌。負責在近身纏鬥（Clinch）時捲曲身體以保護內臟，並承受來自正面的直拳或膝擊攻擊。強壯的腹直肌能有效分散衝擊力。",
+    "desc_en": "The primary frontal shield of the body. Curls the trunk to protect organs during clinching and withstands frontal jabs or knees. Strong rectus abdominis effectively disperses impact forces.",
+    "tags": [
+      "腹部與核心",
+      "拳擊",
+      "屈曲",
+      "側屈",
+      "核心穩定",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "abdomen_transversus_abdominis",
+    "name_zh": "腹橫肌",
+    "name_en": "Transversus Abdominis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Transversus_abdominis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Transversus_abdominis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "內在的衝擊緩衝氣囊。透過繃緊核心（Bracing）增加腹內壓，在遭受重擊瞬間保護脊椎與內臟。是所有拳擊動作穩定性的基礎。",
+    "desc_en": "Internal shock-absorbing airbag. Increases intra-abdominal pressure via bracing to protect the spine and organs at the moment of impact. The foundation of stability for all boxing movements.",
+    "tags": [
+      "腹部與核心",
+      "拳擊",
+      "穩定肌",
+      "核心穩定",
+      "呼吸輔助",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "arm_biceps_brachii",
+    "name_zh": "肱二頭肌",
+    "name_en": "Biceps Brachii",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Biceps_brachii.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Biceps_brachii.png\">Bildbearbetning: sv:Användare:Chrizz</a>, <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "負責防禦架式（Guard）的維持與勾拳（Uppercut/Hook）的發力。在出拳後負責快速收拳（Retraction）回防，避免頭部暴露在對手反擊範圍內。",
+    "desc_en": "Maintains the guard and generates power for uppercuts and hooks. Responsible for rapid arm retraction after a punch to reset defense and prevent exposure to counters.",
+    "tags": [
+      "上臂",
+      "拳擊",
+      "屈曲",
+      "旋後",
+      "上肢拉-垂直",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "arm_brachialis",
+    "name_zh": "肱肌",
+    "name_en": "Brachialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/Brachialis_muscle_-_animation03.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Brachialis_muscle_-_animation03.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "高舉雙手防禦（High Guard）時的主要支撐肌。長時間維持防守姿勢或進行近身肉搏時，此肌肉需持續等長收縮，容易疲勞。",
+    "desc_en": "Primary support muscle for the High Guard. Requires continuous isometric contraction during prolonged defense or infighting, making it prone to fatigue.",
+    "tags": [
+      "上臂",
+      "拳擊",
+      "屈曲",
+      "上肢拉-垂直",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "arm_coracobrachialis",
+    "name_zh": "喙肱肌",
+    "name_en": "Coracobrachialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Coracobrachialis_muscle_-_animation02.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Coracobrachialis_muscle_-_animation02.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助夾緊手肘。在拳擊防守中，負責將上臂貼近肋骨，保護身體兩側不被擊中（護肋），是防禦身體擊打的關鍵小肌肉。",
+    "desc_en": "Helps clamp the elbows tight. During boxing defense, keeps the upper arm close to the ribs to protect the flanks (body defense), a crucial muscle for guarding against body shots.",
+    "tags": [
+      "上臂",
+      "拳擊",
+      "屈曲",
+      "內收",
+      "上肢推-垂直",
+      "穩定肌",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "arm_triceps_brachii_lateral",
+    "name_zh": "肱三頭肌外側頭",
+    "name_en": "Triceps Brachii (Lateral Head)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Triceps_brachii_muscle06.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Triceps_brachii_muscle06.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "出拳「擊打（Snap）」的關鍵肌肉。負責在直拳（Jab/Cross）的最後階段快速伸直手肘，將動能完全傳遞至目標。爆發力不足會導致出拳拖泥帶水。",
+    "desc_en": "Key muscle for the 'snap' of the punch. Rapidly extends the elbow in the final phase of jabs and crosses to transfer kinetic energy to the target. Lack of explosiveness leads to pushing rather than snapping punches.",
+    "tags": [
+      "上臂",
+      "拳擊",
+      "伸展",
+      "上肢推-垂直",
+      "原動肌",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "arm_triceps_brachii_long",
+    "name_zh": "肱三頭肌長頭",
+    "name_en": "Triceps Brachii (Long Head)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Triceps_brachii_muscle06.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Triceps_brachii_muscle06.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助肩關節伸展與強力出拳。在長距離重拳中，協同背闊肌將力量從核心傳導至手臂。緊繃會限制出拳的延伸幅度。",
+    "desc_en": "Assists in shoulder extension and powerful punching. Synergizes with the lats to transfer force from the core to the arm in long-range power shots. Tightness restricts punch extension range.",
+    "tags": [
+      "上臂",
+      "拳擊",
+      "伸展",
+      "內收",
+      "上肢推-垂直",
+      "原動肌",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "arm_triceps_brachii_medial",
+    "name_zh": "肱三頭肌內側頭",
+    "name_en": "Triceps Brachii (Medial Head)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Triceps_brachii_muscle06.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Triceps_brachii_muscle06.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責出拳伸直的精準控制與耐力。在頻繁刺拳（Jab）試探中，維持手肘伸展的穩定性，確保擊打點準確。",
+    "desc_en": "Responsible for precision control and endurance in punch extension. Maintains elbow extension stability during frequent jabbing, ensuring accurate impact placement.",
+    "tags": [
+      "上臂",
+      "拳擊",
+      "伸展",
+      "上肢推-垂直",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "back_erector_spinae",
+    "name_zh": "豎脊肌",
+    "name_en": "Erector Spinae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Gray389_-_Erector_spinae.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray389_-_Erector_spinae.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "維持格鬥站架（Stance）的基礎。在下潛（Duck）與U型閃躲（Weave）後，負責快速挺身回復姿勢。強壯的豎脊肌能防止在被擊中頭部時姿勢崩潰。",
+    "desc_en": "Foundation of the fighting stance. Responsbile for rapid realignment after ducks and weaves. Strong erector spinae prevent posture collapse when taking hits to the head.",
+    "tags": [
+      "脊柱骨骼",
+      "背部肌群",
+      "拳擊",
+      "伸展",
+      "側屈",
+      "衝擊吸收",
+      "姿勢維持",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "back_latissimus_dorsi",
+    "name_zh": "背闊肌",
+    "name_en": "Latissimus Dorsi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/Latissimus_dorsi_muscle_animation3.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Latissimus_dorsi_muscle_animation3.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "重拳力量的整合樞紐。負責將手臂快速拉回防守位置（Reload），並在短勾拳與身體擊打中連接核心力量。發達的背闊肌能如盔甲般保護背部與肋骨後側。",
+    "desc_en": "Integration hub for punching power. Rapidly retracts the arm for defense (reload) and connects core power during short hooks and body shots. Developed lats act as armor for the back and posterior ribs.",
+    "tags": [
+      "背部肌群",
+      "拳擊",
+      "內收",
+      "伸展",
+      "內旋",
+      "上肢拉-垂直",
+      "原動肌",
+      "核心穩定",
+      "步態與移動",
+      "軀幹旋轉與對角線"
+    ]
+  },
+  {
+    "id": "back_quadratus_lumborum",
+    "name_zh": "腰方肌",
+    "name_en": "Quadratus Lumborum",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Quadratuslumborum.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Quadratuslumborum.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "側閃（Slip）動作的驅動者。負責快速側屈軀幹以避開對手直拳。同時在移動中穩定骨盆，確保出拳時下盤穩固。",
+    "desc_en": "Driver of the slipping motion. Rapidly laterally flexes the trunk to evade jabs. Also stabilizes the pelvis during movement, ensuring a solid base for punching.",
+    "tags": [
+      "背部肌群",
+      "腹部與核心",
+      "拳擊",
+      "側屈",
+      "伸展",
+      "穩定肌",
+      "核心穩定",
+      "步態與移動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "calf_fibularis_brevis",
+    "name_zh": "腓骨短肌",
+    "name_en": "Fibularis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/be/Fibularis_brevis_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Fibularis_brevis_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "防止側向滑步時扭傷。在拳擊頻繁的側向移動（Lateral Movement）與快速變向中，負責穩定腳踝外側，防止翻腳刀。",
+    "desc_en": "Prevents sprains during lateral shuffles. Stabilizes the lateral ankle during frequent lateral movement and rapid directional changes in boxing, preventing inversion sprains.",
+    "tags": [
+      "小腿外側肌群",
+      "拳擊",
+      "外翻",
+      "蹠屈",
+      "踝關節蹠屈",
+      "足部外翻",
+      "原動肌",
+      "踝關節穩定",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "calf_fibularis_longus",
+    "name_zh": "腓骨長肌（重複項-請參照Peroneus Longus）",
+    "name_en": "Fibularis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Superior_view_fibularis_longus_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Superior_view_fibularis_longus_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "旋轉發力的足部支點。透過壓低第一蹠骨，在出拳轉腳（Pivot）時提供穩固的支點，將地面反作用力有效傳遞至腿部與核心。",
+    "desc_en": "Foot fulcrum for rotational power. Depresses the first metatarsal to provide a solid pivot point when turning the foot during a punch, transferring ground reaction force to the legs and core.",
+    "tags": [
+      "小腿外側肌群",
+      "拳擊",
+      "外翻",
+      "蹠屈",
+      "踝關節蹠屈",
+      "足部外翻",
+      "原動肌",
+      "足弓支撐",
+      "足部穩定",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "calf_gastrocnemius",
+    "name_zh": "腓腸肌",
+    "name_en": "Gastrocnemius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Gastrocnemius_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gastrocnemius_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責拳擊步法中的「啟動」與「突進」。提供快速變向、向前滑步（Step-in）出拳的爆發力。在小腿像彈簧般跳動（Bouncing）時扮演關鍵角色。",
+    "desc_en": "Responsible for 'initiation' and 'lunging' in boxing footwork. Provides explosive power for rapid directional changes and step-in punches. Key role in the bouncing rhythm of the stance.",
+    "tags": [
+      "小腿",
+      "拳擊",
+      "蹠屈",
+      "膝關節屈曲",
+      "原動肌",
+      "衝擊吸收",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "calf_soleus",
+    "name_zh": "比目魚肌",
+    "name_en": "Soleus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Soleus_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Soleus_muscle_-_animation.gif\">Polygon data is generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "站架耐力的守護者。拳擊手長時間保持膝蓋微彎與踮腳姿勢，比目魚肌需持續穩定腳踝，確保在回合後段仍能維持靈活的步法。",
+    "desc_en": "Guardian of stance endurance. Boxers maintain slightly bent knees and raised heels for long periods; the soleus stabilizes the ankle to ensure agile footwork even in later rounds.",
+    "tags": [
+      "小腿",
+      "拳擊",
+      "蹠屈",
+      "姿勢維持",
+      "原動肌",
+      "穩定肌",
+      "衝擊吸收",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "calf_tibialis_posterior",
+    "name_zh": "脛骨後肌",
+    "name_en": "Tibialis Posterior",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/df/Inferior_view_of_tibialis_posterior_muscle_-_animation.gif",
+    "img_source": "https://upload.wikimedia.org/wikipedia/commons/d/df/Inferior_view_of_tibialis_posterior_muscle_-_animation.gif",
+    "desc": "支撐足弓的動態穩定器。在不斷的跳動與旋轉中維持足弓剛性，確保力量從地面無損地傳遞至全身。功能失常會影響轉腰發力的效率。",
+    "desc_en": "Dynamic stabilizer of the arch. Maintains arch rigidity during constant bouncing and pivoting, ensuring lossless force transmission from the ground up. Dysfunction impairs the efficiency of rotational power generation.",
+    "tags": [
+      "小腿深層肌群",
+      "拳擊",
+      "蹠屈",
+      "內翻",
+      "足弓支撐",
+      "原動肌",
+      "穩定肌",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "foot_abductor_digiti_minimi",
+    "name_zh": "小趾外展肌",
+    "name_en": "Abductor Digiti Minimi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gray_%E2%80%94_musculus_abductor_digiti_minimi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "側向平衡的微調器。在快速向外側滑步或急停時，協助擴大外側支撐面，防止身體重心過度偏移而失去平衡。",
+    "desc_en": "Fine-tuner for lateral balance. Assists in widening the lateral base of support during quick lateral shuffles or stops, preventing excessive center-of-gravity shifts.",
+    "tags": [
+      "踝部與足部",
+      "拳擊",
+      "外展",
+      "屈曲",
+      "原動肌",
+      "足弓支撐",
+      "穩定肌",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "foot_abductor_hallucis",
+    "name_zh": "拇外展肌",
+    "name_en": "Abductor Hallucis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Abductor_hallucis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Abductor_hallucis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "前腳掌支撐的關鍵。在拳擊鞋中穩定大拇指根部，協助在旋轉出拳（Pivoting）時抓住地面，提供穩固的旋轉軸心。",
+    "desc_en": "Key to forefoot support. Stabilizes the base of the big toe inside boxing shoes, helping to grip the floor during pivoting punches to provide a solid rotational axis.",
+    "tags": [
+      "踝部與足部",
+      "拳擊",
+      "外展",
+      "屈曲",
+      "原動肌",
+      "足弓支撐",
+      "足部穩定",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "foot_adductor_hallucis",
+    "name_zh": "拇內收肌",
+    "name_en": "Adductor Hallucis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Musculus_adductor_hallucis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Musculus_adductor_hallucis.png\">Image:Gray445.png modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "在重拳發力瞬間，透過穩定大拇指與硬化足弓，將蹬地的力量轉化為向前的動能。對於後腳蹬地發力至關重要。",
+    "desc_en": "During power punches, stabilizes the big toe and stiffens the arch to convert ground push-off into forward kinetic energy. Crucial for the rear foot drive.",
+    "tags": [
+      "踝部與足部",
+      "拳擊",
+      "內收",
+      "屈曲",
+      "原動肌",
+      "足弓支撐",
+      "橫向足弓",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "foot_extensor_digitorum_longus",
+    "name_zh": "長趾伸肌（足部段）",
+    "name_en": "Extensor Digitorum Longus (Distal)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/77/Extensor_digitorum_longus_muscle_-_animation_2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_digitorum_longus_muscle_-_animation_2.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在步法變換與快速前後滑步時，協助腳趾離地，避免腳尖絆倒。維持腳趾在鞋內的動態位置。",
+    "desc_en": "Assists in toe clearance during footwork transitions and rapid shuffling to prevent tripping. Maintains dynamic toe position inside the shoe.",
+    "tags": [
+      "小腿",
+      "踝部與足部",
+      "拳擊",
+      "背屈",
+      "伸展",
+      "原動肌",
+      "衝擊吸收"
+    ]
+  },
+  {
+    "id": "foot_extensor_hallucis_longus",
+    "name_zh": "長拇趾伸肌（足部段）",
+    "name_en": "Extensor Hallucis Longus (Distal)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Extensor_hallucis_longus_muscle_-_animation_2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_hallucis_longus_muscle_-_animation_2.gif\">Was a bee</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在移動中負責提起大拇指。拳擊手常需快速調整站位，此肌肉確保大腳趾在移動瞬間不會卡住地面。",
+    "desc_en": "Lifts the big toe during movement. Boxers need to adjust stance rapidly; this muscle ensures the big toe doesn't catch on the floor during shuffling.",
+    "tags": [
+      "小腿",
+      "踝部與足部",
+      "拳擊",
+      "背屈",
+      "伸展",
+      "原動肌",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "foot_intrinsic_abductor_hallucis",
+    "name_zh": "拇趾外展肌（內在肌視角）",
+    "name_en": "Abductor Hallucis (Intrinsic)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Abductor_hallucis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Abductor_hallucis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "足部核心肌群。在穿著拳擊鞋時提供前腳掌的抓地感與穩定性，特別是在做旋轉動作（Pivoting）以創造出拳角度時。",
+    "desc_en": "Foot Core muscle. Provides forefoot grip and stability within boxing shoes, especially when pivoting to create punching angles.",
+    "tags": [
+      "踝部與足部",
+      "拳擊",
+      "外展",
+      "穩定肌",
+      "足弓支撐",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "foot_intrinsic_flexor_digitorum_brevis",
+    "name_zh": "短趾屈肌（足部內在肌）",
+    "name_en": "Flexor Digitorum Brevis (Intrinsic)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Muscle_court_fl%C3%A9chisseur_des_orteils.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_court_fl%C3%A9chisseur_des_orteils.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "在快速跳動步伐中（Bouncing）負責維持足弓彈性。協助將腳趾向下抓地，提升變向時的地面反作用力效率。",
+    "desc_en": "Maintains arch elasticity during bouncing footwork. Assists in gripping the toes downward to improve ground reaction force efficiency during directional changes.",
+    "tags": [
+      "踝部與足部",
+      "拳擊",
+      "屈曲",
+      "穩定肌",
+      "足弓支撐",
+      "步態與移動",
+      "衝擊吸收"
+    ]
+  },
+  {
+    "id": "foot_lumbricals",
+    "name_zh": "足部蚓狀肌",
+    "name_en": "Lumbricals (Foot)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Lumbricales_pedis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_pedis.png\">Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "在蹬地發力時維持腳趾平貼地面，防止腳趾捲曲（Clawing），確保鞋底與擂台地板有最大的接觸面積以傳遞力量。",
+    "desc_en": "Keeps toes flat against the ground during push-off, preventing clawing. Ensures maximum contact area between the shoe sole and the canvas for power transmission.",
+    "tags": [
+      "足部內在肌-第二層",
+      "拳擊",
+      "屈曲",
+      "伸展",
+      "足部穩定",
+      "原動肌",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "foot_peroneus_longus",
+    "name_zh": "長腓骨肌",
+    "name_en": "Peroneus Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Superior_view_fibularis_longus_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Superior_view_fibularis_longus_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "拳擊「旋轉力」的起點。透過壓低第一蹠骨，允許拳擊手在不失去平衡的情況下有力地內旋腳踝（Pivot），啟動全身動力鏈。",
+    "desc_en": "The starting point of rotational power. Depresses the first metatarsal, allowing the boxer to forcefully internally rotate the ankle (pivot) without losing balance, initiating the kinetic chain.",
+    "tags": [
+      "小腿",
+      "踝部與足部",
+      "拳擊",
+      "蹠屈",
+      "外翻",
+      "原動肌",
+      "穩定肌",
+      "足弓支撐",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "foot_quadratus_plantae",
+    "name_zh": "方形肌",
+    "name_en": "Quadratus Plantae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Muscle_carr%C3%A9_plantaire.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_carr%C3%A9_plantaire.png\">Berichard d&#039;après Gray&#039;s anatomy</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "協助腳趾在快速移動與變向中直線抓地。確保蹬地力量方向正確，避免力量因足部結構不穩而流失。",
+    "desc_en": "Assists toes in gripping straight during rapid movement and cutting. Ensures push-off force is directed correctly, preventing power loss due to foot instability.",
+    "tags": [
+      "踝部與足部",
+      "拳擊",
+      "屈曲",
+      "原動肌",
+      "足弓支撐",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "forearm_abductor_pollicis_longus",
+    "name_zh": "拇指外展長肌",
+    "name_en": "Abductor Pollicis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/61/Gray_%E2%80%94_musculus_abductor_pollicis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_pollicis_longus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責在握拳時穩定大拇指根部。衝擊瞬間，大拇指的穩定性對於防止手部受傷（如拳擊手骨折或扭傷）至關重要。",
+    "desc_en": "Stabilizes the base of the thumb during a fist. At impact, thumb stability is critical for preventing hand injuries (e.g., fractures or sprains).",
+    "tags": [
+      "肘部與前臂",
+      "拳擊",
+      "外展",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_brachioradialis",
+    "name_zh": "肱橈肌",
+    "name_en": "Brachioradialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/09/Brachioradialis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Brachioradialis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在防禦架式（Guard）中維持手肘屈曲。在勾拳（Uppercut）動作中協助穩定前臂角度，確保力量傳遞路徑。",
+    "desc_en": "Maintains elbow flexion in the Guard. Assists in stabilizing the forearm angle during uppercuts to ensure force transmission path.",
+    "tags": [
+      "肘部與前臂",
+      "拳擊",
+      "屈曲",
+      "上肢拉-水平",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_carpi_radialis_brevis",
+    "name_zh": "橈側腕伸肌短肌",
+    "name_en": "Extensor Carpi Radialis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Gray_%E2%80%94_musculus_extensor_carpi_radialis_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_carpi_radialis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "拳擊手最重要的手腕穩定肌之一。在擊中目標瞬間，負責鎖定手腕防止過度彎曲（Buckling），直接承受衝擊力。",
+    "desc_en": "One of the most important wrist stabilizers for boxers. Locks the wrist at the moment of impact to prevent buckling, directly absorbing the shock.",
+    "tags": [
+      "肘部與前臂",
+      "拳擊",
+      "伸展",
+      "外展",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_carpi_radialis_longus",
+    "name_zh": "橈側腕伸肌長肌",
+    "name_en": "Extensor Carpi Radialis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/53/Extensor_carpi_radialis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_carpi_radialis_longus.png\">Me</a>, Public domain, via Wikimedia Commons",
+    "desc": "與短肌共同協作，確保手腕在出拳接觸目標瞬間保持剛性直立，防止手腕因衝擊力而彎曲受傷。是重拳傳遞力量的關鍵橋樑。",
+    "desc_en": "Works with the brevis to ensure the wrist remains rigid and straight at the moment of impact, preventing wrist buckling and injury. A key bridge for power transmission in heavy punches.",
+    "tags": [
+      "肘部與前臂",
+      "拳擊",
+      "伸展",
+      "外展",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_carpi_ulnaris",
+    "name_zh": "尺側腕伸肌",
+    "name_en": "Extensor Carpi Ulnaris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gray_%E2%80%94_musculus_extensor_carpi_ulnaris.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_carpi_ulnaris.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責穩定手腕尺側（小指側）。在勾拳（Hook）擊打時承受巨大的剪力，此肌肉必須強壯以防止手腕向小指方向過度偏移。",
+    "desc_en": "Stabilizes the ulnar side (pinky side) of the wrist. Withstands immense shear forces during hooks; must be strong to prevent excessive ulnar deviation upon impact.",
+    "tags": [
+      "肘部與前臂",
+      "拳擊",
+      "伸展",
+      "內收",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_digiti_minimi",
+    "name_zh": "小指伸肌",
+    "name_en": "Extensor Digiti Minimi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gray_%E2%80%94_musculus_extensor_digiti_minimi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在張開手掌進行拍擊防守（Parry）或拍擋後，負責快速伸展小指。在握拳時應保持適度放鬆。",
+    "desc_en": "Rapidly extends the little finger after opening the hand for parrying or blocking. Should remain relatively relaxed when making a fist.",
+    "tags": [
+      "肘部與前臂",
+      "拳擊",
+      "伸展",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_digitorum",
+    "name_zh": "指伸肌",
+    "name_en": "Extensor Digitorum",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Extensor_digitorum_muscle.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_digitorum_muscle.png\">Mikael Häggström</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責在出拳間隙放鬆手指。拳擊手不能隨時握緊拳頭，這會消耗能量。此肌肉負責在防守或佯攻時快速張開手掌進行干擾。",
+    "desc_en": "Relaxes fingers between punches. Boxers cannot clench fists constantly as it wastes energy. This muscle rapidly opens the hand for defensive parries or feints.",
+    "tags": [
+      "肘部與前臂",
+      "拳擊",
+      "伸展",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_indicis",
+    "name_zh": "食指伸肌",
+    "name_en": "Extensor Indicis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Extensor_indicis_muscle.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_indicis_muscle.png\">Mikael Häggström</a>, Public domain, via Wikimedia Commons",
+    "desc": "獨立伸展食指。在格鬥中，有時用於手掌張開的防守動作（Catch/Parry），但在握拳擊打時應完全放鬆。",
+    "desc_en": "Independently extends the index finger. Used during open-handed defensive maneuvers (catches/parries), but must be fully relaxed when clenching the fist for impact.",
+    "tags": [
+      "肘部與前臂",
+      "拳擊",
+      "伸展",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_pollicis_brevis",
+    "name_zh": "拇指伸短肌",
+    "name_en": "Extensor Pollicis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Gray_%E2%80%94_musculus_extensor_pollicis_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_pollicis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助大拇指在握拳前定位。正確的握拳姿勢是拇指壓在食指與中指上，此肌肉協助維持拇指基部的穩定位置。",
+    "desc_en": "Assists in thumb positioning before clenching. A proper fist has the thumb pressing over the index and middle fingers; this muscle helps stabilize the thumb base.",
+    "tags": [
+      "肘部與前臂",
+      "拳擊",
+      "伸展",
+      "外展",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_pollicis_longus",
+    "name_zh": "拇指伸長肌",
+    "name_en": "Extensor Pollicis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/80/Gray_%E2%80%94_musculus_extensor_pollicis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_pollicis_longus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在受傷防護中扮演角色。若出拳角度不當導致拇指遭受撞擊（Jamming），強健的伸拇肌群有助於抵抗過度屈曲帶來的傷害。",
+    "desc_en": "Plays a role in injury prevention. If a punch lands poorly causing thumb jamming, strong thumb extensors help resist injury from excessive flexion.",
+    "tags": [
+      "肘部與前臂",
+      "拳擊",
+      "伸展",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_flexor_carpi_radialis",
+    "name_zh": "橈側腕屈肌",
+    "name_en": "Flexor Carpi Radialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Gray_%E2%80%94_musculus_flexor_carpi_radialis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_carpi_radialis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責在勾拳（Hook）或上勾拳（Uppercut）時微調手腕角度，並協助強力握拳。強壯的腕屈肌能提升手腕關節在近身肉搏時的抗壓性。",
+    "desc_en": "Fine-tunes wrist angle during hooks or uppercuts and assists in powerful gripping. Strong wrist flexors improve joint resilience during infighting.",
+    "tags": [
+      "肘部與前臂",
+      "拳擊",
+      "屈曲",
+      "外展",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_flexor_carpi_ulnaris",
+    "name_zh": "尺側腕屈肌",
+    "name_en": "Flexor Carpi Ulnaris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/75/Flexor_carpi_ulnaris.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Flexor_carpi_ulnaris.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "穩定手腕尺側，對於承受重擊至關重要。在進行格擋（Blocking）對手掃腿或重拳時，負責維持前臂與手腕的剛性。",
+    "desc_en": "Stabilizes the ulnar wrist, critical for absorbing heavy impacts. Maintains rigidity of the forearm and wrist when blocking opponent's kicks or power punches.",
+    "tags": [
+      "肘部與前臂",
+      "拳擊",
+      "屈曲",
+      "內收",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_flexor_digitorum_profundus",
+    "name_zh": "深指屈肌",
+    "name_en": "Flexor Digitorum Profundus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/24/Flexor-digitorum-profundis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Flexor-digitorum-profundis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "握緊拳頭（Making a Fist）的核心肌肉。負責手指末端的捲曲，將拳頭握實。在擊中目標前的瞬間，此肌肉必須爆發性收縮以硬化拳頭。",
+    "desc_en": "Core muscle for making a fist. Curls the distal finger joints to solidify the hand. Must contract explosively milliseconds before impact to harden the fist.",
+    "tags": [
+      "肘部與前臂",
+      "拳擊",
+      "屈曲",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_flexor_digitorum_superficialis",
+    "name_zh": "淺指屈肌",
+    "name_en": "Flexor Digitorum Superficialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/93/Gray_%E2%80%94_musculus_flexor_digitorum_superficialis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_digitorum_superficialis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助握拳的主要肌肉。在長時間的訓練或比賽中，拳擊手需學會「放鬆-握緊」的切換技巧，以免此肌肉過早疲勞導致握力下降。",
+    "desc_en": "Primary muscle for gripping. Boxers must master the 'relax-clench' switch to prevent premature fatigue and grip strength loss during long bouts.",
+    "tags": [
+      "肘部與前臂",
+      "拳擊",
+      "屈曲",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_flexor_pollicis_longus",
+    "name_zh": "長拇指屈肌",
+    "name_en": "Flexor Pollicis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Musculus_flexor_pollicis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Musculus_flexor_pollicis_longus.png\">Me</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責將大拇指鎖緊在拳頭上。穩固的大拇指位置能防止在擊打時大拇指受傷，並增加拳頭整體的結構強度。",
+    "desc_en": "Locks the thumb onto the fist. A secure thumb position prevents injury upon impact and increases the overall structural integrity of the fist.",
+    "tags": [
+      "肘部與前臂",
+      "拳擊",
+      "屈曲",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_palmaris_longus",
+    "name_zh": "掌長肌",
+    "name_en": "Palmaris Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/86/Palmaris-longus-horizontal.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Palmaris-longus-horizontal.png\">Henry Gray</a>, Public domain, via Wikimedia Commons",
+    "desc": "拉緊掌腱膜，協助握拳穩定。在擊打沙袋或對手時，幫助手掌吸收部分衝擊力。部分人群缺失此肌肉，但不影響拳擊表現。",
+    "desc_en": "Tenses the palmar aponeurosis, assisting in fist stability. Helps absorb shock impact when hitting heavy bags or opponents. Absent in some, but does not affect boxing performance.",
+    "tags": [
+      "肘部與前臂",
+      "拳擊",
+      "屈曲",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_pronator_quadratus",
+    "name_zh": "方形旋前肌",
+    "name_en": "Pronator Quadratus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Pronator-quadratus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pronator-quadratus.png\">Selket at English Wikipedia</a>, Public domain, via Wikimedia Commons",
+    "desc": "出拳「旋轉（Snap）」的關鍵深層肌肉。負責在直拳（Jab/Cross）接觸目標的最後瞬間將前臂快速旋前（拇指朝下），增加穿透力。",
+    "desc_en": "Key deep muscle for the punch 'snap'. Rapidly pronates the forearm (thumb down) at the final moment of impact for jabs and crosses, increasing penetration power.",
+    "tags": [
+      "肘部與前臂",
+      "拳擊",
+      "旋前",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_pronator_teres",
+    "name_zh": "旋前圓肌",
+    "name_en": "Pronator Teres",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Gray_%E2%80%94_musculus_pronator_teres.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_pronator_teres.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "主要的前臂旋轉發動機。與背闊肌協同，將手臂像鞭子一樣旋轉甩出。強大的旋前力量能讓拳頭在擊中對手防禦時鑽進空隙。",
+    "desc_en": "Primary engine for forearm rotation. Synergizes with the lats to whip the arm out. Strong pronation force allows the fist to drill through opponents' guards.",
+    "tags": [
+      "肘部與前臂",
+      "拳擊",
+      "屈曲",
+      "旋前",
+      "上肢拉-水平",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_supinator",
+    "name_zh": "旋後肌",
+    "name_en": "Supinator",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Gray_%E2%80%94_musculus_supinator.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_supinator.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責上勾拳（Uppercut）與部分勾拳的旋轉動作。將前臂外旋（掌心朝上/內），使拳頭能繞過對手防禦從下方或側面攻擊。",
+    "desc_en": "Responsible for rotation in uppercuts and some hooks. Supinates the forearm (palm up/in), allowing the fist to bypass defenses and attack from below or the side.",
+    "tags": [
+      "肘部與前臂",
+      "拳擊",
+      "旋後",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_abductor_digiti_minimi",
+    "name_zh": "小指外展肌",
+    "name_en": "Abductor Digiti Minimi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gray_%E2%80%94_musculus_abductor_digiti_minimi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責穩定手掌尺側邊緣（手刀部位）。在握拳時，協助將小指緊緊收攏於拳心，防止拳頭鬆散導致受傷。",
+    "desc_en": "Stabilizes the ulnar border (knife-edge) of the hand. Assists in tucking the little finger tightly into the palm when making a fist, preventing injury from a loose grip.",
+    "tags": [
+      "手腕與手部",
+      "拳擊",
+      "外展",
+      "精細運動",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_abductor_pollicis_brevis",
+    "name_zh": "拇指外展短肌",
+    "name_en": "Abductor Pollicis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Gray_%E2%80%94_musculus_abductor_pollicis_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_pollicis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助調整大拇指位置以形成完美的拳頭。在張手拍擋（Parry）與握拳反擊之間快速切換時發揮作用。",
+    "desc_en": "Assists in adjusting thumb position for a perfect fist. Active during rapid transitions between open-handed parries and clenched counter-punches.",
+    "tags": [
+      "手腕與手部",
+      "拳擊",
+      "外展",
+      "屈曲",
+      "精細運動",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_adductor_pollicis",
+    "name_zh": "拇指內收肌",
+    "name_en": "Adductor Pollicis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gray_%E2%80%94_musculus_adductor_pollicis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_adductor_pollicis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "握拳時負責將大拇指緊壓在食指與中指指節上。這是「鎖拳」的關鍵動作，確保大拇指不會在擊打時被勾到或扭傷。",
+    "desc_en": "Presses the thumb tightly against the index and middle knuckles when making a fist. Key for 'locking' the fist, ensuring the thumb doesn't get snagged or sprained upon impact.",
+    "tags": [
+      "手腕與手部",
+      "拳擊",
+      "內收",
+      "精細運動",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_dorsal_interossei_1",
+    "name_zh": "背側骨間肌一",
+    "name_en": "Dorsal Interosseous 1",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/1121_Intrinsic_Muscles_of_the_Hand_DIL.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_DIL.png\">CFCF</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "在防守動作中，負責張開手指以覆蓋更大的防禦面積（如拍擋或阻擋視線）。在握拳時則處於靜止狀態。",
+    "desc_en": "Spreads fingers during defensive maneuvers to cover more surface area (e.g., parrying or obstructing vision). Remains quiescent when the fist is clenched.",
+    "tags": [
+      "手腕與手部",
+      "拳擊",
+      "外展",
+      "屈曲",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_dorsal_interossei_2",
+    "name_zh": "背側骨間肌二",
+    "name_en": "Dorsal Interosseous 2",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/1121_Intrinsic_Muscles_of_the_Hand_DIL.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_DIL.png\">CFCF</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "協助穩定中指掌指關節。中指指節（Middle knuckle）是拳擊手套主要的接觸點之一，此肌肉有助於維持結構穩定。",
+    "desc_en": "Stabilizes the middle finger MCP joint. The middle knuckle is a primary contact point in boxing gloves; this muscle helps maintain structural integrity.",
+    "tags": [
+      "手腕與手部",
+      "拳擊",
+      "外展",
+      "屈曲",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_dorsal_interossei_3",
+    "name_zh": "背側骨間肌三",
+    "name_en": "Dorsal Interosseous 3",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/1121_Intrinsic_Muscles_of_the_Hand_DIL.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_DIL.png\">CFCF</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "輔助無名指的動作。在長時間佩戴拳擊手套與纏手帶後，這些小肌肉容易僵硬，需進行適當的伸展。",
+    "desc_en": "Assists ring finger movement. These small muscles can become stiff after prolonged use of boxing gloves and hand wraps, requiring proper stretching.",
+    "tags": [
+      "手腕與手部",
+      "拳擊",
+      "外展",
+      "屈曲",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_dorsal_interossei_4",
+    "name_zh": "背側骨間肌四",
+    "name_en": "Dorsal Interosseous 4",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/1121_Intrinsic_Muscles_of_the_Hand_DIL.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_DIL.png\">CFCF</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "協助穩定小指側的手掌結構。在進行側面格擋（Block）時，手掌外側需承受衝擊，此肌肉提供內在支撐。",
+    "desc_en": "Stabilizes the ulnar side of the hand structure. During lateral blocks, the outer palm absorbs impact, and this muscle provides intrinsic support.",
+    "tags": [
+      "手腕與手部",
+      "拳擊",
+      "外展",
+      "屈曲",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_flexor_digiti_minimi",
+    "name_zh": "小指屈肌短",
+    "name_en": "Flexor Digiti Minimi Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Gray_%E2%80%94_musculus_flexor_digiti_minimi_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_digiti_minimi_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "強化小指的握持力。雖然小指不是主要的擊打點，但其緊握程度直接影響拳頭整體的密合度與堅硬度。",
+    "desc_en": "Strengthens the little finger's grip. Although not the primary impact point, the tightness of the little finger directly affects the overall compactness and hardness of the fist.",
+    "tags": [
+      "手腕與手部",
+      "拳擊",
+      "屈曲",
+      "精細運動",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_flexor_pollicis_brevis",
+    "name_zh": "拇指屈短肌",
+    "name_en": "Flexor Pollicis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Gray_%E2%80%94_musculus_flexor_pollicis_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_pollicis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "大魚際肌群的一部分，提供強大的拇指屈曲力。確保大拇指能牢固地扣住拳頭，防止擊打時拇指滑脫。",
+    "desc_en": "Part of the thenar eminence, providing strong thumb flexion. Ensures the thumb is securely tucked over the fist, preventing slippage upon impact.",
+    "tags": [
+      "手腕與手部",
+      "拳擊",
+      "屈曲",
+      "精細運動",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_lumbrical_1",
+    "name_zh": "蚓狀肌一（食指）",
+    "name_en": "Lumbrical 1 (Index)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lumbricales_%28hand%29.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png\">Image:Gray427.png modified</a>, Public domain, via Wikimedia Commons",
+    "desc": "在手掌張開與握拳之間進行協調。確保掌指關節（Knuckles）正確屈曲，使拳峰突出以進行有效打擊。",
+    "desc_en": "Coordinates between open hand and fist. Ensures proper flexion of the MCP joints (knuckles), allowing them to protrude for effective impact.",
+    "tags": [
+      "手腕與手部",
+      "拳擊",
+      "屈曲",
+      "伸展",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_lumbrical_2",
+    "name_zh": "蚓狀肌二（中指）",
+    "name_en": "Lumbrical 2 (Middle)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lumbricales_%28hand%29.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png\">Image:Gray427.png modified</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助中指形成正確的拳型。中指指節通常是重拳的主要接觸點，此肌肉協助維持指節角度，減少受傷風險。",
+    "desc_en": "Assists the middle finger in forming a proper fist. The middle knuckle is often the primary contact point for power punches; helps maintain knuckle angle to reduce injury risk.",
+    "tags": [
+      "手腕與手部",
+      "拳擊",
+      "屈曲",
+      "伸展",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_lumbrical_3",
+    "name_zh": "蚓狀肌三（無名指）",
+    "name_en": "Lumbrical 3 (Ring)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lumbricales_%28hand%29.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png\">Image:Gray427.png modified</a>, Public domain, via Wikimedia Commons",
+    "desc": "協調無名指的屈伸。在握拳時，確保無名指緊貼手掌，避免手指排列不齊導致拳頭結構鬆散。",
+    "desc_en": "Coordinates ring finger flexion/extension. Ensures the ring finger is tucked tight against the palm when fisting, avoiding misalignment and a loose fist structure.",
+    "tags": [
+      "手腕與手部",
+      "拳擊",
+      "屈曲",
+      "伸展",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_lumbrical_4",
+    "name_zh": "蚓狀肌四（小指）",
+    "name_en": "Lumbrical 4 (Little)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lumbricales_%28hand%29.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png\">Image:Gray427.png modified</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助小指緊扣拳心。是拳擊手骨折（Boxer's Fracture）的好發區域相關肌肉，正確的握拳姿勢能減少第四、五掌骨受力。",
+    "desc_en": "Helps tuck the little finger into the palm. Related to the area prone to Boxer's Fracture; proper fist formation minimizes stress on the 4th and 5th metacarpals.",
+    "tags": [
+      "手腕與手部",
+      "拳擊",
+      "屈曲",
+      "伸展",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_opponens_digiti_minimi",
+    "name_zh": "小指對立肌",
+    "name_en": "Opponens Digiti Minimi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Gray_%E2%80%94_musculus_opponens_digiti_minimi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_opponens_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責將手掌外緣向中心捲曲，增加手掌的杯狀深度，使握拳更為紮實有力。",
+    "desc_en": "Curls the outer edge of the palm towards the center, increasing the cupping depth of the palm for a denser, more solid fist.",
+    "tags": [
+      "手腕與手部",
+      "拳擊",
+      "對立",
+      "精細運動",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_opponens_pollicis",
+    "name_zh": "拇指對立肌",
+    "name_en": "Opponens Pollicis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Gray_%E2%80%94_musculus_opponens_pollicis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_opponens_pollicis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "將大拇指帶向其他手指，是形成封閉拳頭（Closed Fist）的關鍵。在拇指受傷復健中非常重要的肌肉。",
+    "desc_en": "Brings the thumb across to meet the fingers, key to forming a closed fist. A crucial muscle for rehabilitation after thumb injuries.",
+    "tags": [
+      "手腕與手部",
+      "拳擊",
+      "對立",
+      "精細運動",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_palmar_interossei_1",
+    "name_zh": "掌側骨間肌一",
+    "name_en": "Palmar Interosseous 1",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Braus_1921_215.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Braus_1921_215.png\">Braus, Hermann</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責食指內收。在握拳時，將手指緊緊靠攏，消除指間空隙，確保拳頭結構如岩石般堅硬。",
+    "desc_en": "Adducts the index finger. When making a fist, it pulls fingers tightly together, eliminating gaps to ensure the fist structure is as solid as a rock.",
+    "tags": [
+      "手腕與手部",
+      "拳擊",
+      "內收",
+      "屈曲",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_palmar_interossei_2",
+    "name_zh": "掌側骨間肌二",
+    "name_en": "Palmar Interosseous 2",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Braus_1921_215.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Braus_1921_215.png\">Braus, Hermann</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責無名指內收。與其他骨間肌協同工作，維持拳頭的整體緊密度，防止擊打時手指因撞擊而散開。",
+    "desc_en": "Adducts the ring finger. Works synergistically with other interossei to maintain overall fist compactness, preventing fingers from splaying upon impact.",
+    "tags": [
+      "手腕與手部",
+      "拳擊",
+      "內收",
+      "屈曲",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_palmar_interossei_3",
+    "name_zh": "掌側骨間肌三",
+    "name_en": "Palmar Interosseous 3",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Braus_1921_215.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Braus_1921_215.png\">Braus, Hermann</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責小指內收。收緊手掌尺側，對於側面格擋（Parry/Block）時的手掌剛性至關重要。",
+    "desc_en": "Adducts the little finger. Tightens the ulnar side of the palm, crucial for hand rigidity during lateral parries or blocks.",
+    "tags": [
+      "手腕與手部",
+      "拳擊",
+      "內收",
+      "屈曲",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_palmaris_brevis",
+    "name_zh": "掌短肌",
+    "name_en": "Palmaris Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Gray_%E2%80%94_musculus_palmaris_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_palmaris_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "握拳時加深手掌凹陷。雖是小肌肉，但在極度用力的握拳（如重拳擊打瞬間）會收縮以保護手掌尺側神經血管。",
+    "desc_en": "Deepens the palm hollow when making a fist. A small muscle, but contracts during maximal clenching (moment of heavy impact) to protect ulnar neurovascular structures.",
+    "tags": [
+      "手腕與手部",
+      "拳擊",
+      "姿勢維持",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "head_masseter",
+    "name_zh": "咬肌",
+    "name_en": "Masseter",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/13/Masseter_muscle_animation_small.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Masseter_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "下顎防護的第一道防線。在預期頭部遭受重擊時，咬緊牙套（Mouthguard）能固定下顎，減少腦震盪風險與下巴骨折機率。",
+    "desc_en": "First line of defense for the jaw. Clenching the mouthguard stabilizes the mandible when anticipating head shots, reducing the risk of concussion and jaw fracture.",
+    "tags": [
+      "顱骨與顳顎關節",
+      "拳擊",
+      "屈曲",
+      "提升/下壓",
+      "姿勢維持",
+      "衝擊吸收"
+    ]
+  },
+  {
+    "id": "head_medial_pterygoid",
+    "name_zh": "內翼肌",
+    "name_en": "Medial Pterygoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Medial_pterygoid_muscle_animation_2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Medial_pterygoid_muscle_animation_2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "與咬肌共同負責咬合。強壯的內翼肌有助於在頭部被側向擊打（如勾拳）時穩定下顎位置，防止過度位移。",
+    "desc_en": "Works with the masseter for jaw closure. Strong medial pterygoids help stabilize jaw position against lateral impact forces (like hooks), preventing excessive displacement.",
+    "tags": [
+      "顱骨與顳顎關節",
+      "拳擊",
+      "屈曲",
+      "內收",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "head_temporalis",
+    "name_zh": "顳肌",
+    "name_en": "Temporalis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Temporal_muscle_-_lateral_view.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Temporal_muscle_-_lateral_view.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助閉口與下顎後縮。在收下巴（Chin Tuck）防守姿勢中，協助固定下顎，保護格鬥家最脆弱的「開關」部位。",
+    "desc_en": "Assists in closing and retracting the jaw. Helps secure the mandible during the 'Chin Tuck' defensive posture, protecting the fighter's vulnerable 'off switch'.",
+    "tags": [
+      "顱骨與顳顎關節",
+      "拳擊",
+      "屈曲",
+      "提升/下壓",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hip_adductor_brevis",
+    "name_zh": "短內收肌",
+    "name_en": "Adductor Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/55/Adductor_brevis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Adductor_brevis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "步法控制的微調器。在出拳後，協助後腿快速跟進（Step-up），保持雙腿間距適中，確保隨時處於平衡狀態。",
+    "desc_en": "Fine-tuner for footwork control. Assists the rear leg in stepping up quickly after a punch, maintaining optimal stance width and ensuring constant balance.",
+    "tags": [
+      "內收肌群",
+      "拳擊",
+      "內收",
+      "屈曲",
+      "外旋",
+      "原動肌",
+      "穩定肌",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "hip_gluteus_maximus",
+    "name_zh": "臀大肌",
+    "name_en": "Gluteus Maximus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Gluteus_maximus_3D.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gluteus_maximus_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "重拳力量的發動機。負責後腿蹬地的強力髖伸展，將地面反作用力傳遞至核心，是直拳（Cross）穿透力的主要來源。",
+    "desc_en": "The engine of knockout power. Responsible for powerful hip extension in the rear leg drive, transferring ground force to the core; the primary source of penetration power in the Cross.",
+    "tags": [
+      "髖部與大腿",
+      "拳擊",
+      "伸展",
+      "外旋",
+      "外展",
+      "下肢拉/髖絞鍊",
+      "衝擊吸收",
+      "原動肌",
+      "核心穩定",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "hip_gluteus_medius",
+    "name_zh": "臀中肌",
+    "name_en": "Gluteus Medius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Gluteus_medius_muscle_-_animation01.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gluteus_medius_muscle_-_animation01.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "側向滑步（Lateral Movement）的主導者。在環繞步（Circling）時負責外展大腿，並在出拳時穩定骨盆，防止力量因下盤不穩而流失。",
+    "desc_en": "Conductor of lateral movement. Abducts the thigh during circling and stabilizes the pelvis during punching, preventing power leakage due to lower body instability.",
+    "tags": [
+      "髖部與大腿",
+      "拳擊",
+      "外展",
+      "外旋",
+      "穩定肌",
+      "步態與移動",
+      "衝擊吸收",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "hip_gluteus_minimus",
+    "name_zh": "臀小肌",
+    "name_en": "Gluteus Minimus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Gluteus_minimus_muscle_animation04.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gluteus_minimus_muscle_animation04.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "深層骨盆穩定器。在快速轉身或變換角度（Pivot）時，將股骨頭鎖定在關節窩內，確保旋轉動作精準且迅速。",
+    "desc_en": "Deep pelvic stabilizer. Locks the femoral head in the socket during rapid pivots or angle changes, ensuring precise and swift rotational movements.",
+    "tags": [
+      "臀部肌群",
+      "拳擊",
+      "外展",
+      "內旋",
+      "穩定肌",
+      "核心穩定",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "hip_gracilis",
+    "name_zh": "薄肌（髖部段）",
+    "name_en": "Gracilis (Hip)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gracilis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gracilis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助控制雙腿間距。在大幅度閃躲或下潛後，協助將腿部拉回起始戰鬥站架（Stance）。",
+    "desc_en": "Helps control stance width. Assists in pulling the legs back to the initial fighting stance after wide slips or ducks.",
+    "tags": [
+      "內收肌群",
+      "拳擊",
+      "內收",
+      "屈曲",
+      "內旋",
+      "原動肌",
+      "穩定肌",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "hip_iliacus",
+    "name_zh": "髂肌",
+    "name_en": "Iliacus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Iliacus_muscle_-_animation05.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Iliacus_muscle_-_animation05.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "步法靈活性的關鍵。負責快速屈髖，使拳擊手能迅速提腿進行前後滑步（Shuffling）或在近身戰中調整位置。",
+    "desc_en": "Key to footwork agility. Responsible for rapid hip flexion, allowing the boxer to quickly lift legs for shuffling or position adjustment during infighting.",
+    "tags": [
+      "髖屈肌群",
+      "拳擊",
+      "屈曲",
+      "外旋",
+      "原動肌",
+      "步態與移動",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "hip_iliopsoas",
+    "name_zh": "髂腰肌",
+    "name_en": "Iliopsoas",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Braus_1921_244.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Braus_1921_244.png\">Braus, Hermann</a>, Public domain, via Wikimedia Commons",
+    "desc": "連接下肢與軀幹的動力橋樑。在所有出拳動作中，負責將下肢產生的力量向上傳遞至軀幹。緊繃的髂腰肌會限制轉腰幅度，降低重拳威力。",
+    "desc_en": "Power bridge connecting legs and trunk. Transfers force generated by the lower body up to the trunk in all punches. Tight iliopsoas restricts hip rotation, reducing knockout power.",
+    "tags": [
+      "髖部與大腿",
+      "拳擊",
+      "屈曲",
+      "外旋",
+      "下肢推",
+      "步態與移動",
+      "原動肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "hip_obturator_externus",
+    "name_zh": "閉孔外肌",
+    "name_en": "Obturator Externus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/14/Obturator_externus_large.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Obturator_externus_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "深層旋轉穩定肌。在拳擊手進行快速的「轉腳（Pivot）」動作時，穩定股骨頭，確保旋轉軸心不偏離。",
+    "desc_en": "Deep rotational stabilizer. Stabilizes the femoral head during the boxer's rapid 'pivot' motions, ensuring the axis of rotation remains centered.",
+    "tags": [
+      "深層外旋肌群",
+      "拳擊",
+      "外旋",
+      "穩定肌",
+      "股骨頭穩定"
+    ]
+  },
+  {
+    "id": "hip_obturator_internus",
+    "name_zh": "閉孔內肌",
+    "name_en": "Obturator Internus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Obturator_internus_large.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Obturator_internus_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助產生強大的外旋扭力。在後手重拳（Cross）啟動瞬間，協助臀部肌群將髖關節猛力外旋，將體重壓入拳頭。",
+    "desc_en": "Assists in generating powerful external rotation torque. Helps the glutes forcefully externally rotate the hip at the start of a Cross, driving body weight into the punch.",
+    "tags": [
+      "深層外旋肌群",
+      "拳擊",
+      "外旋",
+      "外展",
+      "穩定肌",
+      "股骨頭穩定",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "hip_pectineus",
+    "name_zh": "恥骨肌",
+    "name_en": "Pectineus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Pectineus_3D.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pectineus_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "步法快速變換的輔助肌。在交叉步（Cross-step）或側向移動時，負責大腿的內收與屈曲控制，防止鼠蹊部拉傷。",
+    "desc_en": "Accessory muscle for rapid footwork changes. Controls thigh adduction and flexion during cross-steps or lateral movements, preventing groin strains.",
+    "tags": [
+      "內收肌群",
+      "拳擊",
+      "內收",
+      "屈曲",
+      "內旋",
+      "原動肌",
+      "穩定肌",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "hip_piriformis",
+    "name_zh": "梨狀肌",
+    "name_en": "Piriformis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/39/Piriformis_large.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Piriformis_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "轉腰發力的關鍵樞紐。在出拳轉髖（Hip Rotation）時提供必要的穩定性與外旋力量。過度頻繁的轉動容易導致此肌肉緊繃壓迫坐骨神經。",
+    "desc_en": "Key hub for rotational power. Provides stability and external rotation force during hip rotation for punches. Frequent pivoting can cause tightness here, compressing the sciatic nerve.",
+    "tags": [
+      "深層外旋肌群",
+      "拳擊",
+      "外旋",
+      "外展",
+      "穩定肌",
+      "核心穩定",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "hip_psoas_major",
+    "name_zh": "腰大肌",
+    "name_en": "Psoas Major",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Psoas_major_muscle_-_animation04.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Psoas_major_muscle_-_animation04.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "下潛（Duck）與回身動作的核心。控制軀幹的前屈，使拳擊手能快速下潛躲避頭部攻擊，並利用彈性位能迅速反擊。",
+    "desc_en": "Core of the Duck and counter. Controls trunk flexion, enabling the boxer to quickly duck under head shots and utilize elastic energy for a snap counter.",
+    "tags": [
+      "髖屈肌群",
+      "拳擊",
+      "屈曲",
+      "內旋",
+      "側屈",
+      "原動肌",
+      "步態與移動",
+      "姿勢維持",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "hip_quadratus_femoris",
+    "name_zh": "股方肌",
+    "name_en": "Quadratus Femoris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Quadratus_femoris_large.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Quadratus_femoris_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助後腳穩定的深層肌。在後手直拳發力時，微調並穩定後腿的髖關節外旋，確保力量傳遞路徑不偏移。",
+    "desc_en": "Deep stabilizer for the rear leg. Fine-tunes and stabilizes hip external rotation during the rear cross drive, ensuring the force transmission path remains true.",
+    "tags": [
+      "深層外旋肌群",
+      "拳擊",
+      "外旋",
+      "穩定肌",
+      "股骨頭穩定",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "hip_tensor_fasciae_latae",
+    "name_zh": "闊筋膜張肌 (TFL)",
+    "name_en": "Tensor Fasciae Latae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Tensor-fasciae-latae.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Tensor-fasciae-latae.png\">colorized by Michael Gasperl</a>, Public domain, via Wikimedia Commons",
+    "desc": "側向移動的穩定器。透過拉緊髂脛束，在側滑步（Lateral Shuffle）時穩定膝關節外側，防止膝蓋晃動。",
+    "desc_en": "Stabilizer for lateral movement. Tenses the IT Band to stabilize the lateral knee during lateral shuffles, preventing knee wobble.",
+    "tags": [
+      "髖屈肌群",
+      "拳擊",
+      "屈曲",
+      "外展",
+      "內旋",
+      "穩定肌",
+      "核心穩定",
+      "步態與移動",
+      "下肢推"
+    ]
+  },
+  {
+    "id": "knee_popliteus",
+    "name_zh": "膕肌",
+    "name_en": "Popliteus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Popliteus_muscle_-animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Popliteus_muscle_-animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "膝關節解鎖肌。拳擊手需保持膝蓋微彎且靈活（Soft Knees），膕肌負責防止膝關節鎖死（Lock-out），使步法能隨時啟動。",
+    "desc_en": "Knee unlocking muscle. Boxers must keep 'soft knees'; the popliteus prevents knee lock-out, ensuring footwork can be initiated at any moment.",
+    "tags": [
+      "膝關節",
+      "拳擊",
+      "屈曲",
+      "膝關節屈曲",
+      "膝關節內旋",
+      "穩定肌",
+      "膝關節穩定",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "neck_anterior_scalene",
+    "name_zh": "前斜角肌",
+    "name_en": "Anterior Scalene",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Scalenus_anterior_-_animation04.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Scalenus_anterior_-_animation04.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "頸部防禦的側面支柱。負責穩定頸椎，減少頭部被側面擊打（勾拳）時產生的劇烈甩動（Whiplash），保護神經與血管。",
+    "desc_en": "Lateral pillar of neck defense. Stabilizes the cervical spine, reducing whiplash acceleration when the head is struck from the side (hooks), protecting nerves and vessels.",
+    "tags": [
+      "頸部肌群",
+      "頸椎",
+      "拳擊",
+      "步態與移動",
+      "屈曲",
+      "側屈",
+      "穩定肌",
+      "呼吸輔助",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "neck_digastric",
+    "name_zh": "二腹肌",
+    "name_en": "Digastric",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gray_%E2%80%94_musculus_digastricus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_digastricus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助吞嚥與下顎穩定。在激烈的格鬥中，透過穩定舌骨，幫助維持上呼吸道暢通，確保高強度運動下的氧氣供應。",
+    "desc_en": "Assists in swallowing and jaw stability. During intense fighting, helps maintain upper airway patency by stabilizing the hyoid, ensuring oxygen supply under high exertion.",
+    "tags": [
+      "頸部肌群",
+      "拳擊",
+      "提升/下壓",
+      "穩定肌",
+      "呼吸輔助",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "neck_longus_colli",
+    "name_zh": "頸長肌",
+    "name_en": "Longus Colli",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/96/Gray_%E2%80%94_musculus_longus_colli.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_longus_colli.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "收下巴（Chin Tuck）的主動肌。維持下巴貼近胸口的防禦姿勢，隱藏下顎要害，減少被擊倒（KO）的風險。",
+    "desc_en": "Prime mover for the Chin Tuck. Maintains the chin-to-chest defensive posture, hiding the jaw button and reducing the risk of a knockout.",
+    "tags": [
+      "頸椎",
+      "頸部肌群",
+      "拳擊",
+      "步態與移動",
+      "屈曲",
+      "穩定肌",
+      "姿勢維持",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "neck_mylohyoid",
+    "name_zh": "顎舌骨肌",
+    "name_en": "Mylohyoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/92/Mylohyoid_muscle.PNG",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Mylohyoid_muscle.PNG\">User:Mikael Häggström</a>, Public domain, via Wikimedia Commons",
+    "desc": "口腔底部的支撐肌。在咬緊牙套時提供口腔底部的張力，協助固定下顎與舌頭，防止在受擊時舌頭受傷。",
+    "desc_en": "Support muscle of the mouth floor. Provides tension to the floor of the mouth when clenching the mouthguard, helping secure the jaw and tongue to prevent tongue injury upon impact.",
+    "tags": [
+      "頸部肌群",
+      "拳擊",
+      "屈曲",
+      "提升/下壓",
+      "穩定肌",
+      "姿勢維持",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "neck_omohyoid",
+    "name_zh": "肩胛舌骨肌",
+    "name_en": "Omohyoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Muscle_omo-hyoidien.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_omo-hyoidien.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "連結肩胛骨與頸部前側。在出拳肩膀前送（Reach）時，協助穩定頸部筋膜，防止頸部靜脈受壓，確保腦部血液回流。",
+    "desc_en": "Connects scapula to anterior neck. During the shoulder reach of a punch, stabilizes cervical fascia to prevent venous compression, ensuring cerebral blood return.",
+    "tags": [
+      "頸部肌群",
+      "拳擊",
+      "提升/下壓",
+      "穩定肌",
+      "姿勢維持",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "neck_sternocleidomastoid",
+    "name_zh": "胸鎖乳突肌",
+    "name_en": "Sternocleidomastoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Sternomastoid_muscle_animation_small2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Sternomastoid_muscle_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "頸部抗擊打的關鍵肌肉。極為強壯，負責抵抗頭部旋轉與後仰的衝擊力。發達的SCM是高水準拳擊手的外觀特徵，能顯著降低腦震盪機率。",
+    "desc_en": "Critical muscle for neck impact resistance. Extremely strong; resists head rotation and extension forces from punches. Developed SCM is a hallmark of elite boxers, significantly reducing concussion risk.",
+    "tags": [
+      "頸部肌群",
+      "拳擊",
+      "步態與移動",
+      "軀幹旋轉與對角線",
+      "屈曲",
+      "側屈",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "neck_sternohyoid",
+    "name_zh": "胸骨舌骨肌",
+    "name_en": "Sternohyoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/67/Sternohyoid_muscle.PNG",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Sternohyoid_muscle.PNG\">User:Mikael Häggström</a>, Public domain, via Wikimedia Commons",
+    "desc": "頸前部的保護層。協助吞嚥並保護氣管前側。在頭部後仰時提供被動張力，保護喉部結構。",
+    "desc_en": "Protective layer of the anterior neck. Assists swallowing and protects the anterior trachea. Provides passive tension during head extension to shield laryngeal structures.",
+    "tags": [
+      "頸部肌群",
+      "拳擊",
+      "提升/下壓",
+      "穩定肌",
+      "姿勢維持",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "pelvis_levator_ani",
+    "name_zh": "提肛肌",
+    "name_en": "Levator Ani",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Levator_ani.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Levator_ani.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "核心力量的底座。在強力出拳吐氣（Exhale on impact）時，與橫隔膜協同收縮，極大化腹內壓，為脊椎提供液壓般的支撐。",
+    "desc_en": "Base of core power. Contracts synergistically with the diaphragm during the sharp exhale on impact, maximizing intra-abdominal pressure to provide hydraulic-like support for the spine.",
+    "tags": [
+      "骨盆帶",
+      "拳擊",
+      "提升/下壓",
+      "核心穩定",
+      "姿勢維持",
+      "穩定肌",
+      "衝擊吸收"
+    ]
+  },
+  {
+    "id": "posterior_thigh_biceps_femoris",
+    "name_zh": "股二頭肌",
+    "name_en": "Biceps Femoris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Biceps_femoris_muscle_-_animation_1.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Biceps_femoris_muscle_-_animation_1.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責維持格鬥站架（Stance）的膝蓋微彎姿勢。在快速後撤（Step-back）或防守後仰（Pull）時，負責強力的拉回動作，控制身體重心的後移。",
+    "desc_en": "Maintains the bent-knee fighting stance. Responsible for the powerful pull-back motion during step-backs or defensive pulls, controlling the backward shift of the center of gravity.",
+    "tags": [
+      "腿後肌群",
+      "拳擊",
+      "屈曲",
+      "伸展",
+      "膝關節屈曲",
+      "髖關節伸展",
+      "膝關節外旋",
+      "原動肌",
+      "衝擊吸收",
+      "步態與移動",
+      "下肢拉/髖絞鍊"
+    ]
+  },
+  {
+    "id": "posterior_thigh_semitendinosus",
+    "name_zh": "半腱肌",
+    "name_en": "Semitendinosus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Semitendinosus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Semitendinosus.png\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責控制膝關節的動態穩定。在快速突進（Dash）後急停時，協助吸收向前的動量，保護膝蓋後側。同時輔助快速後撤步的啟動。",
+    "desc_en": "Controls dynamic knee stability. Absorbs forward momentum when stopping abruptly after a dash, protecting the posterior knee. Assists in initiating rapid backsteps.",
+    "tags": [
+      "髖部與大腿",
+      "拳擊",
+      "屈曲",
+      "伸展",
+      "膝關節屈曲",
+      "髖關節伸展",
+      "原動肌",
+      "衝擊吸收",
+      "步態與移動",
+      "下肢拉/髖絞鍊"
+    ]
+  },
+  {
+    "id": "shin_tibialis_anterior",
+    "name_zh": "脛骨前肌",
+    "name_en": "Tibialis Anterior",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/63/Tibialis_anterior_muscle_-_animation_1.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Tibialis_anterior_muscle_-_animation_1.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "步法微調器。在前後滑步時負責快速勾起腳尖，防止絆倒。在重心後移（Back foot heavy）的防守態勢中，協助控制腳掌著地角度。",
+    "desc_en": "Footwork adjuster. Rapidly dorsiflexes the foot during shuffling to prevent tripping. Helps control foot landing angle during back-foot defensive stances.",
+    "tags": [
+      "小腿前側肌群",
+      "拳擊",
+      "背屈",
+      "內翻",
+      "原動肌",
+      "衝擊吸收",
+      "足弓支撐",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "shoulder_deltoid_anterior",
+    "name_zh": "三角肌前部",
+    "name_en": "Anterior Deltoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "直拳（Jab/Cross）的主要發動機。負責手臂前推與維持防禦架式（Guard）。長時間舉手防禦與頻繁出刺拳會導致此肌肉極度疲勞。",
+    "desc_en": "The prime mover for straight punches (Jab/Cross). Responsible for pushing the arm forward and maintaining the guard. Prolonged guard holding and frequent jabbing cause extreme fatigue here.",
+    "tags": [
+      "肩帶與肩關節",
+      "拳擊",
+      "屈曲",
+      "內旋",
+      "原動肌",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "shoulder_deltoid_middle",
+    "name_zh": "三角肌中部",
+    "name_en": "Middle Deltoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責抬起手臂進行勾拳（Hook）攻擊。在防禦時，協助維持手肘與身體的距離，防止對手從側面繞過防守。",
+    "desc_en": "Lifts the arm for hook attacks. During defense, helps maintain the distance between elbow and body, preventing opponents from bypassing the guard from the side.",
+    "tags": [
+      "肩帶與肩關節",
+      "拳擊",
+      "外展",
+      "穩定肌",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "shoulder_deltoid_posterior",
+    "name_zh": "三角肌後部",
+    "name_en": "Posterior Deltoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責出拳後的快速收拳（Retraction）。拳擊手必須像出拳一樣快地將手拉回下巴防守，此肌肉是避免被反擊（Counter）的關鍵。",
+    "desc_en": "Responsible for rapid arm retraction after a punch. Boxers must pull the hand back to the chin as fast as they punch; this muscle is key to avoiding counters.",
+    "tags": [
+      "肩帶與肩關節",
+      "拳擊",
+      "伸展",
+      "外旋",
+      "原動肌",
+      "穩定肌",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "shoulder_infraspinatus",
+    "name_zh": "棘下肌",
+    "name_en": "Infraspinatus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Infraspinatus_muscle_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Infraspinatus_muscle_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "肩關節的煞車片。在重拳擊空（Whiffing）時，負責承受巨大的離心力以減速手臂內旋，防止肩關節脫臼或受傷。",
+    "desc_en": "The brake pad of the shoulder. Absorbs immense eccentric force to decelerate internal rotation when a heavy punch misses (whiffing), preventing dislocation or injury.",
+    "tags": [
+      "肩帶與肩關節",
+      "拳擊",
+      "外旋",
+      "上肢拉-水平",
+      "原動肌",
+      "穩定肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "shoulder_levator_scapulae",
+    "name_zh": "提肩胛肌",
+    "name_en": "Levator Scapulae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/97/Levator_scapulae_muscle_animation_small.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Levator_scapulae_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "「聳肩護下巴」的主動肌。在出拳（特別是刺拳）時自然聳起肩膀以保護下巴，減少頭部被擊中的暴露面積。",
+    "desc_en": "The active muscle for 'shoulder rolling' or hiding the chin. Naturally shrugs the shoulder during punches (especially jabs) to protect the chin and minimize target area.",
+    "tags": [
+      "肩帶與肩關節",
+      "頸部肌群",
+      "拳擊",
+      "提升/下壓",
+      "內旋",
+      "肩帶穩定",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_subscapularis",
+    "name_zh": "肩胛下肌",
+    "name_en": "Subscapularis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Subscapularis_muscle_animation3.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Subscapularis_muscle_animation3.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助手臂內旋，增加勾拳與擺拳的發力。作為肩袖肌群前壁，防止在重拳接觸瞬間肱骨頭向後脫位。",
+    "desc_en": "Assists in arm internal rotation, adding power to hooks and swings. As the anterior rotator cuff, prevents posterior dislocation of the humeral head upon heavy impact.",
+    "tags": [
+      "肩帶與肩關節",
+      "拳擊",
+      "內旋",
+      "上肢推-水平",
+      "原動肌",
+      "穩定肌",
+      "核心穩定",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_supraspinatus",
+    "name_zh": "棘上肌",
+    "name_en": "Supraspinatus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Supraspinatus_muscle_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Supraspinatus_muscle_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責啟動手臂外展動作（如平勾拳起始）。在長時間維持高防禦架式（High Guard）時，持續穩定肱骨頭，易因疲勞而受傷。",
+    "desc_en": "Initiates arm abduction (e.g., start of a hook). Continuously stabilizes the humeral head during prolonged High Guard, making it prone to fatigue-related injury.",
+    "tags": [
+      "肩帶與肩關節",
+      "拳擊",
+      "外展",
+      "上肢推-垂直",
+      "原動肌",
+      "穩定肌",
+      "核心穩定",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_teres_major",
+    "name_zh": "大圓肌",
+    "name_en": "Teres Major",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Gray_%E2%80%94_musculus_teres_major.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_teres_major.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "「小背闊肌」。協助快速收拳回防，並在近身勾拳（Short Hook）中提供額外的旋轉與內收力量。",
+    "desc_en": "The 'little lat'. Assists in rapid retraction for defense and provides extra rotational and adduction power during short hooks.",
+    "tags": [
+      "肩帶與肩關節",
+      "拳擊",
+      "伸展",
+      "內收",
+      "內旋",
+      "上肢拉-垂直",
+      "原動肌",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "shoulder_teres_minor",
+    "name_zh": "小圓肌",
+    "name_en": "Teres Minor",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gray_%E2%80%94_musculus_teres_minor.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_teres_minor.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "與棘下肌共同抵抗出拳後的離心力。在反覆的高速出拳訓練（如打手靶）中，保護肩關節後側囊。",
+    "desc_en": "Works with infraspinatus to resist eccentric forces after punching. Protects the posterior shoulder capsule during repetitive high-speed pad work.",
+    "tags": [
+      "肩帶與肩關節",
+      "拳擊",
+      "外旋",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_trapezius_lower",
+    "name_zh": "斜方肌下部",
+    "name_en": "Trapezius (Lower)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Trapezius_animation_small2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Trapezius_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "穩定肩胛骨以傳遞核心力量。在出拳時固定肩胛骨位置，確保身體動能不會因為肩膀鬆動而流失。",
+    "desc_en": "Stabilizes the scapula to transfer core power. Anchors the scapula during punches, ensuring kinetic energy isn't lost due to shoulder instability.",
+    "tags": [
+      "肩帶與肩關節",
+      "拳擊",
+      "下壓",
+      "外旋",
+      "肩帶穩定",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_trapezius_middle",
+    "name_zh": "斜方肌中部",
+    "name_en": "Trapezius (Middle)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Trapezius_animation_small2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Trapezius_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責肩胛骨後收。在收拳（Retraction）階段協助背部肌群將手臂迅速拉回，維持良好的戰鬥體態。",
+    "desc_en": "Responsible for scapular retraction. Assists back muscles in pulling the arm back quickly during the retraction phase, maintaining a solid fighting posture.",
+    "tags": [
+      "肩帶與肩關節",
+      "拳擊",
+      "內收",
+      "肩帶穩定",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_trapezius_upper",
+    "name_zh": "斜方肌上部",
+    "name_en": "Trapezius (Upper)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Trapezius_animation_small2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Trapezius_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "拳擊手的「頸部護盾」。發達的上斜方肌能保護頸椎，並協助聳肩動作以掩護下巴（Shoulder Roll），減輕頭部受擊傷害。",
+    "desc_en": "The boxer's 'neck shield'. Developed upper traps protect the cervical spine and assist in shrugging to hide the chin (Shoulder Roll), mitigating head impact damage.",
+    "tags": [
+      "肩帶與肩關節",
+      "拳擊",
+      "提升/下壓",
+      "外旋",
+      "肩帶穩定",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "thigh_adductor_longus",
+    "name_zh": "長內收肌",
+    "name_en": "Adductor Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/Adductor_longus.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Adductor_longus.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "快速併步（Step-drag）的關鍵。在後腳跟進時負責快速內收大腿，恢復基本站架。變向時承受極大張力。",
+    "desc_en": "Key for step-drag footwork. Responsible for rapidly adducting the thigh when the rear leg follows up, restoring the base stance. Undergoes high tension during direction changes.",
+    "tags": [
+      "內收肌群",
+      "髖部與大腿",
+      "拳擊",
+      "內收",
+      "屈曲",
+      "內旋",
+      "原動肌",
+      "穩定肌",
+      "核心",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "thigh_adductor_magnus",
+    "name_zh": "大內收肌",
+    "name_en": "Adductor Magnus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Muscle_grand_adducteur_copie.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_grand_adducteur_copie.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "寬站架（Wide Stance）下的力量來源。提供強大的髖伸展力量以驅動重拳，同時穩定骨盆防止在大幅度閃躲時失去平衡。",
+    "desc_en": "Power source in a wide stance. Provides powerful hip extension to drive heavy punches while stabilizing the pelvis to prevent balance loss during wide slips.",
+    "tags": [
+      "髖部與大腿",
+      "拳擊",
+      "內收",
+      "伸展",
+      "原動肌",
+      "穩定肌",
+      "下肢拉/髖絞鍊",
+      "核心穩定",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "thigh_gracilis",
+    "name_zh": "股薄肌",
+    "name_en": "Gracilis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gracilis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gracilis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "膝關節內側的穩定索。在側向滑步與快速變向中，防止膝蓋外翻（Valgus），保護膝關節結構。",
+    "desc_en": "The medial stabilizer cable of the knee. Prevents knee valgus during lateral shuffles and rapid cutting, protecting joint structure.",
+    "tags": [
+      "髖部與大腿",
+      "拳擊",
+      "內收",
+      "屈曲",
+      "膝關節屈曲",
+      "膝關節內旋",
+      "原動肌",
+      "穩定肌",
+      "步態與移動",
+      "膝關節穩定"
+    ]
+  },
+  {
+    "id": "thigh_rectus_femoris",
+    "name_zh": "股直肌",
+    "name_en": "Rectus Femoris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/48/Rectus_femoris_3D.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Rectus_femoris_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "突進刺拳（Step-in Jab）的啟動肌。負責快速提腿跨步，縮短與對手的距離。",
+    "desc_en": "Initiator of the step-in jab. Responsible for rapid leg lifting and striding to close the distance on the opponent.",
+    "tags": [
+      "股四頭肌",
+      "拳擊",
+      "伸展",
+      "屈曲",
+      "膝關節伸展",
+      "髖關節屈曲",
+      "原動肌",
+      "下肢推",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "thigh_sartorius",
+    "name_zh": "縫匠肌",
+    "name_en": "Sartorius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Sartorius_3D.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Sartorius_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助複雜的步法動作。在需要同時屈髖、外展與外旋（如防守滑步）時調整腿部位置。",
+    "desc_en": "Assists in complex footwork. Adjusts leg position when simultaneous hip flexion, abduction, and external rotation are required (e.g., defensive shifts).",
+    "tags": [
+      "髖部與大腿",
+      "拳擊",
+      "屈曲",
+      "外旋",
+      "外展",
+      "膝關節屈曲",
+      "膝關節內旋",
+      "原動肌",
+      "步態與移動",
+      "膝關節穩定"
+    ]
+  },
+  {
+    "id": "thigh_vastus_intermedius",
+    "name_zh": "股中間肌",
+    "name_en": "Vastus Intermedius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Vastus_intermedialis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Vastus_intermedialis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "深層膝蓋伸展肌。在半蹲的格鬥站架中提供持續的支撐力，並在蹬地發力時貢獻垂直力量。",
+    "desc_en": "Deep knee extensor. Provides continuous support in the semi-squat fighting stance and contributes vertical force during push-off.",
+    "tags": [
+      "股四頭肌",
+      "拳擊",
+      "伸展",
+      "膝關節伸展",
+      "原動肌",
+      "膝關節穩定",
+      "下肢推",
+      "衝擊吸收",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "thigh_vastus_lateralis",
+    "name_zh": "股外側肌",
+    "name_en": "Vastus Lateralis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Vastus_lateralis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Vastus_lateralis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "側向移動的推進器。在向左/右閃躲或移動時，負責強力伸膝將身體推向預定方向。",
+    "desc_en": "The thruster for lateral movement. Responsible for powerful knee extension to push the body in the intended direction during slips or lateral shuffles.",
+    "tags": [
+      "股四頭肌",
+      "拳擊",
+      "伸展",
+      "膝關節伸展",
+      "原動肌",
+      "膝關節穩定",
+      "下肢推",
+      "衝擊吸收",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "thigh_vastus_medialis",
+    "name_zh": "股內側肌",
+    "name_en": "Vastus Medialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Vastus_medialis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Vastus_medialis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "蹲伏姿勢（Crouch）的守護者。在下潛閃躲（Duck）最低點負責穩定髕骨，提供起身反擊的爆發力。",
+    "desc_en": "Guardian of the crouch. Stabilizes the patella at the bottom of a duck and provides explosive power for rising counters.",
+    "tags": [
+      "股四頭肌",
+      "拳擊",
+      "伸展",
+      "膝關節伸展",
+      "原動肌",
+      "膝關節穩定",
+      "下肢推",
+      "步態與移動"
+    ]
+  },
+  {
+    "id": "thorax_diaphragm",
+    "name_zh": "橫隔膜",
+    "name_en": "Diaphragm",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/71/Diaphragm_-_2.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Diaphragm_-_2.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "核心氣壓控制閥。拳擊手在出拳時短促吐氣（\"Shh\"聲），即是透過橫隔膜急劇收縮增加腹內壓，硬化核心以傳遞力量並抗擊打。",
+    "desc_en": "Core pressure control valve. The sharp exhale (\"Shh\" sound) during punching utilizes rapid diaphragm contraction to spike intra-abdominal pressure, stiffening the core for power transfer and impact resistance.",
+    "tags": [
+      "胸廓",
+      "拳擊",
+      "屈曲",
+      "提升/下壓",
+      "核心穩定",
+      "呼吸輔助",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "thorax_intercostal_internal",
+    "name_zh": "內側肋間肌",
+    "name_en": "Internal Intercostal",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Internal_intercostal_muscles_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Internal_intercostal_muscles_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責主動呼氣與胸廓穩定。在快速連擊時協助高頻率的短促吐氣，並緊縮肋骨間隙，增強胸廓對身體擊打（Body Shot）的承受力。",
+    "desc_en": "Responsible for active expiration and rib cage stability. Assists in high-frequency sharp exhales during combos and tightens intercostal spaces to bolster the rib cage against body shots.",
+    "tags": [
+      "胸廓",
+      "拳擊",
+      "呼吸輔助",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "thorax_pectoralis_major",
+    "name_zh": "胸大肌",
+    "name_en": "Pectoralis Major",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/39/PectoralisMajor.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:PectoralisMajor.gif\">DrJanaOfficial</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "勾拳（Hook）與擺拳（Swing）的主要力量來源。負責肩關節的強力內收與屈曲。同時在防守時將手肘夾緊胸前（Squeeze）。",
+    "desc_en": "Primary power source for hooks and swings. Responsible for powerful shoulder adduction and flexion. Also squeezes elbows tight to the chest during defense.",
+    "tags": [
+      "胸廓",
+      "肩帶與肋關節",
+      "拳擊",
+      "屈曲",
+      "內收",
+      "內旋",
+      "上肢推-水平",
+      "原動肌",
+      "步態與移動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "thorax_pectoralis_minor",
+    "name_zh": "胸小肌",
+    "name_en": "Pectoralis Minor",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/37/Pectoralis_minor_muscle_animation_small.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pectoralis_minor_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助圓背防守（Shelling up）。將肩胛骨前傾，協助將身體縮成一團，減少被攻擊面積。",
+    "desc_en": "Assists in 'shelling up'. Tilts the scapula anteriorly, helping to curl the body into a compact ball to minimize target area.",
+    "tags": [
+      "胸廓",
+      "肩帶與肋關節",
+      "拳擊",
+      "下壓",
+      "前伸",
+      "下迴旋",
+      "內旋",
+      "肩帶穩定",
+      "穩定肌",
+      "呼吸輔助",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "thorax_serratus_anterior",
+    "name_zh": "前鋸肌",
+    "name_en": "Serratus Anterior",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/31/Serratus_anterior_muscle_animation_small.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Serratus_anterior_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "被稱為「拳擊手肌肉」。負責肩胛骨前伸（Protraction），不僅增加出拳的延伸距離（Reach），更是將肩胛骨鎖定在胸壁上以傳遞核心重拳力量的關鍵。",
+    "desc_en": "Known as \"The Boxer's Muscle\". Responsible for scapular protraction, adding critical reach to punches and locking the scapula to the chest wall to transfer heavy core power.",
+    "tags": [
+      "胸廓",
+      "肩帶與肋關節",
+      "拳擊",
+      "外展",
+      "上肢推-水平",
+      "上肢推-垂直",
+      "屈曲",
+      "肩帶穩定",
+      "核心穩定",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "thorax_subclavius",
+    "name_zh": "鎖下肌",
+    "name_en": "Subclavius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Subclavius_muscle_animation2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Subclavius_muscle_animation2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "鎖骨穩定器。在出拳擊中目標的瞬間，保護胸鎖關節（SC Joint）免受反作用力震盪。",
+    "desc_en": "Clavicle stabilizer. Protects the sternoclavicular (SC) joint from reaction force shock at the moment of punch impact.",
+    "tags": [
+      "胸廓",
+      "拳擊",
+      "呼吸輔助",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "thorax_transversus_thoracis",
+    "name_zh": "胸橫肌",
+    "name_en": "Transversus Thoracis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Transversus_thoracis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Transversus_thoracis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "位於胸骨內側，協助呼氣。在被擊中胸口時，協助穩定胸壁結構。",
+    "desc_en": "Located inside the sternum, assists in expiration. Helps stabilize the chest wall structure when taking a hit to the chest.",
+    "tags": [
+      "胸廓",
+      "拳擊",
+      "呼吸輔助"
+    ]
+  }
+]
