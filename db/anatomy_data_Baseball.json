@@ -1,0 +1,2327 @@
+[
+  {
+    "id": "abdomen_external_oblique",
+    "name_zh": "腹外斜肌",
+    "name_en": "External Abdominal Oblique",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Grays_Anatomy_Muscle_oblique_externe.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Grays_Anatomy_Muscle_oblique_externe.png\">Par Henry Vandyke Carter</a>, CC0, via Wikimedia Commons",
+    "desc": "棒球投球與打擊動作的核心動力來源。負責產生強大的軀幹旋轉力矩，將下肢力量傳遞至上肢。投手常因過度反覆扭轉而拉傷此處（側腹痛）。",
+    "desc_en": "Power source for pitching and batting. Generates powerful trunk rotational torque, transferring force from the lower body to the upper extremities. Pitchers are prone to strains (side stitches) here due to repetitive twisting.",
+    "tags": [
+      "腹部與核心",
+      "棒球",
+      "投球",
+      "打擊",
+      "屈曲",
+      "側屈",
+      "軀幹旋轉與對角線",
+      "原動肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "abdomen_internal_oblique",
+    "name_zh": "腹內斜肌",
+    "name_en": "Internal Abdominal Oblique",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Gray395.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray395.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "與對側外斜肌協同工作，精確控制揮棒或投球後的減速與煞車。強壯的內斜肌有助於在動作結束時穩定軀幹，減少腰椎受傷風險。",
+    "desc_en": "Works synergistically with the contralateral external oblique to control deceleration and braking after a swing or pitch. Strong internal obliques stabilize the trunk at the finish, reducing lumbar injury risk.",
+    "tags": [
+      "腹部與核心",
+      "棒球",
+      "投球",
+      "打擊",
+      "屈曲",
+      "側屈",
+      "軀幹旋轉與對角線",
+      "穩定肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "abdomen_rectus_abdominis",
+    "name_zh": "腹直肌",
+    "name_en": "Rectus Abdominis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/94/Rectus_abdominis_vi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Rectus_abdominis_vi.png\">Mongrangvebet</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "在投球的加速期（Acceleration Phase）協助軀幹屈曲，像彈簧刀一樣將動能釋放。接球撲球時亦負責保護臟器與穩定脊椎。",
+    "desc_en": "Assists in trunk flexion during the pitching acceleration phase, releasing kinetic energy like a jackknife. Also protects organs and stabilizes the spine during diving catches.",
+    "tags": [
+      "腹部與核心",
+      "棒球",
+      "投球",
+      "守備",
+      "屈曲",
+      "側屈",
+      "核心穩定",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "abdomen_transversus_abdominis",
+    "name_zh": "腹橫肌",
+    "name_en": "Transversus Abdominis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Transversus_abdominis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Transversus_abdominis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "所有棒球動作的穩定基石。在投手抬腿或打者準備啟動時，預先收縮增加腹內壓，為四肢的爆發性動作提供堅固的支撐平台。",
+    "desc_en": "The foundation for all baseball movements. Pre-contracts to increase intra-abdominal pressure during a pitcher's leg lift or a batter's load, providing a solid platform for explosive limb action.",
+    "tags": [
+      "腹部與核心",
+      "棒球",
+      "投球",
+      "打擊",
+      "穩定肌",
+      "核心穩定",
+      "呼吸輔助",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "arm_biceps_brachii",
+    "name_zh": "肱二頭肌",
+    "name_en": "Biceps Brachii",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Biceps_brachii.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Biceps_brachii.png\">Bildbearbetning: sv:Användare:Chrizz</a>, <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "投手的關鍵煞車系統。在投球釋放後的減速期（Deceleration），進行強力的離心收縮以保護手肘，防止過度伸展。疲勞是導致SLAP損傷的主因。",
+    "desc_en": "Crucial braking system for pitchers. Performs powerful eccentric contraction during the deceleration phase after ball release to protect the elbow from hyperextension. Fatigue here is a primary cause of SLAP tears.",
+    "tags": [
+      "上臂",
+      "棒球",
+      "投球",
+      "打擊",
+      "屈曲",
+      "旋後",
+      "上肢拉-垂直",
+      "原動肌",
+      "減速肌"
+    ]
+  },
+  {
+    "id": "arm_brachialis",
+    "name_zh": "肱肌",
+    "name_en": "Brachialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/Brachialis_muscle_-_animation03.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Brachialis_muscle_-_animation03.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助揮棒時的手肘控制。在打擊過程中與二頭肌共同維持手肘的屈曲角度，確保球棒能準確通過擊球區。",
+    "desc_en": "Assists elbow control during the swing. Works with the biceps to maintain elbow flexion angles, ensuring the bat passes accurately through the strike zone.",
+    "tags": [
+      "上臂",
+      "棒球",
+      "打擊",
+      "屈曲",
+      "上肢拉-垂直",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "arm_coracobrachialis",
+    "name_zh": "喙肱肌",
+    "name_en": "Coracobrachialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Coracobrachialis_muscle_-_animation02.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Coracobrachialis_muscle_-_animation02.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助投球臂的屈曲與內收。在投球加速期協助手臂向前運動，並在隨揮動作中穩定肩關節。",
+    "desc_en": "Assists flexion and adduction of the throwing arm. Helps drive the arm forward during acceleration and stabilizes the shoulder joint during the follow-through.",
+    "tags": [
+      "上臂",
+      "棒球",
+      "投球",
+      "屈曲",
+      "內收",
+      "上肢推-垂直",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "arm_triceps_brachii_lateral",
+    "name_zh": "肱三頭肌外側頭",
+    "name_en": "Triceps Brachii (Lateral Head)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Triceps_brachii_muscle06.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Triceps_brachii_muscle06.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責投球時最後階段的爆發性伸肘（Extension）。球出手瞬間，此肌肉強力收縮將球速推至極限。",
+    "desc_en": "Responsible for explosive elbow extension in the final phase of pitching. Contracts powerfully at the moment of ball release to maximize velocity.",
+    "tags": [
+      "上臂",
+      "棒球",
+      "投球",
+      "伸展",
+      "上肢推-垂直",
+      "原動肌",
+      "爆發力"
+    ]
+  },
+  {
+    "id": "arm_triceps_brachii_long",
+    "name_zh": "肱三頭肌長頭",
+    "name_en": "Triceps Brachii (Long Head)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Triceps_brachii_muscle06.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Triceps_brachii_muscle06.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "除了伸肘，還負責肩關節伸展。在投球舉臂期（Cock-up）協助穩定肩部，並在減速期協助控制手臂的減速。",
+    "desc_en": "Beyond elbow extension, it aids shoulder extension. Stabilizes the shoulder during the cocking phase and assists in controlling arm deceleration.",
+    "tags": [
+      "上臂",
+      "棒球",
+      "投球",
+      "伸展",
+      "內收",
+      "上肢推-垂直",
+      "原動肌",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "arm_triceps_brachii_medial",
+    "name_zh": "肱三頭肌內側頭",
+    "name_en": "Triceps Brachii (Medial Head)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Triceps_brachii_muscle06.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Triceps_brachii_muscle06.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在打擊時負責推棒動作（Extension），特別是外角球的延伸攻擊。提供手肘伸展的精確控制力。",
+    "desc_en": "Responsible for the push phase of the bat swing (extension), especially when reaching for outside pitches. Provides precise control of elbow extension.",
+    "tags": [
+      "上臂",
+      "棒球",
+      "打擊",
+      "投球",
+      "伸展",
+      "上肢推-垂直",
+      "原動肌",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "back_erector_spinae",
+    "name_zh": "豎脊肌",
+    "name_en": "Erector Spinae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Gray389_-_Erector_spinae.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray389_-_Erector_spinae.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "野手長時間維持預備姿勢（Ready Position）的關鍵。在投球或揮棒的隨揮階段，協助抵抗強大的離心力，保護脊椎不被過度扭轉。",
+    "desc_en": "Key for fielders maintaining the ready position. Resists powerful centrifugal forces during the follow-through of a pitch or swing, protecting the spine from excessive torsion.",
+    "tags": [
+      "脊柱骨骼",
+      "背部肌群",
+      "棒球",
+      "守備",
+      "投球",
+      "伸展",
+      "側屈",
+      "衝擊吸收",
+      "姿勢維持",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "back_latissimus_dorsi",
+    "name_zh": "背闊肌",
+    "name_en": "Latissimus Dorsi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/Latissimus_dorsi_muscle_animation3.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Latissimus_dorsi_muscle_animation3.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "投手的「加速器」與「減速傘」。提供投球時強大的內旋力量（加速），更重要的是在球釋放後負責吸收手臂前甩的巨大動能（減速），保護肩膀。",
+    "desc_en": "The pitcher's accelerator and parachute. Provides powerful internal rotation force (acceleration) and, crucially, absorbs the immense kinetic energy of the arm after release (deceleration), protecting the shoulder.",
+    "tags": [
+      "背部肌群",
+      "棒球",
+      "投球",
+      "打擊",
+      "內收",
+      "伸展",
+      "內旋",
+      "上肢拉-垂直",
+      "原動肌",
+      "核心穩定",
+      "軀幹旋轉與對角線"
+    ]
+  },
+  {
+    "id": "back_quadratus_lumborum",
+    "name_zh": "腰方肌",
+    "name_en": "Quadratus Lumborum",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Quadratuslumborum.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Quadratuslumborum.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "投手在抬腿期（Wind-up）維持骨盆水平的關鍵。打擊時負責側向穩定，防止上半身過早倒向捕手方向（Collapsing backside）。",
+    "desc_en": "Critical for keeping the pelvis level during a pitcher's wind-up. Provides lateral stability during batting, preventing the upper body from collapsing prematurely toward the catcher.",
+    "tags": [
+      "背部肌群",
+      "腹部與核心",
+      "棒球",
+      "投球",
+      "打擊",
+      "側屈",
+      "伸展",
+      "穩定肌",
+      "核心穩定",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "calf_fibularis_brevis",
+    "name_zh": "腓骨短肌",
+    "name_en": "Fibularis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/be/Fibularis_brevis_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Fibularis_brevis_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "跑壘變向或野手橫向移動時，負責穩定外側腳踝，防止翻船（Inversion sprain）。在盜壘啟動瞬間承受極大側向壓力。",
+    "desc_en": "Stabilizes the lateral ankle during base running cuts or lateral fielding movements, preventing sprains. Endures high lateral stress during base stealing starts.",
+    "tags": [
+      "小腿外側肌群",
+      "棒球",
+      "跑壘",
+      "守備",
+      "外翻",
+      "蹠屈",
+      "踝關節蹠屈",
+      "足部外翻",
+      "原動肌",
+      "踝關節穩定"
+    ]
+  },
+  {
+    "id": "calf_fibularis_longus",
+    "name_zh": "腓骨長肌（重複項-請參照Peroneus Longus）",
+    "name_en": "Fibularis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Superior_view_fibularis_longus_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Superior_view_fibularis_longus_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "投手推蹬板（Push-off）時，負責鎖定足底橫弓，將力量從地面有效傳遞至身體。打擊時穩定後腳，防止力量流失。",
+    "desc_en": "Locks the transverse arch during the pitcher's push-off, efficiently transferring force from the ground up. Stabilizes the back foot during batting to prevent power leakage.",
+    "tags": [
+      "小腿外側肌群",
+      "棒球",
+      "投球",
+      "打擊",
+      "外翻",
+      "蹠屈",
+      "踝關節蹠屈",
+      "足部外翻",
+      "原動肌",
+      "足弓支撐",
+      "足部穩定"
+    ]
+  },
+  {
+    "id": "calf_gastrocnemius",
+    "name_zh": "腓腸肌",
+    "name_en": "Gastrocnemius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Gastrocnemius_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gastrocnemius_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "盜壘與守備啟動的爆發力來源。投手在投球過程中，後腳腓腸肌負責強力的蹠屈推蹬，為投球鏈提供初速度。",
+    "desc_en": "Source of explosive power for stealing bases and fielding starts. For pitchers, provides powerful plantarflexion push-off from the rubber, initiating velocity in the kinetic chain.",
+    "tags": [
+      "小腿",
+      "棒球",
+      "投球",
+      "跑壘",
+      "守備",
+      "蹠屈",
+      "膝關節屈曲",
+      "原動肌",
+      "爆發力"
+    ]
+  },
+  {
+    "id": "calf_soleus",
+    "name_zh": "比目魚肌",
+    "name_en": "Soleus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Soleus_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Soleus_muscle_-_animation.gif\">Polygon data is generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "捕手與內野手的耐力肌。在長時間蹲捕或準備姿勢（膝蓋彎曲）下，負責維持踝關節穩定與平衡，減少膝關節負擔。",
+    "desc_en": "Endurance muscle for catchers and infielders. Maintains ankle stability and balance during prolonged squatting or ready positions (knees bent), reducing knee stress.",
+    "tags": [
+      "小腿",
+      "棒球",
+      "捕手",
+      "守備",
+      "蹠屈",
+      "姿勢維持",
+      "原動肌",
+      "穩定肌",
+      "衝擊吸收"
+    ]
+  },
+  {
+    "id": "calf_tibialis_posterior",
+    "name_zh": "脛骨後肌",
+    "name_en": "Tibialis Posterior",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/df/Inferior_view_of_tibialis_posterior_muscle_-_animation.gif",
+    "img_source": "https://upload.wikimedia.org/wikipedia/commons/d/df/Inferior_view_of_tibialis_posterior_muscle_-_animation.gif",
+    "desc": "打擊與投球時，負責支撐內側足弓，防止腳踝過度外翻（Pronation）導致力量洩漏。對於需要在釘鞋上進行急停轉向的動作至關重要。",
+    "desc_en": "Supports the medial arch during batting and pitching, preventing excessive pronation and power leakage. Crucial for sudden stops and pivots in cleats.",
+    "tags": [
+      "小腿深層肌群",
+      "棒球",
+      "投球",
+      "打擊",
+      "跑壘",
+      "蹠屈",
+      "內翻",
+      "足弓支撐",
+      "原動肌",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "foot_abductor_digiti_minimi",
+    "name_zh": "小趾外展肌",
+    "name_en": "Abductor Digiti Minimi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gray_%E2%80%94_musculus_abductor_digiti_minimi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在野手進行側向滑步接球時，提供足部外側的支撐邊界，協助快速煞車並轉換方向。",
+    "desc_en": "Provides lateral foot boundary support during lateral fielding shuffles, aiding in quick braking and directional changes.",
+    "tags": [
+      "踝部與足部",
+      "棒球",
+      "守備",
+      "跑壘",
+      "外展",
+      "屈曲",
+      "原動肌",
+      "足弓支撐",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "foot_abductor_hallucis",
+    "name_zh": "拇外展肌",
+    "name_en": "Abductor Hallucis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Abductor_hallucis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Abductor_hallucis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "投手前腳著地（Landing）時的穩定器。防止足弓塌陷，確保前腳形成穩固的「牆」，讓上半身能有效地旋轉投球。",
+    "desc_en": "Stabilizer for the pitcher's landing foot. Prevents arch collapse, ensuring the front foot creates a solid 'wall' for effective upper body rotation.",
+    "tags": [
+      "踝部與足部",
+      "棒球",
+      "投球",
+      "打擊",
+      "外展",
+      "屈曲",
+      "原動肌",
+      "足弓支撐",
+      "足部穩定"
+    ]
+  },
+  {
+    "id": "foot_adductor_hallucis",
+    "name_zh": "拇內收肌",
+    "name_en": "Adductor Hallucis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Musculus_adductor_hallucis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Musculus_adductor_hallucis.png\">Image:Gray445.png modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "打擊轉腰時，後腳大拇指需用力抓地以驅動髖部旋轉，此肌肉負責穩定大拇指，轉化地面反作用力為旋轉動能。",
+    "desc_en": "During the batting hip turn, the back big toe must grip the ground. This muscle stabilizes the toe, converting ground reaction force into rotational kinetic energy.",
+    "tags": [
+      "踝部與足部",
+      "棒球",
+      "打擊",
+      "投球",
+      "內收",
+      "屈曲",
+      "原動肌",
+      "足弓支撐",
+      "橫向足弓"
+    ]
+  },
+  {
+    "id": "foot_extensor_digitorum_longus",
+    "name_zh": "長趾伸肌（足部段）",
+    "name_en": "Extensor Digitorum Longus (Distal)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/77/Extensor_digitorum_longus_muscle_-_animation_2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_digitorum_longus_muscle_-_animation_2.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "跑壘時協助勾腳尖（背屈），避免釘鞋鞋釘插入土中造成絆倒。亦有助於著地時分散衝擊。",
+    "desc_en": "Assists dorsiflexion during base running to prevent cleats from catching the dirt and tripping. Also helps distribute impact upon landing.",
+    "tags": [
+      "小腿",
+      "踝部與足部",
+      "棒球",
+      "跑壘",
+      "背屈",
+      "伸展",
+      "原動肌",
+      "衝擊吸收"
+    ]
+  },
+  {
+    "id": "foot_extensor_hallucis_longus",
+    "name_zh": "長拇趾伸肌（足部段）",
+    "name_en": "Extensor Hallucis Longus (Distal)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Extensor_hallucis_longus_muscle_-_animation_2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_hallucis_longus_muscle_-_animation_2.gif\">Was a bee</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "跑壘時確保大拇趾背屈，避免踢到壘包或地面。釘鞋鞋帶若綁太緊常壓迫其肌腱。",
+    "desc_en": "Ensures great toe dorsiflexion during base running to avoid stubbing the toe on bases or ground. Tight cleat laces often compress this tendon.",
+    "tags": [
+      "小腿",
+      "踝部與足部",
+      "棒球",
+      "跑壘",
+      "背屈",
+      "伸展",
+      "原動肌"
+    ]
+  },
+  {
+    "id": "foot_intrinsic_abductor_hallucis",
+    "name_zh": "拇趾外展肌（內在肌視角）",
+    "name_en": "Abductor Hallucis (Intrinsic)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Abductor_hallucis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Abductor_hallucis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "足部核心肌群。在穿著釘鞋時控制大拇趾動作，增加前腳掌在泥土或草地上的抓地面積與穩定性。",
+    "desc_en": "Foot core muscle. Controls big toe movement inside cleats, increasing forefoot contact area and stability on dirt or grass.",
+    "tags": [
+      "踝部與足部",
+      "棒球",
+      "投球",
+      "跑壘",
+      "外展",
+      "穩定肌",
+      "足弓支撐"
+    ]
+  },
+  {
+    "id": "foot_intrinsic_flexor_digitorum_brevis",
+    "name_zh": "短趾屈肌（足部內在肌）",
+    "name_en": "Flexor Digitorum Brevis (Intrinsic)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Muscle_court_fl%C3%A9chisseur_des_orteils.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_court_fl%C3%A9chisseur_des_orteils.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "負責在衝刺或投球推蹬時縮短足底，使足部變硬（Rigid Lever），有效傳遞爆發力。",
+    "desc_en": "Shortens the sole during sprints or pitching push-off, creating a rigid lever for effective explosive power transfer.",
+    "tags": [
+      "踝部與足部",
+      "棒球",
+      "跑壘",
+      "投球",
+      "屈曲",
+      "穩定肌",
+      "足弓支撐",
+      "衝擊吸收"
+    ]
+  },
+  {
+    "id": "foot_lumbricals",
+    "name_zh": "足部蚓狀肌",
+    "name_en": "Lumbricals (Foot)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Lumbricales_pedis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_pedis.png\">Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "維持腳趾平貼地面，防止在釘鞋內出現「抓地（Clawing）」現象，確保跑壘時的最大接觸面積。",
+    "desc_en": "Keeps toes flat against the ground, preventing 'clawing' inside cleats and ensuring maximum contact area during base running.",
+    "tags": [
+      "足部內在肌-第二層",
+      "棒球",
+      "跑壘",
+      "屈曲",
+      "伸展",
+      "足部穩定",
+      "原動肌"
+    ]
+  },
+  {
+    "id": "foot_peroneus_longus",
+    "name_zh": "長腓骨肌",
+    "name_en": "Peroneus Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Superior_view_fibularis_longus_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Superior_view_fibularis_longus_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "打擊與投球時，將第一蹠骨壓向地面，穩定內側足弓。是力量從地面傳導至旋轉鏈的起始點。",
+    "desc_en": "Presses the first metatarsal into the ground during batting and pitching, stabilizing the medial arch. The starting point for force transfer into the kinetic chain.",
+    "tags": [
+      "小腿",
+      "踝部與足部",
+      "棒球",
+      "投球",
+      "打擊",
+      "蹠屈",
+      "外翻",
+      "原動肌",
+      "穩定肌",
+      "足弓支撐"
+    ]
+  },
+  {
+    "id": "foot_quadratus_plantae",
+    "name_zh": "方形肌",
+    "name_en": "Quadratus Plantae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Muscle_carr%C3%A9_plantaire.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_carr%C3%A9_plantaire.png\">Berichard d&#039;après Gray&#039;s anatomy</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "協助腳趾直線抓地，對於在紅土場地上進行爆發性衝刺或剎車至關重要。",
+    "desc_en": "Assists linear toe grip, crucial for explosive sprints or braking on dirt infields.",
+    "tags": [
+      "踝部與足部",
+      "棒球",
+      "跑壘",
+      "守備",
+      "屈曲",
+      "原動肌",
+      "足弓支撐"
+    ]
+  },
+  {
+    "id": "forearm_abductor_pollicis_longus",
+    "name_zh": "拇指外展長肌",
+    "name_en": "Abductor Pollicis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/61/Gray_%E2%80%94_musculus_abductor_pollicis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_pollicis_longus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助穩定握棒與握球的拇指位置。投手在變化球握法（如曲球）時，需仰賴此肌肉精細調整拇指張力。",
+    "desc_en": "Stabilizes thumb position for bat grip and ball hold. Pitchers rely on this muscle for fine-tuning thumb tension in breaking ball grips (e.g., curveball).",
+    "tags": [
+      "肘部與前臂",
+      "棒球",
+      "投球",
+      "打擊",
+      "外展",
+      "原動肌",
+      "握力"
+    ]
+  },
+  {
+    "id": "forearm_brachioradialis",
+    "name_zh": "肱橈肌",
+    "name_en": "Brachioradialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/09/Brachioradialis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Brachioradialis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "揮棒時穩定前臂與手肘。在揮棒擊球瞬間（Impact）承受巨大的振動與衝擊，防止球棒翻轉。",
+    "desc_en": "Stabilizes forearm and elbow during the swing. Absorbs significant vibration and shock at impact, preventing the bat from rolling over.",
+    "tags": [
+      "肘部與前臂",
+      "棒球",
+      "打擊",
+      "屈曲",
+      "上肢拉-水平",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_carpi_radialis_brevis",
+    "name_zh": "橈側腕伸肌短肌",
+    "name_en": "Extensor Carpi Radialis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Gray_%E2%80%94_musculus_extensor_carpi_radialis_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_carpi_radialis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "打者「網球肘」的常見受害部位。負責在擊球瞬間穩定手腕不被球的衝擊力震開，確保力量完整傳遞。",
+    "desc_en": "Common site for 'Tennis Elbow' in batters. Stabilizes the wrist at impact, ensuring it doesn't buckle under the ball's force, allowing full power transfer.",
+    "tags": [
+      "肘部與前臂",
+      "棒球",
+      "打擊",
+      "伸展",
+      "外展",
+      "穩定肌",
+      "握力"
+    ]
+  },
+  {
+    "id": "forearm_extensor_carpi_radialis_longus",
+    "name_zh": "橈側腕伸肌長肌",
+    "name_en": "Extensor Carpi Radialis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/53/Extensor_carpi_radialis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_carpi_radialis_longus.png\">Me</a>, Public domain, via Wikimedia Commons",
+    "desc": "揮棒擊球瞬間（Impact）的關鍵穩定肌。協助鎖定手腕角度，對抗球棒的反作用力，防止棒頭下垂（Dropping the barrel），確保力量水平穿透球心。",
+    "desc_en": "Key stabilizer at impact during batting. Helps lock the wrist angle to resist recoil forces, preventing the barrel from dropping and ensuring horizontal force transfer through the ball.",
+    "tags": [
+      "肘部與前臂",
+      "棒球",
+      "打擊",
+      "伸展",
+      "外展",
+      "穩定肌",
+      "握力"
+    ]
+  },
+  {
+    "id": "forearm_extensor_carpi_ulnaris",
+    "name_zh": "尺側腕伸肌",
+    "name_en": "Extensor Carpi Ulnaris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gray_%E2%80%94_musculus_extensor_carpi_ulnaris.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_carpi_ulnaris.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "打擊時後手（Top hand）的重要肌肉，負責控制棒頭的尺側偏移。投球時，在加速期協助穩定手腕，防止過早釋放（Casting）。",
+    "desc_en": "Important for the top hand in batting, controlling ulnar deviation of the barrel. During pitching, helps stabilize the wrist during acceleration to prevent premature release (casting).",
+    "tags": [
+      "肘部與前臂",
+      "棒球",
+      "打擊",
+      "投球",
+      "伸展",
+      "內收",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_digiti_minimi",
+    "name_zh": "小指伸肌",
+    "name_en": "Extensor Digiti Minimi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gray_%E2%80%94_musculus_extensor_digiti_minimi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在變速球（Changeup）的握法中，有時需翹起小指以減少摩擦。在打擊握棒時應保持放鬆，避免過度僵硬影響揮棒流暢度。",
+    "desc_en": "Used in certain changeup grips where the pinky is lifted to reduce friction. Should remain relaxed during batting grip to avoid stiffness affecting swing fluidity.",
+    "tags": [
+      "肘部與前臂",
+      "棒球",
+      "投球",
+      "伸展",
+      "原動肌",
+      "精細運動"
+    ]
+  },
+  {
+    "id": "forearm_extensor_digitorum",
+    "name_zh": "指伸肌",
+    "name_en": "Extensor Digitorum",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Extensor_digitorum_muscle.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_digitorum_muscle.png\">Mikael Häggström</a>, Public domain, via Wikimedia Commons",
+    "desc": "投球出手後（Release）負責手指的快速伸展與放鬆。若此肌肉與屈肌群張力失衡，易導致前臂疲勞甚至肌腱炎。",
+    "desc_en": "Responsible for rapid finger extension and relaxation after pitch release. Imbalance with flexor tension can lead to forearm fatigue or tendonitis.",
+    "tags": [
+      "肘部與前臂",
+      "棒球",
+      "投球",
+      "伸展",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_indicis",
+    "name_zh": "食指伸肌",
+    "name_en": "Extensor Indicis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Extensor_indicis_muscle.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_indicis_muscle.png\">Mikael Häggström</a>, Public domain, via Wikimedia Commons",
+    "desc": "投球時食指是控制球路與轉速（Spin rate）的最後接觸點。此肌肉在某些握法（如彈指球 Knuckleball）中扮演特殊角色。",
+    "desc_en": "The index finger is the final contact point controlling trajectory and spin rate. This muscle plays a unique role in specific grips like the knuckleball.",
+    "tags": [
+      "肘部與前臂",
+      "棒球",
+      "投球",
+      "伸展",
+      "精細運動"
+    ]
+  },
+  {
+    "id": "forearm_extensor_pollicis_brevis",
+    "name_zh": "拇指伸短肌",
+    "name_en": "Extensor Pollicis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Gray_%E2%80%94_musculus_extensor_pollicis_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_pollicis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助穩定拇指位置，對於支撐球體重心至關重要。打擊時，拇指根部的穩固性影響推棒的力量傳導。",
+    "desc_en": "Helps stabilize thumb position, crucial for supporting the ball's center of gravity. In batting, thumb base stability affects power transfer during the push.",
+    "tags": [
+      "肘部與前臂",
+      "棒球",
+      "投球",
+      "打擊",
+      "伸展",
+      "外展",
+      "原動肌",
+      "握力"
+    ]
+  },
+  {
+    "id": "forearm_extensor_pollicis_longus",
+    "name_zh": "拇指伸長肌",
+    "name_en": "Extensor Pollicis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/80/Gray_%E2%80%94_musculus_extensor_pollicis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_pollicis_longus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "控制拇指伸展。投手在投擲快速球時，拇指位於球下方提供支撐，此肌肉需維持適當張力以防止球體滑動。",
+    "desc_en": "Controls thumb extension. When pitching fastballs, the thumb supports the ball underneath; this muscle maintains appropriate tension to prevent slippage.",
+    "tags": [
+      "肘部與前臂",
+      "棒球",
+      "投球",
+      "伸展",
+      "原動肌",
+      "精細運動"
+    ]
+  },
+  {
+    "id": "forearm_flexor_carpi_radialis",
+    "name_zh": "橈側腕屈肌",
+    "name_en": "Flexor Carpi Radialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Gray_%E2%80%94_musculus_flexor_carpi_radialis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_carpi_radialis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "投球「扣腕（Wrist Snap）」的主要動力來源之一。負責產生最後的向前加速度與旋轉。打擊時協助維持強勢的握棒手腕角度。",
+    "desc_en": "A primary power source for the pitching 'wrist snap.' Generates final forward acceleration and spin. Helps maintain a strong wrist angle during batting.",
+    "tags": [
+      "肘部與前臂",
+      "棒球",
+      "投球",
+      "打擊",
+      "屈曲",
+      "外展",
+      "原動肌",
+      "爆發力"
+    ]
+  },
+  {
+    "id": "forearm_flexor_carpi_ulnaris",
+    "name_zh": "尺側腕屈肌",
+    "name_en": "Flexor Carpi Ulnaris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/75/Flexor_carpi_ulnaris.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Flexor_carpi_ulnaris.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "投手最重要的前臂肌肉之一。位於尺骨側，覆蓋在尺側副韌帶（UCL）之上，強壯的FCU能提供動態穩定，減輕韌帶壓力，預防Tommy John損傷。",
+    "desc_en": "One of the most critical forearm muscles for pitchers. Overlying the UCL, a strong FCU provides dynamic stability, reducing ligament stress and preventing Tommy John injuries.",
+    "tags": [
+      "肘部與前臂",
+      "棒球",
+      "投球",
+      "屈曲",
+      "內收",
+      "原動肌",
+      "肘關節保護"
+    ]
+  },
+  {
+    "id": "forearm_flexor_digitorum_profundus",
+    "name_zh": "深指屈肌",
+    "name_en": "Flexor Digitorum Profundus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/24/Flexor-digitorum-profundis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Flexor-digitorum-profundis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責指尖（DIP joint）的屈曲力。是投手將手指「扣」在縫線上的關鍵力量來源，直接影響球的轉速（Spin Rate）與變化幅度。",
+    "desc_en": "Provides flexion force at the fingertips (DIP joint). The key power source for gripping the seams, directly influencing spin rate and movement of the pitch.",
+    "tags": [
+      "肘部與前臂",
+      "棒球",
+      "投球",
+      "屈曲",
+      "原動肌",
+      "握力",
+      "精細運動"
+    ]
+  },
+  {
+    "id": "forearm_flexor_digitorum_superficialis",
+    "name_zh": "淺指屈肌",
+    "name_en": "Flexor Digitorum Superficialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/93/Gray_%E2%80%94_musculus_flexor_digitorum_superficialis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_digitorum_superficialis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "提供主要的手指握力。在打擊時，負責維持穩固的握棒；在守備時，確保接球瞬間手套能牢固閉合。",
+    "desc_en": "Provides primary finger grip strength. Ensures a solid bat grip during hitting and guarantees the glove closes firmly upon catching the ball.",
+    "tags": [
+      "肘部與前臂",
+      "棒球",
+      "打擊",
+      "守備",
+      "屈曲",
+      "原動肌",
+      "握力"
+    ]
+  },
+  {
+    "id": "forearm_flexor_pollicis_longus",
+    "name_zh": "長拇指屈肌",
+    "name_en": "Flexor Pollicis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Musculus_flexor_pollicis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Musculus_flexor_pollicis_longus.png\">Me</a>, Public domain, via Wikimedia Commons",
+    "desc": "對於投手而言，這是穩定球體的關鍵。特別在投擲變速球或圈指變速球（Circle Change）時，負責維持拇指與手指的特殊結構。",
+    "desc_en": "Crucial for pitchers to stabilize the ball. Especially important in changeups or circle changeups, maintaining the specific structure of the thumb and fingers.",
+    "tags": [
+      "肘部與前臂",
+      "棒球",
+      "投球",
+      "屈曲",
+      "原動肌",
+      "精細運動"
+    ]
+  },
+  {
+    "id": "forearm_palmaris_longus",
+    "name_zh": "掌長肌",
+    "name_en": "Palmaris Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/86/Palmaris-longus-horizontal.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Palmaris-longus-horizontal.png\">Henry Gray</a>, Public domain, via Wikimedia Commons",
+    "desc": "雖然功能微弱，但在棒球界極具名氣：它是Tommy John手術（尺側副韌帶重建術）最常用的移植肌腱來源。",
+    "desc_en": "Functionally minor, but famous in baseball: it is the most common graft source for Tommy John surgery (UCL reconstruction).",
+    "tags": [
+      "肘部與前臂",
+      "棒球",
+      "屈曲",
+      "原動肌",
+      "醫療相關"
+    ]
+  },
+  {
+    "id": "forearm_pronator_quadratus",
+    "name_zh": "方形旋前肌",
+    "name_en": "Pronator Quadratus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Pronator-quadratus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pronator-quadratus.png\">Selket at English Wikipedia</a>, Public domain, via Wikimedia Commons",
+    "desc": "投手的神祕守護者。在投球釋放球後的隨揮期，負責強力的前臂旋前（Pronation），幫助吸收旋轉扭力，是保護手肘韌帶的最後一道防線。",
+    "desc_en": "The pitcher's hidden guardian. Responsible for powerful forearm pronation during the follow-through, absorbing rotational torque and acting as the final defense for elbow ligaments.",
+    "tags": [
+      "肘部與前臂",
+      "棒球",
+      "投球",
+      "旋前",
+      "原動肌",
+      "肘關節保護"
+    ]
+  },
+  {
+    "id": "forearm_pronator_teres",
+    "name_zh": "旋前圓肌",
+    "name_en": "Pronator Teres",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Gray_%E2%80%94_musculus_pronator_teres.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_pronator_teres.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "投球旋前機制（Pronation）的主力肌。除了協助轉動手掌朝下/外，它也是屈肘肌，在投球時常因過度使用而緊繃，需預防內側上髁炎。",
+    "desc_en": "Primary muscle for pitching pronation. Besides turning the palm down/out, it assists elbow flexion. Often tight from overuse in pitchers; care is needed to prevent medial epicondylitis.",
+    "tags": [
+      "肘部與前臂",
+      "棒球",
+      "投球",
+      "屈曲",
+      "旋前",
+      "上肢拉-水平",
+      "原動肌"
+    ]
+  },
+  {
+    "id": "forearm_supinator",
+    "name_zh": "旋後肌",
+    "name_en": "Supinator",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Gray_%E2%80%94_musculus_supinator.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_supinator.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "投擲變化球（如曲球、滑球）時的關鍵肌肉。負責在釋放前控制前臂的旋後角度，創造側旋（Spin）。",
+    "desc_en": "Key muscle for throwing breaking balls (curveball, slider). Controls forearm supination angle prior to release to create lateral spin.",
+    "tags": [
+      "肘部與前臂",
+      "棒球",
+      "投球",
+      "旋後",
+      "原動肌",
+      "精細運動"
+    ]
+  },
+  {
+    "id": "hand_abductor_digiti_minimi",
+    "name_zh": "小指外展肌",
+    "name_en": "Abductor Digiti Minimi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gray_%E2%80%94_musculus_abductor_digiti_minimi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在特定的寬握法（如指叉球 Splitter）中，協助將手指張開。打擊時負責握棒底部（Knob）的控制，防止脫手。",
+    "desc_en": "Assists in spreading fingers for wide grips (e.g., Splitter). Controls the grip at the bat knob during hitting, preventing slippage.",
+    "tags": [
+      "手腕與手部",
+      "棒球",
+      "投球",
+      "打擊",
+      "外展",
+      "精細運動",
+      "原動肌"
+    ]
+  },
+  {
+    "id": "hand_abductor_pollicis_brevis",
+    "name_zh": "拇指外展短肌",
+    "name_en": "Abductor Pollicis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Gray_%E2%80%94_musculus_abductor_pollicis_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_pollicis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "投球時負責打開拇指，形成穩定的「三點支撐」結構（食指、中指、拇指）。",
+    "desc_en": "Opens the thumb during pitching to create a stable 'tripod' support structure (index, middle, thumb).",
+    "tags": [
+      "手腕與手部",
+      "棒球",
+      "投球",
+      "外展",
+      "屈曲",
+      "精細運動",
+      "原動肌"
+    ]
+  },
+  {
+    "id": "hand_adductor_pollicis",
+    "name_zh": "拇指內收肌",
+    "name_en": "Adductor Pollicis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gray_%E2%80%94_musculus_adductor_pollicis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_adductor_pollicis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "握棒力量的關鍵。將拇指緊扣在球棒握柄上，防止揮棒時球棒轉動。捕手接球時亦負責鎖住球。",
+    "desc_en": "Key to bat grip strength. Locks the thumb onto the handle, preventing bat rotation during the swing. Also secures the ball in the catcher's mitt.",
+    "tags": [
+      "手腕與手部",
+      "棒球",
+      "打擊",
+      "守備",
+      "內收",
+      "精細運動",
+      "原動肌",
+      "握力"
+    ]
+  },
+  {
+    "id": "hand_dorsal_interossei_1",
+    "name_zh": "背側骨間肌一",
+    "name_en": "Dorsal Interosseous 1",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/1121_Intrinsic_Muscles_of_the_Hand_DIL.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_DIL.png\">CFCF</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "投球手的「食指控制器」。在投擲曲球或滑球時，負責對球體施加側向壓力，創造旋轉。打擊時協助穩定球棒握持。",
+    "desc_en": "The pitcher's 'index controller.' Applies lateral pressure to the ball when throwing curves or sliders to create spin. Assists in stabilizing bat grip.",
+    "tags": [
+      "手腕與手部",
+      "棒球",
+      "投球",
+      "打擊",
+      "外展",
+      "屈曲",
+      "精細運動",
+      "握力"
+    ]
+  },
+  {
+    "id": "hand_dorsal_interossei_2",
+    "name_zh": "背側骨間肌二",
+    "name_en": "Dorsal Interosseous 2",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/1121_Intrinsic_Muscles_of_the_Hand_DIL.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_DIL.png\">CFCF</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "中指外展肌。對於投擲指叉球（Split-finger）或二縫線速球至關重要，負責調整手指間距與施力方向。",
+    "desc_en": "Middle finger abductor. Vital for throwing split-finger fastballs or two-seamers, adjusting finger spacing and force direction.",
+    "tags": [
+      "手腕與手部",
+      "棒球",
+      "投球",
+      "外展",
+      "屈曲",
+      "精細運動"
+    ]
+  },
+  {
+    "id": "hand_dorsal_interossei_3",
+    "name_zh": "背側骨間肌三",
+    "name_en": "Dorsal Interosseous 3",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/1121_Intrinsic_Muscles_of_the_Hand_DIL.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_DIL.png\">CFCF</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "協助無名指動作。在變速球握法中，協助無名指貼合球體側面，減少球速並增加尾勁。",
+    "desc_en": "Assists ring finger movement. In changeup grips, helps position the ring finger on the side of the ball to reduce velocity and create movement.",
+    "tags": [
+      "手腕與手部",
+      "棒球",
+      "投球",
+      "外展",
+      "屈曲",
+      "精細運動"
+    ]
+  },
+  {
+    "id": "hand_dorsal_interossei_4",
+    "name_zh": "背側骨間肌四",
+    "name_en": "Dorsal Interosseous 4",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/1121_Intrinsic_Muscles_of_the_Hand_DIL.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_DIL.png\">CFCF</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "小指外展肌。在某些深握球法（如掌心球）中協助擴大抓握範圍。打擊時協助小指緊扣握柄。",
+    "desc_en": "Little finger abductor. Assists in widening the grip for deep-hold pitches (e.g., palmball). Helps the pinky lock onto the bat handle.",
+    "tags": [
+      "手腕與手部",
+      "棒球",
+      "投球",
+      "打擊",
+      "外展",
+      "屈曲",
+      "精細運動"
+    ]
+  },
+  {
+    "id": "hand_flexor_digiti_minimi",
+    "name_zh": "小指屈肌短",
+    "name_en": "Flexor Digiti Minimi Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Gray_%E2%80%94_musculus_flexor_digiti_minimi_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_digiti_minimi_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "打擊時，前導手（Bottom hand）的小指需用力扣住球棒尾端（Knob），此肌肉提供關鍵的抓握力。",
+    "desc_en": "During batting, the bottom hand's pinky must securely grip the knob. This muscle provides the critical gripping force.",
+    "tags": [
+      "手腕與手部",
+      "棒球",
+      "打擊",
+      "屈曲",
+      "精細運動",
+      "原動肌",
+      "握力"
+    ]
+  },
+  {
+    "id": "hand_flexor_pollicis_brevis",
+    "name_zh": "拇指屈短肌",
+    "name_en": "Flexor Pollicis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Gray_%E2%80%94_musculus_flexor_pollicis_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_pollicis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "提供穩固的拇指基底。在接球員（捕手/一壘手）接捕高速球時，防止拇指被球衝擊力折傷（Thumb sprain）。",
+    "desc_en": "Provides a solid thumb base. Prevents thumb sprains in catchers and first basemen when receiving high-velocity throws.",
+    "tags": [
+      "手腕與手部",
+      "棒球",
+      "守備",
+      "屈曲",
+      "精細運動",
+      "原動肌",
+      "握力"
+    ]
+  },
+  {
+    "id": "hand_lumbrical_1",
+    "name_zh": "蚓狀肌一（食指）",
+    "name_en": "Lumbrical 1 (Index)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lumbricales_%28hand%29.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png\">Image:Gray427.png modified</a>, Public domain, via Wikimedia Commons",
+    "desc": "調節食指的掌指關節屈曲。在投球時，協助食指保持正確的彎曲角度以扣住縫線，影響球的轉軸（Spin axis）。",
+    "desc_en": "Modulates index finger MCP flexion. Helps maintain the correct finger curl to grip the seams, affecting the pitch's spin axis.",
+    "tags": [
+      "手腕與手部",
+      "棒球",
+      "投球",
+      "屈曲",
+      "伸展",
+      "精細運動"
+    ]
+  },
+  {
+    "id": "hand_lumbrical_2",
+    "name_zh": "蚓狀肌二（中指）",
+    "name_en": "Lumbrical 2 (Middle)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lumbricales_%28hand%29.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png\">Image:Gray427.png modified</a>, Public domain, via Wikimedia Commons",
+    "desc": "調節中指張力。中指通常是投球時施力最大的手指，此肌肉協助微調最後的出手點。",
+    "desc_en": "Regulates middle finger tension. The middle finger applies the most force during pitching; this muscle helps fine-tune the release point.",
+    "tags": [
+      "手腕與手部",
+      "棒球",
+      "投球",
+      "屈曲",
+      "伸展",
+      "精細運動"
+    ]
+  },
+  {
+    "id": "hand_lumbrical_3",
+    "name_zh": "蚓狀肌三（無名指）",
+    "name_en": "Lumbrical 3 (Ring)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lumbricales_%28hand%29.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png\">Image:Gray427.png modified</a>, Public domain, via Wikimedia Commons",
+    "desc": "在變速球握法中，與骨間肌協同控制無名指位置。打擊時協助維持握棒的放鬆感。",
+    "desc_en": "Works with interossei to control ring finger position in changeup grips. Assists in maintaining a relaxed bat grip.",
+    "tags": [
+      "手腕與手部",
+      "棒球",
+      "投球",
+      "打擊",
+      "屈曲",
+      "伸展",
+      "精細運動"
+    ]
+  },
+  {
+    "id": "hand_lumbrical_4",
+    "name_zh": "蚓狀肌四（小指）",
+    "name_en": "Lumbrical 4 (Little)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lumbricales_%28hand%29.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png\">Image:Gray427.png modified</a>, Public domain, via Wikimedia Commons",
+    "desc": "輔助小指的抓握動作。在守備接滾地球時，協助手套的小指側閉合。",
+    "desc_en": "Assists little finger gripping. Helps close the pinky side of the glove when fielding ground balls.",
+    "tags": [
+      "手腕與手部",
+      "棒球",
+      "守備",
+      "屈曲",
+      "伸展",
+      "精細運動"
+    ]
+  },
+  {
+    "id": "hand_opponens_digiti_minimi",
+    "name_zh": "小指對立肌",
+    "name_en": "Opponens Digiti Minimi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Gray_%E2%80%94_musculus_opponens_digiti_minimi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_opponens_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "對手套控制至關重要。負責將小指側掌骨向內捲，形成深的手套口袋（Pocket），防止球彈出。",
+    "desc_en": "Critical for glove control. Rolls the hypothenar metacarpal inward to create a deep glove pocket, preventing the ball from popping out.",
+    "tags": [
+      "手腕與手部",
+      "棒球",
+      "守備",
+      "對立",
+      "精細運動",
+      "原動肌"
+    ]
+  },
+  {
+    "id": "hand_opponens_pollicis",
+    "name_zh": "拇指對立肌",
+    "name_en": "Opponens Pollicis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Gray_%E2%80%94_musculus_opponens_pollicis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_opponens_pollicis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責拇指對掌。無論是投球握法還是接球動作，此肌肉都負責將拇指放置於與其他手指相對的位置，以控制球體。",
+    "desc_en": "Responsible for thumb opposition. Positions the thumb opposite the fingers for ball control in both pitching grips and catching mechanics.",
+    "tags": [
+      "手腕與手部",
+      "棒球",
+      "投球",
+      "守備",
+      "對立",
+      "精細運動",
+      "原動肌"
+    ]
+  },
+  {
+    "id": "hand_palmar_interossei_1",
+    "name_zh": "掌側骨間肌一",
+    "name_en": "Palmar Interosseous 1",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Braus_1921_215.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Braus_1921_215.png\">Braus, Hermann</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責食指內收。在某些握球法（如變速球）中，需將手指併攏以減少摩擦。打擊時協助維持緊湊的握棒手型。",
+    "desc_en": "Adducts the index finger. Used in specific pitch grips (like changeups) where fingers need to be grouped to reduce friction. Helps maintain a compact bat grip.",
+    "tags": [
+      "手腕與手部",
+      "棒球",
+      "投球",
+      "打擊",
+      "內收",
+      "屈曲",
+      "精細運動",
+      "握力"
+    ]
+  },
+  {
+    "id": "hand_palmar_interossei_2",
+    "name_zh": "掌側骨間肌二",
+    "name_en": "Palmar Interosseous 2",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Braus_1921_215.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Braus_1921_215.png\">Braus, Hermann</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責無名指內收。協助穩定四縫線速球的握法，確保無名指能作為旁側的支撐導軌。",
+    "desc_en": "Adducts the ring finger. Assists in stabilizing the four-seam fastball grip, ensuring the ring finger acts as a supportive guide rail on the side.",
+    "tags": [
+      "手腕與手部",
+      "棒球",
+      "投球",
+      "打擊",
+      "內收",
+      "屈曲",
+      "精細運動"
+    ]
+  },
+  {
+    "id": "hand_palmar_interossei_3",
+    "name_zh": "掌側骨間肌三",
+    "name_en": "Palmar Interosseous 3",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Braus_1921_215.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Braus_1921_215.png\">Braus, Hermann</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責小指內收。打擊握棒時，確保小指緊貼無名指，避免因小指翹起而導致力量傳導斷層（Power Leak）。",
+    "desc_en": "Adducts the little finger. During batting, ensures the pinky stays tight against the ring finger, preventing power leaks caused by a loose pinky.",
+    "tags": [
+      "手腕與手部",
+      "棒球",
+      "打擊",
+      "內收",
+      "屈曲",
+      "精細運動",
+      "握力"
+    ]
+  },
+  {
+    "id": "hand_palmaris_brevis",
+    "name_zh": "掌短肌",
+    "name_en": "Palmaris Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Gray_%E2%80%94_musculus_palmaris_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_palmaris_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "保護小魚際區。當捕手接捕高速球或打者揮棒產生強烈震動時，此肌肉稍微隆起皮膚與脂肪墊，提供緩衝保護。",
+    "desc_en": "Protects the hypothenar region. Slightly bunches the skin and fat pad to cushion impact when catchers receive fastballs or batters experience vibration from ball contact.",
+    "tags": [
+      "手腕與手部",
+      "棒球",
+      "捕手",
+      "打擊",
+      "姿勢維持",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "head_masseter",
+    "name_zh": "咬肌",
+    "name_en": "Masseter",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/13/Masseter_muscle_animation_small.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Masseter_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "高張力指示器。投手在催球速或打者用力揮棒時，常不自覺用力咬合。適度放鬆下顎有助於提升頸部靈活度與動態視力。",
+    "desc_en": "High-tension indicator. Pitchers throwing for max velocity or batters swinging hard often unconsciously clench. Relaxing the jaw improves neck mobility and dynamic visual acuity.",
+    "tags": [
+      "顱骨與顳顎關節",
+      "棒球",
+      "投球",
+      "打擊",
+      "屈曲",
+      "提升/下壓",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "head_medial_pterygoid",
+    "name_zh": "內翼肌",
+    "name_en": "Medial Pterygoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Medial_pterygoid_muscle_animation_2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Medial_pterygoid_muscle_animation_2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "咬牙切齒會造成頸部僵硬，影響野手追蹤高飛球時的頭部轉動靈活度。保持微張嘴（Open mouth）有助於運動表現。",
+    "desc_en": "Clenching teeth stiffens the neck, impairing a fielder's ability to rotate their head while tracking fly balls. Keeping the mouth slightly open can aid performance.",
+    "tags": [
+      "顱骨與顳顎關節",
+      "棒球",
+      "守備",
+      "屈曲",
+      "內收",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "head_temporalis",
+    "name_zh": "顳肌",
+    "name_en": "Temporalis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Temporal_muscle_-_lateral_view.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Temporal_muscle_-_lateral_view.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "打者在選球時若過度緊繃（眉頭深鎖、咬牙），會導致此肌肉疲勞並引發頭痛。放鬆臉部肌肉是保持專注力的一環。",
+    "desc_en": "Batters squinting or clenching while tracking pitches fatigue this muscle, leading to headaches. Relaxing facial muscles is part of maintaining focus.",
+    "tags": [
+      "顱骨與顳顎關節",
+      "棒球",
+      "打擊",
+      "屈曲",
+      "提升/下壓",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hip_adductor_brevis",
+    "name_zh": "短內收肌",
+    "name_en": "Adductor Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/55/Adductor_brevis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Adductor_brevis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在投手跨步（Stride）過程中穩定骨盆。當前腳著地時，協助減速髖部外展，是鼠蹊部拉傷的高風險肌群之一。",
+    "desc_en": "Stabilizes the pelvis during the pitching stride. Assists in decelerating hip abduction upon foot strike. A high-risk muscle for groin strains.",
+    "tags": [
+      "內收肌群",
+      "棒球",
+      "投球",
+      "守備",
+      "內收",
+      "屈曲",
+      "外旋",
+      "原動肌",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "hip_gluteus_maximus",
+    "name_zh": "臀大肌",
+    "name_en": "Gluteus Maximus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Gluteus_maximus_3D.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gluteus_maximus_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "棒球員的「發動機」。投手依靠後腿臀大肌的強力伸展產生推進力（Drive）。打者則依賴它進行髖部爆發性旋轉，將力量灌入球棒。",
+    "desc_en": "The baseball player's engine. Pitchers rely on the rear leg's glute max for powerful drive. Batters depend on it for explosive hip rotation to transfer power into the bat.",
+    "tags": [
+      "髖部與大腿",
+      "棒球",
+      "投球",
+      "打擊",
+      "跑壘",
+      "伸展",
+      "外旋",
+      "外展",
+      "下肢拉/髖絞鍊",
+      "衝擊吸收",
+      "原動肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "hip_gluteus_medius",
+    "name_zh": "臀中肌",
+    "name_en": "Gluteus Medius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Gluteus_medius_muscle_-_animation01.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gluteus_medius_muscle_-_animation01.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "投手「平衡點（Balance Point）」的關鍵。單腳站立時負責穩定骨盆，若無力會導致身體晃動，影響放球點穩定性。打擊前腳著地時亦需其穩定。",
+    "desc_en": "Key to the pitcher's 'Balance Point.' Stabilizes the pelvis during the single-leg stance. Weakness causes swaying, affecting release point consistency. Also stabilizes the front leg during batting stride.",
+    "tags": [
+      "髖部與大腿",
+      "棒球",
+      "投球",
+      "打擊",
+      "外展",
+      "外旋",
+      "穩定肌",
+      "衝擊吸收",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "hip_gluteus_minimus",
+    "name_zh": "臀小肌",
+    "name_en": "Gluteus Minimus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Gluteus_minimus_muscle_animation04.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gluteus_minimus_muscle_animation04.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "深層穩定肌。在投手激烈旋轉投球時，將股骨頭緊扣在髖臼內，防止關節移位，確保力量傳遞效率。",
+    "desc_en": "Deep stabilizer. Secures the femoral head in the acetabulum during the violent rotation of pitching, preventing joint displacement and ensuring efficient force transfer.",
+    "tags": [
+      "臀部肌群",
+      "棒球",
+      "投球",
+      "打擊",
+      "外展",
+      "內旋",
+      "穩定肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "hip_gracilis",
+    "name_zh": "薄肌（髖部段）",
+    "name_en": "Gracilis (Hip)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gracilis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gracilis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "野手橫向撲球或進行劈腿接球（First baseman split）時，限制雙腿過度外展，保護內收肌群。亦協助跨步後的減速。",
+    "desc_en": "Limits excessive leg abduction during lateral dives or first base splits, protecting the adductor group. Also assists in deceleration after striding.",
+    "tags": [
+      "內收肌群",
+      "棒球",
+      "守備",
+      "投球",
+      "內收",
+      "屈曲",
+      "內旋",
+      "原動肌",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "hip_iliacus",
+    "name_zh": "髂肌",
+    "name_en": "Iliacus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Iliacus_muscle_-_animation05.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Iliacus_muscle_-_animation05.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "投手「高抬腿（High Leg Kick）」的啟動肌。負責快速將前導腿抬起，積蓄位能以轉換為投球動能。",
+    "desc_en": "Initiator of the pitcher's 'High Leg Kick.' Rapidly lifts the lead leg, accumulating potential energy to be converted into pitching kinetic energy.",
+    "tags": [
+      "髖屈肌群",
+      "棒球",
+      "投球",
+      "跑壘",
+      "屈曲",
+      "外旋",
+      "原動肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "hip_iliopsoas",
+    "name_zh": "髂腰肌",
+    "name_en": "Iliopsoas",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Braus_1921_244.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Braus_1921_244.png\">Braus, Hermann</a>, Public domain, via Wikimedia Commons",
+    "desc": "連接上下半身的樞紐。在投球與揮棒時，負責帶動髖部旋轉並連結軀幹，是「動力鏈」傳遞的核心通道。緊繃會導致下背痛。",
+    "desc_en": "The hub connecting upper and lower body. Drives hip rotation and connects the trunk during pitching and hitting; the core conduit of the 'kinetic chain.' Tightness leads to lower back pain.",
+    "tags": [
+      "髖部與大腿",
+      "棒球",
+      "投球",
+      "打擊",
+      "跑壘",
+      "屈曲",
+      "外旋",
+      "下肢推",
+      "原動肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "hip_obturator_externus",
+    "name_zh": "閉孔外肌",
+    "name_en": "Obturator Externus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/14/Obturator_externus_large.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Obturator_externus_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在投手進行極限跨步與旋轉時，提供髖關節深層穩定，確保股骨頭不會因為強大的扭力而位移。",
+    "desc_en": "Provides deep hip stability during the pitcher's extreme stride and rotation, ensuring the femoral head resists displacement under high torque.",
+    "tags": [
+      "深層外旋肌群",
+      "棒球",
+      "投球",
+      "打擊",
+      "外旋",
+      "穩定肌",
+      "股骨頭穩定"
+    ]
+  },
+  {
+    "id": "hip_obturator_internus",
+    "name_zh": "閉孔內肌",
+    "name_en": "Obturator Internus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Obturator_internus_large.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Obturator_internus_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責微調髖部旋轉。在投手前腳著地後的骨盆旋轉期，協助控制股骨的內旋速度，保護髖關節盂唇。",
+    "desc_en": "Fine-tunes hip rotation. Assists in controlling femoral internal rotation speed during the pelvic rotation phase after foot strike, protecting the hip labrum.",
+    "tags": [
+      "深層外旋肌群",
+      "棒球",
+      "投球",
+      "打擊",
+      "外旋",
+      "外展",
+      "穩定肌",
+      "股骨頭穩定"
+    ]
+  },
+  {
+    "id": "hip_pectineus",
+    "name_zh": "恥骨肌",
+    "name_en": "Pectineus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Pectineus_3D.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pectineus_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助控制跨步方向。在投手啟動跨步時，負責將大腿向內導引，確保動能直線朝向本壘板，而非過度外開。",
+    "desc_en": "Controls stride direction. Guides the thigh medially during the pitcher's stride initiation, ensuring kinetic energy is directed linearly toward home plate, preventing flying open.",
+    "tags": [
+      "內收肌群",
+      "棒球",
+      "投球",
+      "跑壘",
+      "內收",
+      "屈曲",
+      "內旋",
+      "原動肌",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "hip_piriformis",
+    "name_zh": "梨狀肌",
+    "name_en": "Piriformis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/39/Piriformis_large.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Piriformis_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "投手的煞車皮。在投球隨揮期（Follow-through），後腿會劇烈內旋，梨狀肌負責離心收縮以減速，過度疲勞易引發坐骨神經痛。",
+    "desc_en": "The pitcher's brake pad. During the follow-through, the back leg undergoes violent internal rotation; the piriformis eccentrically contracts to decelerate it. Fatigue leads to sciatica.",
+    "tags": [
+      "深層外旋肌群",
+      "棒球",
+      "投球",
+      "外旋",
+      "外展",
+      "穩定肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "hip_psoas_major",
+    "name_zh": "腰大肌",
+    "name_en": "Psoas Major",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Psoas_major_muscle_-_animation04.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Psoas_major_muscle_-_animation04.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "穩定腰椎並啟動屈髖。投手在「伸展期（Arching）」時，腰大肌需拉長並儲存彈性位能，隨後像鞭子一樣帶動上半身前壓。",
+    "desc_en": "Stabilizes lumbar spine and initiates hip flexion. During the pitcher's 'arching' phase, the psoas lengthens to store elastic energy, then whips the upper body forward.",
+    "tags": [
+      "髖屈肌群",
+      "棒球",
+      "投球",
+      "打擊",
+      "屈曲",
+      "內旋",
+      "側屈",
+      "原動肌",
+      "姿勢維持",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "hip_quadratus_femoris",
+    "name_zh": "股方肌",
+    "name_en": "Quadratus Femoris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Quadratus_femoris_large.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Quadratus_femoris_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "產生髖外旋扭力。在投手後腳推蹬（Drive）的初始階段，協助產生外旋力量，為骨盆旋轉做準備。",
+    "desc_en": "Generates hip external rotation torque. Assists in creating external rotation force during the initial phase of the pitcher's drive, preparing for pelvic rotation.",
+    "tags": [
+      "深層外旋肌群",
+      "棒球",
+      "投球",
+      "打擊",
+      "外旋",
+      "穩定肌",
+      "股骨頭穩定"
+    ]
+  },
+  {
+    "id": "hip_tensor_fasciae_latae",
+    "name_zh": "闊筋膜張肌 (TFL)",
+    "name_en": "Tensor Fasciae Latae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Tensor-fasciae-latae.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Tensor-fasciae-latae.png\">colorized by Michael Gasperl</a>, Public domain, via Wikimedia Commons",
+    "desc": "投手前腳著地（Blocking）時的穩定關鍵。透過拉緊髂脛束來穩定膝關節外側，防止膝蓋在承受巨大煞車力量時崩塌。",
+    "desc_en": "Crucial for stability during pitcher's front foot blocking. Tensions the IT Band to stabilize the lateral knee, preventing collapse under immense braking forces.",
+    "tags": [
+      "髖屈肌群",
+      "棒球",
+      "投球",
+      "打擊",
+      "屈曲",
+      "外展",
+      "內旋",
+      "穩定肌",
+      "核心穩定",
+      "下肢推"
+    ]
+  },
+  {
+    "id": "knee_popliteus",
+    "name_zh": "膕肌",
+    "name_en": "Popliteus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Popliteus_muscle_-animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Popliteus_muscle_-animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "膝關節保護者。打擊時前腳伸直支撐（Bracing），膕肌防止膝蓋過度伸直（Hyperextension）。",
+    "desc_en": "Knee protector. Prevents hyperextension of the front knee during the bracing phase of batting.",
+    "tags": [
+      "膝關節",
+      "棒球",
+      "投球",
+      "打擊",
+      "屈曲",
+      "膝關節屈曲",
+      "膝關節內旋",
+      "穩定肌",
+      "膝關節穩定"
+    ]
+  },
+  {
+    "id": "neck_anterior_scalene",
+    "name_zh": "前斜角肌",
+    "name_en": "Anterior Scalene",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Scalenus_anterior_-_animation04.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Scalenus_anterior_-_animation04.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "壓力與呼吸肌。投手在緊張局勢下常出現胸式呼吸，導致此肌肉緊繃，限制頭部轉動確認壘上跑者的能力。",
+    "desc_en": "Stress and breathing muscle. Pitchers in high-pressure spots often chest breathe, tightening this muscle and restricting head rotation to check runners.",
+    "tags": [
+      "頸部肌群",
+      "頸椎",
+      "棒球",
+      "投球",
+      "守備",
+      "屈曲",
+      "側屈",
+      "穩定肌",
+      "呼吸輔助",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "neck_digastric",
+    "name_zh": "二腹肌",
+    "name_en": "Digastric",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gray_%E2%80%94_musculus_digastricus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_digastricus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助張嘴與吞嚥。在劇烈運動中幫助維持呼吸道暢通，並穩定舌骨位置。",
+    "desc_en": "Assists opening mouth and swallowing. Helps maintain airway patency and stabilizes the hyoid during intense exertion.",
+    "tags": [
+      "頸部肌群",
+      "棒球",
+      "提升/下壓",
+      "穩定肌",
+      "呼吸輔助",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "neck_longus_colli",
+    "name_zh": "頸長肌",
+    "name_en": "Longus Colli",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/96/Gray_%E2%80%94_musculus_longus_colli.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_longus_colli.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "「盯球（Keep eye on the ball）」的穩定基礎。負責深層頸部屈曲，確保頭部在身體劇烈旋轉時保持相對穩定，以利視線追蹤球路。",
+    "desc_en": "Foundation for 'keeping your eye on the ball.' Responsible for deep neck flexion, ensuring head stability during violent body rotation to facilitate visual tracking.",
+    "tags": [
+      "頸椎",
+      "頸部肌群",
+      "棒球",
+      "打擊",
+      "守備",
+      "屈曲",
+      "穩定肌",
+      "姿勢維持",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "neck_mylohyoid",
+    "name_zh": "顎舌骨肌",
+    "name_en": "Mylohyoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/92/Mylohyoid_muscle.PNG",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Mylohyoid_muscle.PNG\">User:Mikael Häggström</a>, Public domain, via Wikimedia Commons",
+    "desc": "構成口腔底部。在緊張咬牙時會隨之緊繃。保持放鬆有助於減少整體頸部張力。",
+    "desc_en": "Forms the floor of the mouth. Tightens when clenching teeth in tension. Keeping it relaxed helps reduce overall neck tension.",
+    "tags": [
+      "頸部肌群",
+      "棒球",
+      "屈曲",
+      "提升/下壓",
+      "穩定肌",
+      "姿勢維持",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "neck_omohyoid",
+    "name_zh": "肩胛舌骨肌",
+    "name_en": "Omohyoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Muscle_omo-hyoidien.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_omo-hyoidien.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "連結肩胛骨與頸部。在投手快速揮臂（Arm Whip）過程中，協助穩定肩胛骨與頸部的連動關係。",
+    "desc_en": "Connects scapula to neck. Assists in stabilizing the scapula-neck linkage during the pitcher's rapid arm whip.",
+    "tags": [
+      "頸部肌群",
+      "棒球",
+      "投球",
+      "提升/下壓",
+      "穩定肌",
+      "姿勢維持",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "neck_sternocleidomastoid",
+    "name_zh": "胸鎖乳突肌",
+    "name_en": "Sternocleidomastoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Sternomastoid_muscle_animation_small2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Sternomastoid_muscle_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責頭部旋轉與側屈。對於打者而言，此肌肉讓頭部轉向投手丘並保持水平視線；對於野手，則是追蹤飛球的關鍵。",
+    "desc_en": "Responsible for head rotation and side bending. Allows batters to turn their head toward the mound and maintain a level gaze; crucial for fielders tracking fly balls.",
+    "tags": [
+      "頸部肌群",
+      "棒球",
+      "打擊",
+      "守備",
+      "軀幹旋轉與對角線",
+      "屈曲",
+      "側屈",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "neck_sternohyoid",
+    "name_zh": "胸骨舌骨肌",
+    "name_en": "Sternohyoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/67/Sternohyoid_muscle.PNG",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Sternohyoid_muscle.PNG\">User:Mikael Häggström</a>, Public domain, via Wikimedia Commons",
+    "desc": "前頸部的穩定肌。在身體發生碰撞（如本壘攻防或滑壘）時，協助穩定喉部結構。",
+    "desc_en": "Stabilizer of the anterior neck. Helps stabilize laryngeal structures during physical collisions (e.g., home plate plays or sliding).",
+    "tags": [
+      "頸部肌群",
+      "棒球",
+      "提升/下壓",
+      "穩定肌",
+      "姿勢維持",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "pelvis_levator_ani",
+    "name_zh": "提肛肌",
+    "name_en": "Levator Ani",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Levator_ani.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Levator_ani.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "核心底板。在揮大棒或全力投球時，身體會進行Valsalva動作（憋氣用力），此肌肉需強力收縮以對抗增高的腹內壓。",
+    "desc_en": "Core floor. During a power swing or max-effort pitch, the body performs a Valsalva maneuver; this muscle contracts powerfully to counter increased intra-abdominal pressure.",
+    "tags": [
+      "骨盆帶",
+      "棒球",
+      "投球",
+      "打擊",
+      "提升/下壓",
+      "核心穩定",
+      "姿勢維持",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "posterior_thigh_biceps_femoris",
+    "name_zh": "股二頭肌",
+    "name_en": "Biceps Femoris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Biceps_femoris_muscle_animation_1.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Biceps_femoris_muscle_animation_1.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "投手的煞車系統。在投球釋放後，負責減速小腿的前甩動作。打者跑壘衝刺時，股二頭肌拉傷是非常常見的傷勢。",
+    "desc_en": "Pitcher's braking system. Decelerates the lower leg extension after pitch release. Hamstring strains are extremely common during base running sprints.",
+    "tags": [
+      "腿後肌群",
+      "棒球",
+      "投球",
+      "跑壘",
+      "屈曲",
+      "伸展",
+      "膝關節屈曲",
+      "髖關節伸展",
+      "膝關節外旋",
+      "原動肌",
+      "衝擊吸收",
+      "下肢拉/髖絞鍊"
+    ]
+  },
+  {
+    "id": "posterior_thigh_semitendinosus",
+    "name_zh": "半腱肌",
+    "name_en": "Semitendinosus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Semitendinosus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Semitendinosus.png\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "爆發力與速度的關鍵。在盜壘衝刺時提供強大的推進力，並在投手投球結束動作中協助減速小腿，保護膝關節。",
+    "desc_en": "Key to explosiveness and speed. Provides powerful propulsion during base stealing sprints and assists in decelerating the lower leg during the pitcher's follow-through, protecting the knee.",
+    "tags": [
+      "髖部與大腿",
+      "棒球",
+      "跑壘",
+      "投球",
+      "守備",
+      "屈曲",
+      "伸展",
+      "膝關節屈曲",
+      "髖關節伸展",
+      "原動肌",
+      "衝擊吸收",
+      "下肢拉/髖絞鍊"
+    ]
+  },
+  {
+    "id": "shin_tibialis_anterior",
+    "name_zh": "脛骨前肌",
+    "name_en": "Tibialis Anterior",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/63/Tibialis_anterior_muscle_animation_1.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Tibialis_anterior_muscle_animation_1.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "跑壘時負責勾起腳尖，防止釘鞋插入地面絆倒。投手在前腳著地（Landing）瞬間進行強力的離心收縮，控制足部落地。",
+    "desc_en": "Dorsiflexes the foot during base running to prevent cleats from catching and tripping. Performs powerful eccentric contraction at the moment of pitcher's landing to control foot placement.",
+    "tags": [
+      "小腿前側肌群",
+      "棒球",
+      "跑壘",
+      "投球",
+      "背屈",
+      "內翻",
+      "原動肌",
+      "衝擊吸收",
+      "足弓支撐"
+    ]
+  },
+  {
+    "id": "shoulder_deltoid_anterior",
+    "name_zh": "三角肌前部",
+    "name_en": "Anterior Deltoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "投球加速期（Acceleration Phase）的主力之一，協助將手臂向前揮動。打擊時負責前導臂（Lead arm）的抬起與引導。",
+    "desc_en": "A primary muscle during the pitching acceleration phase, assisting in driving the arm forward. Lifts and guides the lead arm during batting.",
+    "tags": [
+      "肩帶與肩關節",
+      "棒球",
+      "投球",
+      "打擊",
+      "屈曲",
+      "內旋",
+      "原動肌"
+    ]
+  },
+  {
+    "id": "shoulder_deltoid_middle",
+    "name_zh": "三角肌中部",
+    "name_en": "Middle Deltoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "投手在舉臂期（Cocking Phase）負責將手臂外展至90度，這是肩關節最穩定的投球位置。守備時維持手套手的高度。",
+    "desc_en": "Responsible for abducting the arm to 90 degrees during the pitcher's cocking phase, the most stable position for throwing. Maintains glove arm height during fielding.",
+    "tags": [
+      "肩帶與肩關節",
+      "棒球",
+      "投球",
+      "守備",
+      "外展",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "shoulder_deltoid_posterior",
+    "name_zh": "三角肌後部",
+    "name_en": "Posterior Deltoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "投球減速期（Deceleration）的重要煞車肌。在球投出後，協助對抗手臂向前的巨大慣性，預防肩關節前方脫位。",
+    "desc_en": "Critical braking muscle during pitching deceleration. Helps counteract the arm's massive forward inertia after release, preventing anterior shoulder dislocation.",
+    "tags": [
+      "肩帶與肩關節",
+      "棒球",
+      "投球",
+      "打擊",
+      "伸展",
+      "外旋",
+      "原動肌",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "shoulder_infraspinatus",
+    "name_zh": "棘下肌",
+    "name_en": "Infraspinatus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Infraspinatus_muscle_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Infraspinatus_muscle_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "投手最易受傷的肩袖肌群之一。負責手臂外旋（Late Cocking），更重要的是在投球結束後進行極高強度的離心收縮以煞車。",
+    "desc_en": "One of the most injury-prone rotator cuff muscles in pitchers. Responsible for external rotation (late cocking) and, crucially, high-intensity eccentric contraction to brake the arm after release.",
+    "tags": [
+      "肩帶與肩關節",
+      "棒球",
+      "投球",
+      "外旋",
+      "上肢拉-水平",
+      "原動肌",
+      "穩定肌",
+      "核心穩定",
+      "醫療相關"
+    ]
+  },
+  {
+    "id": "shoulder_levator_scapulae",
+    "name_zh": "提肩胛肌",
+    "name_en": "Levator Scapulae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/97/Levator_scapulae_muscle_animation_small.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Levator_scapulae_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "壓力與疲勞的代償肌。當投手肩袖肌群疲勞時，常不自覺聳肩，導致此肌肉僵硬並影響頸部活動。",
+    "desc_en": "Compensation muscle for stress and fatigue. When a pitcher's rotator cuff fatigues, unconscious shrugging tightens this muscle, impairing neck mobility.",
+    "tags": [
+      "肩帶與肩關節",
+      "頸部肌群",
+      "棒球",
+      "提升/下壓",
+      "內旋",
+      "肩帶穩定",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_subscapularis",
+    "name_zh": "肩胛下肌",
+    "name_en": "Subscapularis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Subscapularis_muscle_animation3.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Subscapularis_muscle_animation3.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "肩袖肌群中唯一的內旋肌。在投球加速期與背闊肌協同產生強大內旋力。同時保護肩關節前方不脫位。",
+    "desc_en": "The only internal rotator of the rotator cuff. Synergizes with the lats to generate powerful internal rotation during pitching acceleration. Also protects against anterior shoulder dislocation.",
+    "tags": [
+      "肩帶與肩關節",
+      "棒球",
+      "投球",
+      "內旋",
+      "上肢推-水平",
+      "原動肌",
+      "穩定肌",
+      "核心穩定",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_supraspinatus",
+    "name_zh": "棘上肌",
+    "name_en": "Supraspinatus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Supraspinatus_muscle_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Supraspinatus_muscle_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責啟動外展並將肱骨頭壓入關節窩。投球動作中反覆的高舉過頭動作易導致其肌腱夾擠（Impingement）或撕裂。",
+    "desc_en": "Initiates abduction and compresses the humeral head into the socket. Repetitive overhead throwing motions make it prone to impingement or tears.",
+    "tags": [
+      "肩帶與肩關節",
+      "棒球",
+      "投球",
+      "外展",
+      "上肢推-垂直",
+      "原動肌",
+      "穩定肌",
+      "核心穩定",
+      "醫療相關"
+    ]
+  },
+  {
+    "id": "shoulder_teres_major",
+    "name_zh": "大圓肌",
+    "name_en": "Teres Major",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Gray_%E2%80%94_musculus_teres_major.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_teres_major.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "背闊肌的小助手。在投球加速期，協助強力的肩伸展與內旋，是產生球速的動力鏈一環。",
+    "desc_en": "The latissimus dorsi's little helper. Assists in powerful shoulder extension and internal rotation during pitching acceleration, contributing to velocity.",
+    "tags": [
+      "肩帶與肩關節",
+      "棒球",
+      "投球",
+      "伸展",
+      "內收",
+      "內旋",
+      "上肢拉-垂直",
+      "原動肌",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "shoulder_teres_minor",
+    "name_zh": "小圓肌",
+    "name_en": "Teres Minor",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gray_%E2%80%94_musculus_teres_minor.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_teres_minor.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "與棘下肌共同負責投球後的減速。高達45%的職業投手在此處有無症狀的肌肉肥大或萎縮現象。",
+    "desc_en": "Works with infraspinatus to decelerate the arm after pitching. Up to 45% of pro pitchers show asymptomatic hypertrophy or atrophy here.",
+    "tags": [
+      "肩帶與肩關節",
+      "棒球",
+      "投球",
+      "外旋",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_trapezius_lower",
+    "name_zh": "斜方肌下部",
+    "name_en": "Trapezius (Lower)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Trapezius_animation_small2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Trapezius_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "肩胛骨穩定之王。在舉臂投球時負責肩胛骨的上迴旋與下壓，確保肩峰下空間足夠，預防夾擠症候群。",
+    "desc_en": "King of scapular stability. Responsible for scapular upward rotation and depression during overhead throwing, preserving subacromial space to prevent impingement.",
+    "tags": [
+      "肩帶與肩關節",
+      "棒球",
+      "投球",
+      "下壓",
+      "外旋",
+      "肩帶穩定",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_trapezius_middle",
+    "name_zh": "斜方肌中部",
+    "name_en": "Trapezius (Middle)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Trapezius_animation_small2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Trapezius_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責肩胛骨後收（Retraction）。在投手「展胸（Scap Loading）」階段至關重要，為手臂加速儲存彈性位能。",
+    "desc_en": "Responsible for scapular retraction. Crucial during the pitcher's 'Scap Loading' phase, storing elastic energy for arm acceleration.",
+    "tags": [
+      "肩帶與肩關節",
+      "棒球",
+      "投球",
+      "打擊",
+      "內收",
+      "肩帶穩定",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_trapezius_upper",
+    "name_zh": "斜方肌上部",
+    "name_en": "Trapezius (Upper)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Trapezius_animation_small2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Trapezius_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "過度活躍的代償者。投球時應避免過度聳肩，否則會破壞肩胛骨的正常律動（Scapulohumeral rhythm），導致肩傷。",
+    "desc_en": "The overactive compensator. Excessive shrugging during pitching disrupts normal scapulohumeral rhythm, leading to shoulder injuries.",
+    "tags": [
+      "肩帶與肩關節",
+      "棒球",
+      "投球",
+      "提升/下壓",
+      "外旋",
+      "肩帶穩定",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "thigh_adductor_longus",
+    "name_zh": "長內收肌",
+    "name_en": "Adductor Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/Adductor_longus.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Adductor_longus.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "野手側向移動或劈腿接球時的高張力區。在盜壘起跑與快速變向時極易拉傷（Groin pull）。",
+    "desc_en": "High-tension zone during lateral fielding movements or splits. Extremely susceptible to strains (groin pull) during base stealing starts and quick cuts.",
+    "tags": [
+      "內收肌群",
+      "髖部與大腿",
+      "棒球",
+      "守備",
+      "跑壘",
+      "內收",
+      "屈曲",
+      "內旋",
+      "原動肌",
+      "穩定肌",
+      "核心",
+      "醫療相關"
+    ]
+  },
+  {
+    "id": "thigh_adductor_magnus",
+    "name_zh": "大內收肌",
+    "name_en": "Adductor Magnus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Muscle_grand_adducteur_copie.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_grand_adducteur_copie.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "強大的髖伸展協同肌。在打擊與投球的下肢推蹬期，提供穩定且強力的力量輸出，並防止骨盆過度旋轉。",
+    "desc_en": "Powerful synergist for hip extension. Provides stable and strong power output during the lower body drive in batting and pitching, preventing excessive pelvic rotation.",
+    "tags": [
+      "髖部與大腿",
+      "棒球",
+      "投球",
+      "打擊",
+      "內收",
+      "伸展",
+      "原動肌",
+      "穩定肌",
+      "下肢拉/髖絞鍊",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "thigh_gracilis",
+    "name_zh": "股薄肌",
+    "name_en": "Gracilis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gracilis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gracilis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "與縫匠肌、半腱肌共同穩定膝關節內側（鵝足）。在投手旋轉過猛或野手滑接時，負責抵抗外翻應力。",
+    "desc_en": "Works with sartorius and semitendinosus to stabilize the medial knee (pes anserinus). Resists valgus stress during violent pitching rotation or sliding catches.",
+    "tags": [
+      "髖部與大腿",
+      "棒球",
+      "投球",
+      "守備",
+      "內收",
+      "屈曲",
+      "膝關節屈曲",
+      "膝關節內旋",
+      "原動肌",
+      "穩定肌",
+      "膝關節穩定"
+    ]
+  },
+  {
+    "id": "thigh_rectus_femoris",
+    "name_zh": "股直肌",
+    "name_en": "Rectus Femoris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/48/Rectus_femoris_3D.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Rectus_femoris_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責投手的高抬腿（屈髖）與著地後的膝蓋支撐（伸膝）。是連接爆發力與穩定性的雙關節橋樑。",
+    "desc_en": "Responsible for the pitcher's high leg kick (hip flexion) and knee support upon landing (knee extension). The biarticular bridge connecting explosiveness and stability.",
+    "tags": [
+      "股四頭肌",
+      "棒球",
+      "投球",
+      "跑壘",
+      "伸展",
+      "屈曲",
+      "膝關節伸展",
+      "髖關節屈曲",
+      "原動肌",
+      "下肢推"
+    ]
+  },
+  {
+    "id": "thigh_sartorius",
+    "name_zh": "縫匠肌",
+    "name_en": "Sartorius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Sartorius_3D.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Sartorius_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助投手抬腿時的髖部屈曲與外旋。守備蹲姿或側向移動時，協助控制膝蓋位置。",
+    "desc_en": "Assists hip flexion and external rotation during the pitcher's leg lift. Helps control knee position during defensive squats or lateral movements.",
+    "tags": [
+      "髖部與大腿",
+      "棒球",
+      "投球",
+      "守備",
+      "屈曲",
+      "外旋",
+      "外展",
+      "膝關節屈曲",
+      "膝關節內旋",
+      "原動肌",
+      "膝關節穩定"
+    ]
+  },
+  {
+    "id": "thigh_vastus_intermedius",
+    "name_zh": "股中間肌",
+    "name_en": "Vastus Intermedius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Vastus_intermedialis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Vastus_intermedialis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "投手前腳著地（Blocking leg）的深層支柱。負責吸收強大的體重與動能衝擊，將水平動能有效轉換為旋轉動能。",
+    "desc_en": "Deep pillar of the pitcher's blocking leg. Absorbs massive weight and kinetic impact, efficiently converting horizontal momentum into rotational energy.",
+    "tags": [
+      "股四頭肌",
+      "棒球",
+      "投球",
+      "打擊",
+      "伸展",
+      "膝關節伸展",
+      "原動肌",
+      "膝關節穩定",
+      "下肢推",
+      "衝擊吸收"
+    ]
+  },
+  {
+    "id": "thigh_vastus_lateralis",
+    "name_zh": "股外側肌",
+    "name_en": "Vastus Lateralis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Vastus_lateralis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Vastus_lateralis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "股四頭肌最大部分。負責捕手蹲姿起立的爆發力，以及打者揮棒時前腳的穩固支撐（Bracing）。",
+    "desc_en": "Largest quad muscle. Provides explosive power for catchers rising from a squat and solid bracing for the batter's front leg during the swing.",
+    "tags": [
+      "股四頭肌",
+      "棒球",
+      "捕手",
+      "打擊",
+      "投球",
+      "伸展",
+      "膝關節伸展",
+      "原動肌",
+      "膝關節穩定",
+      "下肢推",
+      "衝擊吸收"
+    ]
+  },
+  {
+    "id": "thigh_vastus_medialis",
+    "name_zh": "股內側肌",
+    "name_en": "Vastus Medialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Vastus_medialis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Vastus_medialis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "髕骨軌跡的守護者。捕手長期蹲姿極易造成此肌肉疲勞，導致髕骨外翻與膝蓋疼痛（Patellofemoral pain）。",
+    "desc_en": "Guardian of patellar tracking. Catchers' prolonged squatting fatigues this muscle, leading to patellar maltracking and knee pain (Patellofemoral pain).",
+    "tags": [
+      "股四頭肌",
+      "棒球",
+      "捕手",
+      "投球",
+      "伸展",
+      "膝關節伸展",
+      "原動肌",
+      "膝關節穩定",
+      "下肢推"
+    ]
+  },
+  {
+    "id": "thorax_diaphragm",
+    "name_zh": "橫隔膜",
+    "name_en": "Diaphragm",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/71/Diaphragm_-_2.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Diaphragm_-_2.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "透過增加腹內壓（IAP）來穩定核心。投手在投球瞬間會利用橫隔膜收縮閉氣（Valsalva），以支撐脊椎承受巨大的旋轉扭力。",
+    "desc_en": "Stabilizes the core via increased intra-abdominal pressure (IAP). Pitchers perform a Valsalva maneuver at release to support the spine against immense rotational torque.",
+    "tags": [
+      "胸廓",
+      "棒球",
+      "投球",
+      "打擊",
+      "屈曲",
+      "提升/下壓",
+      "核心穩定",
+      "呼吸輔助",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "thorax_intercostal_internal",
+    "name_zh": "內側肋間肌",
+    "name_en": "Internal Intercostal",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Internal_intercostal_muscles_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Internal_intercostal_muscles_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助投球與揮棒時的強力呼氣（Grunting）。穩定胸廓，確保力量能從核心有效地傳遞至上肢。",
+    "desc_en": "Assists powerful expiration (grunting) during pitching and swinging. Stabilizes the rib cage, ensuring effective force transfer from core to upper extremities.",
+    "tags": [
+      "胸廓",
+      "棒球",
+      "投球",
+      "打擊",
+      "呼吸輔助",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "thorax_pectoralis_major",
+    "name_zh": "胸大肌",
+    "name_en": "Pectoralis Major",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/39/PectoralisMajor.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:PectoralisMajor.gif\">DrJanaOfficial</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "投手加速期的主要發動機。負責強力的肩內收與內旋，將手臂像鞭子一樣向前甩出。過度緊繃會限制外旋幅度（Layback）。",
+    "desc_en": "Primary engine for pitching acceleration. Responsible for powerful shoulder adduction and internal rotation, whipping the arm forward. Tightness restricts maximal external rotation (layback).",
+    "tags": [
+      "胸廓",
+      "肩帶與肋關節",
+      "棒球",
+      "投球",
+      "打擊",
+      "屈曲",
+      "內收",
+      "內旋",
+      "上肢推-水平",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "thorax_pectoralis_minor",
+    "name_zh": "胸小肌",
+    "name_en": "Pectoralis Minor",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/37/Pectoralis_minor_muscle_animation_small.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pectoralis_minor_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "投手的潛在威脅。若過緊會將肩胛骨向前向下拉（前傾），造成肩夾擠風險，並限制抬臂高度。",
+    "desc_en": "A potential threat to pitchers. If tight, pulls the scapula anteriorly and inferiorly (tilt), increasing impingement risk and limiting arm elevation.",
+    "tags": [
+      "胸廓",
+      "肩帶與肋關節",
+      "棒球",
+      "投球",
+      "下壓",
+      "前伸",
+      "下迴旋",
+      "內旋",
+      "肩帶穩定",
+      "穩定肌",
+      "呼吸輔助",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "thorax_serratus_anterior",
+    "name_zh": "前鋸肌",
+    "name_en": "Serratus Anterior",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/31/Serratus_anterior_muscle_animation_small.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Serratus_anterior_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "投擲動作的核心肌。負責肩胛骨的上迴旋與前伸，允許手臂高舉過頭並安全釋放球。無力的前鋸肌是肩傷與翼狀肩胛的主因。",
+    "desc_en": "Core muscle for throwing. Responsible for scapular upward rotation and protraction, allowing safe overhead arm movement and release. Weakness is a primary cause of shoulder injury and winging scapula.",
+    "tags": [
+      "胸廓",
+      "肩帶與肋關節",
+      "棒球",
+      "投球",
+      "外展",
+      "上肢推-水平",
+      "上肢推-垂直",
+      "屈曲",
+      "肩帶穩定",
+      "核心穩定",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "thorax_subclavius",
+    "name_zh": "鎖下肌",
+    "name_en": "Subclavius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Subclavius_muscle_animation2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Subclavius_muscle_animation2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "穩定鎖骨。在反覆的過頭投擲動作中，保護胸鎖關節與其下方的神經血管束。",
+    "desc_en": "Stabilizes the clavicle. Protects the sternoclavicular joint and underlying neurovascular bundle during repetitive overhead throwing motions.",
+    "tags": [
+      "胸廓",
+      "棒球",
+      "投球",
+      "呼吸輔助",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "thorax_transversus_thoracis",
+    "name_zh": "胸橫肌",
+    "name_en": "Transversus Thoracis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Transversus_thoracis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Transversus_thoracis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "輔助呼氣肌。在高強度投球或跑壘後的恢復期，協助快速排出氣體。",
+    "desc_en": "Accessory expiratory muscle. Assists in rapid air expulsion during recovery after high-intensity pitching or base running.",
+    "tags": [
+      "胸廓",
+      "棒球",
+      "呼吸輔助"
+    ]
+  }
+]
