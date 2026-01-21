@@ -5,8 +5,8 @@
     "name_en": "Digastric",
     "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gray_%E2%80%94_musculus_digastricus.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_digastricus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "在羽毛球比賽中，球員需頻繁抬頭追蹤高球或網前小球。此肌肉協助穩定下顎與舌骨，確保頭部在高頻率的仰視與俯視切換中保持穩定，有助於視線鎖定羽球。",
-    "desc_en": "In badminton, players frequently look up to track high clears or down for net shots. This muscle helps stabilize the mandible and hyoid, ensuring head stability during frequent vertical visual tracking to keep the eyes locked on the shuttlecock.",
+    "desc": "在羽毛球比賽中，球員需頻繁快速抬頭追蹤高遠球或低頭處理網前球。此肌肉協助穩定下顎與舌骨，確保頭部在高頻率的垂直視線切換中保持穩定，有助於視線鎖定羽球。",
+    "desc_en": "In badminton, players frequently look up to track clears or down for net shots. This muscle helps stabilize the mandible and hyoid, ensuring head stability during rapid vertical visual tracking to keep the eyes locked on the shuttlecock.",
     "tags": [
       "頸部肌群",
       "羽毛球",
@@ -24,8 +24,8 @@
     "name_en": "Middle Deltoid",
     "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "負責羽毛球揮拍準備動作中的「架拍」（外展）。在殺球或高遠球的引拍階段，將手肘抬高至肩部水平，為後續的鞭打動作創造力臂。",
-    "desc_en": "Responsible for the 'racket preparation' (abduction) phase in badminton strokes. During the backswing for a smash or clear, it lifts the elbow to shoulder level, creating the lever arm for the subsequent whipping motion.",
+    "desc": "負責羽毛球揮拍準備動作中的「架拍」（外展）。在殺球或高遠球的引拍階段，將手肘抬高至肩部水平，為後續的鞭打動作創造最佳力臂。",
+    "desc_en": "Responsible for the 'racket preparation' (abduction) phase. During the backswing for a smash or clear, it lifts the elbow to shoulder level, creating the optimal lever arm for the subsequent whipping motion.",
     "tags": [
       "肩帶與肩關節",
       "羽毛球",
@@ -67,8 +67,8 @@
     "name_en": "Posterior Deltoid",
     "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "負責反手拍的引拍動作（水平外展/伸展）以及殺球後的揮拍減速。強壯的後三角肌能保護肩關節在高速揮空時不被拉傷，對羽球員極為重要。",
-    "desc_en": "Responsible for the backswing (horizontal abduction/extension) in backhand strokes and decelerating the arm after a smash. Strong posterior deltoids protect the shoulder joint from strain during high-speed follow-throughs.",
+    "desc": "負責反手拍的引拍動作（水平外展）以及殺球後的揮拍減速。強壯的後三角肌能保護肩關節在高速揮空時不被拉傷，對羽球員極為重要。",
+    "desc_en": "Responsible for backhand preparation (horizontal abduction) and decelerating the arm after a smash. Strong posterior deltoids protect the shoulder joint from strain during high-speed follow-throughs.",
     "tags": [
       "肩帶與肩關節",
       "羽毛球",
@@ -82,6 +82,22 @@
       "穩定肌",
       "步態與移動",
       "反手拍"
+    ]
+  },
+  {
+    "id": "neck_mylohyoid",
+    "name_zh": "下頷舌骨肌",
+    "name_en": "Mylohyoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/30/Mylohyoid_muscle.PNG",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Mylohyoid_muscle.PNG\">Mikael Häggström</a>, Public domain, via Wikimedia Commons",
+    "desc": "構成口腔底部。在激烈的多拍對抗中，球員吞嚥口水或大口喘氣時，此肌肉協助維持口腔與喉部功能的正常運作。",
+    "desc_en": "Forms the floor of the mouth. During intense rallies, when players swallow or pant heavily, this muscle assists in maintaining normal oral and laryngeal function.",
+    "tags": [
+      "頸部肌群",
+      "羽毛球",
+      "提升/下壓",
+      "穩定肌",
+      "呼吸輔助"
     ]
   },
   {
@@ -141,7 +157,7 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gray_%E2%80%94_musculus_abductor_digiti_minimi.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
     "desc": "羽毛球握拍的「手指發力」末端。在擊球瞬間，小指的快速緊握（屈曲與內收）能提供球拍槓桿末端的支點，增加擊球的鞭打效果與控制力。",
-    "desc_en": "The terminal point of 'finger power' in the badminton grip. The rapid tightening (flexion and adduction) of the little finger at impact provides a fulcrum at the handle's end, enhancing the whipping effect and control.",
+    "desc_en": "The terminal point of 'finger power'. The rapid tightening (flexion and adduction) of the little finger at impact provides a fulcrum at the handle's end, enhancing the whipping effect and control.",
     "tags": [
       "手腕與手部",
       "羽毛球",
@@ -159,14 +175,14 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gray_%E2%80%94_musculus_extensor_digiti_minimi.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
     "desc": "在轉換正反手握拍或放鬆球拍準備擊球時，負責快速伸展小指。靈活的小指伸展能讓握拍空間變大，有利於手指在擊球瞬間產生瞬間發力。",
-    "desc_en": "Responsible for rapidly extending the little finger when switching grips or relaxing the hand before a shot. Flexible little finger extension opens the grip space, facilitating instantaneous finger power generation at impact.",
+    "desc_en": "Responsible for rapidly extending the little finger when switching grips or relaxing the hand before a shot. Flexible extension opens the grip space, facilitating instantaneous finger power generation.",
     "tags": [
       "肘部與前臂",
       "羽毛球",
       "伸展",
       "原動肌",
       "姿勢維持",
-      "握拍"
+      "握拍轉換"
     ]
   },
   {
@@ -176,7 +192,7 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Gray_%E2%80%94_musculus_flexor_digiti_minimi_brevis.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_digiti_minimi_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
     "desc": "負責在握拍時維持小指的屈曲張力。在羽球擊球的「鎖緊」階段，此肌肉與其他手指屈肌協同，確保球拍不會在高速撞擊中脫手。",
-    "desc_en": "Maintains flexion tension in the little finger while gripping. During the 'locking' phase of a stroke, it works with other flexors to ensure the racket remains secure against the high-speed impact of the shuttle.",
+    "desc_en": "Maintains flexion tension in the little finger while gripping. During the 'locking' phase of a stroke, it works with other flexors to ensure the racket remains secure against high-speed impact.",
     "tags": [
       "手腕與手部",
       "羽毛球",
@@ -194,7 +210,7 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Gray_%E2%80%94_musculus_opponens_digiti_minimi.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_opponens_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
     "desc": "協助手掌形成杯狀以穩固握住球拍柄底。在反手拍發力時，提供小魚際區的穩定性，幫助力量透過手掌根部傳遞至球拍。",
-    "desc_en": "Helps cup the palm to securely hold the racket butt. During backhand power generation, it provides stability in the hypothenar eminence, aiding force transfer through the heel of the hand to the racket.",
+    "desc_en": "Helps cup the palm to securely hold the racket butt. During backhand power generation, it provides stability in the hypothenar eminence, aiding force transfer through the heel of the hand.",
     "tags": [
       "手腕與手部",
       "羽毛球",
@@ -202,7 +218,7 @@
       "精細運動",
       "原動肌",
       "姿勢維持",
-      "握拍"
+      "反手拍"
     ]
   },
   {
@@ -212,7 +228,7 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gray_%E2%80%94_musculus_abductor_digiti_minimi.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
     "desc": "在羽球側向急停或跨步時，負責擴大足底支撐面積並抵抗足內翻。對於防止腳踝扭傷（翻腳刀）至關重要，特別是在快速變向移動中。",
-    "desc_en": "Expands the plantar support area and resists inversion during lateral braking or lunging in badminton. Crucial for preventing ankle sprains, especially during rapid directional changes.",
+    "desc_en": "Expands the plantar support area and resists inversion during lateral braking or lunging. Crucial for preventing ankle sprains, especially during rapid directional changes.",
     "tags": [
       "踝部與足部",
       "羽毛球",
@@ -234,7 +250,7 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gray_%E2%80%94_musculus_teres_minor.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_teres_minor.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
     "desc": "肩袖肌群成員，負責肩外旋。在殺球的準備動作（倒拍）中至關重要，幫助手臂充分外轉以儲存彈性位能，隨後在揮拍中穩定肩關節。",
-    "desc_en": "A rotator cuff member responsible for external rotation. Critical during the smash preparation (racket drop), allowing the arm to fully rotate externally to store elastic energy, then stabilizing the shoulder during the swing.",
+    "desc_en": "A rotator cuff member responsible for external rotation. Critical during the smash preparation (racket drop), allowing the arm to fully rotate externally to store elastic energy.",
     "tags": [
       "肩帶與肩關節",
       "羽毛球",
@@ -262,7 +278,8 @@
       "羽毛球",
       "HIIT/CrossFit",
       "呼吸輔助",
-      "核心穩定"
+      "核心穩定",
+      "殺球"
     ]
   },
   {
@@ -272,7 +289,7 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Medial_pterygoid_muscle_animation_2.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Medial_pterygoid_muscle_animation_2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
     "desc": "在殺球發力的瞬間，球員常會不自覺地咬緊牙關，此肌肉會強烈收縮。適度放鬆下顎有助於頸部靈活度，讓頭部能更自由地追蹤球路。",
-    "desc_en": "Players often subconsciously clench their teeth at the moment of a smash, strongly activating this muscle. Relaxing the jaw improves neck flexibility, allowing the head to track the shuttle more freely.",
+    "desc_en": "Players often subconsciously clench their teeth at the moment of a smash. Relaxing the jaw improves neck flexibility, allowing the head to track the shuttle more freely.",
     "tags": [
       "顱骨與顳顎關節",
       "羽毛球",
@@ -291,7 +308,7 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gray_%E2%80%94_musculus_extensor_carpi_ulnaris.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_carpi_ulnaris.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
     "desc": "羽毛球手腕發力的關鍵肌之一。在揮拍過程中負責手腕的伸展與尺偏（Ulnar Deviation），這是殺球與反手拍鞭打動作中產生最後一擊速度的重要動作。",
-    "desc_en": "A key muscle for wrist power in badminton. Responsible for wrist extension and ulnar deviation during the swing—crucial movements for generating terminal speed in smashes and backhand whips.",
+    "desc_en": "Key muscle for wrist power. Responsible for wrist extension and ulnar deviation during the swing—crucial movements for generating terminal speed in smashes and backhand whips.",
     "tags": [
       "肘部與前臂",
       "羽毛球",
@@ -410,494 +427,24 @@
     ]
   },
   {
-    "id": "neck_digastric",
-    "name_zh": "二腹肌",
-    "name_en": "Digastric",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gray_%E2%80%94_musculus_digastricus.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_digastricus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "（重複項）協助穩定舌骨。在激烈的多拍來回喘氣時，配合呼吸肌群維持呼吸道暢通，避免頭頸部過度緊繃影響視線。",
-    "desc_en": "(Duplicate) Assists in stabilizing the hyoid. During heavy panting in intense rallies, works with respiratory muscles to maintain airway patency, preventing neck tension from affecting vision.",
+    "id": "foot_lumbricals",
+    "name_zh": "足部蚓狀肌",
+    "name_en": "Lumbricals (Foot)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Lumbricales_pedis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_pedis.png\">Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "在羽毛球啟動與煞車時，穩定腳趾關節，防止腳趾過度捲曲（爪狀趾）。確保前腳掌能平穩地傳遞地面反作用力，提升步法穩定性。",
+    "desc_en": "Stabilizes toe joints during badminton starts and stops, preventing excessive curling (claw toes). Ensures the forefoot can smoothly transfer ground reaction forces, enhancing footwork stability.",
     "tags": [
-      "頸部肌群",
-      "羽毛球",
-      "游泳",
-      "瑜伽",
-      "提升/下壓",
-      "穩定肌",
-      "呼吸輔助",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "shoulder_deltoid_middle",
-    "name_zh": "三角肌中部",
-    "name_en": "Middle Deltoid",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "（重複項）側平舉動作的主動肌。在防守接殺球時，負責快速將手臂向兩側張開或提升，以覆蓋更大的防守面積。",
-    "desc_en": "(Duplicate) Prime mover for lateral raises. During smash defense, responsible for rapidly abducting or lifting the arm to cover a larger defensive area.",
-    "tags": [
-      "肩帶與肩關節",
-      "羽毛球",
-      "游泳",
-      "籃球",
-      "健身/重訓",
-      "羽毛球",
-      "網球",
-      "外展",
-      "穩定肌",
-      "步態與移動",
-      "防守"
-    ]
-  },
-  {
-    "id": "shoulder_deltoid_anterior",
-    "name_zh": "三角肌前部",
-    "name_en": "Anterior Deltoid",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "（重複項）在網前挑球（Lift）時，負責將手臂向前上方帶動。強壯的前三角肌有助於在被動時仍能將球挑至後場底線。",
-    "desc_en": "(Duplicate) Drives the arm forward and upward during net lifts. Strong anterior deltoids help clear the shuttle to the back baseline even when under pressure.",
-    "tags": [
-      "肩帶與肩關節",
-      "羽毛球",
-      "游泳",
-      "籃球",
-      "健身/重訓",
-      "羽毛球",
-      "網球",
-      "屈曲",
-      "內旋",
-      "原動肌",
-      "步態與移動",
-      "挑球"
-    ]
-  },
-  {
-    "id": "shoulder_deltoid_posterior",
-    "name_zh": "三角肌後部",
-    "name_en": "Posterior Deltoid",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "（重複項）反手過頂球（Backhand Overhead）的關鍵動力來源。負責手臂的外旋與伸展，讓球員在背對球網時仍能擊出有威脅的球。",
-    "desc_en": "(Duplicate) Key power source for backhand overhead shots. Responsible for arm extension and external rotation, allowing players to hit threatening shots even when facing away from the net.",
-    "tags": [
-      "肩帶與肩關節",
-      "羽毛球",
-      "游泳",
-      "划艇",
-      "羽毛球",
-      "網球",
-      "棒球/壘球",
-      "伸展",
-      "外旋",
-      "原動肌",
-      "穩定肌",
-      "步態與移動",
-      "反手拍"
-    ]
-  },
-  {
-    "id": "thigh_adductor_magnus",
-    "name_zh": "大內收肌",
-    "name_en": "Adductor Magnus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Muscle_grand_adducteur_copie.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_grand_adducteur_copie.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
-    "desc": "（重複項）在側向並步或交叉步移動中，負責大腿的內收動作。在頻繁的左右移動防守中，協助雙腿快速併攏與轉換重心。",
-    "desc_en": "(Duplicate) Responsible for thigh adduction during lateral chasse or crossover steps. Assists in quickly bringing legs together and shifting weight during frequent lateral defensive movements.",
-    "tags": [
-      "髖部與大腿",
+      "足部內在肌-第二層",
       "羽毛球",
       "足球",
-      "籃球",
-      "健身/重訓",
-      "登山/健行",
       "瑜伽",
-      "游泳",
-      "內收",
+      "屈曲",
       "伸展",
+      "足部穩定",
       "原動肌",
-      "穩定肌",
-      "下肢拉/髖絞鍊",
-      "核心穩定",
       "步態與移動",
       "步法"
-    ]
-  },
-  {
-    "id": "shoulder_teres_major",
-    "name_zh": "大圓肌",
-    "name_en": "Teres Major",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Gray_%E2%80%94_musculus_teres_major.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_teres_major.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "（重複項）在高遠球擊球瞬間，協助肩關節從外旋快速轉為內旋（旋轉發力）。對於需要長距離飛行的底線對拉至關重要。",
-    "desc_en": "(Duplicate) Assists in rapidly switching the shoulder from external to internal rotation (rotational power) at the moment of impact for a clear. Crucial for baseline-to-baseline rallies.",
-    "tags": [
-      "肩帶與肩關節",
-      "羽毛球",
-      "游泳",
-      "划艇",
-      "健身/重訓",
-      "伸展",
-      "內收",
-      "內旋",
-      "上肢拉-垂直",
-      "原動肌",
-      "穩定肌",
-      "高遠球"
-    ]
-  },
-  {
-    "id": "hand_abductor_digiti_minimi",
-    "name_zh": "小指外展肌",
-    "name_en": "Abductor Digiti Minimi",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gray_%E2%80%94_musculus_abductor_digiti_minimi.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "（重複項）在網前搓球等細膩技術中，負責微調球拍握柄的角度。精細的手指控制是高品質網前球的基礎。",
-    "desc_en": "(Duplicate) Fine-tunes the racket handle angle during delicate net shots like spinning net shots. Precise finger control is the foundation of high-quality net play.",
-    "tags": [
-      "手腕與手部",
-      "羽毛球",
-      "外展",
-      "精細運動",
-      "原動肌",
-      "姿勢維持",
-      "網前球"
-    ]
-  },
-  {
-    "id": "forearm_extensor_digiti_minimi",
-    "name_zh": "小指伸肌",
-    "name_en": "Extensor Digiti Minimi",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gray_%E2%80%94_musculus_extensor_digiti_minimi.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "（重複項）在反手挑球時，手指的快速伸展有助於手腕的彈動。保持此肌肉的靈活性可避免反手擊球動作僵硬。",
-    "desc_en": "(Duplicate) Rapid finger extension aids wrist snap during backhand lifts. Maintaining flexibility here prevents stiffness in backhand strokes.",
-    "tags": [
-      "肘部與前臂",
-      "羽毛球",
-      "伸展",
-      "原動肌",
-      "姿勢維持",
-      "反手拍"
-    ]
-  },
-  {
-    "id": "hand_flexor_digiti_minimi",
-    "name_zh": "小指屈肌短",
-    "name_en": "Flexor Digiti Minimi Brevis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Gray_%E2%80%94_musculus_flexor_digiti_minimi_brevis.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_digiti_minimi_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "（重複項）協助快速轉換握拍。在從正手轉為反手握拍時，小指的屈伸配合是調整拍面的關鍵支點。",
-    "desc_en": "(Duplicate) Assists in rapid grip changes. The flexion and extension of the little finger act as a key pivot point when switching from forehand to backhand grips.",
-    "tags": [
-      "手腕與手部",
-      "羽毛球",
-      "屈曲",
-      "精細運動",
-      "原動肌",
-      "姿勢維持",
-      "握拍轉換"
-    ]
-  },
-  {
-    "id": "shoulder_teres_major",
-    "name_zh": "大圓肌",
-    "name_en": "Teres Major",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Gray_%E2%80%94_musculus_teres_major.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_teres_major.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "羽毛球殺球力量鏈的重要一環。與背闊肌協同，在過頂擊球（Overhead stroke）時負責手臂的強力內旋與下壓，是產生擊球速度的關鍵。",
-    "desc_en": "A vital link in the badminton smash power chain. Works with the latissimus dorsi to execute powerful internal rotation and depression of the arm during overhead strokes, crucial for generating shot speed.",
-    "tags": [
-      "肩帶與肩關節",
-      "羽毛球",
-      "游泳",
-      "划艇",
-      "健身/重訓",
-      "伸展",
-      "內收",
-      "內旋",
-      "上肢拉-垂直",
-      "原動肌",
-      "穩定肌",
-      "殺球"
-    ]
-  },
-  {
-    "id": "hand_abductor_digiti_minimi",
-    "name_zh": "小指外展肌",
-    "name_en": "Abductor Digiti Minimi",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gray_%E2%80%94_musculus_abductor_digiti_minimi.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "在羽毛球握拍中，負責調節握柄底部的控制力。擊球瞬間的小指緊扣（Finger Power）能顯著增加鞭打效果，非擊球時則應放鬆以節省體力。",
-    "desc_en": "Regulates control at the butt of the racket handle. Tightening the little finger at impact (Finger Power) significantly enhances the whipping effect; it should remain relaxed between shots to conserve energy.",
-    "tags": [
-      "手腕與手部",
-      "羽毛球",
-      "外展",
-      "精細運動",
-      "原動肌",
-      "姿勢維持",
-      "握拍"
-    ]
-  },
-  {
-    "id": "forearm_extensor_digiti_minimi",
-    "name_zh": "小指伸肌",
-    "name_en": "Extensor Digiti Minimi",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gray_%E2%80%94_musculus_extensor_digiti_minimi.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "負責反手拍引拍時的手指放鬆與伸展。靈活的小指伸展能擴大握拍空間，為隨後的瞬間抓握發力創造足夠的加速距離。",
-    "desc_en": "Responsible for relaxing and extending the fingers during backhand preparation. Flexible little finger extension opens up grip space, creating sufficient acceleration distance for the subsequent snap-tightening.",
-    "tags": [
-      "肘部與前臂",
-      "羽毛球",
-      "伸展",
-      "原動肌",
-      "姿勢維持",
-      "反手拍"
-    ]
-  },
-  {
-    "id": "hand_flexor_digiti_minimi",
-    "name_zh": "小指屈肌短",
-    "name_en": "Flexor Digiti Minimi Brevis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Gray_%E2%80%94_musculus_flexor_digiti_minimi_brevis.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_digiti_minimi_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "在正手擊球瞬間，負責小指的快速屈曲以鎖死拍柄。這是「手指發力」技術的末端支點，確保力量完整傳遞至拍面。",
-    "desc_en": "Responsible for rapid little finger flexion to lock the handle at the moment of forehand impact. Acts as the terminal fulcrum for 'finger power' technique, ensuring full force transfer to the racket face.",
-    "tags": [
-      "手腕與手部",
-      "羽毛球",
-      "屈曲",
-      "精細運動",
-      "原動肌",
-      "姿勢維持",
-      "握拍"
-    ]
-  },
-  {
-    "id": "hand_opponens_digiti_minimi",
-    "name_zh": "小指對立肌",
-    "name_en": "Opponens Digiti Minimi",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Gray_%E2%80%94_musculus_opponens_digiti_minimi.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_opponens_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "穩定球拍柄底的關鍵。在反手推球或挑球時，協助掌根發力，提供穩定的支撐結構，防止球拍在擊球時滑動。",
-    "desc_en": "Key for stabilizing the racket butt. During backhand pushes or lifts, assists in generating force from the heel of the palm, providing a stable structure to prevent the racket from slipping.",
-    "tags": [
-      "手腕與手部",
-      "羽毛球",
-      "對立",
-      "精細運動",
-      "原動肌",
-      "姿勢維持",
-      "反手拍"
-    ]
-  },
-  {
-    "id": "foot_abductor_digiti_minimi",
-    "name_zh": "小趾外展肌",
-    "name_en": "Abductor Digiti Minimi",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gray_%E2%80%94_musculus_abductor_digiti_minimi.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "羽毛球側向移動（Chasse）時的穩定器。在快速向兩側急停或二次啟動時，負責擴大足底外側支撐面，預防腳踝內翻扭傷。",
-    "desc_en": "Stabilizer during lateral chasse steps. Expands the lateral plantar support area during sudden stops or secondary starts sideways, helping to prevent ankle inversion sprains.",
-    "tags": [
-      "踝部與足部",
-      "羽毛球",
-      "足球",
-      "瑜伽",
-      "外展",
-      "屈曲",
-      "原動肌",
-      "足弓支撐",
-      "穩定肌",
-      "步態與移動",
-      "防守"
-    ]
-  },
-  {
-    "id": "shoulder_teres_minor",
-    "name_zh": "小圓肌",
-    "name_en": "Teres Minor",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gray_%E2%80%94_musculus_teres_minor.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_teres_minor.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "負責羽球殺球前的「倒拍」動作（外旋）。在揮拍過程中穩定肱骨頭，防止因頻繁的大力扣殺導致肩關節不穩定或夾擠。",
-    "desc_en": "Responsible for the 'racket drop' (external rotation) before a smash. Stabilizes the humeral head during the swing, preventing instability or impingement caused by frequent powerful smashing.",
-    "tags": [
-      "肩帶與肩關節",
-      "羽毛球",
-      "游泳",
-      "棒球/壘球",
-      "網球",
-      "羽毛球",
-      "健身/重訓",
-      "外旋",
-      "原動肌",
-      "穩定肌",
-      "姿勢維持",
-      "殺球"
-    ]
-  },
-  {
-    "id": "thorax_intercostal_internal",
-    "name_zh": "內側肋間肌",
-    "name_en": "Internal Intercostal",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Internal_intercostal_muscles_animation.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Internal_intercostal_muscles_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "在殺球的收拍階段協助胸廓屈曲與旋轉。同時在高強度多拍對抗中，負責強力呼氣以維持氣體交換效率。",
-    "desc_en": "Assists thoracic flexion and rotation during the follow-through of a smash. Also responsible for forceful expiration to maintain gas exchange efficiency during high-intensity rallies.",
-    "tags": [
-      "胸廓",
-      "羽毛球",
-      "HIIT/CrossFit",
-      "呼吸輔助",
-      "核心穩定",
-      "殺球"
-    ]
-  },
-  {
-    "id": "head_medial_pterygoid",
-    "name_zh": "內翼肌",
-    "name_en": "Medial Pterygoid",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Medial_pterygoid_muscle_animation_2.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Medial_pterygoid_muscle_animation_2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "許多球員在發力擊球時會不自覺咬牙。此肌肉的過度緊張可能導致頸部僵硬，影響追球時的頭部靈活度，應學會適度放鬆。",
-    "desc_en": "Many players subconsciously clench their teeth when hitting hard. Excessive tension here can lead to neck stiffness, impairing head flexibility when tracking the shuttle; learning to relax it is beneficial.",
-    "tags": [
-      "顱骨與顳顎關節",
-      "羽毛球",
-      "拳擊/格鬥",
-      "健身/重訓",
-      "屈曲",
-      "內收",
-      "原動肌",
-      "姿勢維持"
-    ]
-  },
-  {
-    "id": "forearm_extensor_carpi_ulnaris",
-    "name_zh": "尺側腕伸肌",
-    "name_en": "Extensor Carpi Ulnaris",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gray_%E2%80%94_musculus_extensor_carpi_ulnaris.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_carpi_ulnaris.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "反手高遠球（Backhand Clear）的核心肌肉。負責在擊球瞬間產生手腕伸展與尺偏的鞭打動作，是反手底線回球力量的來源。",
-    "desc_en": "The core muscle for the Backhand Clear. Generates the whipping action of wrist extension and ulnar deviation at impact, providing the power source for baseline backhand returns.",
-    "tags": [
-      "肘部與前臂",
-      "羽毛球",
-      "伸展",
-      "內收",
-      "原動肌",
-      "姿勢維持",
-      "反手拍"
-    ]
-  },
-  {
-    "id": "forearm_flexor_carpi_ulnaris",
-    "name_zh": "尺側腕屈肌",
-    "name_en": "Flexor Carpi Ulnaris",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/7/75/Flexor_carpi_ulnaris.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Flexor_carpi_ulnaris.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "在正手殺球中提供最後的「壓腕」力量。與尺側腕伸肌快速切換，形成強有力的閃動擊球（Snap），但也常因過度使用導致手腕受傷。",
-    "desc_en": "Provides the final 'wrist snap' power in a forehand smash. Rapidly switches with the extensor carpi ulnaris to create a powerful snap, though overuse often leads to wrist injuries.",
-    "tags": [
-      "肘部與前臂",
-      "羽毛球",
-      "屈曲",
-      "內收",
-      "原動肌",
-      "姿勢維持",
-      "殺球"
-    ]
-  },
-  {
-    "id": "foot_quadratus_plantae",
-    "name_zh": "方形肌",
-    "name_en": "Quadratus Plantae",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Muscle_carr%C3%A9_plantaire.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_carr%C3%A9_plantaire.png\">Berichard d&#039;après Gray&#039;s anatomy</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
-    "desc": "協助腳趾在啟動瞬間抓緊地面。修正屈趾長肌的角度，確保在羽球多方向移動中，腳趾能有效地傳遞推進力。",
-    "desc_en": "Assists toes in gripping the floor at the moment of acceleration. Corrects the angle of the flexor digitorum longus, ensuring effective force transmission through the toes during multi-directional badminton movements.",
-    "tags": [
-      "踝部與足部",
-      "羽毛球",
-      "足球",
-      "瑜伽",
-      "屈曲",
-      "原動肌",
-      "足弓支撐",
-      "步態與移動",
-      "步法"
-    ]
-  },
-  {
-    "id": "forearm_pronator_quadratus",
-    "name_zh": "方形旋前肌",
-    "name_en": "Pronator Quadratus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Pronator-quadratus.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pronator-quadratus.png\">Selket at English Wikipedia</a>, Public domain, via Wikimedia Commons",
-    "desc": "羽毛球正手擊球的深層動力源。負責前臂的快速旋前（內旋），是殺球與平抽擋中產生「鞭打」效應的關鍵肌肉。",
-    "desc_en": "Deep power source for forehand strokes. Responsible for rapid forearm pronation (internal rotation), a key muscle for generating the 'whipping' effect in smashes and drives.",
-    "tags": [
-      "肘部與前臂",
-      "羽毛球",
-      "旋前",
-      "原動肌",
-      "姿勢維持",
-      "殺球"
-    ]
-  },
-  {
-    "id": "calf_soleus",
-    "name_zh": "比目魚肌",
-    "name_en": "Soleus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Soleus_muscle_-_animation.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Soleus_muscle_-_animation.gif\">Polygon data is generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "羽毛球防守站姿的耐力肌。在長時間保持膝蓋彎曲的準備動作中，負責穩定腳踝，並在啟動步（Split Step）瞬間儲存反彈能量。",
-    "desc_en": "Endurance muscle for the badminton defensive stance. Stabilizes the ankle while maintaining a bent-knee ready position and stores recoil energy at the moment of the split step.",
-    "tags": [
-      "小腿",
-      "羽毛球",
-      "籃球",
-      "足球",
-      "健身/重訓",
-      "登山/健行",
-      "單車",
-      "蹠屈",
-      "姿勢維持",
-      "原動肌",
-      "穩定肌",
-      "衝擊吸收",
-      "步態與移動",
-      "防守"
-    ]
-  },
-  {
-    "id": "posterior_thigh_semitendinosus",
-    "name_zh": "半腱肌",
-    "name_en": "Semitendinosus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Semitendinosus.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Semitendinosus.png\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "前場大跨步（Lunge）時負責減速與膝蓋保護。在後場跳殺時，負責快速伸展髖部以提供垂直彈跳力。",
-    "desc_en": "Responsible for deceleration and knee protection during net lunges. During rear-court jump smashes, executes rapid hip extension to provide vertical jumping power.",
-    "tags": [
-      "髖部與大腿",
-      "羽毛球",
-      "籃球",
-      "足球",
-      "健身/重訓",
-      "登山/健行",
-      "瑜伽",
-      "屈曲",
-      "伸展",
-      "膝關節屈曲",
-      "髖關節伸展",
-      "原動肌",
-      "衝擊吸收",
-      "步態與移動",
-      "下肢拉/髖絞鍊",
-      "跳躍"
     ]
   },
   {
@@ -964,6 +511,23 @@
     ]
   },
   {
+    "id": "forearm_abductor_pollicis_longus",
+    "name_zh": "拇指外展長肌",
+    "name_en": "Abductor Pollicis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/61/Gray_%E2%80%94_musculus_abductor_pollicis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_pollicis_longus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助穩定手腕橈側並控制拇指位置。在挑球或推球時，幫助維持手腕與拇指的結構穩定性。",
+    "desc_en": "Stabilizes the radial side of the wrist and controls thumb positioning. Helps maintain structural stability of the wrist and thumb during lifts or push shots.",
+    "tags": [
+      "肘部與前臂",
+      "羽毛球",
+      "外展",
+      "原動肌",
+      "姿勢維持",
+      "握拍"
+    ]
+  },
+  {
     "id": "hand_abductor_pollicis_brevis",
     "name_zh": "拇指外展短肌",
     "name_en": "Abductor Pollicis Brevis",
@@ -980,23 +544,6 @@
       "原動肌",
       "姿勢維持",
       "握拍轉換"
-    ]
-  },
-  {
-    "id": "forearm_abductor_pollicis_longus",
-    "name_zh": "拇指外展長肌",
-    "name_en": "Abductor Pollicis Longus",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/61/Gray_%E2%80%94_musculus_abductor_pollicis_longus.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_pollicis_longus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "協助穩定手腕橈側並控制拇指位置。在挑球或推球時，幫助維持手腕與拇指的結構穩定性。",
-    "desc_en": "Stabilizes the radial side of the wrist and controls thumb positioning. Helps maintain structural stability of the wrist and thumb during lifts or push shots.",
-    "tags": [
-      "肘部與前臂",
-      "羽毛球",
-      "外展",
-      "原動肌",
-      "姿勢維持",
-      "握拍"
     ]
   },
   {
@@ -1248,6 +795,32 @@
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gracilis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
     "desc": "在羽毛球大跨步救球（特別是接殺球）時，限制雙腿過度外展以防拉傷。同時作為鵝足肌群，在急停轉身時穩定膝關節內側。",
     "desc_en": "Limits excessive leg abduction during wide defensive lunges (especially smash returns) to prevent strains. As part of the pes anserinus group, stabilizes the medial knee during sudden stops and turns.",
+    "tags": [
+      "髖部與大腿",
+      "羽毛球",
+      "籃球",
+      "足球",
+      "瑜伽",
+      "單車",
+      "內收",
+      "屈曲",
+      "膝關節屈曲",
+      "膝關節內旋",
+      "原動肌",
+      "穩定肌",
+      "步態與移動",
+      "膝關節穩定",
+      "跨步"
+    ]
+  },
+  {
+    "id": "hip_gracilis",
+    "name_zh": "股薄肌",
+    "name_en": "Gracilis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gracilis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gracilis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在羽球極限救球的大跨步動作中，限制大腿過度外展以防受傷。同時協助膝關節內側的動態穩定。",
+    "desc_en": "Limits excessive thigh abduction during extreme defensive lunges to prevent injury. Also assists in the dynamic stability of the medial knee joint.",
     "tags": [
       "髖部與大腿",
       "羽毛球",
@@ -1866,27 +1439,6 @@
     ]
   },
   {
-    "id": "foot_lumbricals",
-    "name_zh": "足部蚓狀肌",
-    "name_en": "Lumbricals (Foot)",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Lumbricales_pedis.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_pedis.png\">Uwe Gille</a>, Public domain, via Wikimedia Commons",
-    "desc": "在羽毛球啟動與煞車時，穩定腳趾關節，防止腳趾過度捲曲（爪狀趾）。確保前腳掌能平穩地傳遞地面反作用力，提升步法穩定性。",
-    "desc_en": "Stabilizes toe joints during badminton starts and stops, preventing excessive curling (claw toes). Ensures the forefoot can smoothly transfer ground reaction forces, enhancing footwork stability.",
-    "tags": [
-      "足部內在肌-第二層",
-      "羽毛球",
-      "足球",
-      "瑜伽",
-      "屈曲",
-      "伸展",
-      "足部穩定",
-      "原動肌",
-      "步態與移動",
-      "步法"
-    ]
-  },
-  {
     "id": "hand_lumbrical_1",
     "name_zh": "蚓狀肌一（食指）",
     "name_en": "Lumbrical 1 (Index)",
@@ -1956,30 +1508,6 @@
       "精細運動",
       "姿勢維持",
       "假動作"
-    ]
-  },
-  {
-    "id": "hip_tensor_fasciae_latae",
-    "name_zh": "闊筋膜張肌 (TFL)",
-    "name_en": "Tensor Fasciae Latae",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Tensor-fasciae-latae.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Tensor-fasciae-latae.png\">colorized by Michael Gasperl</a>, Public domain, via Wikimedia Commons",
-    "desc": "在羽球場上頻繁的側向移動中，透過髂脛束穩定膝關節外側。若臀肌無力，此肌肉易過勞緊繃，導致膝外側疼痛（羽球員常見傷病）。",
-    "desc_en": "Stabilizes the lateral knee via the IT Band during frequent lateral movements on court. If glutes are weak, this muscle is prone to overuse tightness, leading to lateral knee pain (common in badminton).",
-    "tags": [
-      "髖屈肌群",
-      "羽毛球",
-      "籃球",
-      "足球",
-      "瑜伽",
-      "登山/健行",
-      "屈曲",
-      "外展",
-      "內旋",
-      "穩定肌",
-      "核心穩定",
-      "步態與移動",
-      "下肢推"
     ]
   },
   {
@@ -2717,6 +2245,24 @@
     ]
   },
   {
+    "id": "forearm_flexor_carpi_radialis",
+    "name_zh": "橈側腕屈肌",
+    "name_en": "Flexor Carpi Radialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flexor_carpi_radialis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Flexor_carpi_radialis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "正手殺球與快速平抽的動力來源。負責屈腕與橈偏，與其他屈肌協同產生快速的拍頭加速度。",
+    "desc_en": "Power source for forehand smashes and fast drives. Responsible for wrist flexion and radial deviation, working with other flexors to generate rapid racket head acceleration.",
+    "tags": [
+      "肘部與前臂",
+      "羽毛球",
+      "屈曲",
+      "外展",
+      "原動肌",
+      "姿勢維持",
+      "殺球"
+    ]
+  },
+  {
     "id": "forearm_extensor_carpi_radialis_longus",
     "name_zh": "橈側腕長伸肌",
     "name_en": "Extensor Carpi Radialis Longus",
@@ -2751,24 +2297,6 @@
       "原動肌",
       "姿勢維持",
       "反手拍"
-    ]
-  },
-  {
-    "id": "forearm_flexor_carpi_radialis",
-    "name_zh": "橈側腕屈肌",
-    "name_en": "Flexor Carpi Radialis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flexor_carpi_radialis.png",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Flexor_carpi_radialis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "正手殺球與快速平抽的動力來源。負責屈腕與橈偏，與其他屈肌協同產生快速的拍頭加速度。",
-    "desc_en": "Power source for forehand smashes and fast drives. Responsible for wrist flexion and radial deviation, working with other flexors to generate rapid racket head acceleration.",
-    "tags": [
-      "肘部與前臂",
-      "羽毛球",
-      "屈曲",
-      "外展",
-      "原動肌",
-      "姿勢維持",
-      "殺球"
     ]
   },
   {
@@ -2896,29 +2424,27 @@
     ]
   },
   {
-    "id": "hip_gracilis",
-    "name_zh": "股薄肌",
-    "name_en": "Gracilis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gracilis.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gracilis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "在羽球極限救球的大跨步動作中，限制大腿過度外展以防受傷。同時協助膝關節內側的動態穩定。",
-    "desc_en": "Limits excessive thigh abduction during extreme defensive lunges to prevent injury. Also assists in the dynamic stability of the medial knee joint.",
+    "id": "hip_tensor_fasciae_latae",
+    "name_zh": "闊筋膜張肌 (TFL)",
+    "name_en": "Tensor Fasciae Latae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Tensor-fasciae-latae.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Tensor-fasciae-latae.png\">colorized by Michael Gasperl</a>, Public domain, via Wikimedia Commons",
+    "desc": "在羽球場上頻繁的側向移動中，透過髂脛束穩定膝關節外側。若臀肌無力，此肌肉易過勞緊繃，導致膝外側疼痛（羽球員常見傷病）。",
+    "desc_en": "Stabilizes the lateral knee via the IT Band during frequent lateral movements on court. If glutes are weak, this muscle is prone to overuse tightness, leading to lateral knee pain (common in badminton).",
     "tags": [
-      "髖部與大腿",
+      "髖屈肌群",
       "羽毛球",
       "籃球",
       "足球",
       "瑜伽",
-      "單車",
-      "內收",
+      "登山/健行",
       "屈曲",
-      "膝關節屈曲",
-      "膝關節內旋",
-      "原動肌",
+      "外展",
+      "內旋",
       "穩定肌",
+      "核心穩定",
       "步態與移動",
-      "膝關節穩定",
-      "跨步"
+      "下肢推"
     ]
   },
   {
@@ -2936,22 +2462,6 @@
       "下壓",
       "肩帶穩定",
       "穩定肌"
-    ]
-  },
-  {
-    "id": "neck_mylohyoid",
-    "name_zh": "下頷舌骨肌",
-    "name_en": "Mylohyoid",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/3/30/Mylohyoid_muscle.PNG",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Mylohyoid_muscle.PNG\">Mikael Häggström</a>, Public domain, via Wikimedia Commons",
-    "desc": "構成口腔底部。在激烈的多拍對抗中，球員吞嚥口水或大口喘氣時，此肌肉協助維持口腔與喉部功能的正常運作。",
-    "desc_en": "Forms the floor of the mouth. During intense rallies, when players swallow or pant heavily, this muscle assists in maintaining normal oral and laryngeal function.",
-    "tags": [
-      "頸部肌群",
-      "羽毛球",
-      "提升/下壓",
-      "穩定肌",
-      "呼吸輔助"
     ]
   },
   {
