@@ -1,0 +1,2245 @@
+[
+  {
+    "id": "abdomen_external_oblique",
+    "name_zh": "腹外斜肌",
+    "name_en": "External Abdominal Oblique",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Grays_Anatomy_Muscle_oblique_externe.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Grays_Anatomy_Muscle_oblique_externe.png\">Par Henry Vandyke Carter</a>, CC0, via Wikimedia Commons",
+    "desc": "在重訓中負責抗旋轉（Anti-rotation）與側屈穩定。在單臂划船或農夫走路時，防止軀幹扭轉。是打造「人魚線」外觀的關鍵肌肉。",
+    "desc_en": "Responsible for anti-rotation and lateral flexion stability in lifting. Prevents trunk twisting during single-arm rows or farmer's walks. Key muscle for the aesthetic 'Adonis belt'.",
+    "tags": [
+      "腹部與核心",
+      "健身/重訓",
+      "屈曲",
+      "側屈",
+      "軀幹旋轉與對角線",
+      "原動肌",
+      "核心穩定",
+      "抗旋轉"
+    ]
+  },
+  {
+    "id": "abdomen_internal_oblique",
+    "name_zh": "腹內斜肌",
+    "name_en": "Internal Abdominal Oblique",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Gray395.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray395.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "深層核心穩定肌，與腹外斜肌協同提供腹內壓。在深蹲與硬舉時，透過呼吸法（Valsalva Maneuver）緊繃此處以保護脊椎。",
+    "desc_en": "Deep core stabilizer working with external obliques to provide intra-abdominal pressure. During squats and deadlifts, bracing here via the Valsalva Maneuver protects the spine.",
+    "tags": [
+      "腹部與核心",
+      "健身/重訓",
+      "屈曲",
+      "側屈",
+      "軀幹旋轉與對角線",
+      "穩定肌",
+      "核心穩定",
+      "深蹲",
+      "硬舉"
+    ]
+  },
+  {
+    "id": "abdomen_rectus_abdominis",
+    "name_zh": "腹直肌",
+    "name_en": "Rectus Abdominis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/94/Rectus_abdominis_vi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Rectus_abdominis_vi.png\">Mongrangvebet</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "「六塊肌」的主角。除了捲腹動作外，在過頭肩推（Overhead Press）時負責對抗腰椎過度伸展（Anti-extension），維持肋骨下沈。",
+    "desc_en": "The 'six-pack' muscle. Beyond crunches, it is crucial for anti-extension during overhead presses, preventing lumbar hyperextension and keeping the ribs down.",
+    "tags": [
+      "腹部與核心",
+      "健身/重訓",
+      "HIIT/CrossFit",
+      "屈曲",
+      "側屈",
+      "核心穩定",
+      "姿勢維持",
+      "肩推"
+    ]
+  },
+  {
+    "id": "abdomen_transversus_abdominis",
+    "name_zh": "腹橫肌",
+    "name_en": "Transversus Abdominis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Transversus_abdominis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Transversus_abdominis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "人體的天然舉重腰帶。在大重量訓練中，負責收縮以產生極高的腹內壓（IAP），穩定腰椎與骨盆，是所有複合動作的基礎。",
+    "desc_en": "The body's natural weightlifting belt. Contracts to generate high intra-abdominal pressure (IAP) during heavy lifting, stabilizing the lumbar spine and pelvis. The foundation for all compound movements.",
+    "tags": [
+      "腹部與核心",
+      "健身/重訓",
+      "穩定肌",
+      "核心穩定",
+      "呼吸輔助",
+      "姿勢維持",
+      "深蹲",
+      "硬舉"
+    ]
+  },
+  {
+    "id": "arm_biceps_brachii",
+    "name_zh": "肱二頭肌",
+    "name_en": "Biceps Brachii",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Biceps_brachii.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Biceps_brachii.png\">Bildbearbetning: sv:Användare:Chrizz</a>, <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "負責肘屈曲與前臂旋後。在反手引體向上、划船動作中強烈參與。長頭肌腱經過肩關節，亦協助肩部屈曲穩定。",
+    "desc_en": "Responsible for elbow flexion and forearm supination. Heavily involved in chin-ups and rows. The long head tendon crosses the shoulder, assisting in shoulder flexion stability.",
+    "tags": [
+      "上臂",
+      "健身/重訓",
+      "屈曲",
+      "旋後",
+      "上肢拉-垂直",
+      "原動肌",
+      "姿勢維持",
+      "手臂訓練"
+    ]
+  },
+  {
+    "id": "arm_brachialis",
+    "name_zh": "肱肌",
+    "name_en": "Brachialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/Brachialis_muscle_-_animation03.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Brachialis_muscle_-_animation03.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "位於二頭肌深層，是純粹的肘屈肌。透過「錘式彎舉（Hammer Curls）」能有效刺激，增加上臂的視覺厚度與側面線條。",
+    "desc_en": "Located deep to the biceps, a pure elbow flexor. 'Hammer Curls' effectively target this muscle, adding visual thickness and definition to the side of the upper arm.",
+    "tags": [
+      "上臂",
+      "健身/重訓",
+      "屈曲",
+      "上肢拉-垂直",
+      "原動肌",
+      "姿勢維持",
+      "手臂訓練"
+    ]
+  },
+  {
+    "id": "arm_coracobrachialis",
+    "name_zh": "喙肱肌",
+    "name_en": "Coracobrachialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Coracobrachialis_muscle_-_animation02.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Coracobrachialis_muscle_-_animation02.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助肩屈曲與內收。在胸推或飛鳥動作中，協助穩定肱骨頭，防止肩膀過度外展受傷。",
+    "desc_en": "Assists in shoulder flexion and adduction. During bench presses or flys, it helps stabilize the humeral head, preventing injury from excessive shoulder abduction.",
+    "tags": [
+      "上臂",
+      "健身/重訓",
+      "屈曲",
+      "內收",
+      "上肢推-垂直",
+      "穩定肌",
+      "胸部訓練"
+    ]
+  },
+  {
+    "id": "arm_triceps_brachii_lateral",
+    "name_zh": "肱三頭肌外側頭",
+    "name_en": "Triceps Brachii (Lateral Head)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Triceps_brachii_muscle06.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Triceps_brachii_muscle06.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "三頭肌的「馬蹄形」外觀來源。在滑輪下壓（Pushdown）與繩索動作中受力最大，負責肘關節強力的伸展。",
+    "desc_en": "The source of the triceps' 'horseshoe' look. Most active during cable pushdowns and rope exercises, responsible for powerful elbow extension.",
+    "tags": [
+      "上臂",
+      "健身/重訓",
+      "伸展",
+      "上肢推-垂直",
+      "原動肌",
+      "手臂訓練"
+    ]
+  },
+  {
+    "id": "arm_triceps_brachii_long",
+    "name_zh": "肱三頭肌長頭",
+    "name_en": "Triceps Brachii (Long Head)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Triceps_brachii_muscle06.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Triceps_brachii_muscle06.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "唯一跨越肩關節的三頭肌。在過頭三頭肌伸展（Overhead Extension）時被完全拉伸，針對此動作訓練能最大化肌肉肥大效果。",
+    "desc_en": "The only triceps head crossing the shoulder joint. Fully stretched during overhead triceps extensions; targeting this position maximizes hypertrophy.",
+    "tags": [
+      "上臂",
+      "健身/重訓",
+      "伸展",
+      "內收",
+      "上肢推-垂直",
+      "原動肌",
+      "手臂訓練"
+    ]
+  },
+  {
+    "id": "arm_triceps_brachii_medial",
+    "name_zh": "肱三頭肌內側頭",
+    "name_en": "Triceps Brachii (Medial Head)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Triceps_brachii_muscle06.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Triceps_brachii_muscle06.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "主要負責低強度的精細肘伸展，但在臥推（Bench Press）的鎖定階段（Lockout）扮演關鍵角色。",
+    "desc_en": "Primarily handles low-intensity fine elbow extension, but plays a critical role during the lockout phase of the bench press.",
+    "tags": [
+      "上臂",
+      "健身/重訓",
+      "伸展",
+      "上肢推-垂直",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持",
+      "臥推"
+    ]
+  },
+  {
+    "id": "back_erector_spinae",
+    "name_zh": "豎脊肌",
+    "name_en": "Erector Spinae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Gray389_-_Erector_spinae.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray389_-_Erector_spinae.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "硬舉與深蹲時維持脊椎中立的關鍵。負責抵抗重物帶來的屈曲力矩（Anti-flexion）。肌力不足會導致圓背（龜背），增加椎間盤受傷風險。",
+    "desc_en": "Crucial for maintaining a neutral spine during deadlifts and squats. Resists the flexion torque from heavy loads (anti-flexion). Weakness leads to rounding of the back, increasing disc injury risk.",
+    "tags": [
+      "脊柱骨骼",
+      "背部肌群",
+      "健身/重訓",
+      "伸展",
+      "側屈",
+      "衝擊吸收",
+      "姿勢維持",
+      "穩定肌",
+      "硬舉",
+      "深蹲"
+    ]
+  },
+  {
+    "id": "back_latissimus_dorsi",
+    "name_zh": "背闊肌",
+    "name_en": "Latissimus Dorsi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/Latissimus_dorsi_muscle_animation3.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Latissimus_dorsi_muscle_animation3.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "倒三角身材的關鍵。負責上肢的垂直拉（引體向上）與水平拉（划船）。在硬舉時，透過「夾腋下」收縮背闊肌能穩定胸腰筋膜，防止脊椎彎曲。",
+    "desc_en": "Key to the V-taper physique. Responsible for vertical pulls (pull-ups) and horizontal pulls (rows). During deadlifts, engaging the lats by 'squeezing the armpits' stabilizes the thoracolumbar fascia and prevents spinal flexion.",
+    "tags": [
+      "背部肌群",
+      "健身/重訓",
+      "內收",
+      "伸展",
+      "內旋",
+      "上肢拉-垂直",
+      "原動肌",
+      "核心穩定",
+      "背部訓練",
+      "硬舉"
+    ]
+  },
+  {
+    "id": "back_quadratus_lumborum",
+    "name_zh": "腰方肌",
+    "name_en": "Quadratus Lumborum",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Quadratuslumborum.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Quadratuslumborum.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "在單邊負重動作（如單手農夫走路、單手划船）中極為重要，負責抵抗側屈。過度緊繃常是下背痛的源頭，需透過側棒式強化。",
+    "desc_en": "Vital in unilateral loaded movements (e.g., single-arm farmer's carries, rows) for resisting lateral flexion. Excessive tightness is a common source of lower back pain; needs strengthening via side planks.",
+    "tags": [
+      "背部肌群",
+      "腹部與核心",
+      "健身/重訓",
+      "側屈",
+      "伸展",
+      "穩定肌",
+      "核心穩定",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "calf_fibularis_brevis",
+    "name_zh": "腓骨短肌",
+    "name_en": "Fibularis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/be/Fibularis_brevis_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Fibularis_brevis_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責足部外翻與踝關節穩定。在負重深蹲或弓箭步時，防止腳踝向外翻轉（扭傷），提供側向穩定性。",
+    "desc_en": "Responsible for foot eversion and ankle stability. During weighted squats or lunges, it prevents ankle inversion (sprains), providing lateral stability.",
+    "tags": [
+      "小腿外側肌群",
+      "健身/重訓",
+      "外翻",
+      "蹠屈",
+      "踝關節蹠屈",
+      "足部外翻",
+      "原動肌",
+      "踝關節穩定",
+      "深蹲"
+    ]
+  },
+  {
+    "id": "calf_fibularis_longus",
+    "name_zh": "腓骨長肌（重複項-請參照Peroneus Longus）",
+    "name_en": "Fibularis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Superior_view_fibularis_longus_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Superior_view_fibularis_longus_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "穩定第一蹠骨並維持橫向足弓。在站立推舉或深蹲時，確保足部能夠穩固抓住地面（Tripod foot），傳遞力量。",
+    "desc_en": "Stabilizes the first metatarsal and maintains the transverse arch. During standing presses or squats, ensures the foot can firmly grip the ground (tripod foot) to transfer force.",
+    "tags": [
+      "小腿外側肌群",
+      "健身/重訓",
+      "外翻",
+      "蹠屈",
+      "踝關節蹠屈",
+      "足部外翻",
+      "原動肌",
+      "足弓支撐",
+      "足部穩定"
+    ]
+  },
+  {
+    "id": "calf_gastrocnemius",
+    "name_zh": "腓腸肌",
+    "name_en": "Gastrocnemius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Gastrocnemius_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gastrocnemius_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "小腿肌群的表層肌肉。因為跨越膝關節，訓練時需保持膝蓋伸直（如站姿提踵）才能有效刺激，打造鑽石型小腿。",
+    "desc_en": "The superficial calf muscle. Because it crosses the knee joint, training requires the knee to be extended (e.g., Standing Calf Raises) to effectively stimulate it for diamond-shaped calves.",
+    "tags": [
+      "小腿",
+      "健身/重訓",
+      "蹠屈",
+      "膝關節屈曲",
+      "原動肌",
+      "衝擊吸收",
+      "小腿訓練"
+    ]
+  },
+  {
+    "id": "calf_soleus",
+    "name_zh": "比目魚肌",
+    "name_en": "Soleus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Soleus_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Soleus_muscle_-_animation.gif\">Polygon data is generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "位於腓腸肌深層，主要由慢縮肌組成。需透過膝蓋彎曲的動作（如坐姿提踵）來孤立訓練，增加小腿側面寬度。",
+    "desc_en": "Located deep to the gastrocnemius, composed mainly of slow-twitch fibers. Needs to be isolated via bent-knee exercises (e.g., Seated Calf Raises) to add lateral calf width.",
+    "tags": [
+      "小腿",
+      "健身/重訓",
+      "蹠屈",
+      "姿勢維持",
+      "原動肌",
+      "穩定肌",
+      "衝擊吸收",
+      "小腿訓練"
+    ]
+  },
+  {
+    "id": "calf_tibialis_posterior",
+    "name_zh": "脛骨後肌",
+    "name_en": "Tibialis Posterior",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/df/Inferior_view_of_tibialis_posterior_muscle_-_animation.gif",
+    "img_source": "https://upload.wikimedia.org/wikipedia/commons/d/df/Inferior_view_of_tibialis_posterior_muscle_-_animation.gif",
+    "desc": "維持足弓的重要肌肉。在深蹲與硬舉等大重量負重下，負責抵抗足弓塌陷（足內旋），確保下肢力線正確。",
+    "desc_en": "Vital for maintaining the arch. Under heavy loads like squats and deadlifts, it resists arch collapse (pronation), ensuring proper lower limb alignment.",
+    "tags": [
+      "小腿深層肌群",
+      "健身/重訓",
+      "蹠屈",
+      "內翻",
+      "足弓支撐",
+      "原動肌",
+      "穩定肌",
+      "深蹲",
+      "硬舉"
+    ]
+  },
+  {
+    "id": "foot_abductor_digiti_minimi",
+    "name_zh": "小趾外展肌",
+    "name_en": "Abductor Digiti Minimi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gray_%E2%80%94_musculus_abductor_digiti_minimi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "提供足部外側支撐。在單腳訓練（如保加利亞分腿蹲）時，負責擴大底座面積，協助維持左右平衡。",
+    "desc_en": "Provides lateral foot support. During single-leg training (e.g., Bulgarian Split Squats), it expands the base of support, assisting in lateral balance.",
+    "tags": [
+      "踝部與足部",
+      "健身/重訓",
+      "外展",
+      "屈曲",
+      "原動肌",
+      "足弓支撐",
+      "穩定肌",
+      "單腳訓練"
+    ]
+  },
+  {
+    "id": "foot_abductor_hallucis",
+    "name_zh": "拇外展肌",
+    "name_en": "Abductor Hallucis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Abductor_hallucis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Abductor_hallucis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "足部核心（Foot Core）的基礎。在深蹲時主動外展大拇指能增加穩定底座，防止膝蓋內扣（Knee Valgus）。",
+    "desc_en": "The foundation of the 'Foot Core.' Actively abducting the big toe during squats increases the stable base and helps prevent knee valgus.",
+    "tags": [
+      "踝部與足部",
+      "健身/重訓",
+      "外展",
+      "屈曲",
+      "原動肌",
+      "足弓支撐",
+      "足部穩定",
+      "深蹲"
+    ]
+  },
+  {
+    "id": "foot_adductor_hallucis",
+    "name_zh": "拇內收肌",
+    "name_en": "Adductor Hallucis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Musculus_adductor_hallucis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Musculus_adductor_hallucis.png\">Image:Gray445.png modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "維持橫向足弓。在提踵訓練或爆發力動作（如跳箱）中，穩定前腳掌結構以利力量傳遞。",
+    "desc_en": "Maintains the transverse arch. Stabilizes the forefoot structure during calf raises or explosive movements (e.g., Box Jumps) for force transmission.",
+    "tags": [
+      "踝部與足部",
+      "健身/重訓",
+      "內收",
+      "屈曲",
+      "原動肌",
+      "足弓支撐",
+      "橫向足弓"
+    ]
+  },
+  {
+    "id": "foot_extensor_digitorum_longus",
+    "name_zh": "長趾伸肌（足部段）",
+    "name_en": "Extensor Digitorum Longus (Distal)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/77/Extensor_digitorum_longus_muscle_-_animation_2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_digitorum_longus_muscle_-_animation_2.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責腳趾伸展。雖然不是重訓主要肌群，但過緊會影響腳踝活動度，間接限制深蹲深度。",
+    "desc_en": "Responsible for toe extension. While not a primary lifting muscle, tightness here limits ankle mobility, indirectly restricting squat depth.",
+    "tags": [
+      "小腿",
+      "踝部與足部",
+      "健身/重訓",
+      "背屈",
+      "伸展",
+      "原動肌",
+      "衝擊吸收"
+    ]
+  },
+  {
+    "id": "foot_extensor_hallucis_longus",
+    "name_zh": "長拇趾伸肌（足部段）",
+    "name_en": "Extensor Hallucis Longus (Distal)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Extensor_hallucis_longus_muscle_-_animation_2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_hallucis_longus_muscle_-_animation_2.gif\">Was a bee</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責大拇指背屈。測試神經控制時常用。若鞋帶綁太緊壓迫此處，可能影響單腳站立的本體感覺。",
+    "desc_en": "Responsible for great toe dorsiflexion. Commonly used to test neural control. Compression here from tight laces can affect proprioception in single-leg stance.",
+    "tags": [
+      "小腿",
+      "踝部與足部",
+      "健身/重訓",
+      "背屈",
+      "伸展",
+      "原動肌"
+    ]
+  },
+  {
+    "id": "foot_intrinsic_abductor_hallucis",
+    "name_zh": "拇趾外展肌（內在肌視角）",
+    "name_en": "Abductor Hallucis (Intrinsic)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Abductor_hallucis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Abductor_hallucis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "赤足訓練或穿著寬楦鞋深蹲時，此肌肉負責抓地並維持足弓高度，是足部穩定的關鍵。",
+    "desc_en": "During barefoot training or squatting in wide-toe-box shoes, this muscle grips and maintains arch height, crucial for foot stability.",
+    "tags": [
+      "踝部與足部",
+      "健身/重訓",
+      "外展",
+      "穩定肌",
+      "足弓支撐",
+      "赤足訓練"
+    ]
+  },
+  {
+    "id": "foot_intrinsic_flexor_digitorum_brevis",
+    "name_zh": "短趾屈肌（足部內在肌）",
+    "name_en": "Flexor Digitorum Brevis (Intrinsic)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Muscle_court_fl%C3%A9chisseur_des_orteils.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_court_fl%C3%A9chisseur_des_orteils.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "足底筋膜的動態支撐者。強化此肌肉能改善足底承重能力，對於需要長時間站立或負重的訓練者很重要。",
+    "desc_en": "Dynamic supporter of the plantar fascia. Strengthening this muscle improves load-bearing capacity, important for lifters who stand or carry heavy loads for duration.",
+    "tags": [
+      "踝部與足部",
+      "健身/重訓",
+      "屈曲",
+      "穩定肌",
+      "足弓支撐",
+      "衝擊吸收"
+    ]
+  },
+  {
+    "id": "foot_lumbricals",
+    "name_zh": "足部蚓狀肌",
+    "name_en": "Lumbricals (Foot)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Lumbricales_pedis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_pedis.png\">Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "防止腳趾在負重時捲曲（Clawing）。在深蹲或硬舉時，確保腳趾平貼地面，最大化接觸面積以提升平衡。",
+    "desc_en": "Prevents toe curling (clawing) under load. During squats or deadlifts, ensures toes stay flat to maximize contact area and balance.",
+    "tags": [
+      "足部內在肌-第二層",
+      "健身/重訓",
+      "屈曲",
+      "伸展",
+      "足部穩定",
+      "原動肌"
+    ]
+  },
+  {
+    "id": "foot_peroneus_longus",
+    "name_zh": "長腓骨肌",
+    "name_en": "Peroneus Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Superior_view_fibularis_longus_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Superior_view_fibularis_longus_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "透過壓低第一蹠骨來穩定足弓。在爆發力推蹬（如奧舉分腿挺）時，將力量有效傳遞至地板。",
+    "desc_en": "Stabilizes the arch by depressing the first metatarsal. During explosive push-offs (like the Split Jerk in Olympic lifting), transfers force effectively to the floor.",
+    "tags": [
+      "小腿",
+      "踝部與足部",
+      "健身/重訓",
+      "蹠屈",
+      "外翻",
+      "原動肌",
+      "穩定肌",
+      "足弓支撐",
+      "奧林匹克舉重"
+    ]
+  },
+  {
+    "id": "foot_quadratus_plantae",
+    "name_zh": "方形肌",
+    "name_en": "Quadratus Plantae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Muscle_carr%C3%A9_plantaire.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_carr%C3%A9_plantaire.png\">Berichard d&#039;après Gray&#039;s anatomy</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "輔助足趾屈曲。在靜態平衡動作或單腿站立訓練中，微調腳趾抓地力以維持穩定。",
+    "desc_en": "Assists toe flexion. Fine-tunes toe grip for stability during static balance exercises or single-leg training.",
+    "tags": [
+      "踝部與足部",
+      "健身/重訓",
+      "屈曲",
+      "原動肌",
+      "足弓支撐",
+      "足部穩定"
+    ]
+  },
+  {
+    "id": "forearm_abductor_pollicis_longus",
+    "name_zh": "拇指外展長肌",
+    "name_en": "Abductor Pollicis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/61/Gray_%E2%80%94_musculus_abductor_pollicis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_pollicis_longus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "與握力相關。在使用槓鈴或啞鈴時，協助穩定拇指位置與手腕橈側，防止手腕在推舉時塌陷。",
+    "desc_en": "Related to grip strength. Assists in stabilizing thumb position and radial wrist during barbell or dumbbell use, preventing wrist collapse during presses.",
+    "tags": [
+      "肘部與前臂",
+      "健身/重訓",
+      "外展",
+      "原動肌",
+      "姿勢維持",
+      "握力"
+    ]
+  },
+  {
+    "id": "forearm_brachioradialis",
+    "name_zh": "肱橈肌",
+    "name_en": "Brachioradialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/09/Brachioradialis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Brachioradialis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "前臂最突出的肌肉。在「中立握（Neutral Grip）」的拉力動作（如引體向上、錘式彎舉）中是主要發力者。",
+    "desc_en": "The most prominent forearm muscle. A primary mover in 'neutral grip' pulling movements (e.g., Pull-ups, Hammer Curls).",
+    "tags": [
+      "肘部與前臂",
+      "健身/重訓",
+      "屈曲",
+      "上肢拉-水平",
+      "原動肌",
+      "姿勢維持",
+      "手臂訓練"
+    ]
+  },
+  {
+    "id": "forearm_extensor_carpi_radialis_brevis",
+    "name_zh": "橈側腕伸肌短肌",
+    "name_en": "Extensor Carpi Radialis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Gray_%E2%80%94_musculus_extensor_carpi_radialis_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_carpi_radialis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "各種握推與彎舉動作中穩定手腕的關鍵。防止手腕在負荷下過度屈曲。網球肘（外上髁炎）常涉及此肌肉。",
+    "desc_en": "Key for wrist stability in presses and curls. Prevents excessive wrist flexion under load. Tennis elbow (lateral epicondylitis) often involves this muscle.",
+    "tags": [
+      "肘部與前臂",
+      "健身/重訓",
+      "伸展",
+      "外展",
+      "穩定肌",
+      "姿勢維持",
+      "握力"
+    ]
+  },
+  {
+    "id": "forearm_extensor_carpi_radialis_longus",
+    "name_zh": "橈側腕伸肌長肌",
+    "name_en": "Extensor Carpi Radialis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/53/Extensor_carpi_radialis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_carpi_radialis_longus.png\">Me</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助手腕伸展與外展。在反手彎舉（Reverse Curl）中是主要訓練目標之一，有助於強化前臂外側線條與握力耐力。",
+    "desc_en": "Assists in wrist extension and abduction. A primary target in Reverse Curls, helping to strengthen the lateral forearm lines and grip endurance.",
+    "tags": [
+      "肘部與前臂",
+      "健身/重訓",
+      "伸展",
+      "外展",
+      "穩定肌",
+      "姿勢維持",
+      "前臂訓練"
+    ]
+  },
+  {
+    "id": "forearm_extensor_carpi_ulnaris",
+    "name_zh": "尺側腕伸肌",
+    "name_en": "Extensor Carpi Ulnaris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gray_%E2%80%94_musculus_extensor_carpi_ulnaris.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_carpi_ulnaris.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責手腕伸展與內收。在執行錘式彎舉或使用直槓進行三頭肌下壓時，負責維持手腕尺側的穩定，防止手腕偏移。",
+    "desc_en": "Responsible for wrist extension and adduction. Maintains ulnar stability during Hammer Curls or straight-bar Triceps Pushdowns, preventing wrist deviation.",
+    "tags": [
+      "肘部與前臂",
+      "健身/重訓",
+      "伸展",
+      "內收",
+      "原動肌",
+      "姿勢維持",
+      "前臂訓練"
+    ]
+  },
+  {
+    "id": "forearm_extensor_digiti_minimi",
+    "name_zh": "小指伸肌",
+    "name_en": "Extensor Digiti Minimi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gray_%E2%80%94_musculus_extensor_digiti_minimi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "輔助小指伸展。在重訓握槓時，應確保小指緊扣槓鈴，此肌肉通常處於被動拉長狀態，除非張開手掌調整握距。",
+    "desc_en": "Assists in little finger extension. When gripping the bar, the pinky should be locked in; this muscle is usually passively stretched unless opening the hand to adjust grip width.",
+    "tags": [
+      "肘部與前臂",
+      "健身/重訓",
+      "伸展",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_digitorum",
+    "name_zh": "指伸肌",
+    "name_en": "Extensor Digitorum",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Extensor_digitorum_muscle.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_digitorum_muscle.png\">Mikael Häggström</a>, Public domain, via Wikimedia Commons",
+    "desc": "主要負責手指伸展。過度使用（如長時間打字或握力不平衡）可能導致前臂外側疼痛。訓練後應適度伸展以緩解緊繃。",
+    "desc_en": "Primary finger extensor. Overuse (e.g., typing or grip imbalances) can cause lateral forearm pain. Should be stretched moderately after training to relieve tension.",
+    "tags": [
+      "肘部與前臂",
+      "健身/重訓",
+      "伸展",
+      "姿勢維持",
+      "恢復"
+    ]
+  },
+  {
+    "id": "forearm_extensor_indicis",
+    "name_zh": "食指伸肌",
+    "name_en": "Extensor Indicis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Extensor_indicis_muscle.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_indicis_muscle.png\">Mikael Häggström</a>, Public domain, via Wikimedia Commons",
+    "desc": "獨立伸展食指。在某些握法（如鎖握 Hook Grip）調整時可能會有微細動作，但主要功能在於手部精細控制而非力量產生。",
+    "desc_en": "Independently extends the index finger. May have subtle activity during grip adjustments (like Hook Grip), but primarily functions in fine motor control rather than force generation.",
+    "tags": [
+      "肘部與前臂",
+      "健身/重訓",
+      "伸展",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_pollicis_brevis",
+    "name_zh": "拇指伸短肌",
+    "name_en": "Extensor Pollicis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Gray_%E2%80%94_musculus_extensor_pollicis_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_pollicis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助拇指伸展與外展。在需要張開手掌抓取大直徑物體（如寬握槓鈴片或藥球）時發揮作用。",
+    "desc_en": "Assists in thumb extension and abduction. Active when opening the hand to grasp large diameter objects (e.g., wide grip on plates or medicine balls).",
+    "tags": [
+      "肘部與前臂",
+      "健身/重訓",
+      "伸展",
+      "外展",
+      "原動肌",
+      "姿勢維持",
+      "抓握"
+    ]
+  },
+  {
+    "id": "forearm_extensor_pollicis_longus",
+    "name_zh": "拇指伸長肌",
+    "name_en": "Extensor Pollicis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/80/Gray_%E2%80%94_musculus_extensor_pollicis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_pollicis_longus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責拇指末端伸展。在使用「鎖握（Hook Grip）」進行舉重時，此肌肉需在預備姿勢時適度放鬆以允許拇指被包覆。",
+    "desc_en": "Extends the distal thumb. During the 'Hook Grip' in weightlifting, this muscle must relax moderately in the setup to allow the thumb to be wrapped.",
+    "tags": [
+      "肘部與前臂",
+      "健身/重訓",
+      "伸展",
+      "原動肌",
+      "姿勢維持",
+      "舉重"
+    ]
+  },
+  {
+    "id": "forearm_flexor_carpi_radialis",
+    "name_zh": "橈側腕屈肌",
+    "name_en": "Flexor Carpi Radialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Gray_%E2%80%94_musculus_flexor_carpi_radialis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_carpi_radialis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "強力的屈腕肌。在「腕彎舉（Wrist Curls）」中是主要訓練對象，能顯著增加前臂屈肌側的圍度。",
+    "desc_en": "Powerful wrist flexor. A primary target in 'Wrist Curls', significantly adding girth to the flexor side of the forearm.",
+    "tags": [
+      "肘部與前臂",
+      "健身/重訓",
+      "屈曲",
+      "外展",
+      "穩定肌",
+      "姿勢維持",
+      "前臂訓練"
+    ]
+  },
+  {
+    "id": "forearm_flexor_carpi_ulnaris",
+    "name_zh": "尺側腕屈肌",
+    "name_en": "Flexor Carpi Ulnaris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/75/Flexor_carpi_ulnaris.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Flexor_carpi_ulnaris.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助屈腕與內收。在需要強力握持與手腕穩定的動作（如農夫走路）中，提供尺側的關鍵支撐力。",
+    "desc_en": "Assists in wrist flexion and adduction. Provides critical ulnar support in movements requiring strong grip and wrist stability (e.g., Farmer's Walks).",
+    "tags": [
+      "肘部與前臂",
+      "健身/重訓",
+      "屈曲",
+      "內收",
+      "原動肌",
+      "姿勢維持",
+      "握力"
+    ]
+  },
+  {
+    "id": "forearm_flexor_digitorum_profundus",
+    "name_zh": "深指屈肌",
+    "name_en": "Flexor Digitorum Profundus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/24/Flexor-digitorum-profundis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Flexor-digitorum-profundis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "唯一能屈曲手指遠端關節的肌肉。是「指尖握力」的來源，在攀岩或大重量硬舉（防止槓鈴滑落）中至關重要。",
+    "desc_en": "The only muscle that flexes the distal finger joints. The source of 'fingertip grip' strength, crucial for climbing or preventing the bar from slipping in heavy deadlifts.",
+    "tags": [
+      "肘部與前臂",
+      "健身/重訓",
+      "屈曲",
+      "原動肌",
+      "姿勢維持",
+      "握力",
+      "硬舉"
+    ]
+  },
+  {
+    "id": "forearm_flexor_digitorum_superficialis",
+    "name_zh": "淺指屈肌",
+    "name_en": "Flexor Digitorum Superficialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/93/Gray_%E2%80%94_musculus_flexor_digiti_minimi_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_digiti_minimi_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "握力的基礎引擎。負責屈曲手指近端關節。任何拉力動作（划船、引體向上）都需要此肌肉持續等長收縮以鎖住握把。",
+    "desc_en": "The foundational engine of grip strength. Flexes the proximal finger joints. Required for sustained isometric contraction to lock onto the handle in any pulling movement (rows, pull-ups).",
+    "tags": [
+      "肘部與前臂",
+      "健身/重訓",
+      "屈曲",
+      "原動肌",
+      "姿勢維持",
+      "握力",
+      "背部訓練"
+    ]
+  },
+  {
+    "id": "forearm_flexor_pollicis_longus",
+    "name_zh": "長拇指屈肌",
+    "name_en": "Flexor Pollicis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Musculus_flexor_pollicis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Musculus_flexor_pollicis_longus.png\">Me</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責鎖死拇指。在「鎖握（Hook Grip）」技術中，此肌肉必須強力收縮以扣住食指與中指，是舉重選手防止槓鈴脫手的關鍵。",
+    "desc_en": "Responsible for locking the thumb. In 'Hook Grip' technique, this muscle must contract strongly to hook onto the index and middle fingers, critical for weightlifters to secure the bar.",
+    "tags": [
+      "肘部與前臂",
+      "健身/重訓",
+      "屈曲",
+      "原動肌",
+      "姿勢維持",
+      "舉重",
+      "鎖握"
+    ]
+  },
+  {
+    "id": "forearm_palmaris_longus",
+    "name_zh": "掌長肌",
+    "name_en": "Palmaris Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/86/Palmaris-longus-horizontal.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Palmaris-longus-horizontal.png\">Henry Gray</a>, Public domain, via Wikimedia Commons",
+    "desc": "輔助屈腕。雖然對握力貢獻不大，但在長時間懸吊或抓握時會緊繃浮起。約有15%的人天生缺失此肌肉，但不影響訓練表現。",
+    "desc_en": "Assists in wrist flexion. Contributes little to grip strength but becomes taut during prolonged hanging or gripping. Absent in ~15% of the population, with no impact on training performance.",
+    "tags": [
+      "肘部與前臂",
+      "健身/重訓",
+      "屈曲",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_pronator_quadratus",
+    "name_zh": "方形旋前肌",
+    "name_en": "Pronator Quadratus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Pronator-quadratus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pronator-quadratus.png\">Selket at English Wikipedia</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責前臂旋前。在進行正手引體向上（Pronated Pull-up）或反向彎舉時，協助維持手掌朝下的姿勢。",
+    "desc_en": "Responsible for forearm pronation. Assists in maintaining the palm-down position during Pronated Pull-ups or Reverse Curls.",
+    "tags": [
+      "肘部與前臂",
+      "健身/重訓",
+      "旋前",
+      "原動肌",
+      "姿勢維持",
+      "前臂訓練"
+    ]
+  },
+  {
+    "id": "forearm_pronator_teres",
+    "name_zh": "旋前圓肌",
+    "name_en": "Pronator Teres",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Gray_%E2%80%94_musculus_pronator_teres.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_pronator_teres.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "主要的前臂旋前肌，同時輔助屈肘。透過「佐特曼彎舉（Zottman Curls）」的旋轉階段能有效強化此部位。",
+    "desc_en": "Primary forearm pronator, also assists in elbow flexion. Effectively strengthened during the rotational phase of 'Zottman Curls'.",
+    "tags": [
+      "肘部與前臂",
+      "健身/重訓",
+      "屈曲",
+      "旋前",
+      "上肢拉-水平",
+      "原動肌",
+      "姿勢維持",
+      "前臂訓練"
+    ]
+  },
+  {
+    "id": "forearm_supinator",
+    "name_zh": "旋後肌",
+    "name_en": "Supinator",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Gray_%E2%80%94_musculus_supinator.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_supinator.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責將手掌轉向上（旋後）。在二頭肌彎舉的頂峰收縮時，主動旋後手腕能更全面地刺激手臂肌群。",
+    "desc_en": "Turns the palm upward (supination). Active supination at the peak contraction of a Bicep Curl ensures more complete stimulation of the arm musculature.",
+    "tags": [
+      "肘部與前臂",
+      "健身/重訓",
+      "旋後",
+      "原動肌",
+      "姿勢維持",
+      "手臂訓練"
+    ]
+  },
+  {
+    "id": "hand_abductor_digiti_minimi",
+    "name_zh": "小指外展肌",
+    "name_en": "Abductor Digiti Minimi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gray_%E2%80%94_musculus_abductor_digiti_minimi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責小指外展。在抓握寬物體（如抓藥球或厚槓）時提供手掌外側的擴張力與穩定性。",
+    "desc_en": "Abducts the little finger. Provides lateral expansion and stability when grasping wide objects like medicine balls or thick bars.",
+    "tags": [
+      "手腕與手部",
+      "健身/重訓",
+      "外展",
+      "精細運動",
+      "原動肌",
+      "姿勢維持",
+      "握力"
+    ]
+  },
+  {
+    "id": "hand_abductor_pollicis_brevis",
+    "name_zh": "拇指外展短肌",
+    "name_en": "Abductor Pollicis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Gray_%E2%80%94_musculus_abductor_pollicis_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_pollicis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "大魚際肌群之一。在進行「捏握（Pinch Grip）」訓練（如提槓片走路）時，負責維持拇指張開與對抗重力。",
+    "desc_en": "Part of the thenar eminence. During 'Pinch Grip' training (e.g., Plate Walks), it maintains thumb abduction against gravity.",
+    "tags": [
+      "手腕與手部",
+      "健身/重訓",
+      "外展",
+      "屈曲",
+      "精細運動",
+      "原動肌",
+      "姿勢維持",
+      "握力"
+    ]
+  },
+  {
+    "id": "hand_adductor_pollicis",
+    "name_zh": "拇指內收肌",
+    "name_en": "Adductor Pollicis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gray_%E2%80%94_musculus_adductor_pollicis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_adductor_pollicis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "拇指最有力的肌肉。負責將拇指壓向食指側面，是擁有強大「捏握力（Pinch Strength）」的關鍵。",
+    "desc_en": "The most powerful thumb muscle. Presses the thumb against the side of the index finger; the key to developing strong 'Pinch Strength'.",
+    "tags": [
+      "手腕與手部",
+      "健身/重訓",
+      "內收",
+      "精細運動",
+      "原動肌",
+      "姿勢維持",
+      "握力"
+    ]
+  },
+  {
+    "id": "hand_dorsal_interossei_1",
+    "name_zh": "背側骨間肌一",
+    "name_en": "Dorsal Interosseous 1",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/1121_Intrinsic_Muscles_of_the_Hand_DIL.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_DIL.png\">CFCF</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "負責食指外展。在做伏地挺身或倒立時，將手指張開能增加手掌支撐面積，此肌肉負責穩定食指位置。",
+    "desc_en": "Abducts the index finger. Spreading fingers during push-ups or handstands increases the base of support; this muscle stabilizes the index finger position.",
+    "tags": [
+      "手腕與手部",
+      "健身/重訓",
+      "外展",
+      "屈曲",
+      "精細運動",
+      "姿勢維持",
+      "徒手訓練"
+    ]
+  },
+  {
+    "id": "hand_dorsal_interossei_2",
+    "name_zh": "背側骨間肌二",
+    "name_en": "Dorsal Interosseous 2",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/1121_Intrinsic_Muscles_of_the_Hand_DIL.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_DIL.png\">CFCF</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "負責中指外展。協助手掌在支撐動作中維持張開結構，分擔手腕壓力。",
+    "desc_en": "Abducts the middle finger. Helps maintain the spread-hand structure during support movements, distributing pressure away from the wrist.",
+    "tags": [
+      "手腕與手部",
+      "健身/重訓",
+      "外展",
+      "屈曲",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_dorsal_interossei_3",
+    "name_zh": "背側骨間肌三",
+    "name_en": "Dorsal Interosseous 3",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/1121_Intrinsic_Muscles_of_the_Hand_DIL.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_DIL.png\">CFCF</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "負責無名指外展。在需要手掌全接觸地面的動作（如波比跳 Burpees）中提供手指間的張力。",
+    "desc_en": "Abducts the ring finger. Provides tension between fingers in movements requiring full palm contact with the ground, such as Burpees.",
+    "tags": [
+      "手腕與手部",
+      "健身/重訓",
+      "外展",
+      "屈曲",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_dorsal_interossei_4",
+    "name_zh": "背側骨間肌四",
+    "name_en": "Dorsal Interosseous 4",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/1121_Intrinsic_Muscles_of_the_Hand_DIL.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_DIL.png\">CFCF</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "負責小指外展的輔助。確保在撐地動作中，手掌外側能有效擴張以增加穩定性。",
+    "desc_en": "Assists in little finger abduction. Ensures the lateral palm can expand effectively for stability during ground-based pushing exercises.",
+    "tags": [
+      "手腕與手部",
+      "健身/重訓",
+      "外展",
+      "屈曲",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_flexor_digiti_minimi",
+    "name_zh": "小指屈肌短",
+    "name_en": "Flexor Digiti Minimi Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Gray_%E2%80%94_musculus_flexor_digiti_minimi_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_digiti_minimi_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "強化小指側的握力。在握啞鈴時，小指端的緊收能防止啞鈴滑動並啟動三頭肌的穩定鏈。",
+    "desc_en": "Strengthens the grip on the ulnar side. Tightening the pinky side when holding a dumbbell prevents slipping and engages the triceps stabilization chain.",
+    "tags": [
+      "手腕與手部",
+      "健身/重訓",
+      "屈曲",
+      "精細運動",
+      "原動肌",
+      "姿勢維持",
+      "握力"
+    ]
+  },
+  {
+    "id": "hand_flexor_pollicis_brevis",
+    "name_zh": "拇指屈短肌",
+    "name_en": "Flexor Pollicis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Gray_%E2%80%94_musculus_flexor_pollicis_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_pollicis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "大魚際的主要肌肉。在握推或持壺鈴時，提供拇指基部的厚實支撐，防止器材壓迫神經。",
+    "desc_en": "Primary muscle of the thenar eminence. Provides thick support at the thumb base during bench press or kettlebell holds, protecting nerves from compression.",
+    "tags": [
+      "手腕與手部",
+      "健身/重訓",
+      "屈曲",
+      "精細運動",
+      "原動肌",
+      "姿勢維持",
+      "握力"
+    ]
+  },
+  {
+    "id": "hand_lumbrical_1",
+    "name_zh": "蚓狀肌一（食指）",
+    "name_en": "Lumbrical 1 (Index)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lumbricales_%28hand%29.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png\">Image:Gray427.png modified</a>, Public domain, via Wikimedia Commons",
+    "desc": "調節掌指關節屈曲。在握槓時，幫助微調手指包覆的角度，避免皮膚被槓鈴紋路夾傷（Callus formation）。",
+    "desc_en": "Regulates MCP joint flexion. Helps fine-tune the finger wrapping angle on the bar, reducing the risk of pinching skin and callus formation.",
+    "tags": [
+      "手腕與手部",
+      "健身/重訓",
+      "屈曲",
+      "伸展",
+      "精細運動",
+      "姿勢維持",
+      "握力"
+    ]
+  },
+  {
+    "id": "hand_lumbrical_2",
+    "name_zh": "蚓狀肌二（中指）",
+    "name_en": "Lumbrical 2 (Middle)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lumbricales_%28hand%29.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png\">Image:Gray427.png modified</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助中指抓握。在硬舉中，這些內在肌群的協調能減少前臂過度代償，延緩握力疲勞。",
+    "desc_en": "Assists middle finger grip. In deadlifts, coordination of these intrinsic muscles reduces forearm overcompensation, delaying grip fatigue.",
+    "tags": [
+      "手腕與手部",
+      "健身/重訓",
+      "屈曲",
+      "伸展",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_lumbrical_3",
+    "name_zh": "蚓狀肌三（無名指）",
+    "name_en": "Lumbrical 3 (Ring)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lumbricales_%28hand%29.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png\">Image:Gray427.png modified</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助無名指抓握。對於維持「全握（Full Grip）」的完整性很重要，避免力量從手掌尺側流失。",
+    "desc_en": "Assists ring finger grip. Important for maintaining 'Full Grip' integrity, preventing force leakage from the ulnar side of the hand.",
+    "tags": [
+      "手腕與手部",
+      "健身/重訓",
+      "屈曲",
+      "伸展",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_lumbrical_4",
+    "name_zh": "蚓狀肌四（小指）",
+    "name_en": "Lumbrical 4 (Little)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lumbricales_%28hand%29.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png\">Image:Gray427.png modified</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助小指抓握。在引體向上時，確保小指端也能分擔拉力，使背闊肌能更有效地被徵招（透過尺神經連結）。",
+    "desc_en": "Assists little finger grip. Ensures the pinky side shares the load during pull-ups, allowing more effective lat recruitment (via ulnar nerve connection).",
+    "tags": [
+      "手腕與手部",
+      "健身/重訓",
+      "屈曲",
+      "伸展",
+      "精細運動",
+      "姿勢維持",
+      "握力"
+    ]
+  },
+  {
+    "id": "hand_opponens_digiti_minimi",
+    "name_zh": "小指對立肌",
+    "name_en": "Opponens Digiti Minimi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Gray_%E2%80%94_musculus_opponens_digiti_minimi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_opponens_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "形成掌弓的關鍵。幫助手掌呈現「杯狀」，以穩固包覆啞鈴或壺鈴的握把，增加接觸面積與摩擦力。",
+    "desc_en": "Key for forming the palmar arch. Helps 'cup' the hand to securely wrap around dumbbell or kettlebell handles, increasing contact area and friction.",
+    "tags": [
+      "手腕與手部",
+      "健身/重訓",
+      "對立",
+      "精細運動",
+      "原動肌",
+      "姿勢維持",
+      "握力"
+    ]
+  },
+  {
+    "id": "hand_opponens_pollicis",
+    "name_zh": "拇指對立肌",
+    "name_en": "Opponens Pollicis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Gray_%E2%80%94_musculus_opponens_pollicis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_opponens_pollicis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責拇指對掌。這是能夠單手握持啞鈴或槓鈴的生物力學基礎，讓大拇指能鎖住握把。",
+    "desc_en": "Responsible for thumb opposition. The biomechanical basis for gripping dumbbells or barbells, allowing the thumb to lock the grip.",
+    "tags": [
+      "手腕與手部",
+      "健身/重訓",
+      "對立",
+      "精細運動",
+      "原動肌",
+      "姿勢維持",
+      "握力"
+    ]
+  },
+  {
+    "id": "hand_palmar_interossei_1",
+    "name_zh": "掌側骨間肌一",
+    "name_en": "Palmar Interosseous 1",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Braus_1921_215.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Braus_1921_215.png\">Braus, Hermann</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責食指內收。在握推或肩推時，幫助手指併攏以集中發力，避免手指分散導致手腕不穩。",
+    "desc_en": "Adducts the index finger. During bench or overhead presses, helps keep fingers gathered to concentrate force and prevent wrist instability from splayed fingers.",
+    "tags": [
+      "手腕與手部",
+      "健身/重訓",
+      "內收",
+      "屈曲",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_palmar_interossei_2",
+    "name_zh": "掌側骨間肌二",
+    "name_en": "Palmar Interosseous 2",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Braus_1921_215.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Braus_1921_215.png\">Braus, Hermann</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責無名指內收。在抓握直槓或啞鈴時，協助維持緊密的握持結構，防止器材滑動。",
+    "desc_en": "Adducts the ring finger. Assists in maintaining a tight grip structure when holding bars or dumbbells, preventing equipment slippage.",
+    "tags": [
+      "手腕與手部",
+      "健身/重訓",
+      "內收",
+      "屈曲",
+      "精細運動",
+      "姿勢維持",
+      "握力"
+    ]
+  },
+  {
+    "id": "hand_palmar_interossei_3",
+    "name_zh": "掌側骨間肌三",
+    "name_en": "Palmar Interosseous 3",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Braus_1921_215.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Braus_1921_215.png\">Braus, Hermann</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責小指內收。小指側的握力對於啟動上肢背側鏈（Back Chain）很重要，內收肌群有助於鎖定握姿。",
+    "desc_en": "Adducts the little finger. Grip strength on the pinky side is important for engaging the upper body posterior chain; adductors help lock in the grip.",
+    "tags": [
+      "手腕與手部",
+      "健身/重訓",
+      "內收",
+      "屈曲",
+      "精細運動",
+      "姿勢維持",
+      "握力"
+    ]
+  },
+  {
+    "id": "hand_palmaris_brevis",
+    "name_zh": "掌短肌",
+    "name_en": "Palmaris Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Gray_%E2%80%94_musculus_palmaris_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_palmaris_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "保護尺神經與血管。在進行手掌支撐動作（如撐體或重手握推）時，其收縮可增加小魚際區的緩衝能力。",
+    "desc_en": "Protects the ulnar nerve and vessels. Contraction increases cushioning in the hypothenar eminence during palm-supported movements (like dips or heavy pressing).",
+    "tags": [
+      "手腕與手部",
+      "健身/重訓",
+      "姿勢維持",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "head_masseter",
+    "name_zh": "咬肌",
+    "name_en": "Masseter",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/13/Masseter_muscle_animation_small.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Masseter_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在大重量極限嘗試（1RM）時，許多人會反射性咬牙以增加神經徵招（Concurrent Activation Potentiation）。建議佩戴護齒套以保護牙齒並減少頸部張力。",
+    "desc_en": "During max effort lifts (1RM), many reflexively clench their jaw to boost neural recruitment (Concurrent Activation Potentiation). Wearing a mouthguard is recommended to protect teeth and reduce neck tension.",
+    "tags": [
+      "顱骨與顳顎關節",
+      "健身/重訓",
+      "屈曲",
+      "提升/下壓",
+      "姿勢維持",
+      "極限重量"
+    ]
+  },
+  {
+    "id": "head_medial_pterygoid",
+    "name_zh": "內翼肌",
+    "name_en": "Medial Pterygoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Medial_pterygoid_muscle_animation_2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Medial_pterygoid_muscle_animation_2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助閉口咬合。在大重量深蹲或硬舉的Valsalva呼吸法期間，緊閉下顎有助於維持口腔壓力，但也可能導致緊張性頭痛。",
+    "desc_en": "Assists in jaw closure. During the Valsalva maneuver in heavy squats or deadlifts, clenching the jaw helps maintain oral pressure but can lead to tension headaches.",
+    "tags": [
+      "顱骨與顳顎關節",
+      "健身/重訓",
+      "屈曲",
+      "內收",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "head_temporalis",
+    "name_zh": "顳肌",
+    "name_en": "Temporalis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Temporal_muscle_-_lateral_view.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Temporal_muscle_-_lateral_view.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "與咬肌共同作用。過度用力的咬合（Grinding）常發生在高強度訓練中，訓練後放鬆頭部兩側按摩可緩解累積的壓力。",
+    "desc_en": "Works with the masseter. Excessive teeth grinding often occurs during high-intensity training; massaging the sides of the head post-workout can relieve accumulated stress.",
+    "tags": [
+      "顱骨與顳顎關節",
+      "健身/重訓",
+      "屈曲",
+      "提升/下壓",
+      "姿勢維持",
+      "恢復"
+    ]
+  },
+  {
+    "id": "hip_adductor_brevis",
+    "name_zh": "短內收肌",
+    "name_en": "Adductor Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/55/Adductor_brevis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Adductor_brevis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在深蹲底部（Deep Squat）提供關鍵的骨盆穩定性，防止膝蓋過度外開。是「夾腿機（Adductor Machine）」的主要訓練目標之一。",
+    "desc_en": "Provides critical pelvic stability at the bottom of a Deep Squat, preventing excessive knee flare. A primary target of the 'Adductor Machine'.",
+    "tags": [
+      "內收肌群",
+      "健身/重訓",
+      "內收",
+      "屈曲",
+      "外旋",
+      "原動肌",
+      "穩定肌",
+      "深蹲"
+    ]
+  },
+  {
+    "id": "hip_gluteus_maximus",
+    "name_zh": "臀大肌",
+    "name_en": "Gluteus Maximus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Gluteus_maximus_3D.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gluteus_maximus_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "人體最強壯的肌肉。是深蹲（Squat）、硬舉（Deadlift）與臀推（Hip Thrust）的核心驅動引擎。負責強力的髖伸展，直接決定力量輸出大小。",
+    "desc_en": "The strongest muscle in the body. The core engine for Squats, Deadlifts, and Hip Thrusts. Responsible for powerful hip extension, directly dictating force output magnitude.",
+    "tags": [
+      "髖部與大腿",
+      "健身/重訓",
+      "伸展",
+      "外旋",
+      "外展",
+      "下肢拉/髖絞鍊",
+      "衝擊吸收",
+      "原動肌",
+      "核心穩定",
+      "深蹲",
+      "硬舉",
+      "臀推"
+    ]
+  },
+  {
+    "id": "hip_gluteus_medius",
+    "name_zh": "臀中肌",
+    "name_en": "Gluteus Medius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Gluteus_medius_muscle_-_animation01.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gluteus_medius_muscle_-_animation01.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "防止「膝蓋內扣（Knee Valgus）」的關鍵。在深蹲或單腳硬舉（Single Leg RDL）時，負責穩定骨盆與膝蓋連線。弱點需透過蚌殼式或彈力帶側走強化。",
+    "desc_en": "Key for preventing 'Knee Valgus'. Stabilizes pelvic and knee alignment during squats or Single Leg RDLs. Weakness requires strengthening via Clamshells or Banded Lateral Walks.",
+    "tags": [
+      "髖部與大腿",
+      "健身/重訓",
+      "外展",
+      "外旋",
+      "穩定肌",
+      "衝擊吸收",
+      "核心穩定",
+      "深蹲"
+    ]
+  },
+  {
+    "id": "hip_gluteus_minimus",
+    "name_zh": "臀小肌",
+    "name_en": "Gluteus Minimus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Gluteus_minimus_muscle_animation04.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gluteus_minimus_muscle_animation04.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "臀中肌的深層助手。在負重行走動作（如農夫走路或弓箭步）中，負責將股骨頭緊扣在關節窩內，維持髖關節穩定。",
+    "desc_en": "Deep assistant to the gluteus medius. During loaded carrying movements (like Farmer's Walks or Lunges), secures the femoral head in the socket to maintain hip stability.",
+    "tags": [
+      "臀部肌群",
+      "健身/重訓",
+      "外展",
+      "內旋",
+      "穩定肌",
+      "核心穩定",
+      "弓箭步"
+    ]
+  },
+  {
+    "id": "hip_gracilis",
+    "name_zh": "薄肌（髖部段）",
+    "name_en": "Gracilis (Hip)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gracilis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gracilis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "跨越雙關節的內收肌。在相撲硬舉（Sumo Deadlift）或寬站距深蹲中，需具備良好的柔韌性與力量，否則容易拉傷。",
+    "desc_en": "Biarticular adductor. Requires good flexibility and strength for Sumo Deadlifts or Wide Stance Squats; prone to strain if tight or weak.",
+    "tags": [
+      "內收肌群",
+      "健身/重訓",
+      "內收",
+      "屈曲",
+      "內旋",
+      "原動肌",
+      "穩定肌",
+      "深蹲",
+      "硬舉"
+    ]
+  },
+  {
+    "id": "hip_iliacus",
+    "name_zh": "髂肌",
+    "name_en": "Iliacus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Iliacus_muscle_-_animation05.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Iliacus_muscle_-_animation05.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "髖屈肌的一部分。在「懸垂舉腿（Hanging Leg Raise）」或V字捲腹中是主要原動肌，負責將大腿拉向軀幹。",
+    "desc_en": "Part of the hip flexors. A primary mover in 'Hanging Leg Raises' or V-ups, responsible for pulling the thighs toward the torso.",
+    "tags": [
+      "髖屈肌群",
+      "健身/重訓",
+      "屈曲",
+      "外旋",
+      "原動肌",
+      "核心穩定",
+      "腹部訓練"
+    ]
+  },
+  {
+    "id": "hip_iliopsoas",
+    "name_zh": "髂腰肌",
+    "name_en": "Iliopsoas",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Braus_1921_244.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Braus_1921_244.png\">Braus, Hermann</a>, Public domain, via Wikimedia Commons",
+    "desc": "強大的髖屈肌。若過度緊繃（常因久坐），會導致骨盆前傾（Anterior Pelvic Tilt），影響深蹲與過頭肩推時的腰椎排列，需適度伸展。",
+    "desc_en": "Powerful hip flexor. Excessive tightness (often from sitting) causes Anterior Pelvic Tilt, compromising lumbar alignment during squats and overhead presses; requires stretching.",
+    "tags": [
+      "髖部與大腿",
+      "健身/重訓",
+      "屈曲",
+      "外旋",
+      "下肢推",
+      "原動肌",
+      "核心穩定",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hip_obturator_externus",
+    "name_zh": "閉孔外肌",
+    "name_en": "Obturator Externus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/14/Obturator_externus_large.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Obturator_externus_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "深層髖外旋肌。在相撲硬舉或分腿蹲中，協助穩定髖關節，防止大腿內旋塌陷。",
+    "desc_en": "Deep hip external rotator. Assists in stabilizing the hip joint during Sumo Deadlifts or Split Squats, preventing internal rotation collapse.",
+    "tags": [
+      "深層外旋肌群",
+      "健身/重訓",
+      "外旋",
+      "穩定肌",
+      "股骨頭穩定",
+      "硬舉"
+    ]
+  },
+  {
+    "id": "hip_obturator_internus",
+    "name_zh": "閉孔內肌",
+    "name_en": "Obturator Internus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Obturator_internus_large.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Obturator_internus_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "髖關節的深層穩定器。在進行重負重的單腳訓練（如保加利亞分腿蹲）時，微調股骨頭位置以維持力線準確。",
+    "desc_en": "Deep hip stabilizer. Fine-tunes femoral head position during heavy single-leg training (e.g., Bulgarian Split Squats) to maintain accurate alignment.",
+    "tags": [
+      "深層外旋肌群",
+      "健身/重訓",
+      "外旋",
+      "外展",
+      "穩定肌",
+      "股骨頭穩定",
+      "單腳訓練"
+    ]
+  },
+  {
+    "id": "hip_pectineus",
+    "name_zh": "恥骨肌",
+    "name_en": "Pectineus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Pectineus_3D.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pectineus_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "結合屈曲與內收功能。在腿推機（Leg Press）或深蹲的向心階段初期協助啟動動作。",
+    "desc_en": "Combines flexion and adduction. Assists in initiating movement during the early concentric phase of Leg Presses or Squats.",
+    "tags": [
+      "內收肌群",
+      "健身/重訓",
+      "內收",
+      "屈曲",
+      "內旋",
+      "原動肌",
+      "穩定肌",
+      "深蹲"
+    ]
+  },
+  {
+    "id": "hip_piriformis",
+    "name_zh": "梨狀肌",
+    "name_en": "Piriformis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/39/Piriformis_large.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Piriformis_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "重要的外旋肌與穩定肌。若過度緊繃（梨狀肌症候群）會壓迫坐骨神經，影響下肢力量傳遞，常見於臀肌失憶的訓練者。",
+    "desc_en": "Important external rotator and stabilizer. Tightness (Piriformis Syndrome) compresses the sciatic nerve, impairing lower limb force transfer; common in lifters with glute amnesia.",
+    "tags": [
+      "深層外旋肌群",
+      "健身/重訓",
+      "外旋",
+      "外展",
+      "穩定肌",
+      "核心穩定",
+      "恢復"
+    ]
+  },
+  {
+    "id": "hip_psoas_major",
+    "name_zh": "腰大肌",
+    "name_en": "Psoas Major",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Psoas_major_muscle_-_animation04.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Psoas_major_muscle_-_animation04.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "直接連接脊椎與大腿的肌肉。仰臥起坐（Sit-up）其實主要鍛鍊此肌肉而非腹肌。過緊會導致腰椎壓力過大，引起下背痛。",
+    "desc_en": "Connects spine to thigh. 'Sit-ups' primarily train this muscle, not the abs. Excessive tightness creates shear force on the lumbar spine, causing lower back pain.",
+    "tags": [
+      "髖屈肌群",
+      "健身/重訓",
+      "屈曲",
+      "內旋",
+      "側屈",
+      "原動肌",
+      "姿勢維持",
+      "核心穩定",
+      "腹部訓練"
+    ]
+  },
+  {
+    "id": "hip_quadratus_femoris",
+    "name_zh": "股方肌",
+    "name_en": "Quadratus Femoris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Quadratus_femoris_large.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Quadratus_femoris_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責髖關節外旋。在寬站距深蹲（Wide Stance Squat）中，協助維持膝蓋朝向腳尖方向，對抗內扣力矩。",
+    "desc_en": "Responsible for hip external rotation. During Wide Stance Squats, helps maintain knee-over-toe alignment, resisting valgus torque.",
+    "tags": [
+      "深層外旋肌群",
+      "健身/重訓",
+      "外旋",
+      "穩定肌",
+      "股骨頭穩定",
+      "深蹲"
+    ]
+  },
+  {
+    "id": "hip_tensor_fasciae_latae",
+    "name_zh": "闊筋膜張肌 (TFL)",
+    "name_en": "Tensor Fasciae Latae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Tensor-fasciae-latae.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Tensor-fasciae-latae.png\">colorized by Michael Gasperl</a>, Public domain, via Wikimedia Commons",
+    "desc": "透過髂脛束穩定膝關節。若臀中肌無力，TFL會代償導致緊繃。在深蹲時負責輔助髖屈曲與內旋控制。",
+    "desc_en": "Stabilizes the knee via the IT band. Compensates for weak glutes, leading to tightness. Assists in hip flexion and internal rotation control during squats.",
+    "tags": [
+      "髖屈肌群",
+      "健身/重訓",
+      "屈曲",
+      "外展",
+      "內旋",
+      "穩定肌",
+      "核心穩定",
+      "下肢推"
+    ]
+  },
+  {
+    "id": "knee_popliteus",
+    "name_zh": "膕肌",
+    "name_en": "Popliteus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Popliteus_muscle_-animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Popliteus_muscle_-animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責膝關節的「解鎖」。在腿推機（Leg Press）或腿屈伸（Leg Extension）完全伸直鎖死時，此肌肉負責啟動彎曲的第一步，防止膝蓋過伸。",
+    "desc_en": "Responsible for 'unlocking' the knee. When fully locked out in Leg Presses or Extensions, it initiates the first degree of flexion, preventing hyperextension.",
+    "tags": [
+      "膝關節",
+      "健身/重訓",
+      "屈曲",
+      "膝關節屈曲",
+      "膝關節內旋",
+      "穩定肌",
+      "膝關節穩定"
+    ]
+  },
+  {
+    "id": "neck_anterior_scalene",
+    "name_zh": "前斜角肌",
+    "name_en": "Anterior Scalene",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Scalenus_anterior_-_animation04.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Scalenus_anterior_-_animation04.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "輔助呼吸肌。在大重量深蹲與硬舉後的劇烈喘氣中會強烈收縮。過度緊繃可能壓迫臂叢神經，導致手臂麻木。",
+    "desc_en": "Accessory respiratory muscle. Contracts strongly during heavy breathing after heavy squats or deadlifts. Excessive tightness can compress the brachial plexus, causing arm numbness.",
+    "tags": [
+      "頸部肌群",
+      "頸椎",
+      "健身/重訓",
+      "屈曲",
+      "側屈",
+      "穩定肌",
+      "呼吸輔助",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "neck_digastric",
+    "name_zh": "二腹肌",
+    "name_en": "Digastric",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gray_%E2%80%94_musculus_digastricus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_digastricus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助穩定舌骨。在頸部訓練（Neck Harness Work）或對抗大重量聳肩時，協助維持頸部前側的張力。",
+    "desc_en": "Stabilizes the hyoid. Assists in maintaining anterior neck tension during Neck Harness Work or heavy shrugs.",
+    "tags": [
+      "頸部肌群",
+      "健身/重訓",
+      "提升/下壓",
+      "穩定肌",
+      "呼吸輔助",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "neck_longus_colli",
+    "name_zh": "頸長肌",
+    "name_en": "Longus Colli",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/96/Gray_%E2%80%94_musculus_longus_colli.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_longus_colli.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "深層頸部穩定肌。在硬舉或深蹲時，負責維持「收下巴（Chin Tuck）」的脊椎中立位置，防止頸椎過度伸展。",
+    "desc_en": "Deep neck stabilizer. Maintains the 'Chin Tuck' neutral spine position during deadlifts or squats, preventing cervical hyperextension.",
+    "tags": [
+      "頸椎",
+      "頸部肌群",
+      "健身/重訓",
+      "屈曲",
+      "穩定肌",
+      "姿勢維持",
+      "核心穩定",
+      "硬舉"
+    ]
+  },
+  {
+    "id": "neck_mylohyoid",
+    "name_zh": "顎舌骨肌",
+    "name_en": "Mylohyoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/92/Mylohyoid_muscle.PNG",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Mylohyoid_muscle.PNG\">User:Mikael Häggström</a>, Public domain, via Wikimedia Commons",
+    "desc": "口腔底部的肌肉。在Valsalva呼吸法閉氣用力時，負責支撐口腔底部壓力，協助整體核心內壓的建立。",
+    "desc_en": "Floor of the mouth. Supports the oral floor against pressure during the Valsalva maneuver breath-hold, assisting in overall core pressurization.",
+    "tags": [
+      "頸部肌群",
+      "健身/重訓",
+      "屈曲",
+      "提升/下壓",
+      "穩定肌",
+      "姿勢維持",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "neck_omohyoid",
+    "name_zh": "肩胛舌骨肌",
+    "name_en": "Omohyoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Muscle_omo-hyoidien.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_omo-hyoidien.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "連接肩胛骨與舌骨。在進行大重量聳肩（Heavy Shrugs）時，提供頸部前側的對抗穩定力。",
+    "desc_en": "Connects scapula to hyoid. Provides anterior neck counter-stability during Heavy Shrugs.",
+    "tags": [
+      "頸部肌群",
+      "健身/重訓",
+      "提升/下壓",
+      "穩定肌",
+      "姿勢維持",
+      "呼吸輔助",
+      "背部訓練"
+    ]
+  },
+  {
+    "id": "neck_sternocleidomastoid",
+    "name_zh": "胸鎖乳突肌",
+    "name_en": "Sternocleidomastoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Sternomastoid_muscle_animation_small2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Sternomastoid_muscle_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "頸部最明顯的肌肉。除了頸部屈曲與旋轉，也是極限重量訓練時的輔助呼吸肌。頸部訓練（Neck Curls）能直接強化此處。",
+    "desc_en": "Most prominent neck muscle. Besides flexion/rotation, serves as an accessory respiratory muscle during max effort training. Directly strengthened via Neck Curls.",
+    "tags": [
+      "頸部肌群",
+      "健身/重訓",
+      "軀幹旋轉與對角線",
+      "屈曲",
+      "側屈",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "neck_sternohyoid",
+    "name_zh": "胸骨舌骨肌",
+    "name_en": "Sternohyoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/67/Sternohyoid_muscle.PNG",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Sternohyoid_muscle.PNG\">User:Mikael Häggström</a>, Public domain, via Wikimedia Commons",
+    "desc": "在重訓時協助穩定喉部。當進行舉重爆發性動作（如上博 Clean）時，協助緩衝頸部受到的慣性力量。",
+    "desc_en": "Stabilizes the larynx during lifting. Helps buffer inertial forces on the neck during explosive weightlifting movements (like Cleans).",
+    "tags": [
+      "頸部肌群",
+      "健身/重訓",
+      "提升/下壓",
+      "穩定肌",
+      "姿勢維持",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "pelvis_levator_ani",
+    "name_zh": "提肛肌",
+    "name_en": "Levator Ani",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Levator_ani.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Levator_ani.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "骨盆底肌群的主體。在深蹲與硬舉產生巨大腹內壓時，必須強力收縮以支撐內臟，防止壓力性尿失禁或疝氣。",
+    "desc_en": "Main body of the pelvic floor. Must contract strongly to support organs against massive intra-abdominal pressure during squats and deadlifts, preventing stress incontinence or hernia.",
+    "tags": [
+      "骨盆帶",
+      "健身/重訓",
+      "提升/下壓",
+      "核心穩定",
+      "姿勢維持",
+      "穩定肌",
+      "深蹲",
+      "硬舉"
+    ]
+  },
+  {
+    "id": "posterior_thigh_biceps_femoris",
+    "name_zh": "股二頭肌",
+    "name_en": "Biceps Femoris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Biceps_femoris_muscle_-_animation_1.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Biceps_femoris_muscle_-_animation_1.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "腿後肌群的外側部分。負責羅馬尼亞硬舉（RDL）的髖伸展與腿彎舉（Leg Curl）的膝屈曲。長頭對於髖絞鍊動作（Hip Hinge）至關重要。",
+    "desc_en": "Lateral hamstring. Responsible for hip extension in RDLs and knee flexion in Leg Curls. The long head is critical for Hip Hinge movements.",
+    "tags": [
+      "腿後肌群",
+      "健身/重訓",
+      "屈曲",
+      "伸展",
+      "膝關節屈曲",
+      "髖關節伸展",
+      "膝關節外旋",
+      "原動肌",
+      "下肢拉/髖絞鍊",
+      "硬舉"
+    ]
+  },
+  {
+    "id": "posterior_thigh_semitendinosus",
+    "name_zh": "半腱肌",
+    "name_en": "Semitendinosus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Semitendinosus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Semitendinosus.png\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "腿後肌群的內側部分。在「早安式（Good Morning）」或羅馬尼亞硬舉中負責伸髖。亦是「北歐腿彎舉（Nordic Curl）」主要訓練的肌肉。",
+    "desc_en": "Medial part of the hamstrings. Responsible for hip extension in 'Good Mornings' or RDLs. Also a primary muscle trained in 'Nordic Hamstring Curls'.",
+    "tags": [
+      "髖部與大腿",
+      "健身/重訓",
+      "屈曲",
+      "伸展",
+      "膝關節屈曲",
+      "髖關節伸展",
+      "原動肌",
+      "下肢拉/髖絞鍊",
+      "硬舉"
+    ]
+  },
+  {
+    "id": "shin_tibialis_anterior",
+    "name_zh": "脛骨前肌",
+    "name_en": "Tibialis Anterior",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/63/Tibialis_anterior_muscle_animation_1.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Tibialis_anterior_muscle_animation_1.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責腳踝背屈。深蹲「蹲不下去」常因背屈活動度受限。透過腳跟墊高或針對性伸展此肌肉，能改善深蹲深度與平衡。",
+    "desc_en": "Responsible for ankle dorsiflexion. Inability to squat deep is often due to limited dorsiflexion mobility. Elevating heels or stretching this muscle can improve squat depth and balance.",
+    "tags": [
+      "小腿前側肌群",
+      "健身/重訓",
+      "背屈",
+      "內翻",
+      "原動肌",
+      "衝擊吸收",
+      "足弓支撐",
+      "深蹲"
+    ]
+  },
+  {
+    "id": "shoulder_deltoid_anterior",
+    "name_zh": "三角肌前部",
+    "name_en": "Anterior Deltoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "推類動作的主力。在臥推（Bench Press）與過頭肩推（Overhead Press）中高度參與。重訓者通常此前束過於發達，需注意前後平衡。",
+    "desc_en": "Primary mover in pushing movements. Highly active in Bench Press and Overhead Press. Lifters often have overdeveloped anterior delts; balance with posterior training is crucial.",
+    "tags": [
+      "肩帶與肩關節",
+      "健身/重訓",
+      "屈曲",
+      "內旋",
+      "原動肌",
+      "上肢推-垂直",
+      "上肢推-水平",
+      "臥推",
+      "肩推"
+    ]
+  },
+  {
+    "id": "shoulder_deltoid_middle",
+    "name_zh": "三角肌中部",
+    "name_en": "Middle Deltoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "打造「南瓜肩」寬度的關鍵。負責肩外展，透過側平舉（Lateral Raise）或直立划船（Upright Row）孤立訓練，增加肩膀視覺寬度。",
+    "desc_en": "Key to building shoulder width ('capped delts'). Responsible for abduction. Isolated via Lateral Raises or Upright Rows to increase visual shoulder width.",
+    "tags": [
+      "肩帶與肩關節",
+      "健身/重訓",
+      "外展",
+      "穩定肌",
+      "上肢推-垂直",
+      "肩部訓練"
+    ]
+  },
+  {
+    "id": "shoulder_deltoid_posterior",
+    "name_zh": "三角肌後部",
+    "name_en": "Posterior Deltoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "常被忽視的肌群。負責水平外展，對於臥推時的肩膀穩定與改善圓肩姿勢至關重要。需透過反向飛鳥（Reverse Fly）或面拉（Face Pull）強化。",
+    "desc_en": "Often neglected. Responsible for horizontal abduction. Crucial for shoulder stability during bench pressing and correcting rounded shoulders. Strengthen via Reverse Flys or Face Pulls.",
+    "tags": [
+      "肩帶與肩關節",
+      "健身/重訓",
+      "伸展",
+      "外旋",
+      "原動肌",
+      "穩定肌",
+      "上肢拉-水平",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_infraspinatus",
+    "name_zh": "棘下肌",
+    "name_en": "Infraspinatus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Infraspinatus_muscle_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Infraspinatus_muscle_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "肩袖肌群之一，負責肩外旋。在重訓中，強壯的棘下肌能保護肩膀在臥推離心階段不穩定，防止夾擠。",
+    "desc_en": "Rotator cuff muscle responsible for external rotation. Strong infraspinatus protects the shoulder from instability during the eccentric phase of bench press, preventing impingement.",
+    "tags": [
+      "肩帶與肩關節",
+      "健身/重訓",
+      "外旋",
+      "上肢拉-水平",
+      "原動肌",
+      "穩定肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "shoulder_levator_scapulae",
+    "name_zh": "提肩胛肌",
+    "name_en": "Levator Scapulae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/97/Levator_scapulae_muscle_animation_small.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Levator_scapulae_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責上提肩胛骨。在硬舉或農夫走路時過度緊張會導致頸部僵硬（Stiff Neck）。應專注於沉肩，避免不必要的聳肩代償。",
+    "desc_en": "Elevates the scapula. Excessive tension during deadlifts or farmer's walks leads to a stiff neck. Focus on depressing the shoulders to avoid unnecessary shrugging compensation.",
+    "tags": [
+      "肩帶與肩關節",
+      "頸部肌群",
+      "健身/重訓",
+      "提升/下壓",
+      "內旋",
+      "肩帶穩定",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_subscapularis",
+    "name_zh": "肩胛下肌",
+    "name_en": "Subscapularis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Subscapularis_muscle_animation3.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Subscapularis_muscle_animation3.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "唯一的肩內旋袖口肌。在胸推或過頭推舉時，負責將肱骨頭穩定在關節窩中心，防止關節前移脫位。",
+    "desc_en": "The only internal rotator of the cuff. During chest or overhead presses, stabilizes the humeral head in the socket center, preventing anterior dislocation.",
+    "tags": [
+      "肩帶與肩關節",
+      "健身/重訓",
+      "內旋",
+      "上肢推-水平",
+      "原動肌",
+      "穩定肌",
+      "核心穩定",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_supraspinatus",
+    "name_zh": "棘上肌",
+    "name_en": "Supraspinatus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Supraspinatus_muscle_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Supraspinatus_muscle_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責肩外展的啟動（前30度）。在直立划船（Upright Row）若動作不當極易造成夾擠症候群。需透過「空罐倒水（Empty Can）」動作強化。",
+    "desc_en": "Initiates shoulder abduction (first 30 degrees). Poor form in Upright Rows risks impingement syndrome. Strengthened via 'Empty Can' exercises.",
+    "tags": [
+      "肩帶與肩關節",
+      "健身/重訓",
+      "外展",
+      "上肢推-垂直",
+      "原動肌",
+      "穩定肌",
+      "核心穩定",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_teres_major",
+    "name_zh": "大圓肌",
+    "name_en": "Teres Major",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Gray_%E2%80%94_musculus_teres_major.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_teres_major.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "被稱為「背闊肌的小助手」。在引體向上與划船中協同背闊肌進行手臂內收與伸展，增加上背部的寬度。",
+    "desc_en": "Known as the 'Lat's Little Helper'. Synergizes with the latissimus dorsi in pull-ups and rows for arm adduction and extension, adding width to the upper back.",
+    "tags": [
+      "肩帶與肩關節",
+      "健身/重訓",
+      "伸展",
+      "內收",
+      "內旋",
+      "上肢拉-垂直",
+      "原動肌",
+      "穩定肌",
+      "背部訓練"
+    ]
+  },
+  {
+    "id": "shoulder_teres_minor",
+    "name_zh": "小圓肌",
+    "name_en": "Teres Minor",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gray_%E2%80%94_musculus_teres_minor.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_teres_minor.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "肩袖肌群之一。負責外旋與穩定。在臥推或肩推的大重量訓練後，進行外旋動作有助於維持肩關節健康。",
+    "desc_en": "Part of the rotator cuff. Responsible for external rotation and stability. Performing external rotations after heavy pressing helps maintain shoulder joint health.",
+    "tags": [
+      "肩帶與肩關節",
+      "健身/重訓",
+      "外旋",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持",
+      "恢復"
+    ]
+  },
+  {
+    "id": "shoulder_trapezius_lower",
+    "name_zh": "斜方肌下部",
+    "name_en": "Trapezius (Lower)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Trapezius_animation_small2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Trapezius_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責肩胛骨下壓與上迴旋。在過頭深蹲（Overhead Squat）或推舉時，對於維持肩胛骨穩定至關重要。透過「Y字上舉（Y-Raise）」強化。",
+    "desc_en": "Depresses and upwardly rotates the scapula. Critical for scapular stability during Overhead Squats or Presses. Strengthened via 'Y-Raises'.",
+    "tags": [
+      "肩帶與肩關節",
+      "健身/重訓",
+      "下壓",
+      "外旋",
+      "肩帶穩定",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_trapezius_middle",
+    "name_zh": "斜方肌中部",
+    "name_en": "Trapezius (Middle)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Trapezius_animation_small2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Trapezius_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責肩胛骨後收（Retraction）。厚實的中斜方肌能讓背部看起來更立體，並在臥推時提供穩固的背部平台（Platform）。",
+    "desc_en": "Responsible for scapular retraction. Thick middle traps add back depth and provide a stable platform for bench pressing.",
+    "tags": [
+      "肩帶與肩關節",
+      "健身/重訓",
+      "內收",
+      "肩帶穩定",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持",
+      "背部訓練"
+    ]
+  },
+  {
+    "id": "shoulder_trapezius_upper",
+    "name_zh": "斜方肌上部",
+    "name_en": "Trapezius (Upper)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Trapezius_animation_small2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Trapezius_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責聳肩（Shrugs）與鎖骨上提。發達的上斜方肌（Yoke）是強壯的象徵，並在硬舉鎖定階段協助穩定頸部與肩帶。",
+    "desc_en": "Responsible for Shrugs and clavicle elevation. Developed upper traps ('The Yoke') symbolize strength and assist in neck/shoulder stability during the deadlift lockout.",
+    "tags": [
+      "肩帶與肩關節",
+      "健身/重訓",
+      "提升/下壓",
+      "外旋",
+      "肩帶穩定",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持",
+      "硬舉"
+    ]
+  },
+  {
+    "id": "thigh_adductor_longus",
+    "name_zh": "長內收肌",
+    "name_en": "Adductor Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/Adductor_longus.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Adductor_longus.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "大腿內側肌群。在單腳訓練（如保加利亞分腿蹲）或相撲硬舉中，協助維持大腿內收與骨盆穩定。",
+    "desc_en": "Inner thigh muscle. Assists in adduction and pelvic stability during single-leg training (e.g., Bulgarian Split Squats) or Sumo Deadlifts.",
+    "tags": [
+      "內收肌群",
+      "髖部與大腿",
+      "健身/重訓",
+      "內收",
+      "屈曲",
+      "內旋",
+      "原動肌",
+      "穩定肌",
+      "核心",
+      "單腳訓練"
+    ]
+  },
+  {
+    "id": "thigh_adductor_magnus",
+    "name_zh": "大內收肌",
+    "name_en": "Adductor Magnus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Muscle_grand_adducteur_copie.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_grand_adducteur_copie.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "被稱為「第四條腿後肌」。除了內收，其後部纖維是強力的髖伸展肌，在深蹲與硬舉的大重量推蹬中貢獻巨大力量。",
+    "desc_en": "Known as the 'fourth hamstring'. Besides adduction, its posterior fibers are powerful hip extensors, contributing massive force in heavy Squats and Deadlifts.",
+    "tags": [
+      "髖部與大腿",
+      "健身/重訓",
+      "內收",
+      "伸展",
+      "原動肌",
+      "穩定肌",
+      "下肢拉/髖絞鍊",
+      "核心穩定",
+      "深蹲",
+      "硬舉"
+    ]
+  },
+  {
+    "id": "thigh_gracilis",
+    "name_zh": "股薄肌",
+    "name_en": "Gracilis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gracilis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gracilis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "大腿內側最表層肌肉。在腿部內收機（Adductor Machine）訓練時主要受力。亦協助膝關節屈曲與內旋。",
+    "desc_en": "Most superficial inner thigh muscle. Primary target on the Adductor Machine. Also assists in knee flexion and internal rotation.",
+    "tags": [
+      "髖部與大腿",
+      "健身/重訓",
+      "內收",
+      "屈曲",
+      "膝關節屈曲",
+      "膝關節內旋",
+      "原動肌",
+      "穩定肌",
+      "膝關節穩定"
+    ]
+  },
+  {
+    "id": "thigh_rectus_femoris",
+    "name_zh": "股直肌",
+    "name_en": "Rectus Femoris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/48/Rectus_femoris_3D.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Rectus_femoris_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "股四頭肌中唯一跨越雙關節的肌肉。在深蹲時因髖屈膝伸而發生「主動不足」，需透過腿屈伸（Leg Extension）或西西深蹲（Sissy Squat）特別強化。",
+    "desc_en": "The only biarticular quad muscle. Experiences 'active insufficiency' during squats (hip flex + knee ext). Needs specific targeting via Leg Extensions or Sissy Squats.",
+    "tags": [
+      "股四頭肌",
+      "健身/重訓",
+      "伸展",
+      "屈曲",
+      "膝關節伸展",
+      "髖關節屈曲",
+      "原動肌",
+      "下肢推",
+      "腿部訓練"
+    ]
+  },
+  {
+    "id": "thigh_sartorius",
+    "name_zh": "縫匠肌",
+    "name_en": "Sartorius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Sartorius_3D.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Sartorius_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "人體最長的肌肉。協助屈髖、外展與外旋（如盤腿動作）。在健美姿勢展示腿部線條時，能增加大腿內側的細節。",
+    "desc_en": "Longest muscle in the body. Assists in hip flexion, abduction, and external rotation. Adds detail to the inner thigh during bodybuilding posing.",
+    "tags": [
+      "髖部與大腿",
+      "健身/重訓",
+      "屈曲",
+      "外旋",
+      "外展",
+      "膝關節屈曲",
+      "膝關節內旋",
+      "原動肌",
+      "膝關節穩定"
+    ]
+  },
+  {
+    "id": "thigh_vastus_intermedius",
+    "name_zh": "股中間肌",
+    "name_en": "Vastus Intermedius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Vastus_intermedialis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Vastus_intermedialis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "位於股直肌下方的深層力量。是純粹的膝伸肌，在深蹲與腿推舉中提供核心的推蹬力量。",
+    "desc_en": "Deep power source beneath the rectus femoris. A pure knee extensor, providing core pushing power in Squats and Leg Presses.",
+    "tags": [
+      "股四頭肌",
+      "健身/重訓",
+      "伸展",
+      "膝關節伸展",
+      "原動肌",
+      "膝關節穩定",
+      "下肢推",
+      "衝擊吸收",
+      "深蹲"
+    ]
+  },
+  {
+    "id": "thigh_vastus_lateralis",
+    "name_zh": "股外側肌",
+    "name_en": "Vastus Lateralis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Vastus_lateralis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Vastus_lateralis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "打造大腿「外掃（Outer Sweep）」曲線的關鍵。窄站距深蹲（Narrow Stance Squat）能加強刺激此部位，增加腿部視覺震撼力。",
+    "desc_en": "Key to the 'Outer Sweep' curve. Narrow Stance Squats emphasize this area, increasing the visual impact of the legs.",
+    "tags": [
+      "股四頭肌",
+      "健身/重訓",
+      "伸展",
+      "膝關節伸展",
+      "原動肌",
+      "膝關節穩定",
+      "下肢推",
+      "衝擊吸收",
+      "腿部訓練"
+    ]
+  },
+  {
+    "id": "thigh_vastus_medialis",
+    "name_zh": "股內側肌",
+    "name_en": "Vastus Medialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Vastus_medialis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Vastus_medialis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "俗稱「淚滴肌（Teardrop）」。負責膝伸展的最後鎖定階段（Lockout）。透過「終端膝伸直（TKE）」訓練能強化此處，保護髕骨。",
+    "desc_en": "Known as the 'Teardrop' muscle. Responsible for the final lockout phase of knee extension. Strengthened via Terminal Knee Extensions (TKE) to protect the patella.",
+    "tags": [
+      "股四頭肌",
+      "健身/重訓",
+      "伸展",
+      "膝關節伸展",
+      "原動肌",
+      "膝關節穩定",
+      "下肢推",
+      "腿部訓練"
+    ]
+  },
+  {
+    "id": "thorax_diaphragm",
+    "name_zh": "橫隔膜",
+    "name_en": "Diaphragm",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/71/Diaphragm_-_2.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Diaphragm_-_2.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "核心穩定的基礎。透過「腹式呼吸（Diaphragmatic Breathing）」建立強大的腹內壓（IAP），配合舉重腰帶使用，保護脊椎挑戰大重量。",
+    "desc_en": "Foundation of core stability. 'Diaphragmatic Breathing' creates powerful intra-abdominal pressure (IAP), which, combined with a lifting belt, protects the spine during heavy lifts.",
+    "tags": [
+      "胸廓",
+      "健身/重訓",
+      "HIIT/CrossFit",
+      "屈曲",
+      "提升/下壓",
+      "核心穩定",
+      "呼吸輔助",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "thorax_intercostal_internal",
+    "name_zh": "內側肋間肌",
+    "name_en": "Internal Intercostal",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Internal_intercostal_muscles_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Internal_intercostal_muscles_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責強制呼氣。在核心訓練（如死蟲式 Deadbug）中，用力吐氣並壓低肋骨（Ribs down）主要依賴此肌肉收縮。",
+    "desc_en": "Responsible for forced expiration. In core training (like Deadbugs), forceful exhalation and keeping 'Ribs down' rely on its contraction.",
+    "tags": [
+      "胸廓",
+      "健身/重訓",
+      "HIIT/CrossFit",
+      "呼吸輔助",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "thorax_pectoralis_major",
+    "name_zh": "胸大肌",
+    "name_en": "Pectoralis Major",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/39/PectoralisMajor.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:PectoralisMajor.gif\">DrJanaOfficial</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "上肢推力王者。胸骨部負責推（臥推），鎖骨部負責上推（上斜臥推）。健美的重點在於全範圍動作與頂峰收縮（Squeeze）。",
+    "desc_en": "King of upper body pushing. Sternal head pushes (Bench Press), clavicular head pushes up (Incline Bench). Key to aesthetics lies in full ROM and peak contraction (Squeeze).",
+    "tags": [
+      "胸廓",
+      "肩帶與肋關節",
+      "健身/重訓",
+      "屈曲",
+      "內收",
+      "內旋",
+      "上肢推-水平",
+      "原動肌",
+      "姿勢維持",
+      "臥推"
+    ]
+  },
+  {
+    "id": "thorax_pectoralis_minor",
+    "name_zh": "胸小肌",
+    "name_en": "Pectoralis Minor",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/37/Pectoralis_minor_muscle_animation_small.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pectoralis_minor_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "位於胸大肌深層。過度緊繃會導致「圓肩（Rounded Shoulders）」，影響臥推表現與肩關節健康。需透過門框伸展來放鬆。",
+    "desc_en": "Deep to the pectoralis major. Tightness causes 'Rounded Shoulders', impairing bench press performance and shoulder health. Needs stretching via doorway stretches.",
+    "tags": [
+      "胸廓",
+      "肩帶與肋關節",
+      "健身/重訓",
+      "下壓",
+      "前伸",
+      "下迴旋",
+      "內旋",
+      "肩帶穩定",
+      "穩定肌",
+      "呼吸輔助",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "thorax_serratus_anterior",
+    "name_zh": "前鋸肌",
+    "name_en": "Serratus Anterior",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/31/Serratus_anterior_muscle_animation_small.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Serratus_anterior_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "俗稱「鯊魚線」。負責肩胛前伸與穩定。透過「伏地挺身加強（Push-up Plus）」或過頭支撐訓練，能預防肩胛骨翼狀突出。",
+    "desc_en": "Known as the 'Boxer's Muscle' (Shark Gills). Responsible for scapular protraction and stability. 'Push-up Plus' or overhead carries prevent scapular winging.",
+    "tags": [
+      "胸廓",
+      "肩帶與肋關節",
+      "健身/重訓",
+      "外展",
+      "上肢推-水平",
+      "上肢推-垂直",
+      "屈曲",
+      "肩帶穩定",
+      "核心穩定",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "thorax_subclavius",
+    "name_zh": "鎖下肌",
+    "name_en": "Subclavius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Subclavius_muscle_animation2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Subclavius_muscle_animation2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "穩定鎖骨與第一肋。在重物下壓（如負重深蹲或鎖骨上推）時，保護胸鎖關節的微小移動。",
+    "desc_en": "Stabilizes the clavicle and first rib. Protects the sternoclavicular joint during heavy compressive loads (like squats or overhead presses).",
+    "tags": [
+      "胸廓",
+      "健身/重訓",
+      "呼吸輔助",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "thorax_transversus_thoracis",
+    "name_zh": "胸橫肌",
+    "name_en": "Transversus Thoracis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Transversus_thoracis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Transversus_thoracis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "胸廓內側的呼氣肌。在力竭組（Failure Sets）後的劇烈喘息中，協助快速排出肺部氣體以進行氣體交換。",
+    "desc_en": "Expiratory muscle inside the rib cage. Assists in rapidly expelling air for gas exchange during heavy panting after sets taken to failure.",
+    "tags": [
+      "胸廓",
+      "健身/重訓",
+      "呼吸輔助"
+    ]
+  }
+]

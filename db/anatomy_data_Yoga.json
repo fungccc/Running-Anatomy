@@ -1,0 +1,2335 @@
+[
+  {
+    "id": "abdomen_external_oblique",
+    "name_zh": "腹外斜肌",
+    "name_en": "External Abdominal Oblique",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Grays_Anatomy_Muscle_oblique_externe.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Grays_Anatomy_Muscle_oblique_externe.png\">Par Henry Vandyke Carter</a>, CC0, via Wikimedia Commons",
+    "desc": "瑜伽扭轉與側彎體式的關鍵。在「半魚王式」中負責驅動軀幹旋轉，或在「三角式」中控制側屈幅度。同時協助維持手平衡體式（如側板式）的核心穩定。",
+    "desc_en": "Crucial for twists and side bends in yoga. Drives trunk rotation in 'Ardha Matsyendrasana' and controls lateral flexion in 'Trikonasana'. Also assists in core stability for arm balances like 'Vasisthasana'.",
+    "tags": [
+      "腹部與核心",
+      "瑜珈",
+      "扭轉",
+      "側彎",
+      "屈曲",
+      "側屈",
+      "軀幹旋轉與對角線",
+      "原動肌",
+      "核心穩定",
+      "平衡體式"
+    ]
+  },
+  {
+    "id": "abdomen_internal_oblique",
+    "name_zh": "腹內斜肌",
+    "name_en": "Internal Abdominal Oblique",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Gray395.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray395.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "輔助深層扭轉動作（如祈禱扭轉式）。與腹外斜肌協同工作，在「船式」或「手倒立」中收緊肋骨與骨盆，提供核心的緊湊度與穩定性。",
+    "desc_en": "Assists in deep twisting actions (e.g., Prayer Twist). Works with the external oblique to compress ribs toward the pelvis in 'Navasana' or 'Handstand', providing core compactness and stability.",
+    "tags": [
+      "腹部與核心",
+      "瑜珈",
+      "扭轉",
+      "皮拉提斯",
+      "屈曲",
+      "側屈",
+      "軀幹旋轉與對角線",
+      "穩定肌",
+      "核心穩定",
+      "倒立"
+    ]
+  },
+  {
+    "id": "abdomen_rectus_abdominis",
+    "name_zh": "腹直肌",
+    "name_en": "Rectus Abdominis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/94/Rectus_abdominis_vi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Rectus_abdominis_vi.png\">Mongrangvebet</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "前屈體式（如站立前彎）的主要動力肌。在「船式」或「烏鴉式」中強烈收縮以對抗重力。在後彎體式中需適度離心收縮以保護下背。",
+    "desc_en": "Prime mover for forward bends (e.g., Uttanasana). Contracts intensely in 'Navasana' or 'Bakasana' (Crow Pose) to resist gravity. Eccentrically lengthens in backbends to protect the lower back.",
+    "tags": [
+      "腹部與核心",
+      "瑜珈",
+      "前屈",
+      "HIIT/CrossFit",
+      "屈曲",
+      "側屈",
+      "核心穩定",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "abdomen_transversus_abdominis",
+    "name_zh": "腹橫肌",
+    "name_en": "Transversus Abdominis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Transversus_abdominis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Transversus_abdominis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "瑜伽核心鎖印（Uddiyana Bandha）的解剖學基礎。透過收縮啟動「腹式呼吸」與穩定核心，是所有倒立與手平衡體式（如頭倒立）維持平衡的內在支柱。",
+    "desc_en": "Anatomical basis for Yogic locks (Uddiyana Bandha). Contracts to initiate stabilizing breath and core engagement; the internal pillar for maintaining balance in all inversions and arm balances (e.g., Sirsasana).",
+    "tags": [
+      "腹部與核心",
+      "瑜珈",
+      "呼吸控制",
+      "皮拉提斯",
+      "穩定肌",
+      "核心穩定",
+      "呼吸輔助",
+      "姿勢維持",
+      "倒立"
+    ]
+  },
+  {
+    "id": "arm_biceps_brachii",
+    "name_zh": "肱二頭肌",
+    "name_en": "Biceps Brachii",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Biceps_brachii.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Biceps_brachii.png\">Bildbearbetning: sv:Användare:Chrizz</a>, <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "在手平衡體式（如鶴式）中穩定肘關節，或在綑綁動作（Bind）中協助屈肘扣手。在「下犬式」中需適度啟動以協助外旋上臂，穩定肩帶。",
+    "desc_en": "Stabilizes the elbow in arm balances (e.g., Bakasana) or assists in elbow flexion for binding actions. Requires moderate activation in 'Down Dog' to help externally rotate the upper arms and stabilize the shoulder girdle.",
+    "tags": [
+      "上臂",
+      "瑜珈",
+      "手臂平衡",
+      "健身/重訓",
+      "攀岩/抱石",
+      "屈曲",
+      "旋後",
+      "上肢拉-垂直",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "arm_brachialis",
+    "name_zh": "肱肌",
+    "name_en": "Brachialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/Brachialis_muscle_-_animation03.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Brachialis_muscle_-_animation03.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "肘關節最強屈肌。在需要強力屈肘的體式（如孔雀起舞式的前臂落地過程）或高強度的流瑜伽過渡（Chaturanga）中，負責穩定肘部動作。",
+    "desc_en": "Strongest elbow flexor. Stabilizes elbow movement during poses requiring powerful flexion (e.g., transitioning to Pincha Mayurasana) or high-intensity Vinyasa transitions (Chaturanga).",
+    "tags": [
+      "上臂",
+      "瑜珈",
+      "流瑜伽",
+      "攀岩/抱石",
+      "屈曲",
+      "上肢拉-垂直",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "arm_coracobrachialis",
+    "name_zh": "喙肱肌",
+    "name_en": "Coracobrachialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Coracobrachialis_muscle_-_animation02.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Coracobrachialis_muscle_-_animation02.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助肩關節屈曲與內收。在「頭倒立」或「前臂倒立」中，協助手肘向中線夾緊，防止手肘外開導致根基不穩與肩部塌陷。",
+    "desc_en": "Assists in shoulder flexion and adduction. In 'Sirsasana' (Headstand) or 'Pincha Mayurasana', helps hug the elbows toward the midline, preventing flaring and shoulder collapse.",
+    "tags": [
+      "上臂",
+      "瑜珈",
+      "倒立",
+      "內收",
+      "上肢推-垂直",
+      "穩定肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "arm_triceps_brachii_lateral",
+    "name_zh": "肱三頭肌外側頭",
+    "name_en": "Triceps Brachii (Lateral Head)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Triceps_brachii_muscle06.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Triceps_brachii_muscle06.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "支撐類體式的主要推力來源。在「四柱支撐（Chaturanga）」與「上犬式」中強烈收縮。提供臂平衡動作所需的爆發力與支撐耐力。",
+    "desc_en": "Primary source of pushing power in support poses. Contracts intensely in 'Chaturanga Dandasana' and 'Upward Facing Dog'. Provides the explosive strength and endurance needed for arm balances.",
+    "tags": [
+      "上臂",
+      "瑜珈",
+      "手臂平衡",
+      "拳擊/格鬥",
+      "伸展",
+      "上肢推-垂直",
+      "原動肌",
+      "力量瑜珈"
+    ]
+  },
+  {
+    "id": "arm_triceps_brachii_long",
+    "name_zh": "肱三頭肌長頭",
+    "name_en": "Triceps Brachii (Long Head)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Triceps_brachii_muscle06.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Triceps_brachii_muscle06.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "唯一跨越肩關節的三頭肌。在「牛面式」的手臂伸展中常被拉伸。若過度緊繃，會限制「下犬式」或「手倒立」手臂上舉的幅度與肩部開展。",
+    "desc_en": "The only triceps head crossing the shoulder joint. Often stretched in 'Gomukhasana' arms. Tightness here restricts overhead arm range and shoulder opening in 'Down Dog' or 'Handstand'.",
+    "tags": [
+      "上臂",
+      "瑜珈",
+      "伸展",
+      "開肩",
+      "拳擊/格鬥",
+      "內收",
+      "上肢推-垂直",
+      "原動肌",
+      "柔軟度"
+    ]
+  },
+  {
+    "id": "arm_triceps_brachii_medial",
+    "name_zh": "肱三頭肌內側頭",
+    "name_en": "Triceps Brachii (Medial Head)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Triceps_brachii_muscle06.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Triceps_brachii_muscle06.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "肘伸展的耐力肌。在長時間保持的「平板式（Plank）」或「側板式」中，負責維持手肘打直鎖定（但不超伸），確保骨骼排列支撐體重。",
+    "desc_en": "Endurance muscle for elbow extension. Maintains straight, locked (but not hyperextended) elbows in prolonged holds like 'Phalakasana' (Plank) or 'Vasisthasana', ensuring skeletal alignment supports body weight.",
+    "tags": [
+      "上臂",
+      "瑜珈",
+      "靜態支撐",
+      "拳擊/格鬥",
+      "伸展",
+      "上肢推-垂直",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "back_erector_spinae",
+    "name_zh": "豎脊肌",
+    "name_en": "Erector Spinae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Gray389_-_Erector_spinae.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray389_-_Erector_spinae.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "後彎體式（如蝗蟲式、眼鏡蛇式）的主動肌。負責抗重力伸展脊椎，並在「站立前屈」的半前屈（Arda Uttanasana）階段維持背部平直。",
+    "desc_en": "Prime mover in backbends (e.g., Salabhasana, Bhujangasana). Extends the spine against gravity and maintains a flat back during the 'Arda Uttanasana' (Half Lift) phase of sun salutations.",
+    "tags": [
+      "脊柱骨骼",
+      "背部肌群",
+      "瑜珈",
+      "後彎",
+      "登山/健行",
+      "伸展",
+      "側屈",
+      "姿勢維持",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "back_latissimus_dorsi",
+    "name_zh": "背闊肌",
+    "name_en": "Latissimus Dorsi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/Latissimus_dorsi_muscle_animation3.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Latissimus_dorsi_muscle_animation3.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "限制手臂上舉（Flexion）幅度的關鍵。若背闊肌過緊，會在「下犬式」或「手倒立」中導致肋骨外翻與下背代償性拱起（Banana Back）。",
+    "desc_en": "Key limiter of overhead arm flexion. If tight, causes rib flaring and compensatory lower back arching (banana back) in 'Adho Mukha Svanasana' (Down Dog) or 'Handstand'.",
+    "tags": [
+      "背部肌群",
+      "瑜珈",
+      "開肩",
+      "倒立",
+      "健身/重訓",
+      "內收",
+      "伸展",
+      "內旋",
+      "上肢拉-垂直",
+      "原動肌",
+      "核心穩定",
+      "軀幹旋轉與對角線"
+    ]
+  },
+  {
+    "id": "back_quadratus_lumborum",
+    "name_zh": "腰方肌",
+    "name_en": "Quadratus Lumborum",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Quadratuslumborum.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Quadratuslumborum.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "側彎體式（如門閂式）的伸展重點，也是下背痛的常見源頭。在單手平衡（如側板式）中，負責穩定下方腰側，防止骨盆下墜。",
+    "desc_en": "A focal point for stretching in side bends (e.g., Parighasana) and a common source of lower back pain. Stabilizes the lower waist in one-armed balances (e.g., Vasisthasana) to prevent pelvic sagging.",
+    "tags": [
+      "背部肌群",
+      "腹部與核心",
+      "瑜珈",
+      "側彎",
+      "側屈",
+      "伸展",
+      "穩定肌",
+      "核心穩定",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "calf_fibularis_brevis",
+    "name_zh": "腓骨短肌",
+    "name_en": "Fibularis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/be/Fibularis_brevis_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Fibularis_brevis_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責單腳平衡體式（如樹式）的足部微調。當重心偏移時，協助足部外翻以抓穩地面，防止腳踝扭傷。",
+    "desc_en": "Responsible for foot micro-adjustments in single-leg balances (e.g., Vrksasana). Assists in foot eversion to grip the mat and prevent ankle sprains when the center of gravity shifts.",
+    "tags": [
+      "小腿外側肌群",
+      "瑜珈",
+      "平衡體式",
+      "足球",
+      "登山/健行",
+      "衝浪",
+      "外翻",
+      "蹠屈",
+      "踝關節蹠屈",
+      "足部外翻",
+      "原動肌",
+      "踝關節穩定"
+    ]
+  },
+  {
+    "id": "calf_fibularis_longus",
+    "name_zh": "腓骨長肌",
+    "name_en": "Fibularis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Superior_view_fibularis_longus_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Superior_view_fibularis_longus_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "根基穩定關鍵。肌腱橫跨足底，在站立體式中負責將大腳趾球壓向地面，啟動足弓上提的力量，建立穩定的「足部鎖印（Pada Bandha）」。",
+    "desc_en": "Key for grounding stability. Its tendon crosses the sole, pressing the big toe mound down in standing poses to lift the arches, establishing a stable 'Pada Bandha' (Foot Lock).",
+    "tags": [
+      "小腿外側肌群",
+      "瑜珈",
+      "站立體式",
+      "足球",
+      "登山/健行",
+      "衝浪",
+      "外翻",
+      "蹠屈",
+      "踝關節蹠屈",
+      "足部外翻",
+      "原動肌",
+      "足弓支撐",
+      "足部穩定"
+    ]
+  },
+  {
+    "id": "calf_gastrocnemius",
+    "name_zh": "腓腸肌",
+    "name_en": "Gastrocnemius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Gastrocnemius_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gastrocnemius_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "限制腳跟落地的主要因素。在「下犬式」中，緊繃的腓腸肌會阻礙腳跟踩地。在踮腳動作（如椅式變體）中負責足踝蹠屈。",
+    "desc_en": "Primary limiting factor for heel grounding. Tight gastrocnemius muscles prevent heels from touching the floor in 'Down Dog'. Responsible for plantarflexion in tiptoe variations (e.g., Chair Pose variations).",
+    "tags": [
+      "小腿",
+      "瑜珈",
+      "伸展",
+      "足球",
+      "健身/重訓",
+      "登山/健行",
+      "單車",
+      "蹠屈",
+      "膝關節屈曲",
+      "原動肌",
+      "衝擊吸收"
+    ]
+  },
+  {
+    "id": "calf_soleus",
+    "name_zh": "比目魚肌",
+    "name_en": "Soleus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Soleus_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Soleus_muscle_-_animation.gif\">Polygon data is generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "屈膝體式的穩定肌。在「幻椅式」或「花環式（Malasana）」中，容許腳踝在屈曲狀態下保持穩定，防止向後跌倒。",
+    "desc_en": "Stabilizer for bent-knee poses. Allows for ankle stability in flexion during 'Utkatasana' (Chair) or 'Malasana' (Garland Pose), preventing falling backward.",
+    "tags": [
+      "小腿",
+      "瑜珈",
+      "蹲姿",
+      "足球",
+      "健身/重訓",
+      "登山/健行",
+      "單車",
+      "蹠屈",
+      "姿勢維持",
+      "原動肌",
+      "穩定肌",
+      "衝擊吸收"
+    ]
+  },
+  {
+    "id": "calf_tibialis_posterior",
+    "name_zh": "脛骨後肌",
+    "name_en": "Tibialis Posterior",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/df/Inferior_view_of_tibialis_posterior_muscle_-_animation.gif",
+    "img_source": "https://upload.wikimedia.org/wikipedia/commons/d/df/Inferior_view_of_tibialis_posterior_muscle_-_animation.gif",
+    "desc": "支撐內側足弓的核心肌肉。在所有單腳平衡動作中，防止足弓塌陷（旋前），是建立足部根基與向上能量流動的起點。",
+    "desc_en": "Core muscle supporting the medial arch. Prevents arch collapse (pronation) in all single-leg balances; the starting point for establishing foot grounding and upward energy flow.",
+    "tags": [
+      "小腿深層肌群",
+      "瑜珈",
+      "平衡體式",
+      "足球",
+      "登山/健行",
+      "單車",
+      "蹠屈",
+      "內翻",
+      "足弓支撐",
+      "原動肌",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "foot_abductor_digiti_minimi",
+    "name_zh": "小趾外展肌",
+    "name_en": "Abductor Digiti Minimi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gray_%E2%80%94_musculus_abductor_digiti_minimi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "擴大足底根基。在站立山式（Tadasana）中，負責將小趾向外展開，增加抓地面積，提升平衡體式的側向穩定性。",
+    "desc_en": "Expands the plantar base. In 'Tadasana' (Mountain Pose), responsible for spreading the little toe outward, increasing surface area for grip and enhancing lateral stability in balancing poses.",
+    "tags": [
+      "踝部與足部",
+      "瑜珈",
+      "站立體式",
+      "足球",
+      "外展",
+      "屈曲",
+      "原動肌",
+      "足弓支撐",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "foot_abductor_hallucis",
+    "name_zh": "拇外展肌",
+    "name_en": "Abductor Hallucis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Abductor_hallucis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Abductor_hallucis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "啟動足弓的關鍵。在瑜伽練習中，意識控制大拇趾向內展開（與其他腳趾分離），能立即激活內側足弓，顯著增強單腳站立的穩定度。",
+    "desc_en": "Key for arch activation. Consciously spreading the big toe away from the others during practice immediately engages the medial arch, significantly improving stability in single-leg stances.",
+    "tags": [
+      "踝部與足部",
+      "瑜珈",
+      "足部根基",
+      "足球",
+      "登山/健行",
+      "外展",
+      "屈曲",
+      "原動肌",
+      "足弓支撐",
+      "足部穩定"
+    ]
+  },
+  {
+    "id": "foot_adductor_hallucis",
+    "name_zh": "拇內收肌",
+    "name_en": "Adductor Hallucis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Musculus_adductor_hallucis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Musculus_adductor_hallucis.png\">Image:Gray445.png modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "橫向足弓的維持者。在需要踮腳平衡的體式（如分腿站立平衡）中，穩定前腳掌結構，協助大拇趾抓地。",
+    "desc_en": "Maintainer of the transverse arch. Stabilizes the forefoot structure and assists the big toe in gripping during tiptoe balances or wide-legged stance variations.",
+    "tags": [
+      "踝部與足部",
+      "瑜珈",
+      "平衡體式",
+      "足球",
+      "內收",
+      "屈曲",
+      "原動肌",
+      "足弓支撐",
+      "橫向足弓"
+    ]
+  },
+  {
+    "id": "foot_extensor_digitorum_longus",
+    "name_zh": "長趾伸肌（足部段）",
+    "name_en": "Extensor Digitorum Longus (Distal)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/77/Extensor_digitorum_longus_muscle_-_animation_2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_digitorum_longus_muscle_-_animation_2.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在站立體式中協助將腳趾抬離地面（Yogi Toe Lift），以喚醒足弓。在「英雄式（Virasana）」或「雷電坐」中，此處肌腱常被強烈伸展。",
+    "desc_en": "Assists in lifting toes off the mat (Yogi Toe Lift) in standing poses to awaken the arches. This tendon is often intensely stretched in 'Virasana' (Hero Pose) or 'Vajrasana'.",
+    "tags": [
+      "小腿",
+      "踝部與足部",
+      "瑜珈",
+      "跪姿",
+      "足球",
+      "背屈",
+      "伸展",
+      "原動肌",
+      "衝擊吸收"
+    ]
+  },
+  {
+    "id": "foot_extensor_hallucis_longus",
+    "name_zh": "長拇趾伸肌（足部段）",
+    "name_en": "Extensor Hallucis Longus (Distal)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Extensor_hallucis_longus_muscle_-_animation_2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_hallucis_longus_muscle_-_animation_2.gif\">Was a bee</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責大拇趾的背屈。在手抓大腳趾站立式（Utthita Hasta Padangusthasana）中，此肌肉與手指力量對抗。在跪姿體式中易感緊繃。",
+    "desc_en": "Responsible for big toe dorsiflexion. Works against finger grip in 'Utthita Hasta Padangusthasana'. Often feels tight in kneeling poses where the top of the foot is flat.",
+    "tags": [
+      "小腿",
+      "踝部與足部",
+      "瑜珈",
+      "前屈",
+      "足球",
+      "背屈",
+      "伸展",
+      "原動肌"
+    ]
+  },
+  {
+    "id": "foot_intrinsic_abductor_hallucis",
+    "name_zh": "拇趾外展肌（內在肌視角）",
+    "name_en": "Abductor Hallucis (Intrinsic)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Abductor_hallucis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Abductor_hallucis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "足部核心訓練的重點。透過意識控制大趾外展，能改善平板式或站立體式中的力量傳遞，建立穩定的「根基」。",
+    "desc_en": "Focal point of foot core training. Conscious control of big toe abduction improves force transfer in planks or standing poses, establishing 'rooting'.",
+    "tags": [
+      "踝部與足部",
+      "瑜珈",
+      "足部根基",
+      "外展",
+      "穩定肌",
+      "足弓支撐"
+    ]
+  },
+  {
+    "id": "foot_intrinsic_flexor_digitorum_brevis",
+    "name_zh": "短趾屈肌（足部內在肌）",
+    "name_en": "Flexor Digitorum Brevis (Intrinsic)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Muscle_court_fl%C3%A9chisseur_des_orteils.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_court_fl%C3%A9chisseur_des_orteils.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "協助腳趾輕扣地面。在困難的平衡體式中，防止過度抓地（Clawing），而是尋求一種有力但伸展的穩定抓地感（Grounding）。",
+    "desc_en": "Assists toes in lightly pressing the ground. In difficult balances, prevents excessive 'clawing', aiming instead for a powerful yet extended sense of 'grounding'.",
+    "tags": [
+      "踝部與足部",
+      "瑜珈",
+      "平衡體式",
+      "屈曲",
+      "穩定肌",
+      "足弓支撐",
+      "衝擊吸收"
+    ]
+  },
+  {
+    "id": "foot_lumbricals",
+    "name_zh": "足部蚓狀肌",
+    "name_en": "Lumbricals (Foot)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Lumbricales_pedis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_pedis.png\">Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "調整腳趾排列。在瑜伽練習中，幫助腳趾平貼地板而非捲曲，最大化腳掌與地墊的接觸面積，提升本體感覺。",
+    "desc_en": "Adjusts toe alignment. Helps toes stay flat against the mat rather than curling, maximizing contact area between sole and mat to enhance proprioception.",
+    "tags": [
+      "足部內在肌-第二層",
+      "瑜珈",
+      "根基",
+      "足球",
+      "屈曲",
+      "伸展",
+      "足部穩定",
+      "原動肌"
+    ]
+  },
+  {
+    "id": "foot_peroneus_longus",
+    "name_zh": "長腓骨肌",
+    "name_en": "Peroneus Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Superior_view_fibularis_longus_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Superior_view_fibularis_longus_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在戰士系列體式中，負責將前腳的大腳趾球壓穩地面，防止足內翻，並維持內側足弓的上提力量。",
+    "desc_en": "In Warrior poses, keeps the front foot's big toe mound grounded, preventing supination and maintaining the lifting action of the medial arch.",
+    "tags": [
+      "小腿",
+      "踝部與足部",
+      "瑜珈",
+      "站立體式",
+      "足球",
+      "蹠屈",
+      "外翻",
+      "原動肌",
+      "穩定肌",
+      "足弓支撐"
+    ]
+  },
+  {
+    "id": "foot_quadratus_plantae",
+    "name_zh": "方形肌",
+    "name_en": "Quadratus Plantae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Muscle_carr%C3%A9_plantaire.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_carr%C3%A9_plantaire.png\">Berichard d&#039;après Gray&#039;s anatomy</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "修正腳趾抓地力線。在單腿站立平衡調整重心時，輔助腳趾屈肌進行微調，確保足底力量均勻分布。",
+    "desc_en": "Corrects toe gripping force lines. Assists toe flexors in micro-adjustments during center-of-gravity shifts in single-leg balances, ensuring even distribution of plantar force.",
+    "tags": [
+      "踝部與足部",
+      "瑜珈",
+      "平衡體式",
+      "足球",
+      "屈曲",
+      "原動肌",
+      "足弓支撐"
+    ]
+  },
+  {
+    "id": "forearm_abductor_pollicis_longus",
+    "name_zh": "拇指外展長肌",
+    "name_en": "Abductor Pollicis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/61/Gray_%E2%80%94_musculus_abductor_pollicis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_pollicis_longus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "手平衡根基的一部分。在手倒立或下犬式中，負責將大拇指根部向外展開，擴大手的支撐面積以分散手腕壓力。",
+    "desc_en": "Part of the arm balance foundation. In Handstand or Down Dog, spreads the base of the thumb outward, widening the hand's support area to distribute wrist pressure.",
+    "tags": [
+      "肘部與前臂",
+      "瑜珈",
+      "手倒立",
+      "外展",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_brachioradialis",
+    "name_zh": "肱橈肌",
+    "name_en": "Brachioradialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/09/Brachioradialis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Brachioradialis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在需屈肘拉動的動作（如抱膝）中發揮作用。過度緊繃可能導致手肘無法完全伸直，影響「手臂上舉」類體式的線條。",
+    "desc_en": "Active in pulling actions requiring elbow flexion (e.g., knee-hugging). Excessive tightness may prevent full elbow extension, affecting alignment in overhead arm poses.",
+    "tags": [
+      "肘部與前臂",
+      "瑜珈",
+      "伸展",
+      "屈曲",
+      "上肢拉-水平",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_carpi_radialis_brevis",
+    "name_zh": "橈側腕伸肌短肌",
+    "name_en": "Extensor Carpi Radialis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Gray_%E2%80%94_musculus_extensor_carpi_radialis_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_carpi_radialis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "手倒立與下犬式的關鍵支撐肌。負責維持手腕伸展角度（Wrist Extension），若肌力不足易導致手腕前側擠壓疼痛。",
+    "desc_en": "Key support muscle for Handstand and Down Dog. Maintains wrist extension angle; weakness here often leads to anterior wrist compression pain.",
+    "tags": [
+      "肘部與前臂",
+      "瑜珈",
+      "手倒立",
+      "伸展",
+      "外展",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_carpi_radialis_longus",
+    "name_zh": "橈側腕伸肌長肌",
+    "name_en": "Extensor Carpi Radialis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/53/Extensor_carpi_radialis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_carpi_radialis_longus.png\">Me</a>, Public domain, via Wikimedia Commons",
+    "desc": "與短肌協同，在倒立與手平衡體式中穩定手腕伸展。協助將重量均勻分佈於虎口區域，防止壓力過度集中於手腕外側（尺側）。",
+    "desc_en": "Works with the brevis to stabilize wrist extension in inversions and arm balances. Helps distribute weight evenly across the thumb side (radial side), preventing excessive pressure on the outer wrist.",
+    "tags": [
+      "肘部與前臂",
+      "瑜珈",
+      "手倒立",
+      "伸展",
+      "外展",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_carpi_ulnaris",
+    "name_zh": "尺側腕伸肌",
+    "name_en": "Extensor Carpi Ulnaris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gray_%E2%80%94_musculus_extensor_carpi_ulnaris.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_carpi_ulnaris.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "防止手腕在承重時過度向橈側偏移（Radial Deviation）。在「側板式」或「反向桌式」中提供關鍵的外側穩定，保護手腕關節囊。",
+    "desc_en": "Prevents excessive radial deviation of the wrist during weight-bearing. Provides critical lateral stability in 'Vasisthasana' (Side Plank) or 'Purvottanasana' (Reverse Table Top), protecting the wrist capsule.",
+    "tags": [
+      "肘部與前臂",
+      "瑜珈",
+      "手臂平衡",
+      "伸展",
+      "內收",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_digiti_minimi",
+    "name_zh": "小指伸肌",
+    "name_en": "Extensor Digiti Minimi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gray_%E2%80%94_musculus_extensor_digiti_minimi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責伸展並張開小指。在建立「手部鎖印（Hasta Bandha）」時，意識控制小指外展能擴大支撐基底，增加倒立時的穩定性。",
+    "desc_en": "Extends and spreads the little finger. When establishing 'Hasta Bandha', conscious abduction of the little finger widens the base of support, increasing stability in handstands.",
+    "tags": [
+      "肘部與前臂",
+      "瑜珈",
+      "手部鎖印",
+      "伸展",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_digitorum",
+    "name_zh": "指伸肌",
+    "name_en": "Extensor Digitorum",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Extensor_digitorum_muscle.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_digitorum_muscle.png\">Mikael Häggström</a>, Public domain, via Wikimedia Commons",
+    "desc": "張開五指的關鍵肌肉。在所有手支撐體式中，用力張開手指（Spreading fingers）能增加觸地面積，是分散手腕壓力的第一步。",
+    "desc_en": "Key muscle for spreading the fingers. In all hand-support poses, actively spreading the fingers increases contact area, which is the first step in distributing pressure away from the wrists.",
+    "tags": [
+      "肘部與前臂",
+      "瑜珈",
+      "手部鎖印",
+      "伸展",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_indicis",
+    "name_zh": "食指伸肌",
+    "name_en": "Extensor Indicis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Extensor_indicis_muscle.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_indicis_muscle.png\">Mikael Häggström</a>, Public domain, via Wikimedia Commons",
+    "desc": "獨立控制食指伸展。瑜伽老師常口令「食指朝前平行」，此肌肉協助食指的定位與張開，確保手掌正確對齊肩膀。",
+    "desc_en": "Independently controls index finger extension. Yoga teachers often cue 'index fingers pointing forward/parallel'; this muscle aids in positioning and spreading the index finger to ensure proper hand-shoulder alignment.",
+    "tags": [
+      "肘部與前臂",
+      "瑜珈",
+      "手部鎖印",
+      "伸展",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_pollicis_brevis",
+    "name_zh": "拇指伸短肌",
+    "name_en": "Extensor Pollicis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Gray_%E2%80%94_musculus_extensor_pollicis_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_pollicis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助大拇指外展與伸直。在「下犬式」中，將大拇指與食指形成的「L型」區域壓向地板，需要此肌肉的適度張力。",
+    "desc_en": "Assists in thumb abduction and extension. In 'Down Dog', pressing the 'L-shape' (formed by thumb and index) into the mat requires moderate tension from this muscle.",
+    "tags": [
+      "肘部與前臂",
+      "瑜珈",
+      "手部鎖印",
+      "伸展",
+      "外展",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_pollicis_longus",
+    "name_zh": "拇指伸長肌",
+    "name_en": "Extensor Pollicis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/80/Gray_%E2%80%94_musculus_extensor_pollicis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_pollicis_longus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責大拇指完全伸展。在手平衡中，用力張開大拇指能對抗身體向小指側傾倒的力量，維持左右平衡。",
+    "desc_en": "Responsible for full thumb extension. In arm balances, actively extending the thumb helps counteract the body's tendency to roll toward the pinky side, maintaining lateral balance.",
+    "tags": [
+      "肘部與前臂",
+      "瑜珈",
+      "手部鎖印",
+      "伸展",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_flexor_carpi_radialis",
+    "name_zh": "橈側腕屈肌",
+    "name_en": "Flexor Carpi Radialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Gray_%E2%80%94_musculus_flexor_carpi_radialis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_carpi_radialis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在手平衡體式中，當身體重心過度向前（如鶴式起飛前），此肌肉收縮以抵抗過度的腕伸展，保護腕隧道。",
+    "desc_en": "In arm balances, when the center of gravity shifts too far forward (e.g., before lifting into Crow Pose), this muscle contracts to resist excessive wrist extension, protecting the carpal tunnel.",
+    "tags": [
+      "肘部與前臂",
+      "瑜珈",
+      "手臂平衡",
+      "屈曲",
+      "外展",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_flexor_carpi_ulnaris",
+    "name_zh": "尺側腕屈肌",
+    "name_en": "Flexor Carpi Ulnaris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/75/Flexor_carpi_ulnaris.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Flexor_carpi_ulnaris.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "手腕穩定的基石。肌腱連接至豆狀骨，在手掌根部提供強力支撐點。在「蓮花坐」手部結印或「支架式」中維持手腕中立。",
+    "desc_en": "Cornerstone of wrist stability. Its tendon attaches to the pisiform bone, providing a strong anchor at the heel of the hand. Maintains neutral wrist alignment in mudras or Plank pose.",
+    "tags": [
+      "肘部與前臂",
+      "瑜珈",
+      "冥想與手印",
+      "屈曲",
+      "內收",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_flexor_digitorum_profundus",
+    "name_zh": "深指屈肌",
+    "name_en": "Flexor Digitorum Profundus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/24/Flexor-digitorum-profundis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Flexor-digitorum-profundis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "「指尖煞車」系統。在手倒立（Handstand）中，透過指尖用力下壓（Grip）來微調重心，防止身體翻過去。是建立高階手平衡控制力的關鍵。",
+    "desc_en": "The 'fingertip braking' system. In Handstand, pressing the fingertips down (Grip) micro-adjusts the center of gravity to prevent flipping over. Essential for advanced arm balance control.",
+    "tags": [
+      "肘部與前臂",
+      "瑜珈",
+      "手倒立",
+      "手部鎖印",
+      "屈曲",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_flexor_digitorum_superficialis",
+    "name_zh": "淺指屈肌",
+    "name_en": "Flexor Digitorum Superficialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/93/Gray_%E2%80%94_musculus_flexor_digitorum_superficialis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_digitorum_superficialis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助建立手掌的「拱形」結構。在「杯狀手（Cupcake hands）」動作中（如眼鏡蛇式變體），負責維持掌指關節的穩定屈曲。",
+    "desc_en": "Helps create the 'arching' structure of the palm. In 'Cupcake hands' or 'Spider fingers' actions (e.g., Cobra variations), maintains stable flexion of the MCP joints.",
+    "tags": [
+      "肘部與前臂",
+      "瑜珈",
+      "手部鎖印",
+      "屈曲",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_flexor_pollicis_longus",
+    "name_zh": "長拇指屈肌",
+    "name_en": "Flexor Pollicis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Musculus_flexor_pollicis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Musculus_flexor_pollicis_longus.png\">Me</a>, Public domain, via Wikimedia Commons",
+    "desc": "在手平衡中，負責大拇指對地面的抓握力。強壯的拇指屈肌能減輕食指根部的壓力，並在Bind（綑綁）動作中提供扣鎖力量。",
+    "desc_en": "Responsible for thumb gripping power in arm balances. A strong flexor pollicis longus relieves pressure on the index finger mound and provides locking strength in binding poses.",
+    "tags": [
+      "肘部與前臂",
+      "瑜珈",
+      "綑綁體式",
+      "手部鎖印",
+      "屈曲",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_palmaris_longus",
+    "name_zh": "掌長肌",
+    "name_en": "Palmaris Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/86/Palmaris-longus-horizontal.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Palmaris-longus-horizontal.png\">Henry Gray</a>, Public domain, via Wikimedia Commons",
+    "desc": "其肌腱與掌腱膜相連，協助拉緊手掌筋膜。在需要手掌完全平貼（Flat Palm）的體式中，幫助維持手掌張力，保護深層結構。",
+    "desc_en": "Connects to the palmar aponeurosis, tensing the palm fascia. Helps maintain palmar tension in poses requiring a completely flat hand (Flat Palm), protecting deep structures.",
+    "tags": [
+      "肘部與前臂",
+      "瑜珈",
+      "手部鎖印",
+      "屈曲",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_pronator_quadratus",
+    "name_zh": "方形旋前肌",
+    "name_en": "Pronator Quadratus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Pronator-quadratus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pronator-quadratus.png\">Selket at English Wikipedia</a>, Public domain, via Wikimedia Commons",
+    "desc": "瑜伽手部根基的關鍵。負責將食指根部（Index knuckle）壓向地面，對抗「下犬式」中手掌內側容易浮起的傾向，保護手腕外側。",
+    "desc_en": "Key to yogic hand foundation. Presses the index finger knuckle down, counteracting the tendency for the inner hand to lift in 'Down Dog', thus protecting the outer wrist.",
+    "tags": [
+      "肘部與前臂",
+      "瑜珈",
+      "手部鎖印",
+      "旋前",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_pronator_teres",
+    "name_zh": "旋前圓肌",
+    "name_en": "Pronator Teres",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Gray_%E2%80%94_musculus_pronator_teres.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_pronator_teres.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在手臂承重體式中，與肱二頭肌（負責外旋上臂）形成拮抗平衡。確保前臂旋前使手掌平貼，同時上臂外旋以穩定肩關節（Spiral Action）。",
+    "desc_en": "In weight-bearing arm poses, creates a counter-balance with the biceps (supinator). Ensures forearm pronation to keep palms flat while the upper arm externally rotates to stabilize the shoulder (Spiral Action).",
+    "tags": [
+      "肘部與前臂",
+      "瑜珈",
+      "下犬式",
+      "屈曲",
+      "旋前",
+      "上肢拉-水平",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_supinator",
+    "name_zh": "旋後肌",
+    "name_en": "Supinator",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Gray_%E2%80%94_musculus_supinator.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_supinator.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在「捧蓮花」手勢或需要手掌朝上的動作（如挺屍式大休息）中放鬆。在流瑜伽過渡中，協助調整前臂角度以適應不同體式。",
+    "desc_en": "Relaxed in 'offering' gestures or palms-up poses (e.g., Savasana). Assists in adjusting forearm angles during Vinyasa transitions to adapt to different poses.",
+    "tags": [
+      "肘部與前臂",
+      "瑜珈",
+      "旋後",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_abductor_digiti_minimi",
+    "name_zh": "小指外展肌",
+    "name_en": "Abductor Digiti Minimi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gray_%E2%80%94_musculus_abductor_digiti_minimi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "擴大「手部鎖印（Hasta Bandha）」的關鍵。主動張開小指能顯著增加手掌支撐面積，減少倒立或平板式中手腕外側的擠壓感。",
+    "desc_en": "Crucial for expanding 'Hasta Bandha'. Actively spreading the little finger significantly increases the palm's support area, reducing lateral wrist compression in Handstand or Plank.",
+    "tags": [
+      "手腕與手部",
+      "瑜珈",
+      "手部鎖印",
+      "外展",
+      "精細運動",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_abductor_pollicis_brevis",
+    "name_zh": "拇指外展短肌",
+    "name_en": "Abductor Pollicis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Gray_%E2%80%94_musculus_abductor_pollicis_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_pollicis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責大拇指根部的展開。在所有手支撐體式中，建立穩定的「L型（虎口）」支撐，防止身體重量過度壓迫尺神經。",
+    "desc_en": "Responsible for spreading the base of the thumb. Establishes a stable 'L-shape' (thumb-index web) support in all hand-bearing poses, preventing excessive weight on the ulnar nerve.",
+    "tags": [
+      "手腕與手部",
+      "瑜珈",
+      "手部鎖印",
+      "外展",
+      "屈曲",
+      "精細運動",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_adductor_pollicis",
+    "name_zh": "拇指內收肌",
+    "name_en": "Adductor Pollicis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gray_%E2%80%94_musculus_adductor_pollicis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_adductor_pollicis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在需要抓握的體式（如抓腳趾站立）或Bind（綑綁）動作中提供強大的夾持力。過度緊繃會導致虎口難以張開，影響下犬式的手部根基。",
+    "desc_en": "Provides powerful gripping force in holding poses (e.g., toe-lock standing) or Binds. Excessive tightness makes it hard to open the thumb web, affecting the hand foundation in Down Dog.",
+    "tags": [
+      "手腕與手部",
+      "瑜珈",
+      "綑綁體式",
+      "內收",
+      "精細運動",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_dorsal_interossei_1",
+    "name_zh": "背側骨間肌一",
+    "name_en": "Dorsal Interosseous 1",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/1121_Intrinsic_Muscles_of_the_Hand_DIL.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_DIL.png\">CFCF</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "負責食指外展。在手撐地動作中，意識控制食指與中指分開，有助於調整手掌重心，減輕腕關節正中神經的壓力。",
+    "desc_en": "Abducts the index finger. In hand-support poses, consciously separating the index and middle fingers helps adjust palmar center of gravity, relieving pressure on the median nerve at the wrist.",
+    "tags": [
+      "手腕與手部",
+      "瑜珈",
+      "手部鎖印",
+      "外展",
+      "屈曲",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_dorsal_interossei_2",
+    "name_zh": "背側骨間肌二",
+    "name_en": "Dorsal Interosseous 2",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/1121_Intrinsic_Muscles_of_the_Hand_DIL.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_DIL.png\">CFCF</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "負責中指的微調與穩定。中指通常作為手平衡體式中「方向」的指引（指向正前方），此肌肉確保中指不會隨意晃動。",
+    "desc_en": "Stabilizes and fine-tunes the middle finger. The middle finger usually acts as the 'directional guide' (pointing straight forward) in arm balances; this muscle ensures it stays aligned.",
+    "tags": [
+      "手腕與手部",
+      "瑜珈",
+      "手部鎖印",
+      "外展",
+      "屈曲",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_dorsal_interossei_3",
+    "name_zh": "背側骨間肌三",
+    "name_en": "Dorsal Interosseous 3",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/1121_Intrinsic_Muscles_of_the_Hand_DIL.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_DIL.png\">CFCF</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "協助無名指張開。全手掌打開（Starfish hand）對於分散體重至關重要，骨間肌的啟動能防止掌骨間隙塌陷。",
+    "desc_en": "Assists in spreading the ring finger. A fully open palm (Starfish hand) is vital for weight distribution; activation of interossei prevents collapse between the metacarpals.",
+    "tags": [
+      "手腕與手部",
+      "瑜珈",
+      "手部鎖印",
+      "外展",
+      "屈曲",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_dorsal_interossei_4",
+    "name_zh": "背側骨間肌四",
+    "name_en": "Dorsal Interosseous 4",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/1121_Intrinsic_Muscles_of_the_Hand_DIL.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_DIL.png\">CFCF</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "負責小指外展。與小指展肌協同，極大化手掌的外側支撐緣，對於側板式（Side Plank）等側向平衡動作特別重要。",
+    "desc_en": "Abducts the little finger. Synergizes with the abductor digiti minimi to maximize the lateral support edge of the palm, especially important for lateral balances like Side Plank.",
+    "tags": [
+      "手腕與手部",
+      "瑜珈",
+      "手部鎖印",
+      "外展",
+      "屈曲",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_flexor_digiti_minimi",
+    "name_zh": "小指屈肌短",
+    "name_en": "Flexor Digiti Minimi Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Gray_%E2%80%94_musculus_flexor_digiti_minimi_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_digiti_minimi_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助小指抓握。在「杯狀手（Cupcake hands）」支撐時，負責維持小指端的拱形結構，避免手指關節過伸（Hyperextension）。",
+    "desc_en": "Assists little finger gripping. In 'Cupcake hands' support, maintains the arch structure on the pinky side, preventing joint hyperextension.",
+    "tags": [
+      "手腕與手部",
+      "瑜珈",
+      "手部鎖印",
+      "屈曲",
+      "精細運動",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_flexor_pollicis_brevis",
+    "name_zh": "拇指屈短肌",
+    "name_en": "Flexor Pollicis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Gray_%E2%80%94_musculus_flexor_pollicis_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_pollicis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "大魚際肌群的一部分。在手平衡中，提供拇指根部向下壓的力量（Rooting），這股力量能反作用於肩膀的穩定。",
+    "desc_en": "Part of the thenar group. In arm balances, provides the downward pressing force (Rooting) of the thumb base, which translates into reaction force for shoulder stability.",
+    "tags": [
+      "手腕與手部",
+      "瑜珈",
+      "手部鎖印",
+      "屈曲",
+      "精細運動",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_lumbrical_1",
+    "name_zh": "蚓狀肌一（食指）",
+    "name_en": "Lumbrical 1 (Index)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lumbricales_%28hand%29.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png\">Image:Gray427.png modified</a>, Public domain, via Wikimedia Commons",
+    "desc": "瑜伽「手掌拱起」的關鍵肌。屈曲掌指關節同時伸直指間關節，防止在手倒立或下犬式中「死抓」墊子，保持手指的靈活性與吸盤效應。",
+    "desc_en": "Key muscle for 'palmar arching'. Flexes MCP while extending IP joints, preventing 'death grip' in Handstand or Down Dog, maintaining finger agility and a suction-cup effect.",
+    "tags": [
+      "手腕與手部",
+      "瑜珈",
+      "手部鎖印",
+      "屈曲",
+      "伸展",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_lumbrical_2",
+    "name_zh": "蚓狀肌二（中指）",
+    "name_en": "Lumbrical 2 (Middle)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lumbricales_%28hand%29.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png\">Image:Gray427.png modified</a>, Public domain, via Wikimedia Commons",
+    "desc": "維持中指平貼但有力。防止手指關節過度捲曲（Clawing），確保指腹而非指尖接觸地面，增加摩擦力與穩定度。",
+    "desc_en": "Keeps the middle finger flat yet active. Prevents excessive curling (Clawing), ensuring finger pads (not tips) contact the floor for better friction and stability.",
+    "tags": [
+      "手腕與手部",
+      "瑜珈",
+      "手部鎖印",
+      "屈曲",
+      "伸展",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_lumbrical_3",
+    "name_zh": "蚓狀肌三（無名指）",
+    "name_en": "Lumbrical 3 (Ring)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lumbricales_%28hand%29.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png\">Image:Gray427.png modified</a>, Public domain, via Wikimedia Commons",
+    "desc": "協調無名指動作。強壯的蚓狀肌能減輕手腕壓力，將部分體重轉移至手指根部（Knuckles）。",
+    "desc_en": "Coordinates ring finger action. Strong lumbricals help offload wrist pressure by transferring some body weight to the knuckles.",
+    "tags": [
+      "手腕與手部",
+      "瑜珈",
+      "手部鎖印",
+      "屈曲",
+      "伸展",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_lumbrical_4",
+    "name_zh": "蚓狀肌四（小指）",
+    "name_en": "Lumbrical 4 (Little)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lumbricales_%28hand%29.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png\">Image:Gray427.png modified</a>, Public domain, via Wikimedia Commons",
+    "desc": "維持小指穩定。在長時間的手支撐中，防止小指側手掌塌陷，保持手部核心（Hand Core）的張力。",
+    "desc_en": "Maintains little finger stability. Prevents collapse of the hypothenar side during prolonged hand support, keeping tension in the 'Hand Core'.",
+    "tags": [
+      "手腕與手部",
+      "瑜珈",
+      "手部鎖印",
+      "屈曲",
+      "伸展",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_opponens_digiti_minimi",
+    "name_zh": "小指對立肌",
+    "name_en": "Opponens Digiti Minimi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Gray_%E2%80%94_musculus_opponens_digiti_minimi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_opponens_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "深化掌心的「杯狀」結構（Hasta Bandha）。透過將小指側掌骨向中心拉，創造手掌穹頂，像吸盤一樣抓穩地板。",
+    "desc_en": "Deepens the 'cupping' of the palm (Hasta Bandha). Pulls the pinky-side metacarpal inward to create a palmar dome, gripping the floor like a suction cup.",
+    "tags": [
+      "手腕與手部",
+      "瑜珈",
+      "手部鎖印",
+      "對立",
+      "精細運動",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_opponens_pollicis",
+    "name_zh": "拇指對立肌",
+    "name_en": "Opponens Pollicis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Gray_%E2%80%94_musculus_opponens_pollicis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_opponens_pollicis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助拇指對掌。在「冥想手印（Mudras）」中（如智慧手印），負責精細地將拇指尖與食指尖輕觸。",
+    "desc_en": "Assists thumb opposition. In 'Mudras' (e.g., Jnana Mudra), responsible for the delicate touch between the tips of the thumb and index finger.",
+    "tags": [
+      "手腕與手部",
+      "瑜珈",
+      "冥想與手印",
+      "對立",
+      "精細運動",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_palmar_interossei_1",
+    "name_zh": "掌側骨間肌一",
+    "name_en": "Palmar Interosseous 1",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Braus_1921_215.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Braus_1921_215.png\">Braus, Hermann</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責手指內收。在「合掌手印（Anjali Mudra）」中，負責將手指併攏。在倒立時若手指無力併攏（雖然通常建議張開），可能影響掌根的發力。",
+    "desc_en": "Adducts the fingers. Responsible for keeping fingers together in 'Anjali Mudra' (Prayer Hands). Inversions typically require spreading, but weakness here affects the ability to compact the hand when needed.",
+    "tags": [
+      "手腕與手部",
+      "瑜珈",
+      "冥想與手印",
+      "內收",
+      "屈曲",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_palmar_interossei_2",
+    "name_zh": "掌側骨間肌二",
+    "name_en": "Palmar Interosseous 2",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Braus_1921_215.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Braus_1921_215.png\">Braus, Hermann</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助無名指內收。在某些流瑜伽過渡動作或手臂平衡中，過度的手指內收（夾緊）通常是不必要的，應保持自然張力。",
+    "desc_en": "Adducts the ring finger. In Vinyasa transitions or arm balances, excessive adduction (squeezing fingers) is usually unnecessary; maintain natural tone.",
+    "tags": [
+      "手腕與手部",
+      "瑜珈",
+      "冥想與手印",
+      "內收",
+      "屈曲",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_palmar_interossei_3",
+    "name_zh": "掌側骨間肌三",
+    "name_en": "Palmar Interosseous 3",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Braus_1921_215.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Braus_1921_215.png\">Braus, Hermann</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責小指內收。在「山式（Tadasana）」雙手自然下垂時，保持手指輕微併攏的整齊能量感。",
+    "desc_en": "Adducts the little finger. Maintains the energetic integrity of the hands (fingers lightly together) when arms are by the sides in 'Tadasana' (Mountain Pose).",
+    "tags": [
+      "手腕與手部",
+      "瑜珈",
+      "站立體式",
+      "內收",
+      "屈曲",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_palmaris_brevis",
+    "name_zh": "掌短肌",
+    "name_en": "Palmaris Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Gray_%E2%80%94_musculus_palmaris_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_palmaris_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "增強手掌的抓握感。在建立「手部鎖印（Hasta Bandha）」時，微收掌心使掌短肌收縮，有助於掌根穩定吸附地面。",
+    "desc_en": "Enhances palmar grip. When establishing 'Hasta Bandha', a slight cupping of the palm contracts the palmaris brevis, helping the heel of the hand suction stably to the mat.",
+    "tags": [
+      "手腕與手部",
+      "瑜珈",
+      "手部鎖印",
+      "姿勢維持",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "head_masseter",
+    "name_zh": "咬肌",
+    "name_en": "Masseter",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/13/Masseter_muscle_animation_small.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Masseter_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "瑜伽練習中的壓力指標。在挑戰性體式（如戰士二式）中，咬牙切齒會鎖住頸部能量。透過「獅子式呼吸（Lion's Breath）」主動伸展與放鬆此處。",
+    "desc_en": "Stress indicator in yoga practice. Clenching the jaw in challenging poses (e.g., Warrior II) blocks neck energy. Actively stretched and released via 'Simhasana' (Lion's Breath).",
+    "tags": [
+      "顱骨與顳顎關節",
+      "瑜珈",
+      "呼吸控制",
+      "放鬆",
+      "屈曲",
+      "提升/下壓",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "head_medial_pterygoid",
+    "name_zh": "內翼肌",
+    "name_en": "Medial Pterygoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Medial_pterygoid_muscle_animation_2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Medial_pterygoid_muscle_animation_2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "深層下顎肌肉。在冥想或大休息（Savasana）時，需有意識地放鬆此肌肉，使上下排牙齒微微分開，達到深層的神經系統放鬆。",
+    "desc_en": "Deep jaw muscle. During meditation or 'Savasana', one must consciously relax this muscle, allowing the upper and lower teeth to separate slightly for deep nervous system relaxation.",
+    "tags": [
+      "顱骨與顳顎關節",
+      "瑜珈",
+      "冥想與手印",
+      "放鬆",
+      "屈曲",
+      "內收",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "head_temporalis",
+    "name_zh": "顳肌",
+    "name_en": "Temporalis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Temporal_muscle_-_lateral_view.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Temporal_muscle_-_lateral_view.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "與精神緊張密切相關。瑜伽強調「眉心放鬆」，即是為了釋放顳肌張力。頭倒立時若頭部壓力過大，亦可能導致此處緊繃。",
+    "desc_en": "Closely linked to mental tension. Yoga emphasizes 'relaxing the space between the eyebrows' to release temporalis tension. Excessive head pressure in Headstand can also cause tightness here.",
+    "tags": [
+      "顱骨與顳顎關節",
+      "瑜珈",
+      "冥想與手印",
+      "放鬆",
+      "屈曲",
+      "提升/下壓",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hip_adductor_brevis",
+    "name_zh": "短內收肌",
+    "name_en": "Adductor Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/55/Adductor_brevis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Adductor_brevis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "啟動大腿內側夾緊的力量。在「倒立（Headstand）」或「肩倒立」中，負責將雙腿併攏收向中線，這是維持垂直平衡的關鍵。",
+    "desc_en": "Engages inner thigh squeezing power. In 'Sirsasana' (Headstand) or 'Sarvangasana' (Shoulderstand), responsible for hugging legs to the midline, key for vertical balance.",
+    "tags": [
+      "內收肌群",
+      "瑜珈",
+      "倒立",
+      "內收",
+      "屈曲",
+      "外旋",
+      "原動肌",
+      "穩定肌",
+      "核心"
+    ]
+  },
+  {
+    "id": "hip_gluteus_maximus",
+    "name_zh": "臀大肌",
+    "name_en": "Gluteus Maximus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Gluteus_maximus_3D.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gluteus_maximus_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "後彎體式（如橋式、輪式）的主要伸展肌。需注意：過度收縮（夾臀）會導致大腿外旋，壓迫薦髂關節（SI Joint）。瑜伽練習強調「臀部放鬆」或內旋以保護下背。",
+    "desc_en": "Prime extensor in backbends (Bridge, Wheel). Note: Excessive contraction (butt clenching) causes external rotation, compressing the SI Joint. Yoga emphasizes 'glute softening' or internal rotation to protect the lower back.",
+    "tags": [
+      "髖部與大腿",
+      "瑜珈",
+      "後彎",
+      "伸展",
+      "外旋",
+      "外展",
+      "下肢拉/髖絞鍊",
+      "原動肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "hip_gluteus_medius",
+    "name_zh": "臀中肌",
+    "name_en": "Gluteus Medius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Gluteus_medius_muscle_-_animation01.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gluteus_medius_muscle_-_animation01.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "單腿平衡體式的靈魂。在「樹式（Vrksasana）」或「半月式（Ardha Chandrasana）」中，強力收縮以穩定站立腿的骨盆，防止臀部外推。",
+    "desc_en": "Soul of single-leg balances. Contracts strongly in 'Vrksasana' (Tree) or 'Ardha Chandrasana' (Half Moon) to stabilize the standing leg's pelvis, preventing hip jutting.",
+    "tags": [
+      "髖部與大腿",
+      "瑜珈",
+      "平衡體式",
+      "外展",
+      "外旋",
+      "穩定肌",
+      "衝擊吸收",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "hip_gluteus_minimus",
+    "name_zh": "臀小肌",
+    "name_en": "Gluteus Minimus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Gluteus_minimus_muscle_animation04.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gluteus_minimus_muscle_animation04.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "深層穩定肌。與臀中肌協同，在單腳站立時將股骨頭「吸」入髖臼。同時協助髖內旋動作，這在一些扭轉體式中很重要。",
+    "desc_en": "Deep stabilizer. Works with gluteus medius to 'suck' the femoral head into the acetabulum during single-leg stance. Also assists in hip internal rotation, important for certain twists.",
+    "tags": [
+      "臀部肌群",
+      "瑜珈",
+      "平衡體式",
+      "外展",
+      "內旋",
+      "穩定肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "hip_gracilis",
+    "name_zh": "薄肌（髖部段）",
+    "name_en": "Gracilis (Hip)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gracilis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gracilis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "大腿內側的長條肌肉。在「束角式（Baddha Konasana）」或「坐角式（Upavistha Konasana）」中是被拉伸的重點對象。過緊會限制開髖幅度。",
+    "desc_en": "Long strap muscle of the inner thigh. A key stretch target in 'Baddha Konasana' (Cobbler's Pose) or 'Upavistha Konasana'. Tightness here restricts hip opening amplitude.",
+    "tags": [
+      "內收肌群",
+      "瑜珈",
+      "開髖",
+      "內收",
+      "屈曲",
+      "內旋",
+      "原動肌",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "hip_iliacus",
+    "name_zh": "髂肌",
+    "name_en": "Iliacus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Iliacus_muscle_-_animation05.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Iliacus_muscle_-_animation05.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "深層屈髖肌。在「船式（Navasana）」或「舉腿動作」中，負責將大腿向軀幹拉近。若肌力不足，練習者常會代償性拱背。",
+    "desc_en": "Deep hip flexor. In 'Navasana' (Boat Pose) or leg lifts, pulls the thighs toward the trunk. Weakness often causes practitioners to compensate by rounding the back.",
+    "tags": [
+      "髖屈肌群",
+      "瑜珈",
+      "核心訓練",
+      "屈曲",
+      "外旋",
+      "原動肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "hip_iliopsoas",
+    "name_zh": "髂腰肌",
+    "name_en": "Iliopsoas",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Braus_1921_244.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Braus_1921_244.png\">Braus, Hermann</a>, Public domain, via Wikimedia Commons",
+    "desc": "瑜伽的「靈魂肌肉」。連接上半身與下半身。在「低弓步（Anjaneyasana）」中被深層伸展；在「前屈」中若過緊會限制骨盆前傾，導致下背壓力。",
+    "desc_en": "The 'soul muscle' of yoga. Connects upper and lower body. Deeply stretched in 'Anjaneyasana' (Low Lunge); if tight during forward folds, it restricts pelvic tilting, stressing the lower back.",
+    "tags": [
+      "髖部與大腿",
+      "瑜珈",
+      "後彎",
+      "前屈",
+      "屈曲",
+      "外旋",
+      "下肢推",
+      "原動肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "hip_obturator_externus",
+    "name_zh": "閉孔外肌",
+    "name_en": "Obturator Externus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/14/Obturator_externus_large.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Obturator_externus_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "深層外旋肌群。在「戰士二式」前腳的穩定中發揮作用，確保膝蓋對齊第二腳趾，防止膝內扣。",
+    "desc_en": "Deep external rotator. Plays a role in stabilizing the front leg in 'Warrior II', ensuring the knee aligns with the second toe and preventing knee collapse.",
+    "tags": [
+      "深層外旋肌群",
+      "瑜珈",
+      "開髖",
+      "外旋",
+      "穩定肌",
+      "股骨頭穩定"
+    ]
+  },
+  {
+    "id": "hip_obturator_internus",
+    "name_zh": "閉孔內肌",
+    "name_en": "Obturator Internus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Obturator_internus_large.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Obturator_internus_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "關鍵的開髖肌肉。在「單腿鴿王式（Pigeon Pose）」的前腿外旋中被深層伸展。對於蓮花坐（Padmasana）的準備至關重要。",
+    "desc_en": "Key hip opener muscle. Deeply stretched in the external rotation of the front leg in 'Pigeon Pose'. Crucial for preparing for 'Padmasana' (Lotus Pose).",
+    "tags": [
+      "深層外旋肌群",
+      "瑜珈",
+      "開髖",
+      "外旋",
+      "外展",
+      "穩定肌",
+      "股骨頭穩定"
+    ]
+  },
+  {
+    "id": "hip_pectineus",
+    "name_zh": "恥骨肌",
+    "name_en": "Pectineus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Pectineus_3D.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pectineus_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "腹股溝深處的肌肉。在「快樂嬰兒式（Happy Baby）」中被伸展。若過度緊繃，會限制大腿在屈曲狀態下的外展（開髖）幅度。",
+    "desc_en": "Muscle deep in the groin. Stretched in 'Happy Baby' pose. Excessive tightness here restricts thigh abduction (hip opening) when the hip is flexed.",
+    "tags": [
+      "內收肌群",
+      "瑜珈",
+      "開髖",
+      "內收",
+      "屈曲",
+      "內旋",
+      "原動肌",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "hip_piriformis",
+    "name_zh": "梨狀肌",
+    "name_en": "Piriformis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/39/Piriformis_large.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Piriformis_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "瑜伽「鴿式（Pigeon Pose）」的主角。負責髖外旋與穩定。坐骨神經痛常因緊繃的梨狀肌壓迫所致，瑜伽練習特別強調此肌肉的伸展與釋放。",
+    "desc_en": "The star of 'Pigeon Pose'. Responsible for hip external rotation and stability. Sciatica is often caused by a tight piriformis compressing the nerve; yoga emphasizes stretching and releasing this muscle.",
+    "tags": [
+      "深層外旋肌群",
+      "瑜珈",
+      "開髖",
+      "修復瑜伽",
+      "外旋",
+      "外展",
+      "穩定肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "hip_psoas_major",
+    "name_zh": "腰大肌",
+    "name_en": "Psoas Major",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Psoas_major_muscle_-_animation04.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Psoas_major_muscle_-_animation04.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "情緒與創傷的儲存庫。深層後彎（如駱駝式）需要其極佳的延展性。緊繃的腰大肌會將腰椎向前拉，造成後彎時的腰部擠壓痛。",
+    "desc_en": "Repository of emotion and trauma. Deep backbends (e.g., Camel Pose) require its excellent extensibility. A tight psoas pulls the lumbar spine forward, causing compression pain during backbends.",
+    "tags": [
+      "髖屈肌群",
+      "瑜珈",
+      "後彎",
+      "陰瑜珈",
+      "屈曲",
+      "內旋",
+      "側屈",
+      "原動肌",
+      "姿勢維持",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "hip_quadratus_femoris",
+    "name_zh": "股方肌",
+    "name_en": "Quadratus Femoris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Quadratus_femoris_large.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Quadratus_femoris_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "髖關節後側的方形穩定肌。在需要極致外旋的體式（如雙盤蓮花）中，此肌肉需有足夠的長度與柔韌性。",
+    "desc_en": "Square-shaped stabilizer at the back of the hip. In poses requiring extreme external rotation (e.g., Full Lotus), this muscle needs sufficient length and flexibility.",
+    "tags": [
+      "深層外旋肌群",
+      "瑜珈",
+      "開髖",
+      "外旋",
+      "穩定肌",
+      "股骨頭穩定"
+    ]
+  },
+  {
+    "id": "hip_tensor_fasciae_latae",
+    "name_zh": "闊筋膜張肌 (TFL)",
+    "name_en": "Tensor Fasciae Latae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Tensor-fasciae-latae.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Tensor-fasciae-latae.png\">colorized by Michael Gasperl</a>, Public domain, via Wikimedia Commons",
+    "desc": "易緊繃的屈髖外展肌。過緊的TFL會導致大腿內旋，阻礙「戰士二式」的開髖動作，並可能引起膝蓋外側疼痛。需透過交叉腿前屈等動作伸展。",
+    "desc_en": "Prone-to-tightness hip flexor/abductor. A tight TFL causes internal thigh rotation, hindering the hip opening in 'Warrior II' and potentially causing lateral knee pain. Stretched via cross-legged forward folds.",
+    "tags": [
+      "髖屈肌群",
+      "瑜珈",
+      "開髖",
+      "屈曲",
+      "外展",
+      "內旋",
+      "穩定肌",
+      "核心穩定",
+      "下肢推"
+    ]
+  },
+  {
+    "id": "knee_popliteus",
+    "name_zh": "膕肌",
+    "name_en": "Popliteus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Popliteus_muscle_-animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Popliteus_muscle_-animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "膝關節保護者。在直腿體式（如三角式）中，負責防止膝蓋「超伸（Hyperextension）」。啟動微屈膝（Micro-bend）即是透過此肌肉來保護膝關節。",
+    "desc_en": "Knee protector. In straight-leg poses (e.g., Trikonasana), prevents knee 'hyperextension'. Engaging a 'micro-bend' activates this muscle to safeguard the joint.",
+    "tags": [
+      "膝關節",
+      "瑜珈",
+      "站立體式",
+      "屈曲",
+      "膝關節屈曲",
+      "膝關節內旋",
+      "穩定肌",
+      "膝關節穩定"
+    ]
+  },
+  {
+    "id": "neck_anterior_scalene",
+    "name_zh": "前斜角肌",
+    "name_en": "Anterior Scalene",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Scalenus_anterior_-_animation04.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Scalenus_anterior_-_animation04.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "錯誤呼吸模式的指標。若進行短淺的「胸式呼吸」，斜角肌會過度勞累導致頸痛。瑜伽練習強調腹式或完全呼吸以放鬆此處。",
+    "desc_en": "Indicator of poor breathing patterns. Shallow 'chest breathing' overworks the scalenes, causing neck pain. Yoga emphasizes diaphragmatic or complete breathing to relax this area.",
+    "tags": [
+      "頸部肌群",
+      "頸椎",
+      "瑜珈",
+      "呼吸控制",
+      "屈曲",
+      "側屈",
+      "穩定肌",
+      "呼吸輔助",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "neck_digastric",
+    "name_zh": "二腹肌",
+    "name_en": "Digastric",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gray_%E2%80%94_musculus_digastricus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_digastricus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "連接下顎與舌骨。在「收頷收束（Jalandhara Bandha）」中發揮作用。過度抬頭（如後彎時沒有延展頸部）會造成此處緊繃。",
+    "desc_en": "Connects jaw to hyoid. Active in 'Jalandhara Bandha' (Chin Lock). Excessive chin lifting (e.g., crunching the neck in backbends) creates tension here.",
+    "tags": [
+      "頸部肌群",
+      "瑜珈",
+      "收束法",
+      "提升/下壓",
+      "穩定肌",
+      "呼吸輔助",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "neck_longus_colli",
+    "name_zh": "頸長肌",
+    "name_en": "Longus Colli",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/96/Gray_%E2%80%94_musculus_longus_colli.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_longus_colli.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "深層頸屈肌，負責拉直頸椎曲線。在「頭倒立（Sirsasana）」中，強壯的頸長肌能維持頸椎中立，防止危險的頸部塌陷。",
+    "desc_en": "Deep neck flexor, straightens cervical curve. In 'Sirsasana' (Headstand), strong longus colli muscles maintain cervical neutrality, preventing dangerous neck collapse.",
+    "tags": [
+      "頸椎",
+      "頸部肌群",
+      "瑜珈",
+      "倒立",
+      "皮拉提斯",
+      "屈曲",
+      "穩定肌",
+      "姿勢維持",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "neck_mylohyoid",
+    "name_zh": "顎舌骨肌",
+    "name_en": "Mylohyoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/92/Mylohyoid_muscle.PNG",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Mylohyoid_muscle.PNG\">User:Mikael Häggström</a>, Public domain, via Wikimedia Commons",
+    "desc": "口腔底部的肌肉。瑜伽語音冥想（Chanting/Om）時，此肌肉的振動與放鬆有助於喉輪（Throat Chakra）的能量通暢。",
+    "desc_en": "Floor of the mouth. During Chanting or 'Om', the vibration and relaxation of this muscle help clear energy in the Throat Chakra (Vishuddha).",
+    "tags": [
+      "頸部肌群",
+      "瑜珈",
+      "梵唱",
+      "屈曲",
+      "提升/下壓",
+      "穩定肌",
+      "姿勢維持",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "neck_omohyoid",
+    "name_zh": "肩胛舌骨肌",
+    "name_en": "Omohyoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Muscle_omo-hyoidien.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_omo-hyoidien.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "連接肩胛骨與喉部。在肩倒立（Shoulderstand）中，幫助穩定喉嚨區域與肩帶的連結。緊張的肩膀會透過此肌肉影響喉嚨的放鬆。",
+    "desc_en": "Connects scapula to larynx. In Shoulderstand, helps stabilize the connection between the throat region and shoulder girdle. Tense shoulders affect throat relaxation via this muscle.",
+    "tags": [
+      "頸部肌群",
+      "瑜珈",
+      "肩倒立",
+      "提升/下壓",
+      "穩定肌",
+      "姿勢維持",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "neck_sternocleidomastoid",
+    "name_zh": "胸鎖乳突肌",
+    "name_en": "Sternocleidomastoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Sternomastoid_muscle_animation_small2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Sternomastoid_muscle_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "頸部顯著的肌肉。在扭轉體式（如脊椎扭轉）中帶動頭部轉向。許多學員因長時間低頭（Text Neck）導致此處緊繃，需透過後仰與側伸展來平衡。",
+    "desc_en": "Prominent neck muscle. Rotates the head in twisting poses (e.g., Spinal Twist). Often tight due to 'Text Neck'; needs balancing via extension and lateral stretches.",
+    "tags": [
+      "頸部肌群",
+      "瑜珈",
+      "扭轉",
+      "現代文明病",
+      "軀幹旋轉與對角線",
+      "屈曲",
+      "側屈",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "neck_sternohyoid",
+    "name_zh": "胸骨舌骨肌",
+    "name_en": "Sternohyoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/67/Sternohyoid_muscle.PNG",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Sternohyoid_muscle.PNG\">User:Mikael Häggström</a>, Public domain, via Wikimedia Commons",
+    "desc": "在「喉式呼吸（Ujjayi Breath）」中，協助精細控制喉部肌肉以產生海洋般的聲音，並調節氣流進出。",
+    "desc_en": "In 'Ujjayi Breath', assists in fine-tuning laryngeal muscles to create the oceanic sound and regulate airflow.",
+    "tags": [
+      "頸部肌群",
+      "瑜珈",
+      "呼吸控制",
+      "提升/下壓",
+      "穩定肌",
+      "姿勢維持",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "pelvis_levator_ani",
+    "name_zh": "提肛肌",
+    "name_en": "Levator Ani",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Levator_ani.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Levator_ani.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "瑜伽「根鎖（Mula Bandha）」的解剖對應。收縮此肌肉能封存身體能量（Prana），提供核心極深層的穩定，特別是在跳躍穿越（Jump through）等高難度動作中。",
+    "desc_en": "Anatomical correspondent to 'Mula Bandha' (Root Lock). Contracting this muscle seals Prana and provides deep core stability, essential for advanced moves like 'Jump Throughs'.",
+    "tags": [
+      "骨盆帶",
+      "瑜珈",
+      "收束法",
+      "核心訓練",
+      "提升/下壓",
+      "核心穩定",
+      "姿勢維持",
+      "穩定肌",
+      "衝擊吸收"
+    ]
+  },
+  {
+    "id": "posterior_thigh_biceps_femoris",
+    "name_zh": "股二頭肌",
+    "name_en": "Biceps Femoris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Biceps_femoris_muscle_animation_1.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Biceps_femoris_muscle_-_animation_1.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "腿後肌外側。在「站立前屈（Uttanasana）」中被強烈伸展。若外側緊繃會導致膝蓋內扣。在彎曲膝蓋的體式中協助髖外旋。",
+    "desc_en": "Lateral hamstring. Intensely stretched in 'Uttanasana' (Standing Forward Fold). Tightness here can cause knee knock. Assists hip external rotation when the knee is flexed.",
+    "tags": [
+      "腿後肌群",
+      "瑜珈",
+      "前屈",
+      "伸展",
+      "屈曲",
+      "伸展",
+      "膝關節屈曲",
+      "髖關節伸展",
+      "膝關節外旋",
+      "原動肌",
+      "衝擊吸收",
+      "下肢拉/髖絞鍊"
+    ]
+  },
+  {
+    "id": "posterior_thigh_semitendinosus",
+    "name_zh": "半腱肌",
+    "name_en": "Semitendinosus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Semitendinosus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Semitendinosus.png\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "限制前屈體式（如坐姿前彎 Paschimottanasana）的主要肌肉之一。若過度緊繃，會限制骨盆前傾，迫使腰椎代償性彎曲。需要透過持續的伸展來改善。",
+    "desc_en": "One of the primary muscles limiting forward bends (e.g., Paschimottanasana). If tight, it restricts anterior pelvic tilt, forcing the lumbar spine to round compensatorily. Requires consistent stretching to improve.",
+    "tags": [
+      "髖部與大腿",
+      "瑜珈",
+      "前屈",
+      "伸展",
+      "屈曲",
+      "伸展",
+      "膝關節屈曲",
+      "髖關節伸展",
+      "原動肌",
+      "衝擊吸收",
+      "下肢拉/髖絞鍊"
+    ]
+  },
+  {
+    "id": "shin_tibialis_anterior",
+    "name_zh": "脛骨前肌",
+    "name_en": "Tibialis Anterior",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/63/Tibialis_anterior_muscle_-_animation_1.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Tibialis_anterior_muscle_-_animation_1.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責足背屈（Dorsiflexion）。在坐姿體式（如手杖式）中，透過勾腳尖啟動此肌肉，能活化整條腿的能量線（Energy Line），並保護膝關節。",
+    "desc_en": "Responsible for dorsiflexion. In seated poses (e.g., Dandasana), flexing the feet activates this muscle, energizing the entire leg line and protecting the knee joints.",
+    "tags": [
+      "小腿前側肌群",
+      "瑜珈",
+      "坐姿體式",
+      "登山/健行",
+      "單車",
+      "背屈",
+      "內翻",
+      "原動肌",
+      "衝擊吸收",
+      "足弓支撐"
+    ]
+  },
+  {
+    "id": "shoulder_deltoid_anterior",
+    "name_zh": "三角肌前部",
+    "name_en": "Anterior Deltoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在「平板式（Plank）」與「四柱支撐（Chaturanga）」中承受巨大壓力。負責肩屈曲，協助將手臂舉過頭頂（如戰士一式）。",
+    "desc_en": "Bears significant load in 'Phalakasana' (Plank) and 'Chaturanga'. Responsible for shoulder flexion, assisting in lifting arms overhead (e.g., Warrior I).",
+    "tags": [
+      "肩帶與肩關節",
+      "瑜珈",
+      "流瑜伽",
+      "手臂平衡",
+      "健身/重訓",
+      "屈曲",
+      "內旋",
+      "原動肌"
+    ]
+  },
+  {
+    "id": "shoulder_deltoid_middle",
+    "name_zh": "三角肌中部",
+    "name_en": "Middle Deltoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "長時間維持「戰士二式（Warrior II）」時的手臂支撐力量來源。負責將手臂向兩側平舉（外展），需建立耐力以維持姿勢穩定。",
+    "desc_en": "Source of arm endurance in holding 'Warrior II'. Responsible for abducting arms to the sides; requires endurance to maintain pose stability.",
+    "tags": [
+      "肩帶與肩關節",
+      "瑜珈",
+      "站立體式",
+      "健身/重訓",
+      "外展",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "shoulder_deltoid_posterior",
+    "name_zh": "三角肌後部",
+    "name_en": "Posterior Deltoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在「反向桌式（Reverse Table Top）」或「蝗蟲式」中負責手臂後伸與抬高。在Bind（綑綁）動作中，協助將手臂向後拉以扣住雙手。",
+    "desc_en": "Responsible for arm extension and lifting in 'Purvottanasana' (Reverse Table) or 'Salabhasana'. In Binding poses, assists in pulling the arm back to clasp hands.",
+    "tags": [
+      "肩帶與肩關節",
+      "瑜珈",
+      "後彎",
+      "綑綁體式",
+      "伸展",
+      "外旋",
+      "原動肌",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "shoulder_infraspinatus",
+    "name_zh": "棘下肌",
+    "name_en": "Infraspinatus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Infraspinatus_muscle_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Infraspinatus_muscle_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責「下犬式」中上臂的外旋（External Rotation）。透過轉動肱骨，使三頭肌向內夾（Wrapping triceps），釋放頸部空間並穩定肩關節。",
+    "desc_en": "Responsible for upper arm external rotation in 'Down Dog'. Rotates the humerus to 'wrap the triceps', creating space for the neck and stabilizing the shoulder joint.",
+    "tags": [
+      "肩帶與肩關節",
+      "瑜珈",
+      "下犬式",
+      "肩部穩定",
+      "外旋",
+      "上肢拉-水平",
+      "原動肌",
+      "穩定肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "shoulder_levator_scapulae",
+    "name_zh": "提肩胛肌",
+    "name_en": "Levator Scapulae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/97/Levator_scapulae_muscle_animation_small.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Levator_scapulae_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "常見的緊繃點。在後彎體式（如眼鏡蛇式）中，若聳肩會擠壓頸椎。瑜伽口令「肩膀遠離耳朵」即是為了放鬆此肌肉。",
+    "desc_en": "Common tension spot. Shrugging in backbends (e.g., Cobra) compresses the cervical spine. The cue 'shoulders away from ears' aims to relax this muscle.",
+    "tags": [
+      "肩帶與肩關節",
+      "頸部肌群",
+      "瑜珈",
+      "後彎",
+      "提升/下壓",
+      "內旋",
+      "肩帶穩定",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_subscapularis",
+    "name_zh": "肩胛下肌",
+    "name_en": "Subscapularis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Subscapularis_muscle_animation3.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Subscapularis_muscle_animation3.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責肩內旋。在「背後祈禱式」或「瑪里奇式（Marichyasana）」的綑綁動作中被啟動。作為肩袖肌群，在所有手支撐體式中保護肩關節前側。",
+    "desc_en": "Responsible for internal rotation. Activated in 'Reverse Prayer' or binding in 'Marichyasana'. As a rotator cuff muscle, protects the anterior shoulder in all arm support poses.",
+    "tags": [
+      "肩帶與肩關節",
+      "瑜珈",
+      "綑綁體式",
+      "內旋",
+      "上肢推-水平",
+      "原動肌",
+      "穩定肌",
+      "核心穩定",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_supraspinatus",
+    "name_zh": "棘上肌",
+    "name_en": "Supraspinatus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Supraspinatus_muscle_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Supraspinatus_muscle_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "啟動手臂外展。在重複的流瑜伽（Vinyasa）動作中，若肩胛骨控制不佳，棘上肌腱容易在肩峰下產生夾擠（Impingement）。",
+    "desc_en": "Initiates arm abduction. In repetitive Vinyasa flows, poor scapular control can lead to supraspinatus tendon impingement under the acromion.",
+    "tags": [
+      "肩帶與肩關節",
+      "瑜珈",
+      "流瑜伽",
+      "外展",
+      "上肢推-垂直",
+      "原動肌",
+      "穩定肌",
+      "核心穩定",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_teres_major",
+    "name_zh": "大圓肌",
+    "name_en": "Teres Major",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Gray_%E2%80%94_musculus_teres_major.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_teres_major.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助內旋與內收。在進行高難度的綑綁（Bind）動作時，與背闊肌協同工作，將手臂拉向身體後方以扣住雙手。",
+    "desc_en": "Assists internal rotation and adduction. Works with the latissimus dorsi in advanced Binding poses to pull the arm behind the body to clasp hands.",
+    "tags": [
+      "肩帶與肩關節",
+      "瑜珈",
+      "綑綁體式",
+      "伸展",
+      "內收",
+      "內旋",
+      "上肢拉-垂直",
+      "原動肌",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "shoulder_teres_minor",
+    "name_zh": "小圓肌",
+    "name_en": "Teres Minor",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gray_%E2%80%94_musculus_teres_minor.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_teres_minor.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "與棘下肌協同，在「平板式」或「鶴式」中提供肱骨頭的動態穩定，防止肩膀向前滑動或受傷。",
+    "desc_en": "Works with the infraspinatus to provide dynamic stability to the humeral head in 'Plank' or 'Crow Pose', preventing anterior shoulder translation or injury.",
+    "tags": [
+      "肩帶與肩關節",
+      "瑜珈",
+      "手臂平衡",
+      "外旋",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_trapezius_lower",
+    "name_zh": "斜方肌下部",
+    "name_en": "Trapezius (Lower)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Trapezius_animation_small2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Trapezius_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "維持開闊胸腔的關鍵。在「上犬式（Upward Dog）」中，主動收縮以將肩胛骨向下拉，對抗聳肩趨勢，創造頸部空間。",
+    "desc_en": "Key for an open chest. In 'Upward Facing Dog', actively contracts to depress the scapulae, countering shrugging and creating space for the neck.",
+    "tags": [
+      "肩帶與肩關節",
+      "瑜珈",
+      "後彎",
+      "下壓",
+      "外旋",
+      "肩帶穩定",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_trapezius_middle",
+    "name_zh": "斜方肌中部",
+    "name_en": "Trapezius (Middle)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Trapezius_animation_small2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Trapezius_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責肩胛骨後收（Retraction）。在「蝗蟲式（Salabhasana）」或背後扣手動作中，啟動此肌肉以打開前胸，改善圓肩體態。",
+    "desc_en": "Responsible for scapular retraction. In 'Salabhasana' (Locust) or interlacing fingers behind the back, activates to open the chest and correct rounded shoulders.",
+    "tags": [
+      "肩帶與肩關節",
+      "瑜珈",
+      "後彎",
+      "內收",
+      "肩帶穩定",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_trapezius_upper",
+    "name_zh": "斜方肌上部",
+    "name_en": "Trapezius (Upper)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Trapezius_animation_small2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Trapezius_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "需要學會「放鬆」的區域。初學者常在困難體式中不自覺聳肩。但在倒立體式（如手倒立）中，需適度收縮以提升肩帶穩定性（Elevation）。",
+    "desc_en": "Area that needs to learn 'relaxation'. Beginners often unconsciously shrug in difficult poses. However, in inversions (e.g., Handstand), moderate contraction is needed for shoulder girdle elevation and stability.",
+    "tags": [
+      "肩帶與肩關節",
+      "瑜珈",
+      "倒立",
+      "提升/下壓",
+      "外旋",
+      "肩帶穩定",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "thigh_adductor_longus",
+    "name_zh": "長內收肌",
+    "name_en": "Adductor Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/Adductor_longus.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Adductor_longus.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "啟動大腿中線能量（Midline Energy）。在「幻椅式（Chair Pose）」夾磚練習中被強化。在開髖體式（如坐角式）中被強烈伸展。",
+    "desc_en": "Engages Midline Energy. Strengthened in 'Chair Pose' with block squeezing. Intensely stretched in hip-opening poses like 'Upavistha Konasana'.",
+    "tags": [
+      "內收肌群",
+      "髖部與大腿",
+      "瑜珈",
+      "開髖",
+      "核心訓練",
+      "內收",
+      "屈曲",
+      "內旋",
+      "原動肌",
+      "穩定肌",
+      "核心"
+    ]
+  },
+  {
+    "id": "thigh_adductor_magnus",
+    "name_zh": "大內收肌",
+    "name_en": "Adductor Magnus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Muscle_grand_adducteur_copie.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_grand_adducteur_copie.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "同時具備內收與伸髖功能。在「雙角式（Prasarita Padottanasana）」中提供內側穩定。其後部纖維在後彎體式中協助伸展髖部。",
+    "desc_en": "Functions in both adduction and hip extension. Provides medial stability in 'Prasarita Padottanasana'. Its posterior fibers assist hip extension in backbends.",
+    "tags": [
+      "髖部與大腿",
+      "瑜珈",
+      "開髖",
+      "前屈",
+      "內收",
+      "伸展",
+      "原動肌",
+      "穩定肌",
+      "下肢拉/髖絞鍊",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "thigh_gracilis",
+    "name_zh": "股薄肌",
+    "name_en": "Gracilis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gracilis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gracilis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "雙關節內收肌。在直腿開髖動作（如三角式）中限制伸展幅度。彎曲膝蓋（如戰士二式）通常能減輕此肌肉的張力。",
+    "desc_en": "Biarticular adductor. Limits range in straight-leg hip openers (e.g., Trikonasana). Bending the knee (e.g., Warrior II) usually relieves tension in this muscle.",
+    "tags": [
+      "髖部與大腿",
+      "瑜珈",
+      "開髖",
+      "內收",
+      "屈曲",
+      "膝關節屈曲",
+      "膝關節內旋",
+      "原動肌",
+      "穩定肌",
+      "膝關節穩定"
+    ]
+  },
+  {
+    "id": "thigh_rectus_femoris",
+    "name_zh": "股直肌",
+    "name_en": "Rectus Femoris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/48/Rectus_femoris_3D.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Rectus_femoris_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在「船式（Navasana）」中強力收縮以維持腿部伸直與抬高。在「英雄臥式（Supta Virasana）」或低弓步後腿中被深層伸展。",
+    "desc_en": "Contracts strongly in 'Navasana' (Boat Pose) to keep legs straight and lifted. Deeply stretched in 'Supta Virasana' (Reclining Hero) or the back leg of a Low Lunge.",
+    "tags": [
+      "股四頭肌",
+      "瑜珈",
+      "核心訓練",
+      "後彎",
+      "伸展",
+      "屈曲",
+      "膝關節伸展",
+      "髖關節屈曲",
+      "原動肌",
+      "下肢推"
+    ]
+  },
+  {
+    "id": "thigh_sartorius",
+    "name_zh": "縫匠肌",
+    "name_en": "Sartorius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Sartorius_3D.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Sartorius_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "裁縫師肌肉。負責完成「樹式（Tree Pose）」或「蓮花坐（Lotus Pose）」所需的複雜動作組合（屈髖、外展、外旋）。",
+    "desc_en": "The tailor's muscle. Responsible for the complex combination of movements (hip flexion, abduction, external rotation) required for 'Vrksasana' (Tree) or 'Padmasana' (Lotus).",
+    "tags": [
+      "髖部與大腿",
+      "瑜珈",
+      "開髖",
+      "屈曲",
+      "外旋",
+      "外展",
+      "膝關節屈曲",
+      "膝關節內旋",
+      "原動肌",
+      "膝關節穩定"
+    ]
+  },
+  {
+    "id": "thigh_vastus_intermedius",
+    "name_zh": "股中間肌",
+    "name_en": "Vastus Intermedius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Vastus_intermedialis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Vastus_intermedialis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責膝關節伸直。在站立體式中，透過收縮股四頭肌「上提膝蓋骨（Lift Kneecaps）」，啟動此肌肉以鎖定並保護膝關節。",
+    "desc_en": "Responsible for knee extension. In standing poses, engaging the quadriceps to 'lift the kneecaps' activates this muscle to lock and protect the knee joint.",
+    "tags": [
+      "股四頭肌",
+      "瑜珈",
+      "站立體式",
+      "伸展",
+      "膝關節伸展",
+      "原動肌",
+      "膝關節穩定",
+      "下肢推",
+      "衝擊吸收"
+    ]
+  },
+  {
+    "id": "thigh_vastus_lateralis",
+    "name_zh": "股外側肌",
+    "name_en": "Vastus Lateralis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Vastus_lateralis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Vastus_lateralis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "提供戰士體式中的腿部支撐力。若過度緊繃，會透過髂脛束拉扯膝蓋，造成外側疼痛。需透過滾筒放鬆或交叉腿伸展。",
+    "desc_en": "Provides leg support in Warrior poses. If overly tight, pulls on the knee via the IT Band, causing lateral pain. Requires foam rolling or cross-legged stretches.",
+    "tags": [
+      "股四頭肌",
+      "瑜珈",
+      "站立體式",
+      "伸展",
+      "膝關節伸展",
+      "原動肌",
+      "膝關節穩定",
+      "下肢推",
+      "衝擊吸收"
+    ]
+  },
+  {
+    "id": "thigh_vastus_medialis",
+    "name_zh": "股內側肌",
+    "name_en": "Vastus Medialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Vastus_medialis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Vastus_medialis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "防止髕骨外偏的關鍵。在單腳平衡或屈膝動作（如幻椅式）中，需意識啟動大腿內側力量，確保髕骨滑動軌跡正確，預防膝蓋傷害。",
+    "desc_en": "Key to preventing lateral patellar tracking. In single-leg balances or bent-knee poses (Chair), conscious engagement of the inner thigh ensures proper patellar tracking, preventing knee injury.",
+    "tags": [
+      "股四頭肌",
+      "瑜珈",
+      "膝部復健",
+      "伸展",
+      "膝關節伸展",
+      "原動肌",
+      "膝關節穩定",
+      "下肢推"
+    ]
+  },
+  {
+    "id": "thorax_diaphragm",
+    "name_zh": "橫隔膜",
+    "name_en": "Diaphragm",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/71/Diaphragm_-_2.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Diaphragm_-_2.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "瑜伽呼吸法（Pranayama）的核心。透過控制橫隔膜的升降進行「腹式呼吸」或「烏加依呼吸」，調節神經系統並穩定核心（腹內壓）。",
+    "desc_en": "Core of Pranayama. Controlling diaphragm movement facilitates 'Diaphragmatic Breathing' or 'Ujjayi', regulating the nervous system and stabilizing the core (intra-abdominal pressure).",
+    "tags": [
+      "胸廓",
+      "瑜珈",
+      "呼吸控制",
+      "冥想",
+      "屈曲",
+      "提升/下壓",
+      "核心穩定",
+      "呼吸輔助",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "thorax_intercostal_internal",
+    "name_zh": "內側肋間肌",
+    "name_en": "Internal Intercostal",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Internal_intercostal_muscles_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Internal_intercostal_muscles_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "主動呼氣肌。在「聖光調息（Kapalabhati）」的快速吐氣過程中強烈收縮。在扭轉體式中，協助肋骨轉向，加深脊椎旋轉幅度。",
+    "desc_en": "Active exhalation muscle. Contracts strongly during the rapid exhalations of 'Kapalabhati' (Skull Shining Breath). In twists, assists rib rotation to deepen spinal mobility.",
+    "tags": [
+      "胸廓",
+      "瑜珈",
+      "呼吸控制",
+      "扭轉",
+      "呼吸輔助",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "thorax_pectoralis_major",
+    "name_zh": "胸大肌",
+    "name_en": "Pectoralis Major",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/39/PectoralisMajor.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:PectoralisMajor.gif\">DrJanaOfficial</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "四柱支撐（Chaturanga）的主要推力來源。現代生活常致此處緊繃造成圓肩，需透過「仙人掌手臂」或後彎體式伸展，以打開心輪。",
+    "desc_en": "Primary pushing force in 'Chaturanga'. Modern life often causes tightness here (rounded shoulders); requires stretching via 'Cactus Arms' or backbends to open the Heart Chakra.",
+    "tags": [
+      "胸廓",
+      "肩帶與肋關節",
+      "瑜珈",
+      "後彎",
+      "手臂平衡",
+      "屈曲",
+      "內收",
+      "內旋",
+      "上肢推-水平",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "thorax_pectoralis_minor",
+    "name_zh": "胸小肌",
+    "name_en": "Pectoralis Minor",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/37/Pectoralis_minor_muscle_animation_small.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pectoralis_minor_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "體態矯正重點。緊繃的胸小肌會將肩胛骨向前向下拉（前傾），阻礙手臂上舉。瑜伽練習強調提胸與後收肩胛來對抗此張力。",
+    "desc_en": "Focus for posture correction. A tight pectoralis minor tilts the scapula anteriorly, hindering overhead arm movement. Yoga emphasizes lifting the chest and retracting scapulae to counteract this tension.",
+    "tags": [
+      "胸廓",
+      "肩帶與肋關節",
+      "瑜珈",
+      "開肩",
+      "下壓",
+      "前伸",
+      "下迴旋",
+      "內旋",
+      "肩帶穩定",
+      "穩定肌",
+      "呼吸輔助",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "thorax_serratus_anterior",
+    "name_zh": "前鋸肌",
+    "name_en": "Serratus Anterior",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/31/Serratus_anterior_muscle_animation_small.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Serratus_anterior_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "瑜伽的「拳擊手肌肉」。在「海豚式」或手倒立中，負責將肩胛骨平貼背部並向外推（Protraction），是肩膀穩定的絕對核心。",
+    "desc_en": "Yoga's 'Boxer's Muscle'. In 'Dolphin Pose' or Handstand, responsible for keeping scapulae flat and protracted, the absolute core of shoulder stability.",
+    "tags": [
+      "胸廓",
+      "肩帶與肋關節",
+      "瑜珈",
+      "倒立",
+      "手臂平衡",
+      "外展",
+      "上肢推-水平",
+      "上肢推-垂直",
+      "屈曲",
+      "肩帶穩定",
+      "核心穩定",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "thorax_subclavius",
+    "name_zh": "鎖下肌",
+    "name_en": "Subclavius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Subclavius_muscle_animation2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Subclavius_muscle_animation2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "保護鎖骨的穩定肌。在手臂支撐體式（如鶴式）中，協助穩定胸鎖關節，防止過度受力。",
+    "desc_en": "Stabilizer protecting the clavicle. In arm support poses (e.g., Crow Pose), assists in stabilizing the sternoclavicular joint, preventing excessive stress.",
+    "tags": [
+      "胸廓",
+      "瑜珈",
+      "手臂平衡",
+      "呼吸輔助",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "thorax_transversus_thoracis",
+    "name_zh": "胸橫肌",
+    "name_en": "Transversus Thoracis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Transversus_thoracis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Transversus_thoracis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "位於胸廓內側。在瑜伽強力呼吸法（如獅子式呼吸）中，協助強制呼氣，將廢氣從肺底排出。",
+    "desc_en": "Located inside the thoracic cage. In forceful yogic breathing (e.g., Lion's Breath), assists in forced expiration to expel stale air from the bottom of the lungs.",
+    "tags": [
+      "胸廓",
+      "瑜珈",
+      "呼吸控制",
+      "呼吸輔助"
+    ]
+  }
+]

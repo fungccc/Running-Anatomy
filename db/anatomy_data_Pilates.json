@@ -1,0 +1,2230 @@
+[
+  {
+    "id": "abdomen_external_oblique",
+    "name_zh": "腹外斜肌",
+    "name_en": "External Abdominal Oblique",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Grays_Anatomy_Muscle_oblique_externe.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Grays_Anatomy_Muscle_oblique_externe.png\">Par Henry Vandyke Carter</a>, CC0, via Wikimedia Commons",
+    "desc": "皮拉提斯旋轉動作（如 Criss-Cross）的主角。負責軀幹的旋轉與側屈，並協助肋骨下沈，避免肋骨外翻（Rib flare），維持箱式呼吸的完整性。",
+    "desc_en": "Key player in Pilates rotation exercises like Criss-Cross. Responsible for trunk rotation and lateral flexion; helps depress the ribs to prevent 'rib flare,' maintaining the integrity of box breathing.",
+    "tags": [
+      "腹部與核心",
+      "皮拉提斯",
+      "屈曲",
+      "側屈",
+      "軀幹旋轉與對角線",
+      "原動肌",
+      "核心穩定",
+      "核心控制"
+    ]
+  },
+  {
+    "id": "abdomen_internal_oblique",
+    "name_zh": "腹內斜肌",
+    "name_en": "Internal Abdominal Oblique",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Gray395.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray395.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "與腹外斜肌協同創造「束腹」效果，負責深層的旋轉控制與縮小腰圍。在側板支撐（Side Plank）與螺旋動作中提供關鍵的骨盆穩定。",
+    "desc_en": "Works synergistically with the external obliques to create a 'corset' effect, responsible for deep rotational control and narrowing the waistline. Provides critical pelvic stability in Side Planks and spiraling movements.",
+    "tags": [
+      "腹部與核心",
+      "皮拉提斯",
+      "屈曲",
+      "側屈",
+      "軀幹旋轉與對角線",
+      "穩定肌",
+      "核心穩定",
+      "塑形"
+    ]
+  },
+  {
+    "id": "abdomen_rectus_abdominis",
+    "name_zh": "腹直肌",
+    "name_en": "Rectus Abdominis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/94/Rectus_abdominis_vi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Rectus_abdominis_vi.png\">Mongrangvebet</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "負責脊椎屈曲動作，如「捲腹（Chest Lift）」與「百式（The Hundred）」。在皮拉提斯中強調其離心收縮控制，避免腹部隆起（Doming），需配合深層核心啟動。",
+    "desc_en": "Responsible for spinal flexion movements like 'Chest Lift' and 'The Hundred.' Pilates emphasizes its eccentric control to prevent abdominal 'doming,' requiring co-activation with the deep core.",
+    "tags": [
+      "腹部與核心",
+      "皮拉提斯",
+      "屈曲",
+      "側屈",
+      "核心穩定",
+      "姿勢維持",
+      "C型曲線"
+    ]
+  },
+  {
+    "id": "abdomen_transversus_abdominis",
+    "name_zh": "腹橫肌",
+    "name_en": "Transversus Abdominis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Transversus_abdominis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Transversus_abdominis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "皮拉提斯「能量庫（Powerhouse）」的基石。透過「肚臍內收（Scooping）」動作啟動，在四肢移動時穩定脊椎與骨盆，是所有皮拉提斯動作的發力起點。",
+    "desc_en": "The cornerstone of the Pilates 'Powerhouse.' Activated via 'scooping' the navel in, it stabilizes the spine and pelvis during limb movements and serves as the initiation point for all Pilates exercises.",
+    "tags": [
+      "腹部與核心",
+      "皮拉提斯",
+      "穩定肌",
+      "核心穩定",
+      "呼吸輔助",
+      "姿勢維持",
+      "能量庫"
+    ]
+  },
+  {
+    "id": "arm_biceps_brachii",
+    "name_zh": "肱二頭肌",
+    "name_en": "Biceps Brachii",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Biceps_brachii.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Biceps_brachii.png\">Bildbearbetning: sv:Användare:Chrizz</a>, <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "在器械床（Reformer）的手拉帶動作中負責屈肘。皮拉提斯強調不應過度依賴此肌肉，而應連結背部力量，避免聳肩或過度代償。",
+    "desc_en": "Responsible for elbow flexion during Reformer strap pulling exercises. Pilates emphasizes not over-relying on this muscle but connecting to back strength to avoid shrugging or compensation.",
+    "tags": [
+      "上臂",
+      "皮拉提斯",
+      "屈曲",
+      "旋後",
+      "上肢拉-垂直",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "arm_brachialis",
+    "name_zh": "肱肌",
+    "name_en": "Brachialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/Brachialis_muscle_-_animation03.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Brachialis_muscle_-_animation03.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助肘關節屈曲。在彼拉提斯的手臂系列（Arm Series）中，即使負重較輕，仍需透過精準控制來強化此肌肉，維持手臂線條。",
+    "desc_en": "Assists in elbow flexion. In Pilates Arm Series, even with lighter resistance, precise control is required to strengthen this muscle and define arm tone.",
+    "tags": [
+      "上臂",
+      "皮拉提斯",
+      "屈曲",
+      "上肢拉-垂直",
+      "原動肌",
+      "姿勢維持",
+      "手臂雕塑"
+    ]
+  },
+  {
+    "id": "arm_coracobrachialis",
+    "name_zh": "喙肱肌",
+    "name_en": "Coracobrachialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Coracobrachialis_muscle_-_animation02.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Coracobrachialis_muscle_-_animation02.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助肩關節屈曲與內收。在做「Offer Up」或器械床上的推拉動作時，幫助維持手臂靠近身體中線，增強核心與上肢的連結。",
+    "desc_en": "Assists in shoulder flexion and adduction. During 'Offer Up' or Reformer push/pull exercises, helps keep the arms close to the midline, enhancing the connection between the core and upper limbs.",
+    "tags": [
+      "上臂",
+      "皮拉提斯",
+      "屈曲",
+      "內收",
+      "上肢推-垂直",
+      "穩定肌",
+      "上肢排列"
+    ]
+  },
+  {
+    "id": "arm_triceps_brachii_lateral",
+    "name_zh": "肱三頭肌外側頭",
+    "name_en": "Triceps Brachii (Lateral Head)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Triceps_brachii_muscle06.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Triceps_brachii_muscle06.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責肘關節伸直。在墊上動作如「長腿後踢（Leg Pull Back）」或支撐類動作中，提供支撐力量，防止手肘鎖死或過度彎曲。",
+    "desc_en": "Responsible for elbow extension. Provides support in mat exercises like 'Leg Pull Back' or weight-bearing poses, preventing elbow hyperextension or collapsing.",
+    "tags": [
+      "上臂",
+      "皮拉提斯",
+      "伸展",
+      "上肢推-垂直",
+      "原動肌",
+      "手臂雕塑"
+    ]
+  },
+  {
+    "id": "arm_triceps_brachii_long",
+    "name_zh": "肱三頭肌長頭",
+    "name_en": "Triceps Brachii (Long Head)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Triceps_brachii_muscle06.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Triceps_brachii_muscle06.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "連結手臂與肩胛骨。在「長盒手臂系列（Long Box Arm Series）」向後拉帶時，負責伸展肩關節並穩定肩胛，強調不聳肩的延伸感。",
+    "desc_en": "Connects the arm to the scapula. During 'Long Box Arm Series' pulling straps back, it extends the shoulder and stabilizes the scapula, emphasizing elongation without shrugging.",
+    "tags": [
+      "上臂",
+      "皮拉提斯",
+      "伸展",
+      "內收",
+      "上肢推-垂直",
+      "原動肌",
+      "肩帶穩定"
+    ]
+  },
+  {
+    "id": "arm_triceps_brachii_medial",
+    "name_zh": "肱三頭肌內側頭",
+    "name_en": "Triceps Brachii (Medial Head)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Triceps_brachii_muscle06.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Triceps_brachii_muscle06.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在精細的手臂動作中維持肘部穩定。皮拉提斯強調延伸而非單純的收縮，此肌肉有助於維持動作的流暢性與控制力。",
+    "desc_en": "Maintains elbow stability during precise arm movements. Pilates emphasizes elongation over mere contraction; this muscle helps maintain movement fluidity and control.",
+    "tags": [
+      "上臂",
+      "皮拉提斯",
+      "伸展",
+      "上肢推-垂直",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "back_erector_spinae",
+    "name_zh": "豎脊肌",
+    "name_en": "Erector Spinae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Gray389_-_Erector_spinae.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray389_-_Erector_spinae.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責脊椎伸展動作，如「天鵝（Swan）」與「游泳（Swimming）」。強調逐節延伸脊椎（Articulation），避免腰椎過度擠壓，平衡腹肌的屈曲力量。",
+    "desc_en": "Responsible for spinal extension exercises like 'Swan' and 'Swimming.' Emphasizes spinal articulation and elongation to prevent lumbar compression, balancing the flexion force of the abdominals.",
+    "tags": [
+      "脊柱骨骼",
+      "背部肌群",
+      "皮拉提斯",
+      "伸展",
+      "側屈",
+      "脊椎延伸",
+      "姿勢維持",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "back_latissimus_dorsi",
+    "name_zh": "背闊肌",
+    "name_en": "Latissimus Dorsi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/Latissimus_dorsi_muscle_animation3.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Latissimus_dorsi_muscle_animation3.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "連結手臂與下背部的關鍵。在懸吊或支撐動作中負責「沉肩（Scapular Depression）」，防止聳肩並輔助核心穩定，是皮拉提斯中強調的背部連結。",
+    "desc_en": "Key link between arms and lower back. Responsible for 'scapular depression' in hanging or support exercises, preventing shrugging and aiding core stability—a crucial 'back connection' in Pilates.",
+    "tags": [
+      "背部肌群",
+      "皮拉提斯",
+      "內收",
+      "伸展",
+      "內旋",
+      "上肢拉-垂直",
+      "原動肌",
+      "核心穩定",
+      "肩帶穩定",
+      "軀幹旋轉與對角線"
+    ]
+  },
+  {
+    "id": "back_quadratus_lumborum",
+    "name_zh": "腰方肌",
+    "name_en": "Quadratus Lumborum",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Quadratuslumborum.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Quadratuslumborum.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "側屈動作（如 Mermaid）的主要肌肉。在側躺抬腿系列中負責穩定骨盆不塌陷。需平衡其左右張力以矯正脊椎側彎或骨盆高低問題。",
+    "desc_en": "Primary muscle for lateral flexion (e.g., Mermaid). Stabilizes the pelvis during side-lying leg series. Balancing its tension is vital for correcting scoliosis or pelvic obliquity.",
+    "tags": [
+      "背部肌群",
+      "腹部與核心",
+      "皮拉提斯",
+      "側屈",
+      "伸展",
+      "穩定肌",
+      "核心穩定",
+      "骨盆穩定",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "calf_fibularis_brevis",
+    "name_zh": "腓骨短肌",
+    "name_en": "Fibularis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/be/Fibularis_brevis_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Fibularis_brevis_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在器械床足部系列（Footwork）中負責維持足部外側穩定，防止腳踝內翻（Sickling）。對於建立正確的足部排列至關重要。",
+    "desc_en": "Maintains lateral foot stability during Reformer 'Footwork,' preventing ankle inversion (sickling). Crucial for establishing proper foot alignment.",
+    "tags": [
+      "小腿外側肌群",
+      "皮拉提斯",
+      "外翻",
+      "蹠屈",
+      "踝關節蹠屈",
+      "足部外翻",
+      "原動肌",
+      "踝關節穩定",
+      "足部排列"
+    ]
+  },
+  {
+    "id": "calf_fibularis_longus",
+    "name_zh": "腓骨長肌（重複項-請參照Peroneus Longus）",
+    "name_en": "Fibularis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Superior_view_fibularis_longus_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Superior_view_fibularis_longus_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "連接小腿外側至足底第一蹠骨。在踮腳動作（Relevé）中負責穩定橫向足弓，強化足踝力量並優化下肢力線傳導。",
+    "desc_en": "Connects lateral calf to the first metatarsal. Stabilizes the transverse arch during 'Relevé,' strengthening the ankle and optimizing lower limb force transmission.",
+    "tags": [
+      "小腿外側肌群",
+      "皮拉提斯",
+      "外翻",
+      "蹠屈",
+      "踝關節蹠屈",
+      "足部外翻",
+      "原動肌",
+      "足弓支撐",
+      "足部穩定",
+      "足部排列"
+    ]
+  },
+  {
+    "id": "calf_gastrocnemius",
+    "name_zh": "腓腸肌",
+    "name_en": "Gastrocnemius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Gastrocnemius_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gastrocnemius_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在膝蓋伸直的足部動作（如 Tendon Stretch）中主要作用。皮拉提斯強調其離心收縮的控制，避免小腿過度肥大，雕塑修長的腿部線條。",
+    "desc_en": "Active in straight-leg foot exercises (e.g., Tendon Stretch). Pilates emphasizes eccentric control to avoid bulkiness, sculpting long, lean leg lines.",
+    "tags": [
+      "小腿",
+      "皮拉提斯",
+      "蹠屈",
+      "膝關節屈曲",
+      "原動肌",
+      "足部排列",
+      "腿部雕塑"
+    ]
+  },
+  {
+    "id": "calf_soleus",
+    "name_zh": "比目魚肌",
+    "name_en": "Soleus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Soleus_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Soleus_muscle_-_animation.gif\">Polygon data is generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在膝蓋彎曲的動作（如 Chair Plié）中維持足跟高度。負責深層的踝關節穩定，對於矯正站姿與步行模式至關重要。",
+    "desc_en": "Maintains heel height in bent-knee exercises (e.g., Chair Plié). Responsible for deep ankle stability, crucial for correcting standing posture and gait patterns.",
+    "tags": [
+      "小腿",
+      "皮拉提斯",
+      "蹠屈",
+      "姿勢維持",
+      "原動肌",
+      "穩定肌",
+      "足部排列"
+    ]
+  },
+  {
+    "id": "calf_tibialis_posterior",
+    "name_zh": "脛骨後肌",
+    "name_en": "Tibialis Posterior",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/df/Inferior_view_of_tibialis_posterior_muscle_-_animation.gif",
+    "img_source": "https://upload.wikimedia.org/wikipedia/commons/d/df/Inferior_view_of_tibialis_posterior_muscle_-_animation.gif",
+    "desc": "足弓的主要支撐者。在皮拉提斯中，訓練此肌肉能預防足弓塌陷（扁平足），確保膝蓋與腳踝在動作中的正確對齊（Alignment）。",
+    "desc_en": "Primary supporter of the arch. Training this muscle in Pilates prevents arch collapse (flat feet) and ensures proper knee-ankle alignment during movement.",
+    "tags": [
+      "小腿深層肌群",
+      "皮拉提斯",
+      "蹠屈",
+      "內翻",
+      "足弓支撐",
+      "原動肌",
+      "穩定肌",
+      "足部排列"
+    ]
+  },
+  {
+    "id": "foot_abductor_digiti_minimi",
+    "name_zh": "小趾外展肌",
+    "name_en": "Abductor Digiti Minimi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gray_%E2%80%94_musculus_abductor_digiti_minimi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在單腿站立平衡動作中提供足部外側的基底支撐。幫助腳趾均勻張開，增加本體感覺。",
+    "desc_en": "Provides lateral base support in single-leg balance exercises. Helps spread the toes evenly, enhancing proprioception.",
+    "tags": [
+      "踝部與足部",
+      "皮拉提斯",
+      "外展",
+      "屈曲",
+      "原動肌",
+      "足弓支撐",
+      "穩定肌",
+      "平衡訓練"
+    ]
+  },
+  {
+    "id": "foot_abductor_hallucis",
+    "name_zh": "拇外展肌",
+    "name_en": "Abductor Hallucis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Abductor_hallucis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Abductor_hallucis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "矯正拇指外翻的關鍵肌肉。在器械床足部訓練（Footwork）中，強調大拇指根部穩定踩踏，啟動足內側足弓。",
+    "desc_en": "Key muscle for correcting bunions. In Reformer 'Footwork,' emphasizes pressing through the big toe mound to activate the medial arch.",
+    "tags": [
+      "踝部與足部",
+      "皮拉提斯",
+      "外展",
+      "屈曲",
+      "原動肌",
+      "足弓支撐",
+      "足部穩定",
+      "足部矯正"
+    ]
+  },
+  {
+    "id": "foot_adductor_hallucis",
+    "name_zh": "拇內收肌",
+    "name_en": "Adductor Hallucis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Musculus_adductor_hallucis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Musculus_adductor_hallucis.png\">Image:Gray445.png modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助維持橫向足弓的形狀。在做「抓毛巾」或腳趾矯正練習時，強化足底深層力量。",
+    "desc_en": "Helps maintain the transverse arch shape. Strengthens deep plantar power during 'towel scrunching' or toe correction exercises.",
+    "tags": [
+      "踝部與足部",
+      "皮拉提斯",
+      "內收",
+      "屈曲",
+      "原動肌",
+      "足弓支撐",
+      "橫向足弓",
+      "足部強化"
+    ]
+  },
+  {
+    "id": "foot_extensor_digitorum_longus",
+    "name_zh": "長趾伸肌（足部段）",
+    "name_en": "Extensor Digitorum Longus (Distal)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/77/Extensor_digitorum_longus_muscle_-_animation_2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_digitorum_longus_muscle_-_animation_2.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責勾腳尖（Dorsiflexion）。在皮拉提斯中，需避免過度使用此肌腱導致「雞爪腳」，應強調與小腿深層肌肉的協調。",
+    "desc_en": "Responsible for dorsiflexion. In Pilates, avoid overusing these tendons (clawing); emphasize coordination with deep calf muscles.",
+    "tags": [
+      "小腿",
+      "踝部與足部",
+      "皮拉提斯",
+      "背屈",
+      "伸展",
+      "原動肌",
+      "足部排列"
+    ]
+  },
+  {
+    "id": "foot_extensor_hallucis_longus",
+    "name_zh": "長拇趾伸肌（足部段）",
+    "name_en": "Extensor Hallucis Longus (Distal)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Extensor_hallucis_longus_muscle_-_animation_2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_hallucis_longus_muscle_-_animation_2.gif\">Was a bee</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "伸展大拇指。在皮拉提斯的足部伸展動作中，需注意不要過度翹起大拇指，以免造成腳背壓力，應追求腳趾延伸。",
+    "desc_en": "Extends the big toe. In Pilates foot stretches, avoid excessive lifting of the big toe to prevent instep stress; aim for toe elongation.",
+    "tags": [
+      "小腿",
+      "踝部與足部",
+      "皮拉提斯",
+      "背屈",
+      "伸展",
+      "原動肌",
+      "足部排列"
+    ]
+  },
+  {
+    "id": "foot_intrinsic_abductor_hallucis",
+    "name_zh": "拇趾外展肌（內在肌視角）",
+    "name_en": "Abductor Hallucis (Intrinsic)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Abductor_hallucis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Abductor_hallucis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "「足部核心」的重要成員。訓練此肌肉有助於改善赤足站立的穩定性，是皮拉提斯從腳底建立全身連結的起點。",
+    "desc_en": "Vital member of the 'Foot Core.' Training this muscle improves barefoot stability, serving as the starting point for building total body connection from the feet up in Pilates.",
+    "tags": [
+      "踝部與足部",
+      "皮拉提斯",
+      "外展",
+      "穩定肌",
+      "足弓支撐",
+      "足部核心"
+    ]
+  },
+  {
+    "id": "foot_intrinsic_flexor_digitorum_brevis",
+    "name_zh": "短趾屈肌（足部內在肌）",
+    "name_en": "Flexor Digitorum Brevis (Intrinsic)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Muscle_court_fl%C3%A9chisseur_des_orteils.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_court_fl%C3%A9chisseur_des_orteils.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "在Reformer上做「Wrapping toes（包覆腳趾）」動作時使用。強化此肌肉可提升縱向足弓的支撐力，改善站姿平衡。",
+    "desc_en": "Used during 'Wrapping toes' on the Reformer. Strengthening this muscle enhances longitudinal arch support and improves standing balance.",
+    "tags": [
+      "踝部與足部",
+      "皮拉提斯",
+      "屈曲",
+      "穩定肌",
+      "足弓支撐",
+      "足部強化"
+    ]
+  },
+  {
+    "id": "foot_lumbricals",
+    "name_zh": "足部蚓狀肌",
+    "name_en": "Lumbricals (Foot)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Lumbricales_pedis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_pedis.png\">Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責蹠趾關節屈曲。在器械床上做足部工作（Footwork）時，防止腳趾抓扣（Clawing），保持腳趾平貼延伸。",
+    "desc_en": "Flexes MTP joints. During Reformer 'Footwork,' prevents toe clawing, ensuring toes remain flat and elongated.",
+    "tags": [
+      "足部內在肌-第二層",
+      "皮拉提斯",
+      "屈曲",
+      "伸展",
+      "足部穩定",
+      "原動肌",
+      "足部排列"
+    ]
+  },
+  {
+    "id": "foot_peroneus_longus",
+    "name_zh": "長腓骨肌",
+    "name_en": "Peroneus Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Superior_view_fibularis_longus_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Superior_view_fibularis_longus_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "皮拉提斯中「扣帶（Strap）」概念的體現。協助壓低第一蹠骨，在足踝動作中維持足弓穩定與力量傳遞。",
+    "desc_en": "Embodying the 'strap' concept in Pilates. Helps depress the first metatarsal, maintaining arch stability and force transmission during ankle articulation.",
+    "tags": [
+      "小腿",
+      "踝部與足部",
+      "皮拉提斯",
+      "蹠屈",
+      "外翻",
+      "原動肌",
+      "穩定肌",
+      "足弓支撐",
+      "足部排列"
+    ]
+  },
+  {
+    "id": "foot_quadratus_plantae",
+    "name_zh": "方形肌",
+    "name_en": "Quadratus Plantae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Muscle_carr%C3%A9_plantaire.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_carr%C3%A9_plantaire.png\">Berichard d&#039;après Gray&#039;s anatomy</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "協助修正足趾的拉力方向。在足部矯正練習中，確保腳趾能直線屈曲，避免歪斜。",
+    "desc_en": "Corrects the line of pull for the toes. In foot correction exercises, ensures linear toe flexion, preventing deviation.",
+    "tags": [
+      "踝部與足部",
+      "皮拉提斯",
+      "屈曲",
+      "原動肌",
+      "足弓支撐",
+      "足部排列"
+    ]
+  },
+  {
+    "id": "forearm_abductor_pollicis_longus",
+    "name_zh": "拇指外展長肌",
+    "name_en": "Abductor Pollicis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/61/Gray_%E2%80%94_musculus_abductor_pollicis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_pollicis_longus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在四足跪姿或平板支撐時，協助手掌穩定貼地，分擔手腕壓力。",
+    "desc_en": "Assists in stabilizing the palm against the mat during quadruped or plank positions, distributing pressure away from the wrist.",
+    "tags": [
+      "肘部與前臂",
+      "皮拉提斯",
+      "外展",
+      "原動肌",
+      "姿勢維持",
+      "手部支撐"
+    ]
+  },
+  {
+    "id": "forearm_brachioradialis",
+    "name_zh": "肱橈肌",
+    "name_en": "Brachioradialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/09/Brachioradialis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Brachioradialis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在中立握姿（拇指朝上）的屈肘動作中發力。在器械床拉帶動作中，需注意不應過度繃緊，保持前臂線條流暢。",
+    "desc_en": "Active during elbow flexion with a neutral grip (thumb up). In Reformer strap exercises, avoid excessive tension to maintain fluid forearm lines.",
+    "tags": [
+      "肘部與前臂",
+      "皮拉提斯",
+      "屈曲",
+      "上肢拉-水平",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_carpi_radialis_brevis",
+    "name_zh": "橈側腕伸肌短肌",
+    "name_en": "Extensor Carpi Radialis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Gray_%E2%80%94_musculus_extensor_carpi_radialis_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_carpi_radialis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在平板支撐（Plank）與倒立動作中提供手腕伸展的穩定性。力量不足可能導致手腕疼痛。",
+    "desc_en": "Provides wrist extension stability during Planks and inversions. Weakness here can lead to wrist pain.",
+    "tags": [
+      "肘部與前臂",
+      "皮拉提斯",
+      "伸展",
+      "外展",
+      "穩定肌",
+      "姿勢維持",
+      "手腕穩定"
+    ]
+  },
+  {
+    "id": "forearm_extensor_carpi_radialis_longus",
+    "name_zh": "橈側腕伸肌長肌",
+    "name_en": "Extensor Carpi Radialis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/53/Extensor_carpi_radialis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_carpi_radialis_longus.png\">Me</a>, Public domain, via Wikimedia Commons",
+    "desc": "在「長伸展（Long Stretch）」或「大象（Elephant）」等支撐動作中，負責維持手腕伸展的穩定性，防止手腕塌陷，保護腕隧道。",
+    "desc_en": "Stabilizes wrist extension during support exercises like 'Long Stretch' or 'Elephant,' maintaining a neutral wrist to prevent collapsing and protect the carpal tunnel.",
+    "tags": [
+      "肘部與前臂",
+      "皮拉提斯",
+      "伸展",
+      "外展",
+      "穩定肌",
+      "姿勢維持",
+      "手腕穩定"
+    ]
+  },
+  {
+    "id": "forearm_extensor_carpi_ulnaris",
+    "name_zh": "尺側腕伸肌",
+    "name_en": "Extensor Carpi Ulnaris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gray_%E2%80%94_musculus_extensor_carpi_ulnaris.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_carpi_ulnaris.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在支撐類動作中平衡橈側肌群，防止手腕向小指側偏移。保持手腕中立位有助於將地面反作用力正確傳遞至肩部。",
+    "desc_en": "Balances radial muscles in support poses, preventing wrist deviation toward the pinky. Maintaining a neutral wrist ensures proper ground reaction force transmission to the shoulder.",
+    "tags": [
+      "肘部與前臂",
+      "皮拉提斯",
+      "伸展",
+      "內收",
+      "原動肌",
+      "姿勢維持",
+      "手腕穩定"
+    ]
+  },
+  {
+    "id": "forearm_extensor_digiti_minimi",
+    "name_zh": "小指伸肌",
+    "name_en": "Extensor Digiti Minimi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gray_%E2%80%94_musculus_extensor_digiti_minimi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "皮拉提斯強調「指尖延伸能量」。伸展小指有助於啟動手臂後側鏈（尺側線），連結至背部肌群，增加動作的整體延伸感。",
+    "desc_en": "Pilates emphasizes 'energy through the fingertips.' Extending the little finger helps engage the posterior arm line (ulnar line), connecting to the back muscles for total body elongation.",
+    "tags": [
+      "肘部與前臂",
+      "皮拉提斯",
+      "伸展",
+      "原動肌",
+      "姿勢維持",
+      "手臂線條"
+    ]
+  },
+  {
+    "id": "forearm_extensor_digitorum",
+    "name_zh": "指伸肌",
+    "name_en": "Extensor Digitorum",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Extensor_digitorum_muscle.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_digitorum_muscle.png\">Mikael Häggström</a>, Public domain, via Wikimedia Commons",
+    "desc": "在「百式（The Hundred）」或手臂擺動動作中，手指應主動延伸而非捲曲。這有助於拮抗屈肌張力，減少前臂緊繃，創造修長線條。",
+    "desc_en": "In 'The Hundred' or arm pumping movements, fingers should actively reach rather than curl. This antagonizes flexor tension, reducing forearm tightness and creating long lines.",
+    "tags": [
+      "肘部與前臂",
+      "皮拉提斯",
+      "伸展",
+      "姿勢維持",
+      "手臂線條"
+    ]
+  },
+  {
+    "id": "forearm_extensor_indicis",
+    "name_zh": "食指伸肌",
+    "name_en": "Extensor Indicis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Extensor_indicis_muscle.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_indicis_muscle.png\">Mikael Häggström</a>, Public domain, via Wikimedia Commons",
+    "desc": "提供指尖方向的精準控制。在進行精細的手臂編排動作（Choreography）時，幫助引導能量投射方向。",
+    "desc_en": "Provides precise control of fingertip direction. Helps guide the projection of energy during intricate arm choreography.",
+    "tags": [
+      "肘部與前臂",
+      "皮拉提斯",
+      "伸展",
+      "姿勢維持",
+      "動作控制"
+    ]
+  },
+  {
+    "id": "forearm_extensor_pollicis_brevis",
+    "name_zh": "拇指伸短肌",
+    "name_en": "Extensor Pollicis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Gray_%E2%80%94_musculus_extensor_pollicis_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_pollicis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在四足跪姿（Quadruped）中，協助拇指外展以擴大支撐面積，減少手腕橈側的壓迫感。",
+    "desc_en": "Assists thumb abduction in Quadruped positions to widen the base of support, reducing compression on the radial side of the wrist.",
+    "tags": [
+      "肘部與前臂",
+      "皮拉提斯",
+      "伸展",
+      "外展",
+      "原動肌",
+      "姿勢維持",
+      "手部支撐"
+    ]
+  },
+  {
+    "id": "forearm_extensor_pollicis_longus",
+    "name_zh": "拇指伸長肌",
+    "name_en": "Extensor Pollicis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/80/Gray_%E2%80%94_musculus_extensor_pollicis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_pollicis_longus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在做「平板支撐（Plank）」時，伸展拇指能幫助打開虎口，使手掌重量分佈更均勻，減輕腕關節負擔。",
+    "desc_en": "Extending the thumb during 'Plank' opens the web space, distributing weight evenly across the palm and relieving wrist joint burden.",
+    "tags": [
+      "肘部與前臂",
+      "皮拉提斯",
+      "伸展",
+      "原動肌",
+      "姿勢維持",
+      "手部支撐"
+    ]
+  },
+  {
+    "id": "forearm_flexor_carpi_radialis",
+    "name_zh": "橈側腕屈肌",
+    "name_en": "Flexor Carpi Radialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Gray_%E2%80%94_musculus_flexor_carpi_radialis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_carpi_radialis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在握持器械床拉帶（Straps）時提供必要的屈腕力量。需注意保持手腕平直，避免過度屈曲導致前臂代償。",
+    "desc_en": "Provides necessary wrist flexion strength when holding Reformer straps. Maintain a straight wrist to prevent excessive flexion and forearm compensation.",
+    "tags": [
+      "肘部與前臂",
+      "皮拉提斯",
+      "屈曲",
+      "外展",
+      "穩定肌",
+      "姿勢維持",
+      "手腕排列"
+    ]
+  },
+  {
+    "id": "forearm_flexor_carpi_ulnaris",
+    "name_zh": "尺側腕屈肌",
+    "name_en": "Flexor Carpi Ulnaris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/75/Flexor_carpi_ulnaris.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Flexor_carpi_ulnaris.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在「擴胸（Chest Expansion）」動作中，強調掌心向後推並稍微啟動小指側力量，能更有效連結至三頭肌與背闊肌。",
+    "desc_en": "In 'Chest Expansion,' emphasizing pushing back through the palm and engaging the pinky side helps connect more effectively to the triceps and latissimus dorsi.",
+    "tags": [
+      "肘部與前臂",
+      "皮拉提斯",
+      "屈曲",
+      "內收",
+      "原動肌",
+      "姿勢維持",
+      "背部連結"
+    ]
+  },
+  {
+    "id": "forearm_flexor_digitorum_profundus",
+    "name_zh": "深指屈肌",
+    "name_en": "Flexor Digitorum Profundus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/24/Flexor-digitorum-profundis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Flexor-digitorum-profundis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責握住推桿（Push-Through Bar）的深層握力。皮拉提斯建議使用「鉤狀握法（Hook grip）」而非死握，以減少前臂疲勞並保持肩部放鬆。",
+    "desc_en": "Responsible for deep grip strength on the Push-Through Bar. Pilates suggests a 'hook grip' rather than a death grip to reduce forearm fatigue and keep shoulders relaxed.",
+    "tags": [
+      "肘部與前臂",
+      "皮拉提斯",
+      "屈曲",
+      "原動肌",
+      "姿勢維持",
+      "握力控制"
+    ]
+  },
+  {
+    "id": "forearm_flexor_digitorum_superficialis",
+    "name_zh": "淺指屈肌",
+    "name_en": "Flexor Digitorum Superficialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/93/Gray_%E2%80%94_musculus_flexor_digitorum_superficialis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_digitorum_superficialis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "控制握持把手（Handles）的力度。在手臂動作中，應保持手掌微彎的柔軟度，避免過度用力握拳阻斷能量流動。",
+    "desc_en": "Controls grip on handles. In arm exercises, maintain a soft curl in the hands to avoid forceful clenching that blocks energy flow.",
+    "tags": [
+      "肘部與前臂",
+      "皮拉提斯",
+      "屈曲",
+      "原動肌",
+      "姿勢維持",
+      "握力控制"
+    ]
+  },
+  {
+    "id": "forearm_flexor_pollicis_longus",
+    "name_zh": "長拇指屈肌",
+    "name_en": "Flexor Pollicis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Musculus_flexor_pollicis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Musculus_flexor_pollicis_longus.png\">Me</a>, Public domain, via Wikimedia Commons",
+    "desc": "在需要緊握桿件（Bar）的懸吊動作中提供安全保障。但在一般墊上動作中應保持放鬆，避免拇指內扣造成手掌緊繃。",
+    "desc_en": "Provides security in hanging exercises requiring a firm bar grip. In mat work, however, keep relaxed to avoid thumb tucking that tightens the palm.",
+    "tags": [
+      "肘部與前臂",
+      "皮拉提斯",
+      "屈曲",
+      "原動肌",
+      "姿勢維持",
+      "握力控制"
+    ]
+  },
+  {
+    "id": "forearm_palmaris_longus",
+    "name_zh": "掌長肌",
+    "name_en": "Palmaris Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/86/Palmaris-longus-horizontal.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Palmaris-longus-horizontal.png\">Henry Gray</a>, Public domain, via Wikimedia Commons",
+    "desc": "連接手掌筋膜。在支撐動作中，若手掌過度平貼可能拉扯此肌腱。建議微拱手掌（Cupping）以建立手部足弓。",
+    "desc_en": "Connects to palmar fascia. Flattening the palm excessively in support can strain this tendon. Suggest slightly 'cupping' the hand to create a hand arch.",
+    "tags": [
+      "肘部與前臂",
+      "皮拉提斯",
+      "屈曲",
+      "原動肌",
+      "姿勢維持",
+      "手部支撐"
+    ]
+  },
+  {
+    "id": "forearm_pronator_quadratus",
+    "name_zh": "方形旋前肌",
+    "name_en": "Pronator Quadratus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Pronator-quadratus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pronator-quadratus.png\">Selket at English Wikipedia</a>, Public domain, via Wikimedia Commons",
+    "desc": "在平板支撐（Plank）中維持前臂平貼地面（旋前位）。確保手肘與手腕平行，避免因肩內旋不足而導致手肘外開。",
+    "desc_en": "Maintains forearm pronation (flat against the floor) in Planks. Ensures elbows and wrists remain parallel, preventing elbow flaring due to insufficient internal rotation.",
+    "tags": [
+      "肘部與前臂",
+      "皮拉提斯",
+      "旋前",
+      "原動肌",
+      "姿勢維持",
+      "上肢排列"
+    ]
+  },
+  {
+    "id": "forearm_pronator_teres",
+    "name_zh": "旋前圓肌",
+    "name_en": "Pronator Teres",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Gray_%E2%80%94_musculus_pronator_teres.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_pronator_teres.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "控制前臂旋轉。在「抱樹（Hug a Tree）」動作中，幫助維持手臂的圓弧形與掌心相對的位置。",
+    "desc_en": "Controls forearm rotation. In 'Hug a Tree,' helps maintain the rounded arm shape and palms-facing alignment.",
+    "tags": [
+      "肘部與前臂",
+      "皮拉提斯",
+      "屈曲",
+      "旋前",
+      "上肢拉-水平",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_supinator",
+    "name_zh": "旋後肌",
+    "name_en": "Supinator",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Gray_%E2%80%94_musculus_supinator.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_supinator.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在「端盤子（Offering）」動作中負責掌心朝上。旋後動作有助於帶動肩關節外旋，打開胸廓，矯正圓肩。",
+    "desc_en": "Responsible for palms-up position in 'Offering.' Supination facilitates shoulder external rotation, opening the chest and correcting rounded shoulders.",
+    "tags": [
+      "肘部與前臂",
+      "皮拉提斯",
+      "旋後",
+      "原動肌",
+      "姿勢維持",
+      "姿態矯正"
+    ]
+  },
+  {
+    "id": "hand_abductor_digiti_minimi",
+    "name_zh": "小指外展肌",
+    "name_en": "Abductor Digiti Minimi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gray_%E2%80%94_musculus_abductor_digiti_minimi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在四足跪姿（Quadruped）中，意識控制小指張開能顯著增加底座穩定性，並透過筋膜鏈連結至三頭肌。",
+    "desc_en": "In Quadruped positions, consciously spreading the little finger significantly increases base stability and connects to the triceps via fascial lines.",
+    "tags": [
+      "手腕與手部",
+      "皮拉提斯",
+      "外展",
+      "精細運動",
+      "原動肌",
+      "姿勢維持",
+      "手部支撐"
+    ]
+  },
+  {
+    "id": "hand_abductor_pollicis_brevis",
+    "name_zh": "拇指外展短肌",
+    "name_en": "Abductor Pollicis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Gray_%E2%80%94_musculus_abductor_pollicis_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_pollicis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在墊上支撐時，負責將拇指根部推向地面，減輕腕骨壓力。是建立正確「手部核心」的關鍵。",
+    "desc_en": "During mat support, pushes the base of the thumb into the floor, relieving pressure on carpal bones. Key for building a correct 'hand core.'",
+    "tags": [
+      "手腕與手部",
+      "皮拉提斯",
+      "外展",
+      "屈曲",
+      "精細運動",
+      "原動肌",
+      "姿勢維持",
+      "手部支撐"
+    ]
+  },
+  {
+    "id": "hand_adductor_pollicis",
+    "name_zh": "拇指內收肌",
+    "name_en": "Adductor Pollicis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gray_%E2%80%94_musculus_adductor_pollicis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_adductor_pollicis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在握持彈簧桿（Bar）進行危險動作（如倒立）時，負責緊閉虎口確保安全。一般動作則需放鬆以免手掌痙攣。",
+    "desc_en": "Secures the grip by closing the web space during risky bar exercises (like inversions). Should remain relaxed in general movements to prevent hand cramping.",
+    "tags": [
+      "手腕與手部",
+      "皮拉提斯",
+      "內收",
+      "精細運動",
+      "原動肌",
+      "姿勢維持",
+      "握力控制"
+    ]
+  },
+  {
+    "id": "hand_dorsal_interossei_1",
+    "name_zh": "背側骨間肌一",
+    "name_en": "Dorsal Interosseous 1",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/1121_Intrinsic_Muscles_of_the_Hand_DIL.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_DIL.png\">CFCF</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "手部支撐時負責張開食指。皮拉提斯強調「海星手（Starfish hands）」以最大化接地面積，保護手腕。",
+    "desc_en": "Abducts the index finger during hand support. Pilates emphasizes 'Starfish hands' to maximize contact area and protect the wrists.",
+    "tags": [
+      "手腕與手部",
+      "皮拉提斯",
+      "外展",
+      "屈曲",
+      "精細運動",
+      "姿勢維持",
+      "手部支撐"
+    ]
+  },
+  {
+    "id": "hand_dorsal_interossei_2",
+    "name_zh": "背側骨間肌二",
+    "name_en": "Dorsal Interosseous 2",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/1121_Intrinsic_Muscles_of_the_Hand_DIL.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_DIL.png\">CFCF</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "協助中指動作。在精細的手臂流動中，透過手指的展開來展現神經肌肉控制的細膩度。",
+    "desc_en": "Assists middle finger movement. In intricate arm flows, demonstrates neuromuscular control through finger splaying.",
+    "tags": [
+      "手腕與手部",
+      "皮拉提斯",
+      "外展",
+      "屈曲",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_dorsal_interossei_3",
+    "name_zh": "背側骨間肌三",
+    "name_en": "Dorsal Interosseous 3",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/1121_Intrinsic_Muscles_of_the_Hand_DIL.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_DIL.png\">CFCF</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "負責無名指外展。維持手掌寬度，避免在支撐體重時手掌中心塌陷。",
+    "desc_en": "Abducts the ring finger. Maintains palm width, preventing the center of the hand from collapsing under body weight.",
+    "tags": [
+      "手腕與手部",
+      "皮拉提斯",
+      "外展",
+      "屈曲",
+      "精細運動",
+      "姿勢維持",
+      "手部支撐"
+    ]
+  },
+  {
+    "id": "hand_dorsal_interossei_4",
+    "name_zh": "背側骨間肌四",
+    "name_en": "Dorsal Interosseous 4",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/1121_Intrinsic_Muscles_of_the_Hand_DIL.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_DIL.png\">CFCF</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "負責小指外展。在手撐地動作中，主動將小指拉開能平衡手掌內外側壓力，是進階的手部控制技巧。",
+    "desc_en": "Abducts the little finger. Actively spreading the pinky in weight-bearing balances medial-lateral hand pressure—an advanced control technique.",
+    "tags": [
+      "手腕與手部",
+      "皮拉提斯",
+      "外展",
+      "屈曲",
+      "精細運動",
+      "姿勢維持",
+      "手部支撐"
+    ]
+  },
+  {
+    "id": "hand_flexor_digiti_minimi",
+    "name_zh": "小指屈肌短",
+    "name_en": "Flexor Digiti Minimi Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Gray_%E2%80%94_musculus_flexor_digiti_minimi_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_digiti_minimi_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助維持手掌杯狀結構（Cupping）。在握把動作中提供小魚際側的穩定，避免手滑。",
+    "desc_en": "Helps maintain the cupped hand structure. Provides hypothenar stability during gripping exercises to prevent slipping.",
+    "tags": [
+      "手腕與手部",
+      "皮拉提斯",
+      "屈曲",
+      "精細運動",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_flexor_pollicis_brevis",
+    "name_zh": "拇指屈短肌",
+    "name_en": "Flexor Pollicis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Gray_%E2%80%94_musculus_flexor_pollicis_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_pollicis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "大魚際肌群之一。皮拉提斯強調手部放鬆，此肌肉過度緊繃常伴隨圓肩問題，需透過伸展拇指來緩解。",
+    "desc_en": "Part of the thenar group. Pilates emphasizes relaxed hands; tightness here often accompanies rounded shoulders and should be relieved via thumb stretches.",
+    "tags": [
+      "手腕與手部",
+      "皮拉提斯",
+      "屈曲",
+      "精細運動",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_lumbrical_1",
+    "name_zh": "蚓狀肌一（食指）",
+    "name_en": "Lumbrical 1 (Index)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lumbricales_%28hand%29.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png\">Image:Gray427.png modified</a>, Public domain, via Wikimedia Commons",
+    "desc": "在握持把手時，負責維持掌指關節屈曲但指間關節伸直的「功能性握姿」，避免過度捲曲手指造成前臂緊張。",
+    "desc_en": "Maintains a 'functional grip' (MCP flexed, IP extended) on handles, preventing excessive curling that causes forearm tension.",
+    "tags": [
+      "手腕與手部",
+      "皮拉提斯",
+      "屈曲",
+      "伸展",
+      "精細運動",
+      "姿勢維持",
+      "握力控制"
+    ]
+  },
+  {
+    "id": "hand_lumbrical_2",
+    "name_zh": "蚓狀肌二（中指）",
+    "name_en": "Lumbrical 2 (Middle)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lumbricales_%28hand%29.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png\">Image:Gray427.png modified</a>, Public domain, via Wikimedia Commons",
+    "desc": "協調中指的抓握動作。在Cadillac的懸吊動作中，強壯的蚓狀肌能減少深層屈肌的負擔。",
+    "desc_en": "Coordinates middle finger grip. In Cadillac hanging exercises, strong lumbricals reduce the load on deep flexors.",
+    "tags": [
+      "手腕與手部",
+      "皮拉提斯",
+      "屈曲",
+      "伸展",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_lumbrical_3",
+    "name_zh": "蚓狀肌三（無名指）",
+    "name_en": "Lumbrical 3 (Ring)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lumbricales_%28hand%29.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png\">Image:Gray427.png modified</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助無名指的功能性抓握。皮拉提斯教練常提示「手指長長地包住桿子」，即是為了啟動蚓狀肌。",
+    "desc_en": "Assists ring finger functional grip. Instructors cue 'wrap long fingers around the bar' to activate lumbricals.",
+    "tags": [
+      "手腕與手部",
+      "皮拉提斯",
+      "屈曲",
+      "伸展",
+      "精細運動",
+      "姿勢維持",
+      "握力控制"
+    ]
+  },
+  {
+    "id": "hand_lumbrical_4",
+    "name_zh": "蚓狀肌四（小指）",
+    "name_en": "Lumbrical 4 (Little)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lumbricales_%28hand%29.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png\">Image:Gray427.png modified</a>, Public domain, via Wikimedia Commons",
+    "desc": "穩定小指抓握。在推桿（Push Bar）練習中，保持小指端的控制能確保手腕不向尺側塌陷。",
+    "desc_en": "Stabilizes little finger grip. During Push Bar exercises, maintaining control here prevents the wrist from collapsing ulnarly.",
+    "tags": [
+      "手腕與手部",
+      "皮拉提斯",
+      "屈曲",
+      "伸展",
+      "精細運動",
+      "姿勢維持",
+      "手腕穩定"
+    ]
+  },
+  {
+    "id": "hand_opponens_digiti_minimi",
+    "name_zh": "小指對立肌",
+    "name_en": "Opponens Digiti Minimi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Gray_%E2%80%94_musculus_opponens_digiti_minimi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_opponens_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "維持手掌的橫向弧度。在四足跪姿中，想像手掌像吸盤一樣吸住地面，此肌肉即參與其中。",
+    "desc_en": "Maintains the transverse palmar arch. In Quadruped, visualizing the hand 'suctioning' the floor engages this muscle.",
+    "tags": [
+      "手腕與手部",
+      "皮拉提斯",
+      "對立",
+      "精細運動",
+      "原動肌",
+      "姿勢維持",
+      "手部支撐"
+    ]
+  },
+  {
+    "id": "hand_opponens_pollicis",
+    "name_zh": "拇指對立肌",
+    "name_en": "Opponens Pollicis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Gray_%E2%80%94_musculus_opponens_pollicis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_opponens_pollicis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責拇指對掌。在需要抓握器械時提供關鍵的對抗力量，確保手部與器械的穩固連結。",
+    "desc_en": "Responsible for thumb opposition. Provides critical opposing force when gripping apparatus, ensuring a solid hand-equipment connection.",
+    "tags": [
+      "手腕與手部",
+      "皮拉提斯",
+      "對立",
+      "精細運動",
+      "原動肌",
+      "姿勢維持",
+      "握力控制"
+    ]
+  },
+  {
+    "id": "hand_palmar_interossei_1",
+    "name_zh": "掌側骨間肌一",
+    "name_en": "Palmar Interosseous 1",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Braus_1921_215.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Braus_1921_215.png\">Braus, Hermann</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責食指內收。皮拉提斯常要求手指併攏延伸（Pilates Hand），此肌肉協助維持手部流線型，減少末端分散的張力。",
+    "desc_en": "Adducts the index finger. Pilates often requires fingers to be adducted and elongated (Pilates Hand); this muscle maintains streamlined hands, reducing distal tension dispersion.",
+    "tags": [
+      "手腕與手部",
+      "皮拉提斯",
+      "內收",
+      "屈曲",
+      "精細運動",
+      "姿勢維持",
+      "手部姿態"
+    ]
+  },
+  {
+    "id": "hand_palmar_interossei_2",
+    "name_zh": "掌側骨間肌二",
+    "name_en": "Palmar Interosseous 2",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Braus_1921_215.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Braus_1921_215.png\">Braus, Hermann</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責無名指內收。在手臂擺動（如 The Hundred）時，保持手指併攏能幫助啟動手臂內側線，連結至胸肌與核心。",
+    "desc_en": "Adducts the ring finger. Keeping fingers together during arm pumping (e.g., The Hundred) helps activate the deep arm line, connecting to the pecs and core.",
+    "tags": [
+      "手腕與手部",
+      "皮拉提斯",
+      "內收",
+      "屈曲",
+      "精細運動",
+      "姿勢維持",
+      "手部姿態"
+    ]
+  },
+  {
+    "id": "hand_palmar_interossei_3",
+    "name_zh": "掌側骨間肌三",
+    "name_en": "Palmar Interosseous 3",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Braus_1921_215.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Braus_1921_215.png\">Braus, Hermann</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責小指內收。防止小指無意識地翹起（Tea cup pinky），這通常是前臂或肩膀失去控制的訊號。",
+    "desc_en": "Adducts the little finger. Prevents the unconscious 'tea cup pinky,' which often signals a loss of control in the forearm or shoulder.",
+    "tags": [
+      "手腕與手部",
+      "皮拉提斯",
+      "內收",
+      "屈曲",
+      "精細運動",
+      "姿勢維持",
+      "手部姿態"
+    ]
+  },
+  {
+    "id": "hand_palmaris_brevis",
+    "name_zh": "掌短肌",
+    "name_en": "Palmaris Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Gray_%E2%80%94_musculus_palmaris_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_palmaris_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "位於小魚際。皮拉提斯強調手掌的「柔軟度」，此肌肉應保持放鬆，避免過度緊繃導致手掌僵硬。",
+    "desc_en": "Located in the hypothenar eminence. Pilates emphasizes hand 'softness'; this muscle should remain relaxed to avoid excessive tension leading to rigid palms.",
+    "tags": [
+      "手腕與手部",
+      "皮拉提斯",
+      "姿勢維持",
+      "穩定肌",
+      "手部放鬆"
+    ]
+  },
+  {
+    "id": "head_masseter",
+    "name_zh": "咬肌",
+    "name_en": "Masseter",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/13/Masseter_muscle_animation_small.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Masseter_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "皮拉提斯常見的代償點。當核心無力時，學員常不自覺咬牙用力。教練常提示「放鬆下顎」，因為咬肌緊繃會阻礙頸部放鬆與深層核心啟動。",
+    "desc_en": "A common compensation point in Pilates. Students often clench their jaw when the core is weak. Instructors cue 'relax the jaw' because tightness here hinders neck relaxation and deep core activation.",
+    "tags": [
+      "顱骨與顳顎關節",
+      "皮拉提斯",
+      "屈曲",
+      "提升/下壓",
+      "姿勢維持",
+      "壓力釋放"
+    ]
+  },
+  {
+    "id": "head_medial_pterygoid",
+    "name_zh": "內翼肌",
+    "name_en": "Medial Pterygoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Medial_pterygoid_muscle_animation_2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Medial_pterygoid_muscle_animation_2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "深層咀嚼肌。長期咬合緊繃會導致頭頸對齊不正（Forward Head）。放鬆此肌肉有助於改善頸椎排列，讓脊椎延伸更順暢。",
+    "desc_en": "Deep masticatory muscle. Chronic clenching leads to forward head posture. Relaxing this muscle aids cervical alignment, allowing for smoother spinal elongation.",
+    "tags": [
+      "顱骨與顳顎關節",
+      "皮拉提斯",
+      "屈曲",
+      "內收",
+      "原動肌",
+      "姿勢維持",
+      "體態矯正"
+    ]
+  },
+  {
+    "id": "head_temporalis",
+    "name_zh": "顳肌",
+    "name_en": "Temporalis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Temporal_muscle_-_lateral_view.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Temporal_muscle_-_lateral_view.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "壓力與張力的儲存庫。皮拉提斯練習中應保持眉頭與太陽穴放鬆，臉部表情的柔和是全身放鬆控制的一部分。",
+    "desc_en": "A reservoir for stress and tension. In Pilates, keeping the brow and temples relaxed is essential; soft facial expression is part of total body relaxation control.",
+    "tags": [
+      "顱骨與顳顎關節",
+      "皮拉提斯",
+      "屈曲",
+      "提升/下壓",
+      "姿勢維持",
+      "身心覺察"
+    ]
+  },
+  {
+    "id": "hip_adductor_brevis",
+    "name_zh": "短內收肌",
+    "name_en": "Adductor Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/55/Adductor_brevis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Adductor_brevis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "啟動「中線（Midline）」的關鍵。在使用魔術圈（Magic Circle）夾腿時，負責大腿上部的緊實與骨盆底肌的連結啟動。",
+    "desc_en": "Key to activating the 'Midline.' During Magic Circle leg squeezes, responsible for upper thigh engagement and connecting to pelvic floor activation.",
+    "tags": [
+      "內收肌群",
+      "皮拉提斯",
+      "內收",
+      "屈曲",
+      "外旋",
+      "原動肌",
+      "穩定肌",
+      "核心連結",
+      "魔術圈"
+    ]
+  },
+  {
+    "id": "hip_gluteus_maximus",
+    "name_zh": "臀大肌",
+    "name_en": "Gluteus Maximus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Gluteus_maximus_3D.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gluteus_maximus_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "皮拉提斯橋式（Bridging）的主角。負責伸展髖部並將骨盆推離地面。需注意正確發力順序，避免腰椎代償過度拱起。",
+    "desc_en": "Star of the Pilates Bridging exercises. Extends the hips to lift the pelvis. Requires correct firing sequence to prevent lumbar compensation (arching).",
+    "tags": [
+      "髖部與大腿",
+      "皮拉提斯",
+      "伸展",
+      "外旋",
+      "外展",
+      "下肢拉/髖絞鍊",
+      "原動肌",
+      "核心穩定",
+      "骨盆穩定"
+    ]
+  },
+  {
+    "id": "hip_gluteus_medius",
+    "name_zh": "臀中肌",
+    "name_en": "Gluteus Medius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Gluteus_medius_muscle_-_animation01.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gluteus_medius_muscle_-_animation01.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "側躺踢腿系列（Side Kick Series）的重點訓練肌肉。負責穩定骨盆不晃動，並塑造臀部側線條。無力時會導致側板動作（Side Plank）塌腰。",
+    "desc_en": "Focus muscle of the Side Kick Series. Stabilizes the pelvis against rocking and sculpts the lateral hip line. Weakness leads to sagging in Side Planks.",
+    "tags": [
+      "髖部與大腿",
+      "皮拉提斯",
+      "外展",
+      "外旋",
+      "穩定肌",
+      "核心穩定",
+      "側躺系列",
+      "骨盆穩定"
+    ]
+  },
+  {
+    "id": "hip_gluteus_minimus",
+    "name_zh": "臀小肌",
+    "name_en": "Gluteus Minimus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Gluteus_minimus_muscle_animation04.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gluteus_minimus_muscle_animation04.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "深層的骨盆穩定器。在單腳站立或單腳踢腿（Single Leg Kicks）動作中，協助將股骨頭固定在關節窩內，提供精準的動作控制。",
+    "desc_en": "Deep pelvic stabilizer. In single-leg standing or Single Leg Kicks, secures the femoral head in the socket, providing precise movement control.",
+    "tags": [
+      "臀部肌群",
+      "皮拉提斯",
+      "外展",
+      "內旋",
+      "穩定肌",
+      "核心穩定",
+      "骨盆穩定"
+    ]
+  },
+  {
+    "id": "hip_gracilis",
+    "name_zh": "薄肌（髖部段）",
+    "name_en": "Gracilis (Hip)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gracilis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gracilis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "長內收肌，協助雙腿併攏（Adduction）。在「青蛙腿（Frogs）」動作中，負責將腳跟維持在一起，強化大腿內側線條。",
+    "desc_en": "Long adductor assisting in bringing legs together. In 'Frogs,' keeps heels connected, strengthening the inner thigh line.",
+    "tags": [
+      "內收肌群",
+      "皮拉提斯",
+      "內收",
+      "屈曲",
+      "內旋",
+      "原動肌",
+      "穩定肌",
+      "核心連結"
+    ]
+  },
+  {
+    "id": "hip_iliacus",
+    "name_zh": "髂肌",
+    "name_en": "Iliacus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Iliacus_muscle_-_animation05.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Iliacus_muscle_-_animation05.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在「Teaser（V字坐）」動作中負責維持腿部懸空。皮拉提斯強調透過深層核心（Powerhouse）來輔助髂肌，避免腹股溝過度緊繃（Gripping）。",
+    "desc_en": "Maintains leg elevation in 'Teaser.' Pilates emphasizes supporting the iliacus with the deep Powerhouse to prevent excessive groin gripping.",
+    "tags": [
+      "髖屈肌群",
+      "皮拉提斯",
+      "屈曲",
+      "外旋",
+      "原動肌",
+      "核心穩定",
+      "Teaser"
+    ]
+  },
+  {
+    "id": "hip_iliopsoas",
+    "name_zh": "髂腰肌",
+    "name_en": "Iliopsoas",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Braus_1921_244.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Braus_1921_244.png\">Braus, Hermann</a>, Public domain, via Wikimedia Commons",
+    "desc": "連結上半身與下半身的橋樑。在所有捲腹與抬腿動作中扮演核心角色，但必須與腹肌平衡使用，否則會導致腰椎拱起與疼痛。",
+    "desc_en": "Bridge between upper and lower body. Central to all roll-ups and leg lifts, but must be balanced with abdominals to prevent lumbar arching and pain.",
+    "tags": [
+      "髖部與大腿",
+      "皮拉提斯",
+      "屈曲",
+      "外旋",
+      "下肢推",
+      "原動肌",
+      "核心穩定",
+      "核心控制"
+    ]
+  },
+  {
+    "id": "hip_obturator_externus",
+    "name_zh": "閉孔外肌",
+    "name_en": "Obturator Externus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/14/Obturator_externus_large.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Obturator_externus_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "深層六大外旋肌之一。在皮拉提斯外旋姿勢（Pilates V）中，負責從髖關節深處啟動外旋，而非僅靠膝蓋扭轉。",
+    "desc_en": "One of the deep six rotators. In Pilates V, initiates rotation from deep within the hip socket, rather than just twisting at the knee.",
+    "tags": [
+      "深層外旋肌群",
+      "皮拉提斯",
+      "外旋",
+      "穩定肌",
+      "股骨頭穩定",
+      "皮拉提斯V"
+    ]
+  },
+  {
+    "id": "hip_obturator_internus",
+    "name_zh": "閉孔內肌",
+    "name_en": "Obturator Internus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Obturator_internus_large.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Obturator_internus_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "「大腿根部的包裹感（Wrap of the thighs）」來源。啟動此肌肉有助於骨盆底肌的上提，是核心控制的深層開關。",
+    "desc_en": "Source of the 'wrap of the thighs' sensation. Activating this muscle facilitates pelvic floor lift, acting as a deep switch for core control.",
+    "tags": [
+      "深層外旋肌群",
+      "皮拉提斯",
+      "外旋",
+      "外展",
+      "穩定肌",
+      "股骨頭穩定",
+      "核心連結",
+      "皮拉提斯V"
+    ]
+  },
+  {
+    "id": "hip_pectineus",
+    "name_zh": "恥骨肌",
+    "name_en": "Pectineus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Pectineus_3D.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pectineus_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助雙腿交叉動作（Criss Cross legs）。在彼拉提斯中，強調大腿內側向中線的磁吸感，此肌肉需精確控制。",
+    "desc_en": "Assists in leg crossing actions. Pilates emphasizes the magnetic pull of inner thighs to the midline; precise control of this muscle is required.",
+    "tags": [
+      "內收肌群",
+      "皮拉提斯",
+      "內收",
+      "屈曲",
+      "內旋",
+      "原動肌",
+      "穩定肌",
+      "核心連結"
+    ]
+  },
+  {
+    "id": "hip_piriformis",
+    "name_zh": "梨狀肌",
+    "name_en": "Piriformis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/39/Piriformis_large.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Piriformis_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "常用於伸展放鬆的肌肉（如 Figure 4 stretch）。若過度緊繃會限制髖關節活動度，影響彼拉提斯動作的流暢性與骨盆中立。",
+    "desc_en": "Commonly targeted for stretching (e.g., Figure 4). Excessive tightness limits hip mobility, affecting movement fluidity and pelvic neutrality in Pilates.",
+    "tags": [
+      "深層外旋肌群",
+      "皮拉提斯",
+      "外旋",
+      "外展",
+      "穩定肌",
+      "核心穩定",
+      "伸展放鬆"
+    ]
+  },
+  {
+    "id": "hip_psoas_major",
+    "name_zh": "腰大肌",
+    "name_en": "Psoas Major",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Psoas_major_muscle_-_animation04.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Psoas_major_muscle_animation04.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "腰椎穩定的關鍵。彼拉提斯強調「腰肌長度與力量的平衡」，過短會導致骨盆前傾，過弱則無法完成Roll Up。需透過C型曲線（C-Curve）來訓練其離心控制。",
+    "desc_en": "Key to lumbar stability. Pilates emphasizes balanced psoas length and strength; too short causes tilt, too weak fails Roll Ups. Eccentric control is trained via C-Curve.",
+    "tags": [
+      "髖屈肌群",
+      "皮拉提斯",
+      "屈曲",
+      "內旋",
+      "側屈",
+      "原動肌",
+      "姿勢維持",
+      "核心穩定",
+      "C型曲線"
+    ]
+  },
+  {
+    "id": "hip_quadratus_femoris",
+    "name_zh": "股方肌",
+    "name_en": "Quadratus Femoris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Quadratus_femoris_large.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Quadratus_femoris_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在髖部外旋動作中提供深層穩定。幫助建立「坐骨靠近」的感覺，是骨盆底肌啟動的輔助線索。",
+    "desc_en": "Provides deep stability in hip lateral rotation. Helps create the sensation of 'sitz bones drawing together,' a cue for pelvic floor activation.",
+    "tags": [
+      "深層外旋肌群",
+      "皮拉提斯",
+      "外旋",
+      "穩定肌",
+      "股骨頭穩定",
+      "骨盆穩定"
+    ]
+  },
+  {
+    "id": "hip_tensor_fasciae_latae",
+    "name_zh": "闊筋膜張肌 (TFL)",
+    "name_en": "Tensor Fasciae Latae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Tensor-fasciae-latae.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Tensor-fasciae-latae.png\">colorized by Michael Gasperl</a>, Public domain, via Wikimedia Commons",
+    "desc": "彼拉提斯練習中常需「抑制」的肌肉。初學者常過度使用TFL代償臀中肌，導致髖部外側緊繃。應專注於正確的臀部發力以減少其負荷。",
+    "desc_en": "Often a muscle to 'inhibit' in Pilates. Beginners often overuse TFL to compensate for glutes, causing lateral hip tightness. Focus on correct glute engagement to unload it.",
+    "tags": [
+      "髖屈肌群",
+      "皮拉提斯",
+      "屈曲",
+      "外展",
+      "內旋",
+      "穩定肌",
+      "核心穩定",
+      "下肢推"
+    ]
+  },
+  {
+    "id": "knee_popliteus",
+    "name_zh": "膕肌",
+    "name_en": "Popliteus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Popliteus_muscle_-animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Popliteus_muscle_-animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "防止膝蓋鎖死（Hyperextension）。在站立動作中，保持膝蓋微彎（Soft knees）以啟動膕肌，保護關節並增進本體感覺。",
+    "desc_en": "Prevents knee hyperextension/locking. In standing, keeping 'soft knees' activates the popliteus, protecting the joint and enhancing proprioception.",
+    "tags": [
+      "膝關節",
+      "皮拉提斯",
+      "屈曲",
+      "膝關節屈曲",
+      "膝關節內旋",
+      "穩定肌",
+      "膝關節穩定",
+      "關節保護"
+    ]
+  },
+  {
+    "id": "neck_anterior_scalene",
+    "name_zh": "前斜角肌",
+    "name_en": "Anterior Scalene",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Scalenus_anterior_-_animation04.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Scalenus_anterior_-_animation04.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "胸式呼吸的代償肌。彼拉提斯強調「後側肋骨呼吸」，若過度使用斜角肌會導致頸部僵硬與聳肩，需時刻覺察並放鬆。",
+    "desc_en": "Compensatory muscle in chest breathing. Pilates emphasizes 'posterior lateral breathing'; overuse here leads to stiff neck and shrugging, requiring constant awareness to relax.",
+    "tags": [
+      "頸部肌群",
+      "頸椎",
+      "皮拉提斯",
+      "屈曲",
+      "側屈",
+      "穩定肌",
+      "呼吸輔助",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "neck_digastric",
+    "name_zh": "二腹肌",
+    "name_en": "Digastric",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gray_%E2%80%94_musculus_digastricus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_digastricus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助張口與舌骨運動。在彼拉提斯中，頸前區的任何緊張都應避免，保持喉嚨區域的開放與放鬆有助於頸椎排列。",
+    "desc_en": "Assists jaw opening and hyoid movement. In Pilates, anterior neck tension is avoided; keeping the throat open and relaxed aids cervical alignment.",
+    "tags": [
+      "頸部肌群",
+      "皮拉提斯",
+      "提升/下壓",
+      "穩定肌",
+      "呼吸輔助",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "neck_longus_colli",
+    "name_zh": "頸長肌",
+    "name_en": "Longus Colli",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/96/Gray_%E2%80%94_musculus_longus_colli.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_longus_colli.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "彼拉提斯「點頭（Head Nod）」動作的主角。負責深層頸椎屈曲與穩定，是在做捲腹（Chest Lift）前必須先啟動的肌肉，以保護頸椎。",
+    "desc_en": "Protagonist of the Pilates 'Head Nod.' Responsible for deep cervical flexion/stability. Must initiate before Chest Lift to protect the neck.",
+    "tags": [
+      "頸椎",
+      "頸部肌群",
+      "皮拉提斯",
+      "屈曲",
+      "穩定肌",
+      "姿勢維持",
+      "核心穩定",
+      "頭頸排列"
+    ]
+  },
+  {
+    "id": "neck_mylohyoid",
+    "name_zh": "顎舌骨肌",
+    "name_en": "Mylohyoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/92/Mylohyoid_muscle.PNG",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Mylohyoid_muscle.PNG\">User:Mikael Häggström</a>, Public domain, via Wikimedia Commons",
+    "desc": "形成口腔底部。在進行高難度核心動作時，學員常不自覺用舌頭頂上顎造成此處緊繃。應保持舌頭平放，放鬆下顎。",
+    "desc_en": "Forms the floor of the mouth. Students often tense here by pressing the tongue to the roof during hard core work. Keep tongue flat, jaw relaxed.",
+    "tags": [
+      "頸部肌群",
+      "皮拉提斯",
+      "屈曲",
+      "提升/下壓",
+      "穩定肌",
+      "姿勢維持",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "neck_omohyoid",
+    "name_zh": "肩胛舌骨肌",
+    "name_en": "Omohyoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Muscle_omo-hyoidien.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_omo-hyoidien.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "連結肩胛骨與舌骨。顯示了頸部張力如何影響肩帶位置。控制此肌肉有助於在頸部放鬆的同時維持肩胛骨穩定下壓。",
+    "desc_en": "Connects scapula to hyoid. Shows how neck tension affects shoulder placement. Controlling this helps depress scapulae while keeping the neck relaxed.",
+    "tags": [
+      "頸部肌群",
+      "皮拉提斯",
+      "提升/下壓",
+      "穩定肌",
+      "姿勢維持",
+      "肩帶穩定"
+    ]
+  },
+  {
+    "id": "neck_sternocleidomastoid",
+    "name_zh": "胸鎖乳突肌",
+    "name_en": "Sternocleidomastoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Sternomastoid_muscle_animation_small2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Sternomastoid_muscle_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責頸部旋轉與屈曲。初學者做捲腹時若深層頸屈肌無力，SCM會過度代償導致頸部突出（烏龜頸）。應專注於拉長後頸線條。",
+    "desc_en": "Rotates/flexes neck. Beginners often overuse SCM in roll-ups if deep flexors are weak, causing 'turtle neck.' Focus on lengthening the back of the neck.",
+    "tags": [
+      "頸部肌群",
+      "皮拉提斯",
+      "軀幹旋轉與對角線",
+      "屈曲",
+      "側屈",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "neck_sternohyoid",
+    "name_zh": "胸骨舌骨肌",
+    "name_en": "Sternohyoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/67/Sternohyoid_muscle.PNG",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Sternohyoid_muscle.PNG\">User:Mikael Häggström</a>, Public domain, via Wikimedia Commons",
+    "desc": "位於喉嚨表面。在吸氣或用力時不應明顯浮起。保持此區域平坦放鬆是彼拉提斯中頸部控制良好的指標。",
+    "desc_en": "Surface throat muscle. Shouldn't bulge during inhale or exertion. Keeping this area flat and relaxed indicates good neck control in Pilates.",
+    "tags": [
+      "頸部肌群",
+      "皮拉提斯",
+      "提升/下壓",
+      "穩定肌",
+      "姿勢維持",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "pelvis_levator_ani",
+    "name_zh": "提肛肌",
+    "name_en": "Levator Ani",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Levator_ani.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Levator_ani.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "彼拉提斯「能量庫（Powerhouse）」的地板。與橫隔膜、腹橫肌協同運作。透過「憋尿感」或「電梯上樓」的意象來啟動，提供深層核心支撐。",
+    "desc_en": "Floor of the Pilates 'Powerhouse.' Works with diaphragm/transversus abdominis. Activated via 'stopping flow' or 'elevator' imagery to provide deep core support.",
+    "tags": [
+      "骨盆帶",
+      "皮拉提斯",
+      "提升/下壓",
+      "核心穩定",
+      "姿勢維持",
+      "穩定肌",
+      "骨盆底肌"
+    ]
+  },
+  {
+    "id": "posterior_thigh_biceps_femoris",
+    "name_zh": "股二頭肌",
+    "name_en": "Biceps Femoris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Biceps_femoris_muscle_-_animation_1.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Biceps_femoris_muscle_-_animation_1.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在器械床「腳套系列（Feet in Straps）」中負責腿部下壓。需強調離心控制，避免膝蓋過度鎖死，並維持與臀部的連結。",
+    "desc_en": "Responsible for pressing legs down in Reformer 'Feet in Straps.' Emphasize eccentric control, avoid knee locking, and maintain glute connection.",
+    "tags": [
+      "腿後肌群",
+      "皮拉提斯",
+      "屈曲",
+      "伸展",
+      "膝關節屈曲",
+      "髖關節伸展",
+      "膝關節外旋",
+      "原動肌",
+      "下肢拉/髖絞鍊"
+    ]
+  },
+  {
+    "id": "posterior_thigh_semitendinosus",
+    "name_zh": "半腱肌",
+    "name_en": "Semitendinosus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Semitendinosus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Semitendinosus.png\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "內側腿後肌。在做「肩橋（Shoulder Bridge）」時，負責維持雙膝平行，防止膝蓋外開。有助於平衡腿後內外側肌力，改善動作軌跡。",
+    "desc_en": "Medial hamstring. Maintains parallel knee alignment during 'Shoulder Bridge,' preventing knees from splaying out. Helps balance medial/lateral hamstring strength for better tracking.",
+    "tags": [
+      "髖部與大腿",
+      "皮拉提斯",
+      "屈曲",
+      "伸展",
+      "膝關節屈曲",
+      "髖關節伸展",
+      "原動肌",
+      "下肢拉/髖絞鍊",
+      "骨盆穩定"
+    ]
+  },
+  {
+    "id": "shin_tibialis_anterior",
+    "name_zh": "脛骨前肌",
+    "name_en": "Tibialis Anterior",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/63/Tibialis_anterior_muscle_animation_1.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Tibialis_anterior_muscle_animation_1.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責足背屈（Flex）。在彼拉提斯足部訓練中，強調勾腳時腳跟向遠延伸，而非單純縮短腳背。與小腿後側肌群形成拮抗平衡，維持腳踝靈活度。",
+    "desc_en": "Responsible for dorsiflexion (Flex). In Pilates footwork, emphasizes reaching the heel away when flexing, rather than just shortening the instep. Balances the posterior calf muscles for ankle mobility.",
+    "tags": [
+      "小腿前側肌群",
+      "皮拉提斯",
+      "背屈",
+      "內翻",
+      "原動肌",
+      "足弓支撐",
+      "足部排列"
+    ]
+  },
+  {
+    "id": "shoulder_deltoid_anterior",
+    "name_zh": "三角肌前部",
+    "name_en": "Anterior Deltoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在平板支撐（Plank）與伏地挺身（Push-up）中負責支撐上半身。彼拉提斯強調透過核心力量減輕其負擔，避免圓肩與聳肩代償。",
+    "desc_en": "Supports the upper body in Planks and Push-ups. Pilates emphasizes using core strength to unload this muscle, preventing rounded shoulders and shrugging compensations.",
+    "tags": [
+      "肩帶與肩關節",
+      "皮拉提斯",
+      "屈曲",
+      "內旋",
+      "原動肌",
+      "上肢推-垂直",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_deltoid_middle",
+    "name_zh": "三角肌中部",
+    "name_en": "Middle Deltoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在側板動作（Side Plank）與跪姿側踢腿中，負責下方支撐手的穩定。需配合肩胛穩定肌群，防止肩膀聳起貼近耳朵。",
+    "desc_en": "Stabilizes the supporting arm in Side Planks and Kneeling Side Kicks. Must work with scapular stabilizers to prevent the shoulder from creeping up toward the ear.",
+    "tags": [
+      "肩帶與肩關節",
+      "皮拉提斯",
+      "外展",
+      "穩定肌",
+      "姿勢維持",
+      "側躺系列"
+    ]
+  },
+  {
+    "id": "shoulder_deltoid_posterior",
+    "name_zh": "三角肌後部",
+    "name_en": "Posterior Deltoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "彼拉提斯「擴胸（Chest Expansion）」與「拉帶（Pulling Straps）」的重點肌群。負責將手臂向後拉伸，幫助打開胸廓，矯正含胸駝背。",
+    "desc_en": "Key muscle in 'Chest Expansion' and 'Pulling Straps.' Extends the arm backward, helping to open the chest and correct kyphosis (hunchback).",
+    "tags": [
+      "肩帶與肩關節",
+      "皮拉提斯",
+      "伸展",
+      "外旋",
+      "原動肌",
+      "穩定肌",
+      "姿態矯正",
+      "背部強化"
+    ]
+  },
+  {
+    "id": "shoulder_infraspinatus",
+    "name_zh": "棘下肌",
+    "name_en": "Infraspinatus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Infraspinatus_muscle_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Infraspinatus_muscle_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "肩袖肌群之一。在「端盤子（Offering）」與「Cleopatra」動作中負責肱骨外旋，對於穩定肩關節與改善圓肩至關重要。",
+    "desc_en": "Rotator cuff muscle. Responsible for humeral external rotation in 'Offering' and 'Cleopatra.' Vital for shoulder stability and correcting rounded shoulders.",
+    "tags": [
+      "肩帶與肩關節",
+      "皮拉提斯",
+      "外旋",
+      "上肢拉-水平",
+      "原動肌",
+      "穩定肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "shoulder_levator_scapulae",
+    "name_zh": "提肩胛肌",
+    "name_en": "Levator Scapulae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/97/Levator_scapulae_muscle_animation_small.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Levator_scapulae_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "彼拉提斯練習中需時刻覺察並「放鬆」的肌肉。壓力大或代償時常導致聳肩。指令「長脖子（Long neck）」即是為了抑制此肌肉過度收縮。",
+    "desc_en": "Muscle to constantly monitor and 'relax' in Pilates. Stress or compensation leads to shrugging. The cue 'Long neck' aims to inhibit its over-contraction.",
+    "tags": [
+      "肩帶與肩關節",
+      "頸部肌群",
+      "皮拉提斯",
+      "提升/下壓",
+      "內旋",
+      "肩帶穩定",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_subscapularis",
+    "name_zh": "肩胛下肌",
+    "name_en": "Subscapularis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Subscapularis_muscle_animation3.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Subscapularis_muscle_animation3.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責肩內旋與動態穩定。在「抱樹（Hug a Tree）」動作中，將肩胛骨貼合在肋骨架上，防止肩胛翼狀突出。",
+    "desc_en": "Responsible for internal rotation and dynamic stability. In 'Hug a Tree,' keeps the scapula flush against the ribcage, preventing winging.",
+    "tags": [
+      "肩帶與肩關節",
+      "皮拉提斯",
+      "內旋",
+      "上肢推-水平",
+      "原動肌",
+      "穩定肌",
+      "核心穩定",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_supraspinatus",
+    "name_zh": "棘上肌",
+    "name_en": "Supraspinatus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Supraspinatus_muscle_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Supraspinatus_muscle_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責啟動手臂外展。在彼拉提斯手臂畫圓（Arm Circles）中，負責將肱骨頭下壓固定在關節窩內，避免夾擠產生。",
+    "desc_en": "Initiates arm abduction. During Pilates 'Arm Circles,' depresses the humeral head into the socket to prevent impingement.",
+    "tags": [
+      "肩帶與肩關節",
+      "皮拉提斯",
+      "外展",
+      "上肢推-垂直",
+      "原動肌",
+      "穩定肌",
+      "核心穩定",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_teres_major",
+    "name_zh": "大圓肌",
+    "name_en": "Teres Major",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Gray_%E2%80%94_musculus_teres_major.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_teres_major.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "背闊肌的小助手。在器械床下拉帶（Pull Down）動作中，協助肩伸展與內收，強化腋下的力量連結。",
+    "desc_en": "Helper to the latissimus dorsi. Assists in shoulder extension and adduction during Reformer 'Pull Down,' strengthening the underarm connection.",
+    "tags": [
+      "肩帶與肩關節",
+      "皮拉提斯",
+      "伸展",
+      "內收",
+      "內旋",
+      "上肢拉-垂直",
+      "原動肌",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "shoulder_teres_minor",
+    "name_zh": "小圓肌",
+    "name_en": "Teres Minor",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gray_%E2%80%94_musculus_teres_minor.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_teres_minor.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助肱骨外旋。在手臂系列動作中，與棘下肌共同維持肩關節後方的穩定性，確保動作軌跡精準。",
+    "desc_en": "Assists humeral external rotation. Works with infraspinatus in arm series to maintain posterior shoulder stability and ensure precise movement tracking.",
+    "tags": [
+      "肩帶與肩關節",
+      "皮拉提斯",
+      "外旋",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_trapezius_lower",
+    "name_zh": "斜方肌下部",
+    "name_en": "Trapezius (Lower)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Trapezius_animation_small2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Trapezius_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "維持良好上背姿勢的關鍵。指令「肩膀遠離耳朵」即是為了啟動此肌肉，負責下壓肩胛骨，對抗聳肩代償。",
+    "desc_en": "Key to good upper back posture. The cue 'shoulders away from ears' targets this muscle, responsible for scapular depression and counteracting shrugging.",
+    "tags": [
+      "肩帶與肩關節",
+      "皮拉提斯",
+      "下壓",
+      "外旋",
+      "肩帶穩定",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_trapezius_middle",
+    "name_zh": "斜方肌中部",
+    "name_en": "Trapezius (Middle)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Trapezius_animation_small2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Trapezius_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責肩胛骨後收（Retraction）。在「划船（Rowing）」系列動作中，感覺肩胛骨夾脊，幫助打開胸前緊繃，改善圓肩。",
+    "desc_en": "Responsible for scapular retraction. In 'Rowing' series, emphasizes squeezing shoulder blades together to open the tight chest and correct rounded shoulders.",
+    "tags": [
+      "肩帶與肩關節",
+      "皮拉提斯",
+      "內收",
+      "肩帶穩定",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持",
+      "姿態矯正"
+    ]
+  },
+  {
+    "id": "shoulder_trapezius_upper",
+    "name_zh": "斜方肌上部",
+    "name_en": "Trapezius (Upper)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Trapezius_animation_small2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Trapezius_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "容易過度活躍的壓力肌。彼拉提斯訓練中常需「抑制」其收縮，引導學員將能量轉移至中下斜方肌與前鋸肌。",
+    "desc_en": "Often overactive stress muscle. Pilates training focuses on 'inhibiting' its contraction, redirecting energy to the mid/lower traps and serratus anterior.",
+    "tags": [
+      "肩帶與肩關節",
+      "皮拉提斯",
+      "提升/下壓",
+      "外旋",
+      "肩帶穩定",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "thigh_adductor_longus",
+    "name_zh": "長內收肌",
+    "name_en": "Adductor Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/Adductor_longus.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Adductor_longus.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在彼拉提斯中負責建立「中線（Midline）」連結。夾球或魔術圈時啟動，有助於骨盆底肌的上提與核心穩定。",
+    "desc_en": "Establishes 'Midline' connection in Pilates. Activated when squeezing a ball or Magic Circle, facilitating pelvic floor lift and core stability.",
+    "tags": [
+      "內收肌群",
+      "髖部與大腿",
+      "皮拉提斯",
+      "內收",
+      "屈曲",
+      "內旋",
+      "原動肌",
+      "穩定肌",
+      "核心",
+      "核心連結"
+    ]
+  },
+  {
+    "id": "thigh_adductor_magnus",
+    "name_zh": "大內收肌",
+    "name_en": "Adductor Magnus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Muscle_grand_adducteur_copie.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_grand_adducteur_copie.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "彼拉提斯的「第四條腿後肌」。除了內收，更是強力的伸髖肌。在橋式（Bridge）中夾膝上推時，提供強大的骨盆後側支撐。",
+    "desc_en": "The 'fourth hamstring' in Pilates. Beyond adduction, a powerful hip extensor. Provides strong posterior pelvic support when bridging with knees squeezed together.",
+    "tags": [
+      "髖部與大腿",
+      "皮拉提斯",
+      "內收",
+      "伸展",
+      "原動肌",
+      "穩定肌",
+      "下肢拉/髖絞鍊",
+      "核心穩定",
+      "核心連結"
+    ]
+  },
+  {
+    "id": "thigh_gracilis",
+    "name_zh": "股薄肌",
+    "name_en": "Gracilis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gracilis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gracilis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "跨越雙關節的內收肌。在彼拉提斯「V字腳（Pilates V）」站姿中，負責將大腿內側拉鍊拉起，同時穩定膝蓋內側。",
+    "desc_en": "Biarticular adductor. In 'Pilates V' stance, responsible for zipping up the inner thighs while stabilizing the medial knee.",
+    "tags": [
+      "髖部與大腿",
+      "皮拉提斯",
+      "內收",
+      "屈曲",
+      "膝關節屈曲",
+      "膝關節內旋",
+      "原動肌",
+      "穩定肌",
+      "核心連結"
+    ]
+  },
+  {
+    "id": "thigh_rectus_femoris",
+    "name_zh": "股直肌",
+    "name_en": "Rectus Femoris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/48/Rectus_femoris_3D.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Rectus_femoris_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "常因久坐而緊繃，影響彼拉提斯捲腹動作。若深層核心無力，在抬腿時會過度代償（Gripping）。需透過弓步伸展來延長其纖維。",
+    "desc_en": "Often tight from sitting, affecting Pilates roll-ups. Compensates (grips) in leg lifts if deep core is weak. Requires lunge stretches to lengthen fibers.",
+    "tags": [
+      "股四頭肌",
+      "皮拉提斯",
+      "伸展",
+      "屈曲",
+      "膝關節伸展",
+      "髖關節屈曲",
+      "原動肌",
+      "下肢推"
+    ]
+  },
+  {
+    "id": "thigh_sartorius",
+    "name_zh": "縫匠肌",
+    "name_en": "Sartorius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Sartorius_3D.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Sartorius_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助完成盤腿坐姿（Cross-legged）與「樹式（Tree）」動作。負責複雜的屈髖、外展與外旋組合動作。",
+    "desc_en": "Assists in cross-legged sitting and 'Tree' exercises. Responsible for the complex combination of hip flexion, abduction, and external rotation.",
+    "tags": [
+      "髖部與大腿",
+      "皮拉提斯",
+      "屈曲",
+      "外旋",
+      "外展",
+      "膝關節屈曲",
+      "膝關節內旋",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "thigh_vastus_intermedius",
+    "name_zh": "股中間肌",
+    "name_en": "Vastus Intermedius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Vastus_intermedialis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Vastus_intermedialis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "器械床足部工作（Footwork）的主要推力來源。在膝蓋伸直過程中提供穩定的深層力量，確保髕骨滑動順暢。",
+    "desc_en": "Primary thrust source in Reformer 'Footwork.' Provides stable deep power during knee extension, ensuring smooth patellar tracking.",
+    "tags": [
+      "股四頭肌",
+      "皮拉提斯",
+      "伸展",
+      "膝關節伸展",
+      "原動肌",
+      "膝關節穩定",
+      "下肢推"
+    ]
+  },
+  {
+    "id": "thigh_vastus_lateralis",
+    "name_zh": "股外側肌",
+    "name_en": "Vastus Lateralis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Vastus_lateralis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Vastus_lateralis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "常比內側肌發達，導致髕骨外拉。彼拉提斯強調透過足部排列（如內八或平行）調整肌肉平衡，防止髂脛束過度緊繃。",
+    "desc_en": "Often stronger than medial muscles, pulling patella laterally. Pilates emphasizes foot alignment (parallel/internal) to balance muscles and prevent IT band tightness.",
+    "tags": [
+      "股四頭肌",
+      "皮拉提斯",
+      "伸展",
+      "膝關節伸展",
+      "原動肌",
+      "膝關節穩定",
+      "下肢推"
+    ]
+  },
+  {
+    "id": "thigh_vastus_medialis",
+    "name_zh": "股內側肌",
+    "name_en": "Vastus Medialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Vastus_medialis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Vastus_medialis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "彼拉提斯極度重視的「淚滴狀肌肉」。負責膝伸直最後30度的鎖定與髕骨內拉，是膝關節復健與穩定的核心重點。",
+    "desc_en": "The 'teardrop muscle' highly prized in Pilates. Responsible for the last 30 degrees of knee extension and medial patellar pull; central to knee rehab and stability.",
+    "tags": [
+      "股四頭肌",
+      "皮拉提斯",
+      "伸展",
+      "膝關節伸展",
+      "原動肌",
+      "膝關節穩定",
+      "下肢推",
+      "腿部雕塑"
+    ]
+  },
+  {
+    "id": "thorax_diaphragm",
+    "name_zh": "橫隔膜",
+    "name_en": "Diaphragm",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/71/Diaphragm_-_2.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Diaphragm_-_2.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "彼拉提斯呼吸法（Pilates Breathing）的核心。強調「後側與側向肋骨呼吸（3D Breathing）」，在增加腹內壓穩定脊椎的同時，避免腹部鼓起。",
+    "desc_en": "Core of Pilates Breathing. Emphasizes 'Posterior-Lateral (3D) Breathing,' increasing intra-abdominal pressure to stabilize the spine while preventing abdominal distension.",
+    "tags": [
+      "胸廓",
+      "皮拉提斯",
+      "屈曲",
+      "提升/下壓",
+      "核心穩定",
+      "呼吸輔助",
+      "姿勢維持",
+      "核心基礎"
+    ]
+  },
+  {
+    "id": "thorax_intercostal_internal",
+    "name_zh": "內側肋間肌",
+    "name_en": "Internal Intercostal",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Internal_intercostal_muscles_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Internal_intercostal_muscles_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責強制呼氣。彼拉提斯指令「肋骨關閉（Knit the ribs）」即是啟動此肌肉，防止肋骨外翻並連結上腹部核心。",
+    "desc_en": "Responsible for forced exhalation. The Pilates cue 'Knit the ribs' activates this muscle, preventing rib flare and connecting the upper abdominal core.",
+    "tags": [
+      "胸廓",
+      "皮拉提斯",
+      "呼吸輔助",
+      "核心穩定",
+      "肋骨控制"
+    ]
+  },
+  {
+    "id": "thorax_pectoralis_major",
+    "name_zh": "胸大肌",
+    "name_en": "Pectoralis Major",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/39/PectoralisMajor.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:PectoralisMajor.gif\">DrJanaOfficial</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "在伏地挺身（Push Up）與抱樹（Hug a Tree）中發力。彼拉提斯強調胸大肌應保持柔軟有彈性，避免過度緊繃導致圓肩，影響呼吸。",
+    "desc_en": "Active in Push Ups and Hug a Tree. Pilates emphasizes keeping pecs supple and elastic; excessive tightness causes rounded shoulders and impairs breathing.",
+    "tags": [
+      "胸廓",
+      "肩帶與肋關節",
+      "皮拉提斯",
+      "屈曲",
+      "內收",
+      "內旋",
+      "上肢推-水平",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "thorax_pectoralis_minor",
+    "name_zh": "胸小肌",
+    "name_en": "Pectoralis Minor",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/37/Pectoralis_minor_muscle_animation_small.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pectoralis_minor_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "常見的「姿勢破壞者」。緊繃時會將肩胛骨向前向下拉（前傾）。彼拉提斯透過「Arm Openings」等動作伸展此處，恢復肩帶中立位。",
+    "desc_en": "Common 'posture wrecker.' Tightness pulls scapulae forward and down (tilt). Pilates uses 'Arm Openings' to stretch this area, restoring neutral shoulder placement.",
+    "tags": [
+      "胸廓",
+      "肩帶與肋關節",
+      "皮拉提斯",
+      "下壓",
+      "前伸",
+      "下迴旋",
+      "內旋",
+      "肩帶穩定",
+      "穩定肌",
+      "呼吸輔助",
+      "姿勢維持",
+      "姿態矯正"
+    ]
+  },
+  {
+    "id": "thorax_serratus_anterior",
+    "name_zh": "前鋸肌",
+    "name_en": "Serratus Anterior",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/31/Serratus_anterior_muscle_animation_small.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Serratus_anterior_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "彼拉提斯的「翅膀」。負責穩定肩胛骨貼合肋骨。強壯的前鋸肌能減輕肩頸壓力，是執行所有支撐動作（Support work）的基礎。",
+    "desc_en": "The 'Wings' of Pilates. Stabilizes scapulae against ribs. Strong serratus reduces neck/shoulder stress; foundational for all support work.",
+    "tags": [
+      "胸廓",
+      "肩帶與肋關節",
+      "皮拉提斯",
+      "外展",
+      "上肢推-水平",
+      "上肢推-垂直",
+      "屈曲",
+      "肩帶穩定",
+      "核心穩定",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "thorax_subclavius",
+    "name_zh": "鎖下肌",
+    "name_en": "Subclavius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Subclavius_muscle_animation2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Subclavius_muscle_animation2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "彼拉提斯指令「微笑鎖骨（Smile with your collarbones）」的關鍵。放鬆並延展此肌肉有助於打開胸廓，避免鎖骨周圍的緊繃。",
+    "desc_en": "Key to the Pilates cue 'Smile with your collarbones.' Relaxing and lengthening this muscle helps open the chest and prevents clavicular tightness.",
+    "tags": [
+      "胸廓",
+      "皮拉提斯",
+      "呼吸輔助",
+      "穩定肌",
+      "姿勢維持",
+      "開胸"
+    ]
+  },
+  {
+    "id": "thorax_transversus_thoracis",
+    "name_zh": "胸橫肌",
+    "name_en": "Transversus Thoracis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Transversus_thoracis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Transversus_thoracis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助深層呼氣。在彼拉提斯的強制呼氣階段，幫助肋骨向內向下收縮，與腹肌協同增強核心穩定。",
+    "desc_en": "Assists deep exhalation. During Pilates forced expiration, helps depress ribs inward and downward, working with abs to enhance core stability.",
+    "tags": [
+      "胸廓",
+      "皮拉提斯",
+      "呼吸輔助",
+      "核心穩定"
+    ]
+  }
+]

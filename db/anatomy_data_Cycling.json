@@ -1,0 +1,2212 @@
+[
+  {
+    "id": "abdomen_external_oblique",
+    "name_zh": "腹外斜肌",
+    "name_en": "External Abdominal Oblique",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Grays_Anatomy_Muscle_oblique_externe.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Grays_Anatomy_Muscle_oblique_externe.png\">Par Henry Vandyke Carter</a>, CC0, via Wikimedia Commons",
+    "desc": "負責在強力踩踏時穩定骨盆，防止身體過度扭轉。特別在站姿抽車（Out-of-saddle）時，對抗左右搖晃的車身，將力量集中於踏板。",
+    "desc_en": "Stabilizes the pelvis during powerful pedaling, preventing excessive torso rotation. Crucial during out-of-saddle climbing/sprinting to counteract bike sway and direct force into the pedals.",
+    "tags": [
+      "腹部與核心",
+      "單車",
+      "抽車",
+      "屈曲",
+      "側屈",
+      "軀幹旋轉與對角線",
+      "穩定肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "abdomen_internal_oblique",
+    "name_zh": "腹內斜肌",
+    "name_en": "Internal Abdominal Oblique",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Gray395.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray395.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "與腹外斜肌共同形成腹部核心的「圓筒狀」穩定結構。在長時間騎乘中維持上半身姿勢，減少因核心疲勞導致的力量流失。",
+    "desc_en": "Forms a cylindrical stability structure with external obliques. Maintains upper body posture during long rides, minimizing power loss caused by core fatigue.",
+    "tags": [
+      "腹部與核心",
+      "單車",
+      "屈曲",
+      "側屈",
+      "軀幹旋轉與對角線",
+      "穩定肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "abdomen_rectus_abdominis",
+    "name_zh": "腹直肌",
+    "name_en": "Rectus Abdominis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/94/Rectus_abdominis_vi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Rectus_abdominis_vi.png\">Mongrangvebet</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "負責維持軀幹的屈曲姿勢（特別是握下把或使用休息把時）。雖不直接產生動力，但需長時間等長收縮以維持氣動姿勢，疲勞易導致下背代償疼痛。",
+    "desc_en": "Maintains trunk flexion (especially in the drops or aero bars). While not a power generator, it requires isometric endurance to hold an aerodynamic position; fatigue often leads to lower back compensation pain.",
+    "tags": [
+      "腹部與核心",
+      "單車",
+      "氣動姿勢",
+      "屈曲",
+      "側屈",
+      "核心穩定",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "abdomen_transversus_abdominis",
+    "name_zh": "腹橫肌",
+    "name_en": "Transversus Abdominis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Transversus_abdominis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Transversus_abdominis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "騎乘時的核心基石。透過增加腹內壓來支撐腰椎，抵抗路面顛簸帶來的衝擊。穩定的腹橫肌能為雙腿的高功率輸出提供堅實平台。",
+    "desc_en": "The cornerstone of cycling core stability. Increases intra-abdominal pressure to support the lumbar spine against road vibration. Provides a solid platform for high-power output from the legs.",
+    "tags": [
+      "腹部與核心",
+      "單車",
+      "穩定肌",
+      "核心穩定",
+      "呼吸輔助",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "arm_biceps_brachii",
+    "name_zh": "肱二頭肌",
+    "name_en": "Biceps Brachii",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Biceps_brachii.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Biceps_brachii.png\">Bildbearbetning: sv:Användare:Chrizz</a>, <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "在正常騎乘時負責微彎手肘以吸收震動。在抽車或衝刺時則強力收縮，協助拉動手把以對抗踩踏的反作用力。",
+    "desc_en": "Maintains slightly bent elbows to absorb shock during normal riding. Contracts powerfully during out-of-saddle climbing or sprinting to pull on the handlebars, countering pedaling forces.",
+    "tags": [
+      "上臂",
+      "單車",
+      "抽車",
+      "屈曲",
+      "旋後",
+      "上肢拉-垂直",
+      "姿勢維持",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "arm_brachialis",
+    "name_zh": "肱肌",
+    "name_en": "Brachialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/Brachialis_muscle_-_animation03.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Brachialis_muscle_-_animation03.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助維持騎乘時手肘的穩定屈曲角度。在長途騎乘或越野騎行（Gravel/MTB）中，需持續緩衝路面回饋，容易累積疲勞。",
+    "desc_en": "Helps maintain a stable elbow flexion angle while riding. During long-distance or off-road riding (Gravel/MTB), it continuously buffers road feedback and is prone to fatigue.",
+    "tags": [
+      "上臂",
+      "單車",
+      "越野騎行",
+      "屈曲",
+      "上肢拉-垂直",
+      "姿勢維持",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "arm_coracobrachialis",
+    "name_zh": "喙肱肌",
+    "name_en": "Coracobrachialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Coracobrachialis_muscle_-_animation02.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Coracobrachialis_muscle_-_animation02.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "輔助肩部穩定。在握下把位或極度趴低的氣動姿勢時，協助手臂維持內收位置，避免手肘過度外張增加風阻。",
+    "desc_en": "Assists in shoulder stability. Helps maintain arm adduction when in the drops or an extreme aero tuck, preventing elbows from flaring out and increasing aerodynamic drag.",
+    "tags": [
+      "上臂",
+      "單車",
+      "氣動姿勢",
+      "屈曲",
+      "內收",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "arm_triceps_brachii_lateral",
+    "name_zh": "肱三頭肌外側頭",
+    "name_en": "Triceps Brachii (Lateral Head)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Triceps_brachii_muscle06.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Triceps_brachii_muscle06.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "支撐上半身重量的關鍵肌肉。騎乘時需持續對抗重力，防止手肘潰縮。在長距離騎乘後段，三頭肌的疲勞常導致控車不穩。",
+    "desc_en": "Key muscle for supporting upper body weight. Constantly fights gravity to prevent elbow collapse. Fatigue here in the late stages of long rides often leads to unstable handling.",
+    "tags": [
+      "上臂",
+      "單車",
+      "伸展",
+      "上肢推-垂直",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "arm_triceps_brachii_long",
+    "name_zh": "肱三頭肌長頭",
+    "name_en": "Triceps Brachii (Long Head)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Triceps_brachii_muscle06.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Triceps_brachii_muscle06.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "除支撐體重外，也協助肩關節伸展。在維持氣動姿勢（Aero bars）時，長頭處於拉長狀態下承重，容易過度緊繃。",
+    "desc_en": "Besides supporting weight, assists in shoulder extension. When maintaining an aero position (triathlon bars), the long head bears weight in a lengthened state and is prone to excessive tightness.",
+    "tags": [
+      "上臂",
+      "單車",
+      "鐵人三項",
+      "伸展",
+      "內收",
+      "上肢推-垂直",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "arm_triceps_brachii_medial",
+    "name_zh": "肱三頭肌內側頭",
+    "name_en": "Triceps Brachii (Medial Head)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Triceps_brachii_muscle06.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Triceps_brachii_muscle06.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "精細控制手肘角度。在需要頻繁變換手把位置（上把、下把、煞變把）時，提供穩定的肘部支撐力。",
+    "desc_en": "Finely controls elbow angle. Provides stable elbow support when frequently changing hand positions (tops, drops, hoods).",
+    "tags": [
+      "上臂",
+      "單車",
+      "伸展",
+      "上肢推-垂直",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "back_erector_spinae",
+    "name_zh": "豎脊肌",
+    "name_en": "Erector Spinae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Gray389_-_Erector_spinae.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray389_-_Erector_spinae.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "單車騎士的「吊橋鋼索」。在軀幹前傾的騎姿下，需持續等長收縮以抵抗重力並保護脊椎。是騎乘後腰痠背痛最常見的源頭。",
+    "desc_en": "The cyclist's 'suspension cable'. Requires continuous isometric contraction to resist gravity and protect the spine in the bent-over cycling posture. The most common source of post-ride lower back pain.",
+    "tags": [
+      "脊柱骨骼",
+      "背部肌群",
+      "單車",
+      "伸展",
+      "側屈",
+      "衝擊吸收",
+      "姿勢維持",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "back_latissimus_dorsi",
+    "name_zh": "背闊肌",
+    "name_en": "Latissimus Dorsi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/Latissimus_dorsi_muscle_animation3.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Latissimus_dorsi_muscle_animation3.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在抽車或高瓦數輸出時，負責將上半身「拉向」手把，對抗腿部的推力。它連結手臂與下背，將上肢的穩定性傳遞至骨盆。",
+    "desc_en": "During sprinting or high-wattage efforts, pulls the upper body toward the handlebars to counter leg thrust. Connects the arms to the lower back, transferring upper limb stability to the pelvis.",
+    "tags": [
+      "背部肌群",
+      "單車",
+      "抽車",
+      "內收",
+      "伸展",
+      "內旋",
+      "上肢拉-垂直",
+      "核心穩定",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "back_quadratus_lumborum",
+    "name_zh": "腰方肌",
+    "name_en": "Quadratus Lumborum",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Quadratuslumborum.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Quadratuslumborum.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "骨盆的穩定錨點。在踩踏過程中防止骨盆過度左右搖擺。若坐墊高度設定不當（太高），會迫使騎士過度伸展腿部而拉扯此肌肉，造成下背痛。",
+    "desc_en": "The pelvic anchor. Prevents excessive lateral pelvic rocking while pedaling. If saddle height is too high, the rider is forced to overextend, straining this muscle and causing lower back pain.",
+    "tags": [
+      "背部肌群",
+      "腹部與核心",
+      "單車",
+      "側屈",
+      "伸展",
+      "穩定肌",
+      "核心穩定",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "calf_fibularis_brevis",
+    "name_zh": "腓骨短肌",
+    "name_en": "Fibularis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/be/Fibularis_brevis_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Fibularis_brevis_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助足部外翻與蹠屈。在踩踏時微調腳掌角度，確保力量垂直傳遞至踏板軸心。卡鞋扣片（Cleat）位置不當可能導致此肌肉過度緊繃。",
+    "desc_en": "Assists in foot eversion and plantarflexion. Fine-tunes foot angle during pedaling to ensure vertical force transfer to the pedal axle. Improper cleat alignment can cause excessive tension here.",
+    "tags": [
+      "小腿外側肌群",
+      "單車",
+      "外翻",
+      "蹠屈",
+      "踝關節蹠屈",
+      "足部外翻",
+      "穩定肌",
+      "踩踏"
+    ]
+  },
+  {
+    "id": "calf_fibularis_longus",
+    "name_zh": "腓骨長肌",
+    "name_en": "Fibularis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Superior_view_fibularis_longus_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Superior_view_fibularis_longus_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "穩定第一蹠骨（大拇指根部）下壓踏板。對於足弓支撐至關重要，防止踩踏重壓下足弓塌陷（旋前），從而保護膝蓋軌跡。",
+    "desc_en": "Stabilizes the first metatarsal pressing down on the pedal. Crucial for arch support, preventing arch collapse (pronation) under heavy pedaling loads, thereby protecting knee tracking.",
+    "tags": [
+      "小腿外側肌群",
+      "單車",
+      "外翻",
+      "蹠屈",
+      "踝關節蹠屈",
+      "足部外翻",
+      "足弓支撐",
+      "足部穩定",
+      "踩踏"
+    ]
+  },
+  {
+    "id": "calf_gastrocnemius",
+    "name_zh": "腓腸肌",
+    "name_en": "Gastrocnemius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Gastrocnemius_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gastrocnemius_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "腿部力量的傳遞者。負責將大腿產生的力量傳遞至踏板，特別是在踩踏底部（6點鐘方向）的過渡期。坐墊過高會導致膝蓋過伸，迫使腓腸肌過度伸展。",
+    "desc_en": "The transmitter of leg power. Transfers force from the thigh to the pedal, especially during the bottom transition (6 o'clock). Excessive saddle height causes knee hyperextension, overstretching the gastrocnemius.",
+    "tags": [
+      "小腿",
+      "單車",
+      "蹠屈",
+      "膝關節屈曲",
+      "原動肌",
+      "踩踏"
+    ]
+  },
+  {
+    "id": "calf_soleus",
+    "name_zh": "比目魚肌",
+    "name_en": "Soleus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Soleus_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Soleus_muscle_-_animation.gif\">Polygon data is generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "單車耐力的關鍵。在膝蓋彎曲狀態下（騎乘特性）是主要的蹠屈肌。負責在踩踏下死點維持腳跟穩定，防止腳跟下沉過多而浪費功率。",
+    "desc_en": "Key to cycling endurance. The primary plantarflexor when the knee is flexed (cycling characteristic). Maintains heel stability at the bottom dead center, preventing excessive heel drop and power loss.",
+    "tags": [
+      "小腿",
+      "單車",
+      "蹠屈",
+      "姿勢維持",
+      "原動肌",
+      "穩定肌",
+      "踩踏"
+    ]
+  },
+  {
+    "id": "calf_tibialis_posterior",
+    "name_zh": "脛骨後肌",
+    "name_en": "Tibialis Posterior",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/df/Inferior_view_of_tibialis_posterior_muscle_-_animation.gif",
+    "img_source": "https://upload.wikimedia.org/wikipedia/commons/d/df/Inferior_view_of_tibialis_posterior_muscle_-_animation.gif",
+    "desc": "足弓的深層支撐。在硬底卡鞋中，此肌肉需維持內側足弓形狀，防止足部過度內塌，確保膝蓋直線運作，預防膝內側疼痛。",
+    "desc_en": "Deep arch support. Inside stiff cycling shoes, it maintains the medial arch shape, preventing excessive foot collapse and ensuring linear knee tracking to prevent medial knee pain.",
+    "tags": [
+      "小腿深層肌群",
+      "單車",
+      "蹠屈",
+      "內翻",
+      "足弓支撐",
+      "穩定肌",
+      "踩踏"
+    ]
+  },
+  {
+    "id": "foot_abductor_digiti_minimi",
+    "name_zh": "小趾外展肌",
+    "name_en": "Abductor Digiti Minimi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gray_%E2%80%94_musculus_abductor_digiti_minimi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在較窄的卡鞋楦頭中常受壓迫。若鞋子太緊，此肌肉區域易產生麻木或熱點（Hot spots）。",
+    "desc_en": "Often compressed in narrow cycling shoes. If shoes are too tight, this muscle area is prone to numbness or 'hot spots'.",
+    "tags": [
+      "踝部與足部",
+      "單車",
+      "外展",
+      "屈曲",
+      "足部穩定",
+      "鞋具適配"
+    ]
+  },
+  {
+    "id": "foot_abductor_hallucis",
+    "name_zh": "拇外展肌",
+    "name_en": "Abductor Hallucis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Abductor_hallucis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Abductor_hallucis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "在踩踏高瓦數輸出時，負責穩定大拇指側的發力平台。若足弓支撐不足，此肌肉易疲勞痙攣。",
+    "desc_en": "Stabilizes the big toe platform during high-wattage pedaling. If arch support is insufficient, this muscle is prone to fatigue and cramping.",
+    "tags": [
+      "踝部與足部",
+      "單車",
+      "外展",
+      "屈曲",
+      "原動肌",
+      "足弓支撐",
+      "足部穩定"
+    ]
+  },
+  {
+    "id": "foot_adductor_hallucis",
+    "name_zh": "拇內收肌",
+    "name_en": "Adductor Hallucis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Musculus_adductor_hallucis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Musculus_adductor_hallucis.png\">Image:Gray445.png modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "維持橫向足弓的結構。由於單車鞋底極硬，此肌肉在騎乘中相對靜態，主要功能是將腳趾凝聚以便傳遞力量。",
+    "desc_en": "Maintains transverse arch structure. Due to stiff cycling shoe soles, this muscle is relatively static, mainly functioning to gather the toes for force transfer.",
+    "tags": [
+      "踝部與足部",
+      "單車",
+      "內收",
+      "屈曲",
+      "足弓支撐",
+      "橫向足弓"
+    ]
+  },
+  {
+    "id": "foot_extensor_digitorum_longus",
+    "name_zh": "長趾伸肌（足部段）",
+    "name_en": "Extensor Digitorum Longus (Distal)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/77/Extensor_digitorum_longus_muscle_-_animation_2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_digitorum_longus_muscle_-_animation_2.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在提拉期（Upstroke）協助勾起腳掌。若鞋子鞋舌過緊或太硬，其肌腱容易與鞋面摩擦發炎。",
+    "desc_en": "Assists in lifting the foot during the upstroke. Tendons are prone to friction/inflammation if the shoe tongue is too tight or stiff.",
+    "tags": [
+      "小腿",
+      "踝部與足部",
+      "單車",
+      "背屈",
+      "伸展",
+      "踩踏",
+      "鞋具適配"
+    ]
+  },
+  {
+    "id": "foot_extensor_hallucis_longus",
+    "name_zh": "長拇趾伸肌（足部段）",
+    "name_en": "Extensor Hallucis Longus (Distal)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Extensor_hallucis_longus_muscle_-_animation_2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_hallucis_longus_muscle_-_animation_2.gif\">Was a bee</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助上提期（10-12點鐘方向）的動作。鞋面旋鈕（如BOA）如果正好壓在此肌腱上，會引起腳背疼痛。",
+    "desc_en": "Assists during the upstroke (10-12 o'clock). If shoe dials (e.g., BOA) press directly on this tendon, it can cause dorsal foot pain.",
+    "tags": [
+      "小腿",
+      "踝部與足部",
+      "單車",
+      "背屈",
+      "伸展",
+      "踩踏",
+      "鞋具適配"
+    ]
+  },
+  {
+    "id": "foot_intrinsic_abductor_hallucis",
+    "name_zh": "拇趾外展肌（內在肌視角）",
+    "name_en": "Abductor Hallucis (Intrinsic)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Abductor_hallucis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Abductor_hallucis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "在踩踏發力時防止足內翻。許多騎士因鞋楦過窄擠壓大拇指，導致此肌肉功能受限，進而引發拇指外翻。",
+    "desc_en": "Prevents foot pronation during power application. Many cyclists suffer from narrow toe boxes compressing the big toe, restricting this muscle and leading to bunions.",
+    "tags": [
+      "踝部與足部",
+      "單車",
+      "外展",
+      "穩定肌",
+      "足弓支撐",
+      "鞋具適配"
+    ]
+  },
+  {
+    "id": "foot_intrinsic_flexor_digitorum_brevis",
+    "name_zh": "短趾屈肌（足部內在肌）",
+    "name_en": "Flexor Digitorum Brevis (Intrinsic)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Muscle_court_fl%C3%A9chisseur_des_orteils.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_court_fl%C3%A9chisseur_des_orteils.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "雖然卡鞋底板是硬的，但此肌肉仍需收縮以維持足弓張力，避免足底筋膜在長時間踩踏下過度拉扯。",
+    "desc_en": "Even with stiff carbon soles, this muscle contracts to maintain arch tension, protecting the plantar fascia from excessive strain during prolonged pedaling.",
+    "tags": [
+      "踝部與足部",
+      "單車",
+      "屈曲",
+      "穩定肌",
+      "足弓支撐",
+      "足底熱點"
+    ]
+  },
+  {
+    "id": "foot_lumbricals",
+    "name_zh": "足部蚓狀肌",
+    "name_en": "Lumbricals (Foot)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Lumbricales_pedis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_pedis.png\">Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "騎乘時應保持放鬆。若發生腳趾麻木或捲曲（Clawing），通常是鞋子太小或扣片位置太靠前，導致這些小肌肉反射性抓緊。",
+    "desc_en": "Should remain relaxed while riding. Numbness or toe clawing usually indicates shoes are too small or cleats are too far forward, causing reflexive gripping by these small muscles.",
+    "tags": [
+      "足部內在肌-第二層",
+      "單車",
+      "屈曲",
+      "伸展",
+      "足部穩定",
+      "鞋具適配"
+    ]
+  },
+  {
+    "id": "foot_peroneus_longus",
+    "name_zh": "長腓骨肌",
+    "name_en": "Peroneus Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Superior_view_fibularis_longus_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Superior_view_fibularis_longus_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "足部的「馬鐙」。負責將大拇指球（Ball of foot）壓向踏板，是力量傳遞的關鍵路徑。肌力不足會導致踩踏時腳掌外翻不穩。",
+    "desc_en": "The 'stirrup' of the foot. Presses the ball of the foot into the pedal, a key pathway for power transfer. Weakness leads to unstable foot eversion during pedaling.",
+    "tags": [
+      "小腿",
+      "踝部與足部",
+      "單車",
+      "蹠屈",
+      "外翻",
+      "原動肌",
+      "穩定肌",
+      "足弓支撐",
+      "踩踏"
+    ]
+  },
+  {
+    "id": "foot_quadratus_plantae",
+    "name_zh": "方形肌",
+    "name_en": "Quadratus Plantae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Muscle_carr%C3%A9_plantaire.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_carr%C3%A9_plantaire.png\">Berichard d&#039;après Gray&#039;s anatomy</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "協助穩定腳趾。在長時間高強度踩踏下，若發生足底抽筋，此肌肉常是主要受害者之一。",
+    "desc_en": "Assists in toe stabilization. During long, high-intensity rides, this muscle is often a victim when plantar cramping occurs.",
+    "tags": [
+      "踝部與足部",
+      "單車",
+      "屈曲",
+      "足弓支撐",
+      "足底熱點"
+    ]
+  },
+  {
+    "id": "forearm_abductor_pollicis_longus",
+    "name_zh": "拇指外展長肌",
+    "name_en": "Abductor Pollicis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/61/Gray_%E2%80%94_musculus_abductor_pollicis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_pollicis_longus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責控制大拇指操作變速撥桿（Shifters）。頻繁變速（如起伏路段）會使其累積疲勞。",
+    "desc_en": "Controls the thumb for operating shifters. Frequent shifting (e.g., on rolling terrain) can lead to accumulated fatigue.",
+    "tags": [
+      "肘部與前臂",
+      "單車",
+      "外展",
+      "原動肌",
+      "變速操作"
+    ]
+  },
+  {
+    "id": "forearm_brachioradialis",
+    "name_zh": "肱橈肌",
+    "name_en": "Brachioradialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/09/Brachioradialis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Brachioradialis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在握上把或變速把位時，維持前臂的中立位置。在礫石車或登山車騎乘中，因不斷吸收震動與控制龍頭，負荷極大。",
+    "desc_en": "Maintains forearm neutrality when on the tops or hoods. Under heavy load during gravel or MTB riding due to constant shock absorption and steering control.",
+    "tags": [
+      "肘部與前臂",
+      "單車",
+      "屈曲",
+      "上肢拉-水平",
+      "原動肌",
+      "姿勢維持",
+      "控車"
+    ]
+  },
+  {
+    "id": "forearm_extensor_carpi_radialis_brevis",
+    "name_zh": "橈側腕伸肌短肌",
+    "name_en": "Extensor Carpi Radialis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Gray_%E2%80%94_musculus_extensor_carpi_radialis_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_carpi_radialis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責穩定手腕伸展姿勢。長時間握下把或手腕角度不當（過度背屈），是導致「網球肘」（外上髁炎）在單車族群發生的主因。",
+    "desc_en": "Stabilizes wrist extension. Prolonged riding in the drops or improper wrist angulation (excessive extension) is a primary cause of 'Tennis Elbow' (lateral epicondylitis) among cyclists.",
+    "tags": [
+      "肘部與前臂",
+      "單車",
+      "伸展",
+      "外展",
+      "穩定肌",
+      "姿勢維持",
+      "握把技巧"
+    ]
+  },
+  {
+    "id": "forearm_extensor_carpi_radialis_longus",
+    "name_zh": "橈側腕伸肌長肌",
+    "name_en": "Extensor Carpi Radialis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/53/Extensor_carpi_radialis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_carpi_radialis_longus.png\">Me</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助穩定手腕並提供握力。在長途騎乘中，若手把位置過低或Reach過長，導致手腕持續過度伸展，此肌肉易緊繃並引發肘部外側疼痛。",
+    "desc_en": "Assists in stabilizing the wrist and providing grip strength. On long rides, if handlebars are too low or reach is too long, causing sustained excessive wrist extension, this muscle becomes tight and can trigger lateral elbow pain.",
+    "tags": [
+      "肘部與前臂",
+      "單車",
+      "伸展",
+      "外展",
+      "穩定肌",
+      "握把技巧",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_carpi_ulnaris",
+    "name_zh": "尺側腕伸肌",
+    "name_en": "Extensor Carpi Ulnaris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gray_%E2%80%94_musculus_extensor_carpi_ulnaris.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_carpi_ulnaris.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責手腕伸展與尺偏（向小指側偏移）。在使用直把（Flat bar）或握下把位（Drops）時，負責穩定手腕外側，承受路面震動。",
+    "desc_en": "Responsible for wrist extension and ulnar deviation. When using flat bars or riding in the drops, it stabilizes the outer wrist and absorbs road vibration.",
+    "tags": [
+      "肘部與前臂",
+      "單車",
+      "伸展",
+      "內收",
+      "原動肌",
+      "握把技巧",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_digiti_minimi",
+    "name_zh": "小指伸肌",
+    "name_en": "Extensor Digiti Minimi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gray_%E2%80%94_musculus_extensor_digiti_minimi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "輔助小指伸展。在長時間握持手把時，若過度用力抓握，此肌肉會隨之緊繃。應保持手指靈活以隨時準備操作煞車。",
+    "desc_en": "Assists in extending the little finger. During prolonged handlebar gripping, excessive squeezing tightens this muscle. Fingers should remain dexterous for braking readiness.",
+    "tags": [
+      "肘部與前臂",
+      "單車",
+      "伸展",
+      "原動肌",
+      "握把技巧",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_digitorum",
+    "name_zh": "指伸肌",
+    "name_en": "Extensor Digitorum",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Extensor_digitorum_muscle.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_digitorum_muscle.png\">Mikael Häggström</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責手指伸展，特別是在鬆開煞車或是變換握姿時。持續緊握手把會使伸肌群與屈肌群同時收縮（Co-contraction），造成前臂過早疲勞。",
+    "desc_en": "Responsible for finger extension, particularly when releasing brakes or changing grip positions. Continuous tight gripping causes co-contraction of extensors and flexors, leading to premature forearm fatigue.",
+    "tags": [
+      "肘部與前臂",
+      "單車",
+      "伸展",
+      "握把技巧",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_indicis",
+    "name_zh": "食指伸肌",
+    "name_en": "Extensor Indicis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Extensor_indicis_muscle.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_indicis_muscle.png\">Mikael Häggström</a>, Public domain, via Wikimedia Commons",
+    "desc": "獨立控制食指。對於使用食指操作煞車（單指煞車技巧）或電子變速按鈕的騎士而言，此肌肉需具備精細的控制能力。",
+    "desc_en": "Independently controls the index finger. For cyclists using one-finger braking or operating electronic shifting buttons, this muscle requires fine motor control.",
+    "tags": [
+      "肘部與前臂",
+      "單車",
+      "伸展",
+      "煞車操作",
+      "變速操作"
+    ]
+  },
+  {
+    "id": "forearm_extensor_pollicis_brevis",
+    "name_zh": "拇指伸短肌",
+    "name_en": "Extensor Pollicis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Gray_%E2%80%94_musculus_extensor_pollicis_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_pollicis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助拇指外展與伸展。在握持變速把（Hoods）時，拇指需維持張開以環扣握把本體，長時間騎乘可能累積疲勞。",
+    "desc_en": "Assists in thumb abduction and extension. When gripping the hoods, the thumb must remain open to wrap around the shifter body; long rides can lead to accumulated fatigue.",
+    "tags": [
+      "肘部與前臂",
+      "單車",
+      "伸展",
+      "外展",
+      "原動肌",
+      "握把技巧"
+    ]
+  },
+  {
+    "id": "forearm_extensor_pollicis_longus",
+    "name_zh": "拇指伸長肌",
+    "name_en": "Extensor Pollicis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/80/Gray_%E2%80%94_musculus_extensor_pollicis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_pollicis_longus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責拇指伸直。在操作某些變速系統（如Campagnolo的內側按鈕或登山車指撥）時，需頻繁使用此肌肉回彈拇指。",
+    "desc_en": "Extends the thumb. Required frequently to retract the thumb when operating certain shifting systems (e.g., Campagnolo thumb buttons or MTB triggers).",
+    "tags": [
+      "肘部與前臂",
+      "單車",
+      "伸展",
+      "原動肌",
+      "變速操作"
+    ]
+  },
+  {
+    "id": "forearm_flexor_carpi_radialis",
+    "name_zh": "橈側腕屈肌",
+    "name_en": "Flexor Carpi Radialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Gray_%E2%80%94_musculus_flexor_carpi_radialis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_carpi_radialis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責屈腕。在抽車衝刺或用力拉起手把時強烈收縮。過度使用或手把帶過薄可能導致肌腱發炎。",
+    "desc_en": "Responsible for wrist flexion. Contracts strongly during sprinting or pulling up on the bars. Overuse or thin handlebar tape can lead to tendonitis.",
+    "tags": [
+      "肘部與前臂",
+      "單車",
+      "屈曲",
+      "外展",
+      "原動肌",
+      "抽車",
+      "握把技巧"
+    ]
+  },
+  {
+    "id": "forearm_flexor_carpi_ulnaris",
+    "name_zh": "尺側腕屈肌",
+    "name_en": "Flexor Carpi Ulnaris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/75/Flexor_carpi_ulnaris.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Flexor_carpi_ulnaris.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "提供強大的抓握與屈腕力量。其肌腱旁的尺神經容易因長時間壓迫手把（Cyclist's Palsy）而受損，導致小指麻木無力。",
+    "desc_en": "Provides powerful gripping and wrist flexion force. The adjacent ulnar nerve is susceptible to compression from prolonged handlebar pressure (Cyclist's Palsy), causing numbness and weakness in the little finger.",
+    "tags": [
+      "肘部與前臂",
+      "單車",
+      "屈曲",
+      "內收",
+      "原動肌",
+      "握把技巧",
+      "神經壓迫"
+    ]
+  },
+  {
+    "id": "forearm_flexor_digitorum_profundus",
+    "name_zh": "深指屈肌",
+    "name_en": "Flexor Digitorum Profundus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/24/Flexor-digitorum-profundis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Flexor-digitorum-profundis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責手指遠端關節的彎曲，即「扣住」煞車拉桿的動作。在長下坡需持續按壓煞車時，此肌肉是前臂痠痛的主要來源。",
+    "desc_en": "Flexes the distal finger joints, crucial for 'hooking' the brake levers. During long descents requiring continuous braking, this muscle is the primary source of forearm pump/fatigue.",
+    "tags": [
+      "肘部與前臂",
+      "單車",
+      "屈曲",
+      "原動肌",
+      "煞車操作",
+      "下坡技巧"
+    ]
+  },
+  {
+    "id": "forearm_flexor_digitorum_superficialis",
+    "name_zh": "淺指屈肌",
+    "name_en": "Flexor Digitorum Superficialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/93/Gray_%E2%80%94_musculus_flexor_digitorum_superficialis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_digitorum_superficialis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責握住手把的主要肌肉。在顛簸路面（如鵝卵石或越野路況）提供持續的抓握力，防止手脫離手把。",
+    "desc_en": "Primary muscle for gripping the handlebars. Provides sustained grip strength on rough surfaces (cobbles, off-road) to prevent hands from slipping off the bars.",
+    "tags": [
+      "肘部與前臂",
+      "單車",
+      "屈曲",
+      "原動肌",
+      "握把技巧",
+      "越野騎行"
+    ]
+  },
+  {
+    "id": "forearm_flexor_pollicis_longus",
+    "name_zh": "長拇指屈肌",
+    "name_en": "Flexor Pollicis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Musculus_flexor_pollicis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Musculus_flexor_pollicis_longus.png\">Me</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責拇指緊扣手把。在下坡或跳躍動作中，拇指必須反向扣住手把下方以確保安全，此動作高度依賴此肌肉。",
+    "desc_en": "Locks the thumb around the handlebar. During descents or jumps, the thumb must wrap securely under the bar for safety, a distinct action relying heavily on this muscle.",
+    "tags": [
+      "肘部與前臂",
+      "單車",
+      "屈曲",
+      "原動肌",
+      "握把技巧",
+      "控車"
+    ]
+  },
+  {
+    "id": "forearm_palmaris_longus",
+    "name_zh": "掌長肌",
+    "name_en": "Palmaris Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/86/Palmaris-longus-horizontal.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Palmaris-longus-horizontal.png\">Henry Gray</a>, Public domain, via Wikimedia Commons",
+    "desc": "雖然部分人缺失，但在單車運動中可輔助屈腕與緊張手掌筋膜，增加抓握的穩定性。",
+    "desc_en": "Though absent in some, it assists in wrist flexion and tensing the palmar fascia, enhancing grip stability during cycling.",
+    "tags": [
+      "肘部與前臂",
+      "單車",
+      "屈曲",
+      "原動肌",
+      "握把技巧"
+    ]
+  },
+  {
+    "id": "forearm_pronator_quadratus",
+    "name_zh": "方形旋前肌",
+    "name_en": "Pronator Quadratus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Pronator-quadratus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pronator-quadratus.png\">Selket at English Wikipedia</a>, Public domain, via Wikimedia Commons",
+    "desc": "在握下把（Drops）或平把（Flat bar）時，維持前臂的旋前姿勢。特別是在激烈的繞圈賽或越野騎乘中，穩定遠端橈尺關節。",
+    "desc_en": "Maintains forearm pronation when in the drops or on flat bars. Stabilizes the distal radioulnar joint, especially during intense criteriums or off-road riding.",
+    "tags": [
+      "肘部與前臂",
+      "單車",
+      "旋前",
+      "原動肌",
+      "握把技巧",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_pronator_teres",
+    "name_zh": "旋前圓肌",
+    "name_en": "Pronator Teres",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Gray_%E2%80%94_musculus_pronator_teres.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_pronator_teres.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "將前臂旋轉至手掌朝下的騎乘位置。長時間維持固定姿勢可能導致此肌肉緊繃，進而壓迫正中神經（旋前圓肌症候群）。",
+    "desc_en": "Rotates the forearm to the palms-down cycling position. Prolonged static posture can tighten this muscle, potentially compressing the median nerve (Pronator Teres Syndrome).",
+    "tags": [
+      "肘部與前臂",
+      "單車",
+      "屈曲",
+      "旋前",
+      "上肢拉-水平",
+      "原動肌",
+      "姿勢維持",
+      "神經壓迫"
+    ]
+  },
+  {
+    "id": "forearm_supinator",
+    "name_zh": "旋後肌",
+    "name_en": "Supinator",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Gray_%E2%80%94_musculus_supinator.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_supinator.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在騎乘中通常處於被拉長狀態（因手掌朝下）。但在某些登山車技巧（如壓車過彎）或變換握姿時會參與前臂控制。",
+    "desc_en": "Usually lengthened during riding (due to pronated hands). However, it participates in forearm control during certain MTB maneuvers (like cornering lean) or grip changes.",
+    "tags": [
+      "肘部與前臂",
+      "單車",
+      "旋後",
+      "原動肌",
+      "控車"
+    ]
+  },
+  {
+    "id": "hand_abductor_digiti_minimi",
+    "name_zh": "小指外展肌",
+    "name_en": "Abductor Digiti Minimi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gray_%E2%80%94_musculus_abductor_digiti_minimi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "位於手掌小指側（小魚際）。此區域直接承受手把壓力，若手套襯墊不足或握姿錯誤，易導致肌肉挫傷或尺神經壓迫。",
+    "desc_en": "Located on the pinky side of the palm (hypothenar). This area bears direct handlebar pressure; insufficient glove padding or poor grip mechanics can lead to contusion or ulnar nerve compression.",
+    "tags": [
+      "手腕與手部",
+      "單車",
+      "外展",
+      "精細運動",
+      "原動肌",
+      "握把技巧",
+      "神經壓迫"
+    ]
+  },
+  {
+    "id": "hand_abductor_pollicis_brevis",
+    "name_zh": "拇指外展短肌",
+    "name_en": "Abductor Pollicis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Gray_%E2%80%94_musculus_abductor_pollicis_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_pollicis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "大魚際肌群的一部分。負責張開拇指以握住煞變把（Hoods）。長時間騎乘導致的「滑鼠手」症狀在此處表現為痠痛。",
+    "desc_en": "Part of the thenar group. Opens the thumb to grip the hoods. Long rides can cause ache here, similar to repetitive strain injuries.",
+    "tags": [
+      "手腕與手部",
+      "單車",
+      "外展",
+      "屈曲",
+      "精細運動",
+      "原動肌",
+      "握把技巧"
+    ]
+  },
+  {
+    "id": "hand_adductor_pollicis",
+    "name_zh": "拇指內收肌",
+    "name_en": "Adductor Pollicis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gray_%E2%80%94_musculus_adductor_pollicis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_adductor_pollicis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責拇指「夾緊」手把的力量。在顛簸路面或衝刺時，提供關鍵的抓握穩定性，防止手滑脫。",
+    "desc_en": "Provides the thumb's 'pinching' force on the bar. Delivers critical grip stability on rough terrain or during sprints, preventing hand slippage.",
+    "tags": [
+      "手腕與手部",
+      "單車",
+      "內收",
+      "精細運動",
+      "原動肌",
+      "握把技巧",
+      "控車"
+    ]
+  },
+  {
+    "id": "hand_dorsal_interossei_1",
+    "name_zh": "背側骨間肌一",
+    "name_en": "Dorsal Interosseous 1",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/1121_Intrinsic_Muscles_of_the_Hand_DIL.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_DIL.png\">CFCF</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "虎口處的肌肉。在長時間按壓煞車或握持下把時提供穩定。過度緊繃是虎口痠痛的常見原因。",
+    "desc_en": "Muscle in the web space between thumb and index. Stabilizes the hand during prolonged braking or in the drops. Excessive tension here is a common cause of web space pain.",
+    "tags": [
+      "手腕與手部",
+      "單車",
+      "外展",
+      "屈曲",
+      "精細運動",
+      "煞車操作",
+      "握把技巧"
+    ]
+  },
+  {
+    "id": "hand_dorsal_interossei_2",
+    "name_zh": "背側骨間肌二",
+    "name_en": "Dorsal Interosseous 2",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/1121_Intrinsic_Muscles_of_the_Hand_DIL.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_DIL.png\">CFCF</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "協助手指張開與穩定。在操作變速撥桿時，協助手指進行精細的側向動作。",
+    "desc_en": "Assists in finger abduction and stability. Helps with fine lateral finger movements when operating shift levers.",
+    "tags": [
+      "手腕與手部",
+      "單車",
+      "外展",
+      "屈曲",
+      "精細運動",
+      "變速操作"
+    ]
+  },
+  {
+    "id": "hand_dorsal_interossei_3",
+    "name_zh": "背側骨間肌三",
+    "name_en": "Dorsal Interosseous 3",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/1121_Intrinsic_Muscles_of_the_Hand_DIL.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_DIL.png\">CFCF</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "在握持寬手把（如登山車）時，協助無名指適應握把角度，分散手掌壓力。",
+    "desc_en": "Assists the ring finger in adapting to grip angles, distributing palm pressure, especially when using wide handlebars (MTB).",
+    "tags": [
+      "手腕與手部",
+      "單車",
+      "外展",
+      "屈曲",
+      "精細運動",
+      "握把技巧"
+    ]
+  },
+  {
+    "id": "hand_dorsal_interossei_4",
+    "name_zh": "背側骨間肌四",
+    "name_en": "Dorsal Interosseous 4",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/1121_Intrinsic_Muscles_of_the_Hand_DIL.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_DIL.png\">CFCF</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "協助小指張開。在騎乘中若手掌邊緣受到過大壓迫，此肌肉可能會反射性緊張。",
+    "desc_en": "Assists little finger abduction. If the ulnar edge of the palm is compressed during riding, this muscle may reflexively tense up.",
+    "tags": [
+      "手腕與手部",
+      "單車",
+      "外展",
+      "屈曲",
+      "精細運動",
+      "握把技巧"
+    ]
+  },
+  {
+    "id": "hand_flexor_digiti_minimi",
+    "name_zh": "小指屈肌短",
+    "name_en": "Flexor Digiti Minimi Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Gray_%E2%80%94_musculus_flexor_digiti_minimi_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_digiti_minimi_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "維持小指緊扣手把的力量。在路面顛簸時，防止手掌外側滑脫。長期受壓易麻木。",
+    "desc_en": "Maintains the little finger's grip on the bar. Prevents lateral hand slip on rough roads. Prone to numbness from long-term compression.",
+    "tags": [
+      "手腕與手部",
+      "單車",
+      "屈曲",
+      "精細運動",
+      "原動肌",
+      "握把技巧",
+      "控車"
+    ]
+  },
+  {
+    "id": "hand_flexor_pollicis_brevis",
+    "name_zh": "拇指屈短肌",
+    "name_en": "Flexor Pollicis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Gray_%E2%80%94_musculus_flexor_pollicis_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_pollicis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "大魚際的核心肌肉。長時間握持變速把（Hoods）時提供持續的握持張力。騎乘後虎口痠痛的主要來源之一。",
+    "desc_en": "Core muscle of the thenar eminence. Provides sustained grip tension on the hoods. A primary source of web space ache after long rides.",
+    "tags": [
+      "手腕與手部",
+      "單車",
+      "屈曲",
+      "精細運動",
+      "原動肌",
+      "握把技巧"
+    ]
+  },
+  {
+    "id": "hand_lumbrical_1",
+    "name_zh": "蚓狀肌一（食指）",
+    "name_en": "Lumbrical 1 (Index)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lumbricales_%28hand%29.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png\">Image:Gray427.png modified</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責食指掌指關節屈曲。在準備按壓煞車的「預備位置」時，維持食指的自然彎曲與反應能力。",
+    "desc_en": "Flexes the index MCP joint. Maintains natural curvature and reactivity of the index finger in the 'ready to brake' position.",
+    "tags": [
+      "手腕與手部",
+      "單車",
+      "屈曲",
+      "伸展",
+      "精細運動",
+      "煞車操作"
+    ]
+  },
+  {
+    "id": "hand_lumbrical_2",
+    "name_zh": "蚓狀肌二（中指）",
+    "name_en": "Lumbrical 2 (Middle)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lumbricales_%28hand%29.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png\">Image:Gray427.png modified</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助中指扣住煞車拉桿（雙指煞車時）。協調手指伸屈，確保煞車動作細膩不僵硬。",
+    "desc_en": "Assists the middle finger in hooking the brake lever (for two-finger braking). Coordinates finger movement for smooth, modulated braking.",
+    "tags": [
+      "手腕與手部",
+      "單車",
+      "屈曲",
+      "伸展",
+      "精細運動",
+      "煞車操作"
+    ]
+  },
+  {
+    "id": "hand_lumbrical_3",
+    "name_zh": "蚓狀肌三（無名指）",
+    "name_en": "Lumbrical 3 (Ring)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lumbricales_%28hand%29.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png\">Image:Gray427.png modified</a>, Public domain, via Wikimedia Commons",
+    "desc": "維持無名指對手把的環扣。在煞車時，此手指通常留在手把上負責穩固龍頭。",
+    "desc_en": "Maintains the ring finger's wrap around the bar. During braking, this finger usually remains on the bar to stabilize the steering.",
+    "tags": [
+      "手腕與手部",
+      "單車",
+      "屈曲",
+      "伸展",
+      "精細運動",
+      "握把技巧"
+    ]
+  },
+  {
+    "id": "hand_lumbrical_4",
+    "name_zh": "蚓狀肌四（小指）",
+    "name_en": "Lumbrical 4 (Little)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lumbricales_%28hand%29.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png\">Image:Gray427.png modified</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助小指的抓握。由於小指位於手把最外側，此肌肉對於感知手把邊界與防止脫手相當重要。",
+    "desc_en": "Assists little finger grip. As the outermost finger, it's crucial for sensing handlebar edges and preventing hand slip.",
+    "tags": [
+      "手腕與手部",
+      "單車",
+      "屈曲",
+      "伸展",
+      "精細運動",
+      "握把技巧"
+    ]
+  },
+  {
+    "id": "hand_opponens_digiti_minimi",
+    "name_zh": "小指對立肌",
+    "name_en": "Opponens Digiti Minimi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Gray_%E2%80%94_musculus_opponens_digiti_minimi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_opponens_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "加深手掌的「杯狀」結構以包覆圓形手把。長距離騎乘後，手掌外側的疲勞感多源於此。",
+    "desc_en": "Deepens the palm's 'cup' to wrap around the round handlebars. Fatigue on the outer palm after long rides often originates here.",
+    "tags": [
+      "手腕與手部",
+      "單車",
+      "對立",
+      "精細運動",
+      "原動肌",
+      "握把技巧"
+    ]
+  },
+  {
+    "id": "hand_opponens_pollicis",
+    "name_zh": "拇指對立肌",
+    "name_en": "Opponens Pollicis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Gray_%E2%80%94_musculus_opponens_pollicis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_opponens_pollicis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責拇指轉向手心，是握緊手把的關鍵動作。在顛簸路面騎乘時需持續用力，容易過度緊繃。",
+    "desc_en": "Rotates the thumb toward the palm, key for a secure grip. Requires sustained effort on rough terrain, making it prone to tightness.",
+    "tags": [
+      "手腕與手部",
+      "單車",
+      "對立",
+      "精細運動",
+      "原動肌",
+      "握把技巧",
+      "控車"
+    ]
+  },
+  {
+    "id": "hand_palmar_interossei_1",
+    "name_zh": "掌側骨間肌一",
+    "name_en": "Palmar Interosseous 1",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Braus_1921_215.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Braus_1921_215.png\">Braus, Hermann</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責食指內收。在握持空力把（Aerobars）或下把位衝刺時，協助手指緊閉以減少空氣阻力並增加抓握整體性。",
+    "desc_en": "Adducts the index finger. Assists in keeping fingers closed to reduce aerodynamic drag and improve grip integrity when holding aerobars or sprinting in the drops.",
+    "tags": [
+      "手腕與手部",
+      "單車",
+      "內收",
+      "屈曲",
+      "精細運動",
+      "氣動姿勢",
+      "握把技巧"
+    ]
+  },
+  {
+    "id": "hand_palmar_interossei_2",
+    "name_zh": "掌側骨間肌二",
+    "name_en": "Palmar Interosseous 2",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Braus_1921_215.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Braus_1921_215.png\">Braus, Hermann</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責無名指內收。在長時間騎乘中，協助維持手指併攏的省力握姿。",
+    "desc_en": "Adducts the ring finger. Helps maintain an energy-efficient, closed-finger grip during long rides.",
+    "tags": [
+      "手腕與手部",
+      "單車",
+      "內收",
+      "屈曲",
+      "精細運動",
+      "握把技巧"
+    ]
+  },
+  {
+    "id": "hand_palmar_interossei_3",
+    "name_zh": "掌側骨間肌三",
+    "name_en": "Palmar Interosseous 3",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Braus_1921_215.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Braus_1921_215.png\">Braus, Hermann</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責小指內收。防止小指在騎乘中外張，這對於預防小指勾到障礙物（如登山車林道騎乘）或減少風阻很重要。",
+    "desc_en": "Adducts the little finger. Prevents the pinky from flaring out, which is important for avoiding obstacles (in MTB) or reducing drag.",
+    "tags": [
+      "手腕與手部",
+      "單車",
+      "內收",
+      "屈曲",
+      "精細運動",
+      "握把技巧"
+    ]
+  },
+  {
+    "id": "hand_palmaris_brevis",
+    "name_zh": "掌短肌",
+    "name_en": "Palmaris Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Gray_%E2%80%94_musculus_palmaris_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_palmaris_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "位於手掌尺側皮下。保護通過此區域的尺神經與血管。合適的手套襯墊能輔助此肌肉緩衝手把震動。",
+    "desc_en": "Located subcutaneously on the ulnar side of the palm. Protects the underlying ulnar nerve and vessels. Proper glove padding supplements this muscle in buffering handlebar vibration.",
+    "tags": [
+      "手腕與手部",
+      "單車",
+      "姿勢維持",
+      "穩定肌",
+      "神經壓迫"
+    ]
+  },
+  {
+    "id": "head_masseter",
+    "name_zh": "咬肌",
+    "name_en": "Masseter",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/13/Masseter_muscle_animation_small.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Masseter_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "痛苦表情的來源。騎士在極限爬坡或全力衝刺時常不自覺咬緊牙關。這會消耗額外能量並導致頸部緊繃，應練習「鬆下巴」騎乘。",
+    "desc_en": "The source of the 'pain face'. Cyclists often unconsciously clench their jaw during limit climbing or sprinting. This wastes energy and tightens the neck; practice riding with a 'loose jaw'.",
+    "tags": [
+      "顱骨與顳顎關節",
+      "單車",
+      "抽車",
+      "屈曲",
+      "提升/下壓",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "head_medial_pterygoid",
+    "name_zh": "內翼肌",
+    "name_en": "Medial Pterygoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Medial_pterygoid_muscle_animation_2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Medial_pterygoid_muscle_animation_2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "與咬肌協同。長時間咬牙切齒會造成下顎疲勞，甚至引發緊張性頭痛，影響長途騎乘的專注力。",
+    "desc_en": "Works with the masseter. Prolonged clenching causes jaw fatigue and even tension headaches, impairing focus during long rides.",
+    "tags": [
+      "顱骨與顳顎關節",
+      "單車",
+      "屈曲",
+      "內收",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "head_temporalis",
+    "name_zh": "顳肌",
+    "name_en": "Temporalis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Temporal_muscle_-_lateral_view.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Temporal_muscle_-_lateral_view.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "安全帽束帶若過緊會壓迫此肌肉造成不適。此外，高強度騎乘時的臉部緊繃也會導致太陽穴區域痠痛。",
+    "desc_en": "Over-tight helmet straps can compress this muscle causing discomfort. Additionally, facial tension during high-intensity riding leads to soreness in the temple area.",
+    "tags": [
+      "顱骨與顳顎關節",
+      "單車",
+      "屈曲",
+      "提升/下壓",
+      "姿勢維持",
+      "裝備適配"
+    ]
+  },
+  {
+    "id": "hip_adductor_brevis",
+    "name_zh": "短內收肌",
+    "name_en": "Adductor Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/55/Adductor_brevis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Adductor_brevis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助將大腿維持在靠近車架中線的位置。防止膝蓋外開（膝外翻），確保踩踏力量垂直向下傳遞。",
+    "desc_en": "Helps keep the thigh close to the bike's midline. Prevents knees from flaring out (knee varus), ensuring pedaling force is directed vertically downward.",
+    "tags": [
+      "內收肌群",
+      "單車",
+      "內收",
+      "屈曲",
+      "外旋",
+      "原動肌",
+      "穩定肌",
+      "踩踏"
+    ]
+  },
+  {
+    "id": "hip_gluteus_maximus",
+    "name_zh": "臀大肌",
+    "name_en": "Gluteus Maximus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Gluteus_maximus_3D.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gluteus_maximus_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "單車運動的「發動機」。主要負責踩踏週期中12點鐘至5點鐘方向的強力下踩（髖伸展）。其輸出功率直接決定了騎乘速度與爬坡能力。",
+    "desc_en": "The cycling 'engine'. Primarily responsible for the powerful downstroke (hip extension) from 12 to 5 o'clock. Its power output directly dictates speed and climbing ability.",
+    "tags": [
+      "髖部與大腿",
+      "單車",
+      "伸展",
+      "外旋",
+      "外展",
+      "下肢拉/髖絞鍊",
+      "原動肌",
+      "核心穩定",
+      "踩踏"
+    ]
+  },
+  {
+    "id": "hip_gluteus_medius",
+    "name_zh": "臀中肌",
+    "name_en": "Gluteus Medius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Gluteus_medius_muscle_-_animation01.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gluteus_medius_muscle_-_animation01.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "骨盆穩定的關鍵。防止踩踏時骨盆左右晃動，並確保膝蓋在踩踏過程中維持直線軌跡，不內扣撞擊上管。",
+    "desc_en": "Key to pelvic stability. Prevents lateral pelvic rocking while pedaling and ensures the knee tracks in a straight line, avoiding medial collapse towards the top tube.",
+    "tags": [
+      "髖部與大腿",
+      "單車",
+      "外展",
+      "外旋",
+      "穩定肌",
+      "核心穩定",
+      "踩踏"
+    ]
+  },
+  {
+    "id": "hip_gluteus_minimus",
+    "name_zh": "臀小肌",
+    "name_en": "Gluteus Minimus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Gluteus_minimus_muscle_animation04.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gluteus_minimus_muscle_animation04.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "深層穩定肌。協助將股骨頭固定在髖臼內，在長距離高轉速踩踏（High Cadence）時，提供關節深層的穩定性。",
+    "desc_en": "Deep stabilizer. Helps secure the femoral head in the acetabulum, providing deep joint stability during long-distance, high-cadence pedaling.",
+    "tags": [
+      "臀部肌群",
+      "單車",
+      "外展",
+      "內旋",
+      "穩定肌",
+      "核心穩定",
+      "踩踏"
+    ]
+  },
+  {
+    "id": "hip_gracilis",
+    "name_zh": "薄肌（髖部段）",
+    "name_en": "Gracilis (Hip)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gracilis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gracilis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "雙關節肌。協助屈膝與髖內收。在坐姿騎乘時，幫助維持大腿靠近車架，優化氣動效應並穩定膝關節內側。",
+    "desc_en": "Biarticular muscle. Assists in knee flexion and hip adduction. While seated, helps keep the thigh close to the frame, optimizing aerodynamics and stabilizing the medial knee.",
+    "tags": [
+      "內收肌群",
+      "單車",
+      "內收",
+      "屈曲",
+      "內旋",
+      "原動肌",
+      "穩定肌",
+      "踩踏"
+    ]
+  },
+  {
+    "id": "hip_iliacus",
+    "name_zh": "髂肌",
+    "name_en": "Iliacus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Iliacus_muscle_-_animation05.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Iliacus_muscle_-_animation05.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "踩踏「上提期（Upstroke）」的關鍵。負責在6點鐘到12點鐘方向將腿拉起。如果此肌肉疲勞，騎士會感覺踩踏變得沉重且不圓滑。",
+    "desc_en": "Critical for the 'Upstroke'. Responsible for pulling the leg up from 6 to 12 o'clock. If fatigued, the pedal stroke feels heavy and square rather than circular.",
+    "tags": [
+      "髖屈肌群",
+      "單車",
+      "屈曲",
+      "外旋",
+      "原動肌",
+      "踩踏",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "hip_iliopsoas",
+    "name_zh": "髂腰肌",
+    "name_en": "Iliopsoas",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Braus_1921_244.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Braus_1921_244.png\">Braus, Hermann</a>, Public domain, via Wikimedia Commons",
+    "desc": "單車運動最重要的屈髖肌群。負責將大腿向上拉過踩踏頂點（12點鐘方向）。由於騎車時髖關節長期處於屈曲狀態，此肌群極易縮短緊繃，導致下車後站不直或腰痛。",
+    "desc_en": "The most important hip flexor in cycling. Pulls the thigh up and over the top dead center (12 o'clock). Because cycling involves prolonged hip flexion, this group is prone to adaptive shortening, leading to difficulty standing upright or back pain off the bike.",
+    "tags": [
+      "髖部與大腿",
+      "單車",
+      "屈曲",
+      "外旋",
+      "下肢推",
+      "踩踏",
+      "原動肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "hip_obturator_externus",
+    "name_zh": "閉孔外肌",
+    "name_en": "Obturator Externus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/14/Obturator_externus_large.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Obturator_externus_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "深層髖旋轉肌。在變換騎姿（坐姿轉抽車）或高扭力踩踏時，穩定股骨頭，防止髖關節內部產生不必要的微動。",
+    "desc_en": "Deep hip rotator. Stabilizes the femoral head during posture changes (seated to standing) or high-torque pedaling, preventing unnecessary micro-movements within the hip joint.",
+    "tags": [
+      "深層外旋肌群",
+      "單車",
+      "外旋",
+      "穩定肌",
+      "股骨頭穩定"
+    ]
+  },
+  {
+    "id": "hip_obturator_internus",
+    "name_zh": "閉孔內肌",
+    "name_en": "Obturator Internus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Obturator_internus_large.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Obturator_internus_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "與梨狀肌共同工作，微調髖關節旋轉角度。確保膝蓋在踩踏過程中不會因髖部不穩而出現「8字形」晃動。",
+    "desc_en": "Works with the piriformis to fine-tune hip rotation. Ensures the knee doesn't wobble in a 'figure-8' pattern during pedaling due to hip instability.",
+    "tags": [
+      "深層外旋肌群",
+      "單車",
+      "外旋",
+      "外展",
+      "穩定肌",
+      "股骨頭穩定",
+      "踩踏"
+    ]
+  },
+  {
+    "id": "hip_pectineus",
+    "name_zh": "恥骨肌",
+    "name_en": "Pectineus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Pectineus_3D.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pectineus_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助屈髖與內收。在踏板通過上死點時發揮作用。過寬的坐墊或不當的Q-factor（兩踏板間距）可能導致此肌肉過度伸展或拉傷。",
+    "desc_en": "Assists in hip flexion and adduction. Active as the pedal passes top dead center. An overly wide saddle or improper Q-factor (pedal stance width) can cause overstretching or strain.",
+    "tags": [
+      "內收肌群",
+      "單車",
+      "內收",
+      "屈曲",
+      "內旋",
+      "原動肌",
+      "穩定肌",
+      "踩踏",
+      "鞋具適配"
+    ]
+  },
+  {
+    "id": "hip_piriformis",
+    "name_zh": "梨狀肌",
+    "name_en": "Piriformis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/39/Piriformis_large.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Piriformis_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "單車騎士常見痛點。負責穩定髖關節。由於騎乘時髖部長期彎曲且受限於坐墊位置，梨狀肌易緊繃壓迫坐骨神經，引起臀部深處疼痛或腿麻。",
+    "desc_en": "A common cyclist pain point. Stabilizes the hip. Due to prolonged hip flexion and fixed saddle position, it is prone to tightness, compressing the sciatic nerve and causing deep gluteal pain or leg numbness.",
+    "tags": [
+      "深層外旋肌群",
+      "單車",
+      "外旋",
+      "外展",
+      "穩定肌",
+      "核心穩定",
+      "神經壓迫"
+    ]
+  },
+  {
+    "id": "hip_psoas_major",
+    "name_zh": "腰大肌",
+    "name_en": "Psoas Major",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Psoas_major_muscle_-_animation04.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Psoas_major_muscle_-_animation04.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "連結腰椎與大腿，是主要的提腿肌。在趴低的氣動姿勢中，腰大肌處於極度縮短狀態，長期可能導致腰椎前凸增加及下背痛。",
+    "desc_en": "Connects lumbar spine to thigh; primary leg lifter. In an aggressive aero tuck, it is in a severely shortened state; chronically, this can lead to increased lumbar lordosis and lower back pain.",
+    "tags": [
+      "髖屈肌群",
+      "單車",
+      "屈曲",
+      "內旋",
+      "側屈",
+      "原動肌",
+      "踩踏",
+      "姿勢維持",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "hip_quadratus_femoris",
+    "name_zh": "股方肌",
+    "name_en": "Quadratus Femoris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Quadratus_femoris_large.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Quadratus_femoris_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助髖外旋與穩定。在低迴轉速、高扭力的重踩情境下（如陡坡），負責維持股骨頭在關節窩內的穩定性。",
+    "desc_en": "Assists in hip external rotation and stability. During low-cadence, high-torque grinding (like steep climbs), it maintains femoral head stability within the socket.",
+    "tags": [
+      "深層外旋肌群",
+      "單車",
+      "外旋",
+      "穩定肌",
+      "股骨頭穩定",
+      "踩踏"
+    ]
+  },
+  {
+    "id": "hip_tensor_fasciae_latae",
+    "name_zh": "闊筋膜張肌 (TFL)",
+    "name_en": "Tensor Fasciae Latae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Tensor-fasciae-latae.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Tensor-fasciae-latae.png\">colorized by Michael Gasperl</a>, Public domain, via Wikimedia Commons",
+    "desc": "連結髂脛束（IT Band）。負責在踩踏過程中維持膝蓋外側穩定。若坐墊太高導致膝蓋過度伸展，或扣片角度內八，易引起TFL過緊與膝外側疼痛。",
+    "desc_en": "Connects to the IT Band. Maintains lateral knee stability during pedaling. If the saddle is too high (causing knee hyperextension) or cleats are toed-in, TFL tightness and lateral knee pain can occur.",
+    "tags": [
+      "髖屈肌群",
+      "單車",
+      "屈曲",
+      "外展",
+      "內旋",
+      "穩定肌",
+      "核心穩定",
+      "踩踏",
+      "鞋具適配"
+    ]
+  },
+  {
+    "id": "knee_popliteus",
+    "name_zh": "膕肌",
+    "name_en": "Popliteus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Popliteus_muscle_-animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Popliteus_muscle_-animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "膝關節的守護者。防止膝蓋過度伸直（坐墊太高時尤為重要）。在踩踏過程中協助脛骨微量內旋，解鎖膝關節以進入彎曲期。",
+    "desc_en": "Guardian of the knee. Prevents hyperextension (crucial if saddle is too high). Assists in slight tibial internal rotation to unlock the knee for flexion during the pedal stroke.",
+    "tags": [
+      "膝關節",
+      "單車",
+      "屈曲",
+      "膝關節屈曲",
+      "膝關節內旋",
+      "穩定肌",
+      "膝關節穩定",
+      "踩踏"
+    ]
+  },
+  {
+    "id": "neck_anterior_scalene",
+    "name_zh": "前斜角肌",
+    "name_en": "Anterior Scalene",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Scalenus_anterior_-_animation04.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Scalenus_anterior_-_animation04.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責在氣動姿勢（趴姿）下維持頭部抬起。在長途騎乘中極易疲勞。過度緊繃會壓迫臂叢神經，導致手指麻木。",
+    "desc_en": "Holds the head up while in an aerodynamic (bent-over) position. Highly prone to fatigue on long rides. Excessive tightness can compress the brachial plexus, causing finger numbness.",
+    "tags": [
+      "頸部肌群",
+      "頸椎",
+      "單車",
+      "氣動姿勢",
+      "屈曲",
+      "側屈",
+      "穩定肌",
+      "呼吸輔助",
+      "姿勢維持",
+      "神經壓迫"
+    ]
+  },
+  {
+    "id": "neck_digastric",
+    "name_zh": "二腹肌",
+    "name_en": "Digastric",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gray_%E2%80%94_musculus_digastricus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_digastricus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助穩定下顎與舌骨。騎乘經過顛簸路面時，協助吸收頭部震動，減少視覺晃動。",
+    "desc_en": "Stabilizes the mandible and hyoid. Helps absorb head vibration when riding over rough terrain, minimizing visual jitter.",
+    "tags": [
+      "頸部肌群",
+      "單車",
+      "提升/下壓",
+      "穩定肌",
+      "呼吸輔助",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "neck_longus_colli",
+    "name_zh": "頸長肌",
+    "name_en": "Longus Colli",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/96/Gray_%E2%80%94_musculus_longus_colli.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_longus_colli.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "深層頸部穩定肌。單車騎士需長時間伸展頸部看前方（Cervical Extension），此肌肉負責對抗過度伸展，保護頸椎排列。",
+    "desc_en": "Deep neck stabilizer. Cyclists hold a prolonged neck extension to look forward; this muscle counters excessive extension, protecting cervical alignment.",
+    "tags": [
+      "頸椎",
+      "頸部肌群",
+      "單車",
+      "屈曲",
+      "穩定肌",
+      "姿勢維持",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "neck_mylohyoid",
+    "name_zh": "顎舌骨肌",
+    "name_en": "Mylohyoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/92/Mylohyoid_muscle.PNG",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Mylohyoid_muscle.PNG\">User:Mikael Häggström</a>, Public domain, via Wikimedia Commons",
+    "desc": "口腔底部的肌肉。騎乘時若舌頭頂住上顎過緊，會連帶造成頸部前側緊張，影響呼吸順暢度。",
+    "desc_en": "Muscle of the mouth floor. Pressing the tongue too tightly against the roof of the mouth while riding creates anterior neck tension, impairing breathing fluidity.",
+    "tags": [
+      "頸部肌群",
+      "單車",
+      "屈曲",
+      "提升/下壓",
+      "穩定肌",
+      "姿勢維持",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "neck_omohyoid",
+    "name_zh": "肩胛舌骨肌",
+    "name_en": "Omohyoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Muscle_omo-hyoidien.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_omo-hyoidien.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "連結肩胛骨與喉部。當肩膀因疲勞或車架Reach過長而聳起時，此肌肉會被拉扯，進而影響吞嚥與呼吸。",
+    "desc_en": "Connects scapula to larynx. When shoulders shrug due to fatigue or excessive frame reach, this muscle is strained, potentially affecting swallowing and breathing.",
+    "tags": [
+      "頸部肌群",
+      "單車",
+      "提升/下壓",
+      "穩定肌",
+      "姿勢維持",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "neck_sternocleidomastoid",
+    "name_zh": "胸鎖乳突肌",
+    "name_en": "Sternocleidomastoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Sternomastoid_muscle_animation_small2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Sternomastoid_muscle_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在公路車握下把（Drops）或計時車（TT）姿勢中，負責將頭部仰起以看清路況。是「Shermer's Neck」（頸部力竭無法抬頭）的主要受害者。",
+    "desc_en": "Lifts the head to see the road when in the drops or TT position. The primary victim of 'Shermer's Neck' (failure to hold head up due to fatigue) in ultra-distance cycling.",
+    "tags": [
+      "頸部肌群",
+      "單車",
+      "氣動姿勢",
+      "軀幹旋轉與對角線",
+      "屈曲",
+      "側屈",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "neck_sternohyoid",
+    "name_zh": "胸骨舌骨肌",
+    "name_en": "Sternohyoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/67/Sternohyoid_muscle.PNG",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Sternohyoid_muscle.PNG\">User:Mikael Häggström</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助穩定喉部。在劇烈爬坡喘氣時，協助固定氣管位置，確保氣流最大化。",
+    "desc_en": "Stabilizes the larynx. Helps fixate the trachea position during heavy panting on steep climbs to maximize airflow.",
+    "tags": [
+      "頸部肌群",
+      "單車",
+      "提升/下壓",
+      "穩定肌",
+      "姿勢維持",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "pelvis_levator_ani",
+    "name_zh": "提肛肌",
+    "name_en": "Levator Ani",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Levator_ani.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Levator_ani.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "直接承受坐墊壓力的肌群。負責支撐骨盆臟器並承受路面衝擊。長時間壓迫可能導致會陰麻木，需透過適當的坐墊選擇與褲墊（Chamois）來緩解。",
+    "desc_en": "Muscle group directly bearing saddle pressure. Supports pelvic organs and absorbs road shock. Prolonged compression can cause perineal numbness; mitigation requires proper saddle selection and chamois.",
+    "tags": [
+      "骨盆帶",
+      "單車",
+      "提升/下壓",
+      "核心穩定",
+      "姿勢維持",
+      "穩定肌",
+      "衝擊吸收",
+      "裝備適配"
+    ]
+  },
+  {
+    "id": "posterior_thigh_biceps_femoris",
+    "name_zh": "股二頭肌",
+    "name_en": "Biceps Femoris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Biceps_femoris_muscle_animation_1.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Biceps_femoris_muscle_animation_1.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責膝屈曲與髖伸展。在踩踏週期的6點鐘至9點鐘方向（後勾期）扮演重要角色。同時負責穩定膝蓋外側，防止膝內扣。",
+    "desc_en": "Responsible for knee flexion and hip extension. Plays a key role in the pedal stroke from 6 to 9 o'clock (the pull-back). Also stabilizes the lateral knee, preventing valgus collapse.",
+    "tags": [
+      "腿後肌群",
+      "單車",
+      "屈曲",
+      "伸展",
+      "膝關節屈曲",
+      "髖關節伸展",
+      "膝關節外旋",
+      "原動肌",
+      "踩踏",
+      "下肢拉/髖絞鍊"
+    ]
+  },
+  {
+    "id": "posterior_thigh_semitendinosus",
+    "name_zh": "半腱肌",
+    "name_en": "Semitendinosus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Semitendinosus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Semitendinosus.png\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "腿後肌群的內側部分。在踩踏週期的下死點（6點鐘）至後拉期（9點鐘）負責屈膝，將踏板向後勾。同時協助穩定膝關節內側。",
+    "desc_en": "Medial part of the hamstrings. Responsible for knee flexion during the bottom dead center (6 o'clock) to the pull-back phase (9 o'clock). Also assists in stabilizing the medial knee.",
+    "tags": [
+      "髖部與大腿",
+      "單車",
+      "屈曲",
+      "伸展",
+      "膝關節屈曲",
+      "髖關節伸展",
+      "原動肌",
+      "踩踏",
+      "下肢拉/髖絞鍊"
+    ]
+  },
+  {
+    "id": "shin_tibialis_anterior",
+    "name_zh": "脛骨前肌",
+    "name_en": "Tibialis Anterior",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/63/Tibialis_anterior_muscle_-_animation_1.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Tibialis_anterior_muscle_-_animation_1.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責在踩踏的上提期（10-12點鐘）勾起腳尖（背屈），以便順暢通過上死點。若卡鞋太緊壓迫腳背，或座高過低導致踝關節過度屈曲，易引起此肌肉疼痛。",
+    "desc_en": "Dorsiflexes the foot during the upstroke (10-12 o'clock) to clear the top dead center smoothly. Pain often results from overly tight shoes compressing the instep or a saddle that is too low.",
+    "tags": [
+      "小腿前側肌群",
+      "單車",
+      "背屈",
+      "內翻",
+      "原動肌",
+      "踩踏",
+      "鞋具適配"
+    ]
+  },
+  {
+    "id": "shoulder_deltoid_anterior",
+    "name_zh": "三角肌前部",
+    "name_en": "Anterior Deltoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在氣動姿勢或握下把時，負責支撐上半身重量。在站姿抽車（Sprinting）時，與胸大肌協同運作，強勢推動手把以對抗踩踏力量。",
+    "desc_en": "Supports upper body weight in aero or drop bar positions. During out-of-saddle sprinting, works with the pectorals to forcefully push the handlebars against pedaling torque.",
+    "tags": [
+      "肩帶與肩關節",
+      "單車",
+      "抽車",
+      "屈曲",
+      "內旋",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_deltoid_middle",
+    "name_zh": "三角肌中部",
+    "name_en": "Middle Deltoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責肩部外展穩定。在騎乘顛簸路面或左右搖車時，維持手臂與身體的相對位置，防止肩膀過度塌陷。",
+    "desc_en": "Responsible for shoulder abduction stability. Maintains arm position relative to the body during rough rides or bike rocking, preventing shoulder collapse.",
+    "tags": [
+      "肩帶與肩關節",
+      "單車",
+      "外展",
+      "穩定肌",
+      "姿勢維持",
+      "控車"
+    ]
+  },
+  {
+    "id": "shoulder_deltoid_posterior",
+    "name_zh": "三角肌後部",
+    "name_en": "Posterior Deltoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在極度趴低的計時賽（TT）姿勢中，此肌肉被拉長。若肩部活動度不足，會導致後三角肌過度緊繃，限制背部線條的流暢性。",
+    "desc_en": "Lengthened during aggressive Time Trial (TT) positions. Limited shoulder mobility leads to tightness here, affecting the aerodynamic profile of the back.",
+    "tags": [
+      "肩帶與肩關節",
+      "單車",
+      "氣動姿勢",
+      "伸展",
+      "外旋",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_infraspinatus",
+    "name_zh": "棘下肌",
+    "name_en": "Infraspinatus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Infraspinatus_muscle_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Infraspinatus_muscle_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "肩袖肌群之一。在長時間騎乘中負責穩定肩關節，防止肱骨頭因疲勞而移位。是騎乘後肩胛骨周圍深層痠痛的常見來源。",
+    "desc_en": "Part of the rotator cuff. Stabilizes the shoulder joint during long rides, preventing humeral head migration due to fatigue. A common source of deep scapular ache post-ride.",
+    "tags": [
+      "肩帶與肩關節",
+      "單車",
+      "外旋",
+      "上肢拉-水平",
+      "原動肌",
+      "穩定肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "shoulder_levator_scapulae",
+    "name_zh": "提肩胛肌",
+    "name_en": "Levator Scapulae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/97/Levator_scapulae_muscle_animation_small.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Levator_scapulae_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "單車騎士肩頸僵硬的元兇。當車架Reach過長或把手太低，導致騎士被迫長時間聳肩或抬頭，此肌肉會發生痙攣與疼痛。",
+    "desc_en": "The culprit of cyclist neck stiffness. When frame reach is too long or bars are too low, forcing prolonged shrugging or head lifting, this muscle becomes spasmodic and painful.",
+    "tags": [
+      "肩帶與肩關節",
+      "頸部肌群",
+      "單車",
+      "提升/下壓",
+      "內旋",
+      "肩帶穩定",
+      "穩定肌",
+      "姿勢維持",
+      "車架設定"
+    ]
+  },
+  {
+    "id": "shoulder_subscapularis",
+    "name_zh": "肩胛下肌",
+    "name_en": "Subscapularis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Subscapularis_muscle_animation3.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Subscapularis_muscle_animation3.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在劇烈控車（如登山車下坡）時，負責穩定肩關節前側。防止手臂在強烈震動下脫位。",
+    "desc_en": "Stabilizes the anterior shoulder during aggressive handling (e.g., MTB descents). Prevents dislocation under heavy vibration.",
+    "tags": [
+      "肩帶與肩關節",
+      "單車",
+      "越野騎行",
+      "內旋",
+      "上肢推-水平",
+      "原動肌",
+      "穩定肌",
+      "核心穩定",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_supraspinatus",
+    "name_zh": "棘上肌",
+    "name_en": "Supraspinatus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Supraspinatus_muscle_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Supraspinatus_muscle_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在騎乘中持續將上臂骨頭壓入肩關節窩，承受上半身的靜態負荷。長時間維持固定騎姿易導致其肌腱缺血。",
+    "desc_en": "Continuously compresses the humerus into the socket during riding, bearing the static load of the upper body. Prolonged static posture can lead to tendon ischemia.",
+    "tags": [
+      "肩帶與肩關節",
+      "單車",
+      "外展",
+      "上肢推-垂直",
+      "原動肌",
+      "穩定肌",
+      "核心穩定",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_teres_major",
+    "name_zh": "大圓肌",
+    "name_en": "Teres Major",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Gray_%E2%80%94_musculus_teres_major.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_teres_major.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助背闊肌在抽車時將身體拉向車把。是高強度騎乘中上肢動力鏈的重要環節。",
+    "desc_en": "Assists the lats in pulling the body toward the bars during sprinting. A crucial link in the upper body kinetic chain during high-intensity riding.",
+    "tags": [
+      "肩帶與肩關節",
+      "單車",
+      "抽車",
+      "伸展",
+      "內收",
+      "內旋",
+      "上肢拉-垂直",
+      "原動肌",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "shoulder_teres_minor",
+    "name_zh": "小圓肌",
+    "name_en": "Teres Minor",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gray_%E2%80%94_musculus_teres_minor.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_teres_minor.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "肩袖穩定肌。協助微調上臂旋轉角度，確保手肘在騎乘時能保持自然的微彎放鬆狀態。",
+    "desc_en": "Rotator cuff stabilizer. Fine-tunes arm rotation, ensuring the elbows remain naturally slightly bent and relaxed while riding.",
+    "tags": [
+      "肩帶與肩關節",
+      "單車",
+      "外旋",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_trapezius_lower",
+    "name_zh": "斜方肌下部",
+    "name_en": "Trapezius (Lower)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Trapezius_animation_small2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Trapezius_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "對抗單車頸痛的英雄。負責下壓肩胛骨，防止因疲勞而聳肩。強化此肌肉有助於維持長時間的氣動騎姿而不酸痛。",
+    "desc_en": "The hero against cycling neck pain. Depresses scapulae, preventing fatigue-induced shrugging. Strengthening this muscle helps maintain long-duration aero postures without pain.",
+    "tags": [
+      "肩帶與肩關節",
+      "單車",
+      "下壓",
+      "外旋",
+      "肩帶穩定",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_trapezius_middle",
+    "name_zh": "斜方肌中部",
+    "name_en": "Trapezius (Middle)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Trapezius_animation_small2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Trapezius_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責肩胛骨後收。雖然單車姿勢傾向圓肩，但此肌肉需保持張力以穩定肩膀，避免胸廓過度塌陷影響呼吸。",
+    "desc_en": "Responsible for scapular retraction. Although cycling promotes a rounded posture, this muscle must maintain tension to stabilize shoulders, preventing excessive chest collapse that impairs breathing.",
+    "tags": [
+      "肩帶與肩關節",
+      "單車",
+      "內收",
+      "肩帶穩定",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_trapezius_upper",
+    "name_zh": "斜方肌上部",
+    "name_en": "Trapezius (Upper)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Trapezius_animation_small2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Trapezius_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "單車騎士最常抱怨痠痛的部位。因長時間維持抬頭姿勢及支撐上半身重量，極易緊繃。應時刻提醒自己「沉肩」放鬆。",
+    "desc_en": "The most common complaint site for cyclists. Extremely prone to tightness due to prolonged head lifting and upper body weight bearing. Constantly remind yourself to 'drop your shoulders'.",
+    "tags": [
+      "肩帶與肩關節",
+      "單車",
+      "提升/下壓",
+      "外旋",
+      "肩帶穩定",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "thigh_adductor_longus",
+    "name_zh": "長內收肌",
+    "name_en": "Adductor Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/Adductor_longus.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Adductor_longus.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "維持膝蓋直線軌跡。在踩踏時防止膝蓋外開。若長時間騎乘後腹股溝疼痛，常因此肌肉過度疲勞或座墊過寬引起。",
+    "desc_en": "Maintains linear knee tracking. Prevents knees from flaring out. Groin pain after long rides is often due to fatigue here or an excessively wide saddle.",
+    "tags": [
+      "內收肌群",
+      "髖部與大腿",
+      "單車",
+      "內收",
+      "屈曲",
+      "內旋",
+      "原動肌",
+      "穩定肌",
+      "核心",
+      "踩踏"
+    ]
+  },
+  {
+    "id": "thigh_adductor_magnus",
+    "name_zh": "大內收肌",
+    "name_en": "Adductor Magnus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Muscle_grand_adducteur_copie.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_grand_adducteur_copie.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "被譽為「隱藏的功率來源」。其強大的伸髖能力在低趴氣動姿勢（髖屈角度大）時尤為重要，是平路巡航與計時賽的關鍵推動力。",
+    "desc_en": "The 'hidden power source'. Its powerful hip extension is crucial in aggressive aero positions (high hip flexion), making it a key driver for flat cruising and time trials.",
+    "tags": [
+      "髖部與大腿",
+      "單車",
+      "氣動姿勢",
+      "內收",
+      "伸展",
+      "原動肌",
+      "穩定肌",
+      "下肢拉/髖絞鍊",
+      "核心穩定",
+      "踩踏"
+    ]
+  },
+  {
+    "id": "thigh_gracilis",
+    "name_zh": "股薄肌",
+    "name_en": "Gracilis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gracilis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gracilis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "鵝足肌群之一。負責穩定膝關節內側，防止踩踏時膝蓋過度旋轉。在坐姿調整不當（如扣片角度錯誤）時易受傷。",
+    "desc_en": "Part of the pes anserinus group. Stabilizes the medial knee, preventing excessive rotation during pedaling. Prone to injury with improper fit (e.g., wrong cleat angle).",
+    "tags": [
+      "髖部與大腿",
+      "單車",
+      "內收",
+      "屈曲",
+      "膝關節屈曲",
+      "膝關節內旋",
+      "原動肌",
+      "穩定肌",
+      "踩踏",
+      "膝關節穩定"
+    ]
+  },
+  {
+    "id": "thigh_rectus_femoris",
+    "name_zh": "股直肌",
+    "name_en": "Rectus Femoris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/48/Rectus_femoris_3D.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Rectus_femoris_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "股四頭肌中唯一的雙關節肌。在踩踏的上提期（屈髖）與下踩期初期（伸膝）皆活躍。是消除「踩踏死點」平滑輸出的關鍵。",
+    "desc_en": "The only biarticular quadricep. Active during both the upstroke (hip flexion) and early downstroke (knee extension). Key to smoothing out 'dead spots' in the pedal stroke.",
+    "tags": [
+      "股四頭肌",
+      "單車",
+      "伸展",
+      "屈曲",
+      "膝關節伸展",
+      "髖關節屈曲",
+      "原動肌",
+      "下肢推",
+      "踩踏"
+    ]
+  },
+  {
+    "id": "thigh_sartorius",
+    "name_zh": "縫匠肌",
+    "name_en": "Sartorius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Sartorius_3D.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Sartorius_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助屈髖、外旋與屈膝。在踩踏上死點附近幫助大腿外旋避開腹部（特別是腹部較大或騎姿極低時），並穩定膝內側。",
+    "desc_en": "Assists hip flexion, external rotation, and knee flexion. Helps externally rotate the thigh near top dead center to clear the abdomen (especially in deep tucks), and stabilizes the medial knee.",
+    "tags": [
+      "髖部與大腿",
+      "單車",
+      "屈曲",
+      "外旋",
+      "外展",
+      "膝關節屈曲",
+      "膝關節內旋",
+      "原動肌",
+      "踩踏",
+      "膝關節穩定"
+    ]
+  },
+  {
+    "id": "thigh_vastus_intermedius",
+    "name_zh": "股中間肌",
+    "name_en": "Vastus Intermedius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Vastus_intermedialis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Vastus_intermedialis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "深層的踩踏發動機。在踩踏週期的2點鐘至5點鐘方向，提供純粹且強大的膝伸展力量，是輸出瓦數的基石。",
+    "desc_en": "The deep pedaling engine. Provides pure, powerful knee extension from 2 to 5 o'clock in the pedal stroke, forming the bedrock of wattage output.",
+    "tags": [
+      "股四頭肌",
+      "單車",
+      "伸展",
+      "膝關節伸展",
+      "原動肌",
+      "膝關節穩定",
+      "下肢推",
+      "踩踏"
+    ]
+  },
+  {
+    "id": "thigh_vastus_lateralis",
+    "name_zh": "股外側肌",
+    "name_en": "Vastus Lateralis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Vastus_lateralis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Vastus_lateralis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "單車選手最發達的肌肉，也是最大功率輸出者。負責下踩期的主要推進力。過度緊繃常拉扯髂脛束造成膝外側痛。",
+    "desc_en": "The most developed muscle in cyclists and the biggest power generator. Drives the downstroke. Excessive tightness often pulls on the IT Band, causing lateral knee pain.",
+    "tags": [
+      "股四頭肌",
+      "單車",
+      "伸展",
+      "膝關節伸展",
+      "原動肌",
+      "膝關節穩定",
+      "下肢推",
+      "踩踏"
+    ]
+  },
+  {
+    "id": "thigh_vastus_medialis",
+    "name_zh": "股內側肌",
+    "name_en": "Vastus Medialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Vastus_medialis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Vastus_medialis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "俗稱「淚滴肌」。負責最後階段的膝伸展與髕骨穩定。對於預防騎乘引起的髕骨偏移與膝前痛（Patellar Tracking Issue）至關重要。",
+    "desc_en": "Known as the 'teardrop muscle'. Responsible for terminal knee extension and patellar stability. Critical for preventing cycling-induced patellar tracking issues and anterior knee pain.",
+    "tags": [
+      "股四頭肌",
+      "單車",
+      "伸展",
+      "膝關節伸展",
+      "原動肌",
+      "膝關節穩定",
+      "下肢推",
+      "踩踏"
+    ]
+  },
+  {
+    "id": "thorax_diaphragm",
+    "name_zh": "橫隔膜",
+    "name_en": "Diaphragm",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/71/Diaphragm_-_2.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Diaphragm_-_2.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在身體蜷曲的氣動姿勢下，橫隔膜活動空間受限。優秀的車手需練習腹式呼吸，以在受限姿勢下維持高攝氧量。",
+    "desc_en": "In a curled-up aero position, diaphragm movement is restricted. Elite cyclists must practice diaphragmatic breathing to maintain high VO2 max within this constrained posture.",
+    "tags": [
+      "胸廓",
+      "單車",
+      "氣動姿勢",
+      "屈曲",
+      "提升/下壓",
+      "核心穩定",
+      "呼吸輔助",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "thorax_intercostal_internal",
+    "name_zh": "內側肋間肌",
+    "name_en": "Internal Intercostal",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Internal_intercostal_muscles_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Internal_intercostal_muscles_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在高強度計時賽或爬坡時，負責強制呼氣。將胸廓壓縮以快速排出廢氣，是高乳酸門檻騎乘時的關鍵呼吸肌。",
+    "desc_en": "Responsible for forced expiration during high-intensity TTs or climbs. Compresses the rib cage to expel CO2 rapidly; a key respiratory muscle during threshold riding.",
+    "tags": [
+      "胸廓",
+      "單車",
+      "呼吸輔助",
+      "核心穩定",
+      "抽車"
+    ]
+  },
+  {
+    "id": "thorax_pectoralis_major",
+    "name_zh": "胸大肌",
+    "name_en": "Pectoralis Major",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/39/PectoralisMajor.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:PectoralisMajor.gif\">DrJanaOfficial</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "在抽車時提供上半身支撐與推力。長期維持圓肩騎姿易導致胸肌縮短，進而限制胸廓擴張，影響呼吸深度。",
+    "desc_en": "Provides upper body support and push during out-of-saddle efforts. Prolonged rounded-shoulder riding shortens the pecs, restricting thoracic expansion and breathing depth.",
+    "tags": [
+      "胸廓",
+      "肩帶與肋關節",
+      "單車",
+      "抽車",
+      "屈曲",
+      "內收",
+      "內旋",
+      "上肢推-水平",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "thorax_pectoralis_minor",
+    "name_zh": "胸小肌",
+    "name_en": "Pectoralis Minor",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/37/Pectoralis_minor_muscle_animation_small.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pectoralis_minor_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "造成不良騎姿的隱形殺手。緊繃的胸小肌會將肩胛骨向前拉（前傾），加劇圓肩姿勢，並壓迫臂叢神經引起手麻。",
+    "desc_en": "The invisible killer of posture. Tightness pulls the scapula anteriorly (tilt), worsening rounded shoulders and potentially compressing the brachial plexus to cause hand numbness.",
+    "tags": [
+      "胸廓",
+      "肩帶與肋關節",
+      "單車",
+      "下壓",
+      "前伸",
+      "下迴旋",
+      "內旋",
+      "肩帶穩定",
+      "穩定肌",
+      "呼吸輔助",
+      "姿勢維持",
+      "神經壓迫"
+    ]
+  },
+  {
+    "id": "thorax_serratus_anterior",
+    "name_zh": "前鋸肌",
+    "name_en": "Serratus Anterior",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/31/Serratus_anterior_muscle_animation_small.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Serratus_anterior_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "支撐上半身的懸吊系統。騎乘時負責將胸廓「推離」手把，避免肩胛骨塌陷（Winging）。對長途騎乘的舒適度與肩膀健康至關重要。",
+    "desc_en": "Suspension system for the upper body. Pushes the rib cage 'away' from the handlebars, preventing scapular winging. Vital for long-distance comfort and shoulder health.",
+    "tags": [
+      "胸廓",
+      "肩帶與肋關節",
+      "單車",
+      "外展",
+      "上肢推-水平",
+      "上肢推-垂直",
+      "屈曲",
+      "肩帶穩定",
+      "核心穩定",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "thorax_subclavius",
+    "name_zh": "鎖下肌",
+    "name_en": "Subclavius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Subclavius_muscle_animation2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Subclavius_muscle_animation2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在長時間趴姿騎乘中，協助穩定鎖骨。過度緊繃可能導致鎖骨下空間變窄，壓迫血管神經（胸廓出口症候群）。",
+    "desc_en": "Stabilizes the clavicle during prolonged aero riding. Excessive tightness can narrow the subclavicular space, compressing vessels and nerves (Thoracic Outlet Syndrome).",
+    "tags": [
+      "胸廓",
+      "單車",
+      "呼吸輔助",
+      "穩定肌",
+      "神經壓迫"
+    ]
+  },
+  {
+    "id": "thorax_transversus_thoracis",
+    "name_zh": "胸橫肌",
+    "name_en": "Transversus Thoracis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Transversus_thoracis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Transversus_thoracis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "胸廓內部的呼氣肌。在全力衝刺（Sprinting）後，協助胸腔快速回縮以排出氣體，進行氣體交換。",
+    "desc_en": "Expiratory muscle inside the thoracic cage. Assists in rapid chest recoil to expel air after an all-out sprint, facilitating gas exchange.",
+    "tags": [
+      "胸廓",
+      "單車",
+      "呼吸輔助"
+    ]
+  }
+]

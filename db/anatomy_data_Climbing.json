@@ -1,0 +1,2234 @@
+[
+  {
+    "id": "abdomen_external_oblique",
+    "name_zh": "腹外斜肌",
+    "name_en": "External Abdominal Oblique",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Grays_Anatomy_Muscle_oblique_externe.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Grays_Anatomy_Muscle_oblique_externe.png\">Par Henry Vandyke Carter</a>, CC0, via Wikimedia Commons",
+    "desc": "攀岩核心張力的關鍵。負責控制側身動作（Twist）與腳點脫落（Cut-loose）時的身體回擺。協助將下半身貼近岩壁，減少手臂負擔。",
+    "desc_en": "Critical for core tension in climbing. Controls body twisting and swinging back to the wall after a foot cut-loose. Helps keep the hips close to the wall to reduce load on the arms.",
+    "tags": [
+      "腹部與核心",
+      "攀岩/抱石",
+      "側身扭轉",
+      "核心張力",
+      "擺盪控制",
+      "屈曲",
+      "側屈",
+      "軀幹旋轉與對角線",
+      "原動肌"
+    ]
+  },
+  {
+    "id": "abdomen_internal_oblique",
+    "name_zh": "腹內斜肌",
+    "name_en": "Internal Abdominal Oblique",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Gray395.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray395.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "與腹外斜肌協同，精確控制軀幹旋轉。在進行大角度側拉（Sidepull）或交叉手動作時，提供必要的對角線張力以維持平衡。",
+    "desc_en": "Works with external obliques to precisely control trunk rotation. Provides essential diagonal tension to maintain balance during sidepulls or cross-through moves.",
+    "tags": [
+      "腹部與核心",
+      "攀岩/抱石",
+      "側身扭轉",
+      "核心張力",
+      "平衡控制",
+      "屈曲",
+      "側屈",
+      "軀幹旋轉與對角線",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "abdomen_rectus_abdominis",
+    "name_zh": "腹直肌",
+    "name_en": "Rectus Abdominis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/94/Rectus_abdominis_vi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Rectus_abdominis_vi.png\">Mongrangvebet</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "在仰角地形（Overhang）中負責抬腿與維持腳點接觸。當雙腳脫落時，負責啟動核心捲腹動作將腳掛回岩點（High Step）。",
+    "desc_en": "Responsible for lifting legs and maintaining foot contact on overhangs. Initiates the crunching motion to re-establish feet on the wall (High Step) after a cut-loose.",
+    "tags": [
+      "腹部與核心",
+      "攀岩/抱石",
+      "仰角攀登",
+      "高抬腿",
+      "核心張力",
+      "屈曲",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "abdomen_transversus_abdominis",
+    "name_zh": "腹橫肌",
+    "name_en": "Transversus Abdominis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Transversus_abdominis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Transversus_abdominis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "攀岩者的內在護腰。透過增加腹內壓穩定脊椎，在極限動作或動態移動（Dyno）落地時保護下背部，是所有強力動作的基石。",
+    "desc_en": "The climber's internal corset. Stabilizes the spine by increasing intra-abdominal pressure, protecting the lower back during limit moves or dynamic move landings.",
+    "tags": [
+      "腹部與核心",
+      "攀岩/抱石",
+      "穩定肌",
+      "核心穩定",
+      "呼吸輔助",
+      "姿勢維持",
+      "受傷預防"
+    ]
+  },
+  {
+    "id": "arm_biceps_brachii",
+    "name_zh": "肱二頭肌",
+    "name_en": "Biceps Brachii",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Biceps_brachii.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Biceps_brachii.png\">Bildbearbetning: sv:Användare:Chrizz</a>, <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "拉引動作（Pulling）的主力。在反手抓握（Undercling）或鎖定（Lock-off）時承受極大負荷。需注意與拮抗肌平衡以防肌腱炎。",
+    "desc_en": "Primary driver for pulling motions. Bears immense load during underclings or lock-offs. Balance with antagonist muscles is crucial to prevent tendonitis.",
+    "tags": [
+      "上臂",
+      "攀岩/抱石",
+      "拉引",
+      "鎖定",
+      "反手抓握",
+      "屈曲",
+      "旋後",
+      "上肢拉-垂直",
+      "原動肌"
+    ]
+  },
+  {
+    "id": "arm_brachialis",
+    "name_zh": "肱肌",
+    "name_en": "Brachialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/Brachialis_muscle_-_animation03.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Brachialis_muscle_-_animation03.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "純粹的肘屈肌，負責攀岩中長時間的屈臂懸吊與鎖定（Lock-off）。在側拉（Sidepull）動作中提供強大的靜態支撐力。",
+    "desc_en": "Pure elbow flexor, responsible for prolonged bent-arm hanging and lock-offs in climbing. Provides powerful static support during sidepulls.",
+    "tags": [
+      "上臂",
+      "攀岩/抱石",
+      "鎖定",
+      "屈曲",
+      "上肢拉-垂直",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "arm_coracobrachialis",
+    "name_zh": "喙肱肌",
+    "name_en": "Coracobrachialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Coracobrachialis_muscle_-_animation02.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Coracobrachialis_muscle_-_animation02.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助肩關節屈曲與內收。在攀岩中負責穩定手臂貼近身體，防止在擠壓地形（Chimneying）或需要夾胸動作時手臂外開。",
+    "desc_en": "Assists in shoulder flexion and adduction. Stabilizes the arm against the body during climbing, preventing arm flaring in chimneys or compression moves.",
+    "tags": [
+      "上臂",
+      "攀岩/抱石",
+      "擠壓攀登",
+      "屈曲",
+      "內收",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "arm_triceps_brachii_lateral",
+    "name_zh": "肱三頭肌外側頭",
+    "name_en": "Triceps Brachii (Lateral Head)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Triceps_brachii_muscle06.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Triceps_brachii_muscle06.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責手臂的推撐動作（Pushing）。在翻越岩角（Mantling）或撐起身體（Dipping）時提供爆發性的伸肘力量。",
+    "desc_en": "Responsible for pushing movements. Provides explosive elbow extension power during mantling or pressing out moves.",
+    "tags": [
+      "上臂",
+      "攀岩/抱石",
+      "推撐/翻越",
+      "伸展",
+      "上肢推-垂直",
+      "原動肌"
+    ]
+  },
+  {
+    "id": "arm_triceps_brachii_long",
+    "name_zh": "肱三頭肌長頭",
+    "name_en": "Triceps Brachii (Long Head)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Triceps_brachii_muscle06.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Triceps_brachii_muscle06.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "跨越肩關節，負責肩伸展與內收。在攀岩的下拉動作（Pull-down）末端協助穩定，並在翻越動作（Mantle）初期將手臂拉向軀幹。",
+    "desc_en": "Crosses the shoulder joint, assisting in extension and adduction. Stabilizes the end range of pull-downs and pulls the arm toward the torso during the initial phase of a mantle.",
+    "tags": [
+      "上臂",
+      "攀岩/抱石",
+      "推撐/翻越",
+      "伸展",
+      "內收",
+      "上肢推-垂直",
+      "原動肌"
+    ]
+  },
+  {
+    "id": "arm_triceps_brachii_medial",
+    "name_zh": "肱三頭肌內側頭",
+    "name_en": "Triceps Brachii (Medial Head)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Triceps_brachii_muscle06.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Triceps_brachii_muscle06.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "提供精細的伸肘控制。在攀岩中負責維持推撐（Stemming）時的手肘穩定，防止手臂因疲勞而顫抖或崩潰。",
+    "desc_en": "Provides precise elbow extension control. Maintains elbow stability during stemming, preventing arm shaking or collapse due to fatigue.",
+    "tags": [
+      "上臂",
+      "攀岩/抱石",
+      "推撐/翻越",
+      "伸展",
+      "上肢推-垂直",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "back_erector_spinae",
+    "name_zh": "豎脊肌",
+    "name_en": "Erector Spinae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Gray389_-_Erector_spinae.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray389_-_Erector_spinae.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在仰角（Overhang）與屋簷地形中至關重要。負責對抗重力維持軀幹伸展，確保臀部貼近岩壁，減少手臂力量的流失。",
+    "desc_en": "Crucial in overhangs and roofs. Fights gravity to maintain trunk extension, keeping hips close to the wall to minimize arm strength loss.",
+    "tags": [
+      "脊柱骨骼",
+      "背部肌群",
+      "攀岩/抱石",
+      "仰角攀登",
+      "伸展",
+      "側屈",
+      "姿勢維持",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "back_latissimus_dorsi",
+    "name_zh": "背闊肌",
+    "name_en": "Latissimus Dorsi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/Latissimus_dorsi_muscle_animation3.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Latissimus_dorsi_muscle_animation3.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "攀岩者的「翅膀」，主要拉力來源。負責強力的引體向上動作，並在動態移動（Dyno）時提供爆發性驅動。亦協助穩定懸掛時的肩胛位置。",
+    "desc_en": "The climber's 'wings' and primary pull force. Responsible for powerful pull-ups and explosive drive during dynos. Also stabilizes scapular position during hanging.",
+    "tags": [
+      "背部肌群",
+      "攀岩/抱石",
+      "引體向上",
+      "動態移動",
+      "內收",
+      "伸展",
+      "內旋",
+      "上肢拉-垂直",
+      "原動肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "back_quadratus_lumborum",
+    "name_zh": "腰方肌",
+    "name_en": "Quadratus Lumborum",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Quadratuslumborum.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Quadratuslumborum.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責高抬腿（High Step）時的提骨盆動作。在僅有單手單腳支撐時，負責穩定下背部，防止骨盆下墜與旋轉。",
+    "desc_en": "Responsible for hiking the pelvis during high steps. Stabilizes the lower back during single-arm single-leg stances, preventing pelvic drop and rotation.",
+    "tags": [
+      "背部肌群",
+      "腹部與核心",
+      "攀岩/抱石",
+      "高抬腿",
+      "側屈",
+      "伸展",
+      "穩定肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "calf_fibularis_brevis",
+    "name_zh": "腓骨短肌",
+    "name_en": "Fibularis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/be/Fibularis_brevis_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Fibularis_brevis_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在外側踩點或使用腳跟勾掛（Heel Hook）時，負責穩定踝關節外側，防止因過度施力而導致的扭傷。",
+    "desc_en": "Stabilizes the lateral ankle when edging on the outside or during heel hooks, preventing sprains caused by excessive force application.",
+    "tags": [
+      "小腿外側肌群",
+      "攀岩/抱石",
+      "掛腳能力",
+      "外翻",
+      "蹠屈",
+      "踝關節穩定",
+      "受傷預防"
+    ]
+  },
+  {
+    "id": "calf_fibularis_longus",
+    "name_zh": "腓骨長肌（重複項-請參照Peroneus Longus）",
+    "name_en": "Fibularis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Superior_view_fibularis_longus_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Superior_view_fibularis_longus_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "將力量傳遞至大拇指球的關鍵。透過壓低第一蹠骨，在微小腳點（Edging）上提供剛性支撐，確保足部不變形。",
+    "desc_en": "Key for transferring power to the ball of the big toe. Depresses the first metatarsal to provide rigid support on tiny edges, ensuring the foot doesn't deform.",
+    "tags": [
+      "小腿外側肌群",
+      "攀岩/抱石",
+      "踩點技巧",
+      "外翻",
+      "蹠屈",
+      "原動肌",
+      "足部穩定"
+    ]
+  },
+  {
+    "id": "calf_gastrocnemius",
+    "name_zh": "腓腸肌",
+    "name_en": "Gastrocnemius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Gastrocnemius_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gastrocnemius_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在摩擦點（Smearing）或踩小點時提起腳跟，將下肢力量轉化為向上的推力。在動態跳躍（Dyno）的起跳瞬間提供爆發力。",
+    "desc_en": "Raises the heel during smearing or edging, converting lower limb strength into upward thrust. Provides explosive power during the takeoff phase of a dyno.",
+    "tags": [
+      "小腿",
+      "攀岩/抱石",
+      "摩擦點",
+      "踩點技巧",
+      "動態移動",
+      "蹠屈",
+      "膝關節屈曲",
+      "原動肌"
+    ]
+  },
+  {
+    "id": "calf_soleus",
+    "name_zh": "比目魚肌",
+    "name_en": "Soleus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Soleus_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Soleus_muscle_-_animation.gif\">Polygon data is generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "攀岩耐力的隱形功臣。在長時間站立於微小腳點時，持續維持踝關節穩定，減少小腿抖動（Elvis leg），對多繩距攀登尤為重要。",
+    "desc_en": "Unsung hero of climbing endurance. Maintains continuous ankle stability while standing on tiny edges, reducing 'Elvis leg' shakes. Vital for multi-pitch climbing.",
+    "tags": [
+      "小腿",
+      "攀岩/抱石",
+      "踩點技巧",
+      "耐力",
+      "蹠屈",
+      "姿勢維持",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "calf_tibialis_posterior",
+    "name_zh": "脛骨後肌",
+    "name_en": "Tibialis Posterior",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/df/Inferior_view_of_tibialis_posterior_muscle_-_animation.gif",
+    "img_source": "https://upload.wikimedia.org/wikipedia/commons/d/df/Inferior_view_of_tibialis_posterior_muscle_-_animation.gif",
+    "desc": "負責足部內翻與足弓支撐。在踩踏外側腳點或使用腳尖勾掛（Toe Hook）時，提供關鍵的結構張力。",
+    "desc_en": "Responsible for inversion and arch support. Provides critical structural tension when edging on the outside foot or performing toe hooks.",
+    "tags": [
+      "小腿深層肌群",
+      "攀岩/抱石",
+      "勾腳技巧",
+      "蹠屈",
+      "內翻",
+      "足弓支撐",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "foot_abductor_digiti_minimi",
+    "name_zh": "小趾外展肌",
+    "name_en": "Abductor Digiti Minimi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gray_%E2%80%94_musculus_abductor_digiti_minimi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在寬面摩擦點（Smearing）時，協助擴大足部接觸面積。在特定角度的岩面上提供外側支撐。",
+    "desc_en": "Helps expand foot contact area during smearing on wide surfaces. Provides lateral support on specifically angled rock faces.",
+    "tags": [
+      "踝部與足部",
+      "攀岩/抱石",
+      "摩擦點",
+      "外展",
+      "屈曲",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "foot_abductor_hallucis",
+    "name_zh": "拇外展肌",
+    "name_en": "Abductor Hallucis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Abductor_hallucis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Abductor_hallucis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "控制大拇指的精細動作。在踩踏極小岩點（Micro-edges）時，負責調整拇指角度與施力方向，是精準腳法的基礎。",
+    "desc_en": "Controls fine big toe movements. Adjusts toe angle and force direction when standing on micro-edges; fundamental for precision footwork.",
+    "tags": [
+      "踝部與足部",
+      "攀岩/抱石",
+      "踩點技巧",
+      "精細運動",
+      "外展",
+      "屈曲",
+      "原動肌",
+      "足部穩定"
+    ]
+  },
+  {
+    "id": "foot_adductor_hallucis",
+    "name_zh": "拇內收肌",
+    "name_en": "Adductor Hallucis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Musculus_adductor_hallucis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Musculus_adductor_hallucis.png\">Image:Gray445.png modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助足部「抓握」岩點。在陡峭地形需要腳趾向內扣住岩塊（Prehensile feet）時發揮作用，增強足底剛性。",
+    "desc_en": "Assists the foot in 'grasping' holds. Functions when toes need to curl inward to grip features (prehensile feet) on steep terrain, increasing plantar rigidity.",
+    "tags": [
+      "踝部與足部",
+      "攀岩/抱石",
+      "抓腳技巧",
+      "內收",
+      "屈曲",
+      "原動肌",
+      "足弓支撐"
+    ]
+  },
+  {
+    "id": "foot_extensor_digitorum_longus",
+    "name_zh": "長趾伸肌（足部段）",
+    "name_en": "Extensor Digitorum Longus (Distal)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/77/Extensor_digitorum_longus_muscle_-_animation_2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_digitorum_longus_muscle_-_animation_2.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在移動腳步時負責抬起腳趾，避免撞擊岩壁。在使用腳尖勾掛（Toe Hook）時，負責強力背屈以鎖住岩點。",
+    "desc_en": "Lifts toes during foot placement to avoid hitting the wall. Provides powerful dorsiflexion to lock onto holds during toe hooks.",
+    "tags": [
+      "小腿",
+      "踝部與足部",
+      "攀岩/抱石",
+      "勾腳技巧",
+      "背屈",
+      "伸展",
+      "原動肌"
+    ]
+  },
+  {
+    "id": "foot_extensor_hallucis_longus",
+    "name_zh": "長拇趾伸肌（足部段）",
+    "name_en": "Extensor Hallucis Longus (Distal)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Extensor_hallucis_longus_muscle_-_animation_2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_hallucis_longus_muscle_-_animation_2.gif\">Was a bee</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "腳尖勾掛（Toe Hook）的關鍵肌。負責將大拇指用力向上背屈，以勾住岩點邊緣或洞穴頂端。",
+    "desc_en": "Key muscle for toe hooks. Strongly dorsiflexes the big toe to hook onto edges or roof features.",
+    "tags": [
+      "小腿",
+      "踝部與足部",
+      "攀岩/抱石",
+      "勾腳技巧",
+      "背屈",
+      "伸展",
+      "原動肌"
+    ]
+  },
+  {
+    "id": "foot_intrinsic_abductor_hallucis",
+    "name_zh": "拇趾外展肌（內在肌視角）",
+    "name_en": "Abductor Hallucis (Intrinsic)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Abductor_hallucis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Abductor_hallucis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "足部核心的重要部分。在穿著攀岩鞋時，負責維持大拇指在鞋內的發力位置，直接影響踩點的精準度與穩定性。",
+    "desc_en": "Vital part of the foot core. Maintains the big toe's power position inside climbing shoes, directly affecting edging precision and stability.",
+    "tags": [
+      "踝部與足部",
+      "攀岩/抱石",
+      "踩點技巧",
+      "外展",
+      "穩定肌",
+      "足弓支撐"
+    ]
+  },
+  {
+    "id": "foot_intrinsic_flexor_digitorum_brevis",
+    "name_zh": "短趾屈肌（足部內在肌）",
+    "name_en": "Flexor Digitorum Brevis (Intrinsic)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Muscle_court_fl%C3%A9chisseur_des_orteils.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_court_fl%C3%A9chisseur_des_orteils.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "在需要足部像手一樣「抓握」岩點時啟動。增加足底拱起的高度，使腳部在鞋內更緊實，利於傳遞力量。",
+    "desc_en": "Activated when the foot needs to 'grasp' the rock like a hand. Increases arch height, making the foot more rigid inside the shoe for better force transfer.",
+    "tags": [
+      "踝部與足部",
+      "攀岩/抱石",
+      "抓腳技巧",
+      "屈曲",
+      "穩定肌",
+      "足弓支撐"
+    ]
+  },
+  {
+    "id": "foot_lumbricals",
+    "name_zh": "足部蚓狀肌",
+    "name_en": "Lumbricals (Foot)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Lumbricales_pedis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_pedis.png\">Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "微調腳趾姿勢。在攀岩鞋狹窄的空間內，協調腳趾的屈伸，幫助腳趾平貼岩面以獲得最大摩擦力。",
+    "desc_en": "Fine-tunes toe posture. Coordinates toe flexion/extension within the tight confines of climbing shoes, helping toes splay flat for maximum friction.",
+    "tags": [
+      "足部內在肌-第二層",
+      "攀岩/抱石",
+      "踩點技巧",
+      "屈曲",
+      "伸展",
+      "足部穩定",
+      "原動肌"
+    ]
+  },
+  {
+    "id": "foot_peroneus_longus",
+    "name_zh": "長腓骨肌",
+    "name_en": "Peroneus Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Superior_view_fibularis_longus_muscle_-_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Superior_view_fibularis_longus_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "踩點的絕對主力。肌腱繞過足底扣住第一蹠骨，將腳掌硬化成堅固槓桿。在踩踏極小點時，負責抵抗足部翻轉並輸出壓力。",
+    "desc_en": "The absolute powerhouse for edging. Its tendon locks the first metatarsal, stiffening the foot into a rigid lever. Resists foot rolling and outputs pressure on tiny edges.",
+    "tags": [
+      "小腿",
+      "踝部與足部",
+      "攀岩/抱石",
+      "踩點技巧",
+      "蹠屈",
+      "外翻",
+      "原動肌",
+      "穩定肌",
+      "足弓支撐"
+    ]
+  },
+  {
+    "id": "foot_quadratus_plantae",
+    "name_zh": "方形肌",
+    "name_en": "Quadratus Plantae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Muscle_carr%C3%A9_plantaire.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_carr%C3%A9_plantaire.png\">Berichard d&#039;après Gray&#039;s anatomy</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "修正腳趾抓握方向。確保在陡峭地形用力「摳」岩點時，力量是垂直作用於岩面，而非斜向滑開。",
+    "desc_en": "Corrects toe gripping direction. Ensures that when 'clawing' holds on steep terrain, the force is applied perpendicularly to the rock, preventing slipping.",
+    "tags": [
+      "踝部與足部",
+      "攀岩/抱石",
+      "抓腳技巧",
+      "屈曲",
+      "原動肌",
+      "足弓支撐"
+    ]
+  },
+  {
+    "id": "forearm_abductor_pollicis_longus",
+    "name_zh": "拇指外展長肌",
+    "name_en": "Abductor Pollicis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/61/Gray_%E2%80%94_musculus_abductor_pollicis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_pollicis_longus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在寬捏握（Wide Pinch）時極為重要。負責張開大拇指以包覆大型鐘乳石或寬捏點，維持虎口的張力。",
+    "desc_en": "Crucial for wide pinches. Abducts the thumb to wrap around large tufas or wide pinch blocks, maintaining tension in the web space.",
+    "tags": [
+      "肘部與前臂",
+      "攀岩/抱石",
+      "捏握力量",
+      "外展",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_brachioradialis",
+    "name_zh": "肱橈肌",
+    "name_en": "Brachioradialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/09/Brachioradialis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Brachioradialis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "攀岩中維持鎖定（Lock-off）的關鍵肌，特別是在手掌側向（中立位）抓握大點（Sloper）或側拉點時效率最高。",
+    "desc_en": "Key muscle for lock-offs in climbing, most efficient when gripping slopers or sidepulls with the hand in a neutral (hammer) position.",
+    "tags": [
+      "肘部與前臂",
+      "攀岩/抱石",
+      "鎖定",
+      "側拉",
+      "屈曲",
+      "上肢拉-水平",
+      "原動肌"
+    ]
+  },
+  {
+    "id": "forearm_extensor_carpi_radialis_brevis",
+    "name_zh": "橈側腕伸肌短肌",
+    "name_en": "Extensor Carpi Radialis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Gray_%E2%80%94_musculus_extensor_carpi_radialis_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_carpi_radialis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "防止手腕「垂落」。在抓握倒抓點（Undercling）或側拉點時，負責穩定手腕保持微翹，確保手指力量能有效傳遞。是網球肘（外上髁炎）的好發部位。",
+    "desc_en": "Prevents wrist droop. Stabilizes the wrist in slight extension during underclings or sidepulls, ensuring effective finger force transmission. Common site for Lateral Epicondylitis (Tennis Elbow).",
+    "tags": [
+      "肘部與前臂",
+      "攀岩/抱石",
+      "手腕穩定",
+      "受傷預防",
+      "伸展",
+      "外展",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "forearm_extensor_carpi_radialis_longus",
+    "name_zh": "橈側腕伸肌長肌",
+    "name_en": "Extensor Carpi Radialis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/53/Extensor_carpi_radialis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_carpi_radialis_longus.png\">Me</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助手腕伸展與外展。在攀岩時與屈肌群共同作用，負責穩定手腕關節，防止在高強度抓握時手腕塌陷。",
+    "desc_en": "Assists in wrist extension and abduction. Works with flexors to stabilize the wrist joint during climbing, preventing wrist collapse under high gripping loads.",
+    "tags": [
+      "肘部與前臂",
+      "攀岩/抱石",
+      "手腕穩定",
+      "伸展",
+      "外展",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_carpi_ulnaris",
+    "name_zh": "尺側腕伸肌",
+    "name_en": "Extensor Carpi Ulnaris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gray_%E2%80%94_musculus_extensor_carpi_ulnaris.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_carpi_ulnaris.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在翻越動作（Mantle）或手掌下壓（Press）時至關重要。負責穩定手腕尺側，防止手腕在推撐過程中受傷。",
+    "desc_en": "Crucial for mantling or pressing moves. Stabilizes the ulnar side of the wrist, preventing injury during pushing motions.",
+    "tags": [
+      "肘部與前臂",
+      "攀岩/抱石",
+      "推撐/翻越",
+      "手腕穩定",
+      "伸展",
+      "內收",
+      "原動肌"
+    ]
+  },
+  {
+    "id": "forearm_extensor_digiti_minimi",
+    "name_zh": "小指伸肌",
+    "name_en": "Extensor Digiti Minimi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gray_%E2%80%94_musculus_extensor_digiti_minimi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在三指洞（Three-finger pocket）或需要獨立操作手指時，協助小指快速伸展離開岩點，避免干擾其他手指的發力。",
+    "desc_en": "Helps quickly extend the little finger off the rock during three-finger pocket holds or independent finger manipulation, preventing interference with other fingers.",
+    "tags": [
+      "肘部與前臂",
+      "攀岩/抱石",
+      "指洞技巧",
+      "伸展",
+      "拮抗肌"
+    ]
+  },
+  {
+    "id": "forearm_extensor_digitorum",
+    "name_zh": "指伸肌",
+    "name_en": "Extensor Digitorum",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Extensor_digitorum_muscle.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_digitorum_muscle.png\">Mikael Häggström</a>, Public domain, via Wikimedia Commons",
+    "desc": "攀岩者最重要的拮抗肌（Antagonist）。強化此肌肉可平衡強大的指屈肌群，預防高爾夫球肘（內上髁炎）並提升手指放鬆速度。",
+    "desc_en": "The climber's most important antagonist muscle. Strengthening this balances the powerful flexors, preventing Golfer's Elbow (Medial Epicondylitis) and improving finger relaxation speed.",
+    "tags": [
+      "肘部與前臂",
+      "攀岩/抱石",
+      "拮抗肌訓練",
+      "受傷預防",
+      "伸展",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_extensor_indicis",
+    "name_zh": "食指伸肌",
+    "name_en": "Extensor Indicis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Extensor_indicis_muscle.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_indicis_muscle.png\">Mikael Häggström</a>, Public domain, via Wikimedia Commons",
+    "desc": "允許食指獨立伸展。在使用單指洞（Mono pocket）主要由中指承重時，協助將食指抬離岩面以避免碰撞。",
+    "desc_en": "Allows independent index finger extension. Helps lift the index finger away from the rock to avoid collision when using a mono pocket with the middle finger.",
+    "tags": [
+      "肘部與前臂",
+      "攀岩/抱石",
+      "指洞技巧",
+      "伸展",
+      "拮抗肌"
+    ]
+  },
+  {
+    "id": "forearm_extensor_pollicis_brevis",
+    "name_zh": "拇指伸短肌",
+    "name_en": "Extensor Pollicis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Gray_%E2%80%94_musculus_extensor_pollicis_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_pollicis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助打開虎口。在抓握寬捏點（Wide Pinch）或大圓石（Sloper）前，負責將拇指張開至適當位置。",
+    "desc_en": "Helps open the web space. Responsible for positioning the thumb wide before gripping wide pinches or slopers.",
+    "tags": [
+      "肘部與前臂",
+      "攀岩/抱石",
+      "捏握力量",
+      "伸展",
+      "外展",
+      "原動肌"
+    ]
+  },
+  {
+    "id": "forearm_extensor_pollicis_longus",
+    "name_zh": "拇指伸長肌",
+    "name_en": "Extensor Pollicis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/80/Gray_%E2%80%94_musculus_extensor_pollicis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_pollicis_longus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責拇指背屈。在做拇指交疊（Thumb Stack）或特殊裂縫攀登手勢時，提供精細的位置控制。",
+    "desc_en": "Extends the thumb. Provides precise positional control during thumb stacking or specific crack climbing hand jams.",
+    "tags": [
+      "肘部與前臂",
+      "攀岩/抱石",
+      "裂縫攀登",
+      "伸展",
+      "原動肌"
+    ]
+  },
+  {
+    "id": "forearm_flexor_carpi_radialis",
+    "name_zh": "橈側腕屈肌",
+    "name_en": "Flexor Carpi Radialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Gray_%E2%80%94_musculus_flexor_carpi_radialis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_carpi_radialis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助手腕屈曲與外展。在抓握大角度的斜面點（Sloper）時，幫助手掌「杯狀」包覆岩石表面以增加摩擦力。",
+    "desc_en": "Assists in wrist flexion and abduction. Helps 'cup' the palm over the rock surface to increase friction when gripping slopers.",
+    "tags": [
+      "肘部與前臂",
+      "攀岩/抱石",
+      "摩擦點",
+      "屈曲",
+      "外展",
+      "原動肌"
+    ]
+  },
+  {
+    "id": "forearm_flexor_carpi_ulnaris",
+    "name_zh": "尺側腕屈肌",
+    "name_en": "Flexor Carpi Ulnaris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/75/Flexor_carpi_ulnaris.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Flexor_carpi_ulnaris.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責手腕屈曲與尺偏（Ulnar Deviation）。在抓握側拉點（Gaston/Sidepull）時，鎖定手腕角度，是傳遞背部力量至指尖的關鍵鏈條。",
+    "desc_en": "Responsible for wrist flexion and ulnar deviation. Locks the wrist angle during gastons or sidepulls, acting as a key link to transfer back power to the fingertips.",
+    "tags": [
+      "肘部與前臂",
+      "攀岩/抱石",
+      "側拉技巧",
+      "屈曲",
+      "內收",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_flexor_digitorum_profundus",
+    "name_zh": "深指屈肌",
+    "name_en": "Flexor Digitorum Profundus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/24/Flexor-digitorum-profundis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Flexor-digitorum-profundis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "攀岩最重要的肌肉，負責指尖末端關節（DIP）的彎曲。是封閉式抓握（Full Crimp）的主要動力來源，過度負荷常導致滑車韌帶受傷。",
+    "desc_en": "The most important climbing muscle, flexing the distal finger joints (DIP). The primary driver for full crimps; excessive load often leads to pulley injuries.",
+    "tags": [
+      "肘部與前臂",
+      "攀岩/抱石",
+      "Crimp抓握",
+      "指力",
+      "屈曲",
+      "原動肌",
+      "受傷風險"
+    ]
+  },
+  {
+    "id": "forearm_flexor_digitorum_superficialis",
+    "name_zh": "淺指屈肌",
+    "name_en": "Flexor Digitorum Superficialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/93/Gray_%E2%80%94_musculus_flexor_digitorum_superficialis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_digitorum_superficialis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責近端指間關節（PIP）的彎曲，是開掌抓握（Open Hand）的主力。相較於深指屈肌，使用此肌肉抓握能顯著減少對手指滑車的壓力。",
+    "desc_en": "Flexes the proximal interphalangeal joints (PIP), powering the Open Hand grip. Using this muscle places significantly less stress on finger pulleys compared to the deep flexor.",
+    "tags": [
+      "肘部與前臂",
+      "攀岩/抱石",
+      "Open Hand抓握",
+      "指力",
+      "屈曲",
+      "原動肌",
+      "受傷預防"
+    ]
+  },
+  {
+    "id": "forearm_flexor_pollicis_longus",
+    "name_zh": "長拇指屈肌",
+    "name_en": "Flexor Pollicis Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Musculus_flexor_pollicis_longus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Musculus_flexor_pollicis_longus.png\">Me</a>, Public domain, via Wikimedia Commons",
+    "desc": "在強力封閉式抓握（Full Crimp）中，負責將大拇指壓在食指上（Thumb Wrap）以鎖定手勢，能顯著增加整體抓握力。",
+    "desc_en": "In a full crimp, responsible for wrapping the thumb over the index finger (Thumb Wrap) to lock the grip, significantly increasing overall holding power.",
+    "tags": [
+      "肘部與前臂",
+      "攀岩/抱石",
+      "Crimp抓握",
+      "拇指鎖定",
+      "屈曲",
+      "原動肌"
+    ]
+  },
+  {
+    "id": "forearm_palmaris_longus",
+    "name_zh": "掌長肌",
+    "name_en": "Palmaris Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/86/Palmaris-longus-horizontal.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Palmaris-longus-horizontal.png\">Henry Gray</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助手掌筋膜張緊，有助於掌心摩擦力。在抓握大型圓石（Sloper）需要掌心緊貼岩面時發揮輔助作用。",
+    "desc_en": "Tenses the palmar fascia, aiding palm friction. plays an accessory role when gripping large slopers that require the palm to stick to the rock.",
+    "tags": [
+      "肘部與前臂",
+      "攀岩/抱石",
+      "摩擦點",
+      "屈曲",
+      "原動肌"
+    ]
+  },
+  {
+    "id": "forearm_pronator_quadratus",
+    "name_zh": "方形旋前肌",
+    "name_en": "Pronator Quadratus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Pronator-quadratus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pronator-quadratus.png\">Selket at English Wikipedia</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責前臂旋前（手心向外）。在反手推撐（Gaston）動作中，負責抵抗岩點帶來的旋後扭力，維持手掌貼合。",
+    "desc_en": "Pronates the forearm (palm out). In Gaston moves, resists the supination torque from the hold, keeping the palm firmly connected.",
+    "tags": [
+      "肘部與前臂",
+      "攀岩/抱石",
+      "側拉技巧",
+      "旋前",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "forearm_pronator_teres",
+    "name_zh": "旋前圓肌",
+    "name_en": "Pronator Teres",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Gray_%E2%80%94_musculus_pronator_teres.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_pronator_teres.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "提供強大的旋前力量。在攀爬內角（Dihedral）或做Gaston動作時頻繁使用。過度使用常導致內側肘痛（Climber's Elbow）。",
+    "desc_en": "Provides powerful pronation. Used frequently in dihedrals or Gaston moves. Overuse is a common cause of medial elbow pain (Climber's Elbow).",
+    "tags": [
+      "肘部與前臂",
+      "攀岩/抱石",
+      "側拉技巧",
+      "屈曲",
+      "旋前",
+      "原動肌",
+      "受傷風險"
+    ]
+  },
+  {
+    "id": "forearm_supinator",
+    "name_zh": "旋後肌",
+    "name_en": "Supinator",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Gray_%E2%80%94_musculus_supinator.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_supinator.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責前臂旋後（手心向上）。是抓握倒抓點（Undercling）的關鍵肌肉，負責將手掌翻轉至岩點下方並鎖定。",
+    "desc_en": "Supinates the forearm (palm up). The key muscle for underclings, rotating the palm underneath the hold and locking it in place.",
+    "tags": [
+      "肘部與前臂",
+      "攀岩/抱石",
+      "倒抓技巧",
+      "旋後",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_abductor_digiti_minimi",
+    "name_zh": "小指外展肌",
+    "name_en": "Abductor Digiti Minimi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gray_%E2%80%94_musculus_abductor_digiti_minimi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在抓握寬大的捏點（Wide Pinch）或大球時，負責將小指外展以增加手掌的覆蓋寬度與穩定性。",
+    "desc_en": "Abducts the little finger during wide pinches or slopers, increasing the hand's span and stability on the hold.",
+    "tags": [
+      "手腕與手部",
+      "攀岩/抱石",
+      "捏握力量",
+      "外展",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_abductor_pollicis_brevis",
+    "name_zh": "拇指外展短肌",
+    "name_en": "Abductor Pollicis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Gray_%E2%80%94_musculus_abductor_pollicis_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_pollicis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "捏握（Pinch）動作的關鍵肌。負責將拇指根部撐開，使手掌能卡住岩石的稜線或鐘乳石。",
+    "desc_en": "Key muscle for pinching. Opens the base of the thumb, allowing the hand to clamp onto rock ridges or tufas.",
+    "tags": [
+      "手腕與手部",
+      "攀岩/抱石",
+      "捏握力量",
+      "外展",
+      "屈曲",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_adductor_pollicis",
+    "name_zh": "拇指內收肌",
+    "name_en": "Adductor Pollicis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gray_%E2%80%94_musculus_adductor_pollicis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_adductor_pollicis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "提供強大的捏握力（Pinch Strength）。負責將拇指用力夾向食指，是抓住垂直條狀岩點（Tufa/Rib）的主動力。",
+    "desc_en": "Provides powerful pinch strength. Adducts the thumb forcefully toward the index finger; the primary driver for gripping vertical tufas or ribs.",
+    "tags": [
+      "手腕與手部",
+      "攀岩/抱石",
+      "捏握力量",
+      "內收",
+      "原動肌"
+    ]
+  },
+  {
+    "id": "hand_dorsal_interossei_1",
+    "name_zh": "背側骨間肌一",
+    "name_en": "Dorsal Interosseous 1",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/1121_Intrinsic_Muscles_of_the_Hand_DIL.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_DIL.png\">CFCF</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "負責食指外展。在調整手指間距以適應不同寬度的裂縫（Finger Crack）或特殊形狀岩點時發揮作用。",
+    "desc_en": "Abducts the index finger. Active when adjusting finger spacing to fit different sized cracks or irregularly shaped holds.",
+    "tags": [
+      "手腕與手部",
+      "攀岩/抱石",
+      "裂縫攀登",
+      "外展",
+      "屈曲",
+      "精細運動"
+    ]
+  },
+  {
+    "id": "hand_dorsal_interossei_2",
+    "name_zh": "背側骨間肌二",
+    "name_en": "Dorsal Interosseous 2",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/1121_Intrinsic_Muscles_of_the_Hand_DIL.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_DIL.png\">CFCF</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "協助中指的側向穩定。在指洞（Pocket）攀登中，當手指單獨承重時，負責維持手指的中軸位置，抵抗側向剪力。",
+    "desc_en": "Assists medial stability of the middle finger. In pocket climbing, helps maintain the finger's central axis against lateral shear forces when bearing weight individually.",
+    "tags": [
+      "手腕與手部",
+      "攀岩/抱石",
+      "指洞技巧",
+      "外展",
+      "屈曲",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "hand_dorsal_interossei_3",
+    "name_zh": "背側骨間肌三",
+    "name_en": "Dorsal Interosseous 3",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/1121_Intrinsic_Muscles_of_the_Hand_DIL.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_DIL.png\">CFCF</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "負責無名指外展。在寬裂縫或需要將手指張開扣住岩點邊緣（Sloper edges）時使用。",
+    "desc_en": "Abducts the ring finger. Used in wide cracks or when spreading fingers to hook onto sloper edges.",
+    "tags": [
+      "手腕與手部",
+      "攀岩/抱石",
+      "裂縫攀登",
+      "外展",
+      "屈曲",
+      "精細運動"
+    ]
+  },
+  {
+    "id": "hand_dorsal_interossei_4",
+    "name_zh": "背側骨間肌四",
+    "name_en": "Dorsal Interosseous 4",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/1121_Intrinsic_Muscles_of_the_Hand_DIL.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_DIL.png\">CFCF</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "負責小指外展。在全開掌（Open Hand）抓握大點時，協助將手掌撐開至最大範圍以增加接觸面積。",
+    "desc_en": "Abducts the little finger. Helps spread the hand to its maximum span during open-hand gripping of large holds to increase contact area.",
+    "tags": [
+      "手腕與手部",
+      "攀岩/抱石",
+      "摩擦點",
+      "外展",
+      "屈曲",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_flexor_digiti_minimi",
+    "name_zh": "小指屈肌短",
+    "name_en": "Flexor Digiti Minimi Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Gray_%E2%80%94_musculus_flexor_digiti_minimi_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_digiti_minimi_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在四指並攏的Crimp抓握中，負責維持小指的屈曲張力，確保小指能共同分擔重量，不致閒置。",
+    "desc_en": "Maintains flexion tension in the little finger during crimps, ensuring it contributes to load sharing rather than remaining passive.",
+    "tags": [
+      "手腕與手部",
+      "攀岩/抱石",
+      "Crimp抓握",
+      "屈曲",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_flexor_pollicis_brevis",
+    "name_zh": "拇指屈短肌",
+    "name_en": "Flexor Pollicis Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Gray_%E2%80%94_musculus_flexor_pollicis_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_pollicis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "捏握（Pinch）力量的基礎。在長時間捏住岩點時提供耐力，避免大魚際肌群（Thenar eminence）過早疲勞。",
+    "desc_en": "Foundation of pinch strength. Provides endurance during prolonged pinching, preventing premature fatigue in the thenar eminence.",
+    "tags": [
+      "手腕與手部",
+      "攀岩/抱石",
+      "捏握力量",
+      "屈曲",
+      "原動肌",
+      "耐力"
+    ]
+  },
+  {
+    "id": "hand_lumbrical_1",
+    "name_zh": "蚓狀肌一（食指）",
+    "name_en": "Lumbrical 1 (Index)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lumbricales_%28hand%29.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png\">Image:Gray427.png modified</a>, Public domain, via Wikimedia Commons",
+    "desc": "平衡MCP關節屈曲與IP關節伸展。在做「三指屈曲、食指伸直」的特殊手勢（如分離手指操作）時易受傷。",
+    "desc_en": "Balances MCP flexion and IP extension. Vulnerable to injury during specific hand configurations like 'three fingers curled, index extended' (splitting fingers).",
+    "tags": [
+      "手腕與手部",
+      "攀岩/抱石",
+      "指洞技巧",
+      "屈曲",
+      "伸展",
+      "受傷風險"
+    ]
+  },
+  {
+    "id": "hand_lumbrical_2",
+    "name_zh": "蚓狀肌二（中指）",
+    "name_en": "Lumbrical 2 (Middle)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lumbricales_%28hand%29.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png\">Image:Gray427.png modified</a>, Public domain, via Wikimedia Commons",
+    "desc": "攀岩者常見受傷部位。當「拉中指、放無名指」抓握指洞（Pocket）時，強大的剪力會導致此肌肉撕裂（Lumbrical tear）。",
+    "desc_en": "Common injury site for climbers. Pulling hard on a mono/two-finger pocket with the middle finger while dropping the ring finger creates high shear force, leading to a lumbrical tear.",
+    "tags": [
+      "手腕與手部",
+      "攀岩/抱石",
+      "指洞技巧",
+      "屈曲",
+      "伸展",
+      "受傷風險"
+    ]
+  },
+  {
+    "id": "hand_lumbrical_3",
+    "name_zh": "蚓狀肌三（無名指）",
+    "name_en": "Lumbrical 3 (Ring)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lumbricales_%28hand%29.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png\">Image:Gray427.png modified</a>, Public domain, via Wikimedia Commons",
+    "desc": "同樣是高風險受傷區。在使用無名指抓握指洞而小指懸空時，此肌肉承受極大拉力，需小心操作。",
+    "desc_en": "Also a high-risk injury zone. When gripping a pocket with the ring finger while the pinky is dropped, this muscle is under immense tension; caution is required.",
+    "tags": [
+      "手腕與手部",
+      "攀岩/抱石",
+      "指洞技巧",
+      "屈曲",
+      "伸展",
+      "受傷風險"
+    ]
+  },
+  {
+    "id": "hand_lumbrical_4",
+    "name_zh": "蚓狀肌四（小指）",
+    "name_en": "Lumbrical 4 (Little)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lumbricales_%28hand%29.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png\">Image:Gray427.png modified</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助小指在Crimp或Open Hand姿勢間轉換。維持小指與其他手指的協同動作。",
+    "desc_en": "Assists the little finger in transitioning between Crimp and Open Hand postures. Maintains coordinated movement of the pinky with other fingers.",
+    "tags": [
+      "手腕與手部",
+      "攀岩/抱石",
+      "抓握轉換",
+      "屈曲",
+      "伸展",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_opponens_digiti_minimi",
+    "name_zh": "小指對立肌",
+    "name_en": "Opponens Digiti Minimi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Gray_%E2%80%94_musculus_opponens_digiti_minimi.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_opponens_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責使小指側的手掌向內捲曲（杯狀）。在抓握大圓石（Sloper）時，增加手掌邊緣的接觸壓力。",
+    "desc_en": "Cups the ulnar side of the palm. Increases contact pressure at the palm's edge when gripping slopers.",
+    "tags": [
+      "手腕與手部",
+      "攀岩/抱石",
+      "摩擦點",
+      "對立",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_opponens_pollicis",
+    "name_zh": "拇指對立肌",
+    "name_en": "Opponens Pollicis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Gray_%E2%80%94_musculus_opponens_pollicis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_opponens_pollicis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責拇指對掌。在捏握（Pinch）時，將拇指轉向岩點表面，確保施力方向垂直於接觸面，最大化摩擦力。",
+    "desc_en": "Responsible for thumb opposition. During a pinch, rotates the thumb toward the rock surface, ensuring force is applied perpendicular to the contact area to maximize friction.",
+    "tags": [
+      "手腕與手部",
+      "攀岩/抱石",
+      "捏握力量",
+      "對立",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_palmar_interossei_1",
+    "name_zh": "掌側骨間肌一",
+    "name_en": "Palmar Interosseous 1",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Braus_1921_215.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Braus_1921_215.png\">Braus, Hermann</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責食指內收。在抓握圓石（Sloper）時，協助將手指併攏以形成更緊密的接觸面，減少手指間的縫隙。",
+    "desc_en": "Adducts the index finger. Helps keep fingers tightly together when gripping slopers, creating a solid contact surface and minimizing gaps.",
+    "tags": [
+      "手腕與手部",
+      "攀岩/抱石",
+      "摩擦點",
+      "內收",
+      "屈曲",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_palmar_interossei_2",
+    "name_zh": "掌側骨間肌二",
+    "name_en": "Palmar Interosseous 2",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Braus_1921_215.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Braus_1921_215.png\">Braus, Hermann</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責無名指內收。協助維持手指併攏的手勢，增加摩擦力並保護指關節。",
+    "desc_en": "Adducts the ring finger. Helps maintain the closed-finger hand position, increasing friction and protecting finger joints.",
+    "tags": [
+      "手腕與手部",
+      "攀岩/抱石",
+      "摩擦點",
+      "內收",
+      "屈曲",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_palmar_interossei_3",
+    "name_zh": "掌側骨間肌三",
+    "name_en": "Palmar Interosseous 3",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Braus_1921_215.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Braus_1921_215.png\">Braus, Hermann</a>, Public domain, via Wikimedia Commons",
+    "desc": "負責小指內收。在需要全手掌摩擦力時，確保小指不會因為無力而外張，浪費寶貴的接觸面積。",
+    "desc_en": "Adducts the little finger. Ensures the pinky doesn't splay out weakly when maximum palm friction is required, preserving valuable contact area.",
+    "tags": [
+      "手腕與手部",
+      "攀岩/抱石",
+      "摩擦點",
+      "內收",
+      "屈曲",
+      "精細運動",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hand_palmaris_brevis",
+    "name_zh": "掌短肌",
+    "name_en": "Palmaris Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Gray_%E2%80%94_musculus_palmaris_brevis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_palmaris_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "在用力推撐（Mantle）或手掌下壓（Press）時，會收縮保護小魚際區的軟組織與神經血管。",
+    "desc_en": "Contracts to protect soft tissues and neurovascular structures in the hypothenar eminence during forceful mantling or pressing moves.",
+    "tags": [
+      "手腕與手部",
+      "攀岩/抱石",
+      "推撐/翻越",
+      "姿勢維持",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "head_masseter",
+    "name_zh": "咬肌",
+    "name_en": "Masseter",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/13/Masseter_muscle_animation_small.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Masseter_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "攀岩者的「心理壓力計」。在嘗試極限路線（Crux）時常不自覺用力咬合。學會放鬆咬肌能顯著降低頸部張力與整體能量消耗。",
+    "desc_en": "The climber's 'stress gauge'. Often clenched unconsciously during crux moves. Learning to relax the masseter significantly reduces neck tension and overall energy waste.",
+    "tags": [
+      "顱骨與顳顎關節",
+      "攀岩/抱石",
+      "心理壓力",
+      "屈曲",
+      "提升/下壓",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "head_medial_pterygoid",
+    "name_zh": "內翼肌",
+    "name_en": "Medial Pterygoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Medial_pterygoid_muscle_animation_2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Medial_pterygoid_muscle_animation_2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "與咬肌共同作用。在高度專注或恐懼墜落時，緊咬下顎會透過此肌群引發頭痛或頸部僵硬，影響攀登流暢度。",
+    "desc_en": "Works with the masseter. Clenching the jaw during intense focus or fear of falling triggers headaches or neck stiffness via this muscle, impairing climbing flow.",
+    "tags": [
+      "顱骨與顳顎關節",
+      "攀岩/抱石",
+      "心理壓力",
+      "屈曲",
+      "內收",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "head_temporalis",
+    "name_zh": "顳肌",
+    "name_en": "Temporalis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Temporal_muscle_-_lateral_view.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Temporal_muscle_-_lateral_view.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "緊張型頭痛的來源。攀岩時應保持「微微張口」的放鬆表情，避免因過度用力攀爬而導致此肌肉長期緊繃。",
+    "desc_en": "Source of tension headaches. Climbers should maintain a 'slightly open mouth' or relaxed expression to prevent chronic tightness here caused by strenuous climbing.",
+    "tags": [
+      "顱骨與顳顎關節",
+      "攀岩/抱石",
+      "心理壓力",
+      "屈曲",
+      "提升/下壓",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "hip_adductor_brevis",
+    "name_zh": "短內收肌",
+    "name_en": "Adductor Brevis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/55/Adductor_brevis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Adductor_brevis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在需要將身體貼近岩壁（Keep hips in）時發揮作用。特別是在寬站姿（Stemming）或蛙式趴牆（Frogging）動作中提供穩定。",
+    "desc_en": "Active when keeping the hips close to the wall. Provides stability particularly during wide stemming stances or 'frogging' positions.",
+    "tags": [
+      "內收肌群",
+      "攀岩/抱石",
+      "貼牆技巧",
+      "內收",
+      "屈曲",
+      "外旋",
+      "原動肌",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "hip_gluteus_maximus",
+    "name_zh": "臀大肌",
+    "name_en": "Gluteus Maximus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Gluteus_maximus_3D.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gluteus_maximus_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "攀岩爆發力的核心。負責動態移動（Dyno）的起跳、高抬腿後的推蹬（High Step Press），以及腳跟勾掛（Heel Hook）時的鎖定。",
+    "desc_en": "The core of explosive climbing power. Responsible for the jump in dynos, the push-up from a high step, and locking in heel hooks.",
+    "tags": [
+      "髖部與大腿",
+      "攀岩/抱石",
+      "動態移動",
+      "高抬腿",
+      "勾腳技巧",
+      "伸展",
+      "外旋",
+      "外展",
+      "下肢拉/髖絞鍊",
+      "原動肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "hip_gluteus_medius",
+    "name_zh": "臀中肌",
+    "name_en": "Gluteus Medius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Gluteus_medius_muscle_-_animation01.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gluteus_medius_muscle_-_animation01.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "防止「像門一樣打開（Barn Door）」的關鍵。在單腳踩點且手點不佳時，負責穩定骨盆，避免身體旋轉離開岩壁。",
+    "desc_en": "Key to preventing the 'Barn Door' effect. Stabilizes the pelvis during single-leg stances with poor handholds, ensuring the body doesn't swing away from the wall.",
+    "tags": [
+      "髖部與大腿",
+      "攀岩/抱石",
+      "平衡控制",
+      "外展",
+      "外旋",
+      "穩定肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "hip_gluteus_minimus",
+    "name_zh": "臀小肌",
+    "name_en": "Gluteus Minimus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Gluteus_minimus_muscle_animation04.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gluteus_minimus_muscle_animation04.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助臀中肌將骨盆鎖定。在極限側拉（Sidepull）或需要極高核心張力的平衡動作中，提供深層穩定。",
+    "desc_en": "Assists gluteus medius in locking the pelvis. Provides deep stability during limit sidepulls or balance moves requiring extreme core tension.",
+    "tags": [
+      "臀部肌群",
+      "攀岩/抱石",
+      "平衡控制",
+      "外展",
+      "內旋",
+      "穩定肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "hip_gracilis",
+    "name_zh": "薄肌（髖部段）",
+    "name_en": "Gracilis (Hip)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gracilis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gracilis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在做大跨度的劈腿動作（Splits）或高位腳跟勾掛（High Heel Hook）時，負責髖屈與內收，同時限制過度外展。",
+    "desc_en": "Responsible for hip flexion and adduction during wide splits or high heel hooks, while also limiting excessive abduction.",
+    "tags": [
+      "內收肌群",
+      "攀岩/抱石",
+      "劈腿動作",
+      "勾腳技巧",
+      "內收",
+      "屈曲",
+      "內旋",
+      "原動肌",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "hip_iliacus",
+    "name_zh": "髂肌",
+    "name_en": "Iliacus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Iliacus_muscle_-_animation05.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Iliacus_muscle_-_animation05.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "高抬腿（High Step）的主力。負責將膝蓋盡可能拉高貼近胸口，是攀爬陡峭地形或將腳放上高點的關鍵。",
+    "desc_en": "Primary driver for High Steps. Lifts the knee high toward the chest; crucial for climbing steep terrain or placing feet on high footholds.",
+    "tags": [
+      "髖屈肌群",
+      "攀岩/抱石",
+      "高抬腿",
+      "屈曲",
+      "外旋",
+      "原動肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "hip_iliopsoas",
+    "name_zh": "髂腰肌",
+    "name_en": "Iliopsoas",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Braus_1921_244.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Braus_1921_244.png\">Braus, Hermann</a>, Public domain, via Wikimedia Commons",
+    "desc": "攀岩的核心驅動器。除了高抬腿，還負責在仰角（Overhang）地形中維持腳點不脫落（Keep tension），對抗地心引力。",
+    "desc_en": "The core driver of climbing. Beyond high stepping, it maintains foot tension on overhangs, fighting gravity to keep feet on the wall.",
+    "tags": [
+      "髖部與大腿",
+      "攀岩/抱石",
+      "高抬腿",
+      "仰角攀登",
+      "核心張力",
+      "屈曲",
+      "外旋",
+      "下肢推",
+      "原動肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "hip_obturator_externus",
+    "name_zh": "閉孔外肌",
+    "name_en": "Obturator Externus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/14/Obturator_externus_large.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Obturator_externus_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助髖外旋。在做蛙式趴牆（Frog position）或膝蓋向外打開貼牆的動作時，提供關節深層穩定。",
+    "desc_en": "Assists in hip external rotation. Provides deep joint stability during frog positions or when opening the knees wide to hug the wall.",
+    "tags": [
+      "深層外旋肌群",
+      "攀岩/抱石",
+      "貼牆技巧",
+      "外旋",
+      "穩定肌",
+      "股骨頭穩定"
+    ]
+  },
+  {
+    "id": "hip_obturator_internus",
+    "name_zh": "閉孔內肌",
+    "name_en": "Obturator Internus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Obturator_internus_large.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Obturator_internus_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "髖關節外旋的關鍵肌。在攀岩極限動作如折膝（Drop Knee）或埃及腳轉身時，負責控制骨盆的精細旋轉角度。",
+    "desc_en": "Key muscle for hip external rotation. Controls precise pelvic rotation angles during limit moves like Drop Knees or Egyptian turns.",
+    "tags": [
+      "深層外旋肌群",
+      "攀岩/抱石",
+      "折膝技巧",
+      "外旋",
+      "外展",
+      "穩定肌",
+      "股骨頭穩定"
+    ]
+  },
+  {
+    "id": "hip_pectineus",
+    "name_zh": "恥骨肌",
+    "name_en": "Pectineus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Pectineus_3D.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pectineus_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助屈髖與內收。在做Flagging（旗式平衡）動作時，負責將懸空的腿拉向身體中線以維持平衡。",
+    "desc_en": "Assists hip flexion and adduction. Responsible for pulling the flagging leg toward the midline to maintain balance during flagging moves.",
+    "tags": [
+      "內收肌群",
+      "攀岩/抱石",
+      "旗式平衡",
+      "內收",
+      "屈曲",
+      "內旋",
+      "原動肌",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "hip_piriformis",
+    "name_zh": "梨狀肌",
+    "name_en": "Piriformis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/39/Piriformis_large.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Piriformis_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責髖外旋。在做高腳位外踩（High step out wide）時，允許腿部向外打開並貼近岩壁。過度緊繃會限制髖部活動度（Turn out）。",
+    "desc_en": "Responsible for hip external rotation. Allows the leg to open wide and hug the wall during high steps out wide. Tightness here restricts 'turn out' mobility.",
+    "tags": [
+      "深層外旋肌群",
+      "攀岩/抱石",
+      "髖部活動度",
+      "外旋",
+      "外展",
+      "穩定肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "hip_psoas_major",
+    "name_zh": "腰大肌",
+    "name_en": "Psoas Major",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Psoas_major_muscle_-_animation04.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Psoas_major_muscle_-_animation04.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "連接上半身與下半身的橋樑。在仰角攀登中，負責將下半身拉向岩壁（Body Tension），是避免腳點脫落（Cut-loose）的絕對關鍵。",
+    "desc_en": "Bridge between upper and lower body. In overhang climbing, pulls the lower body toward the wall (Body Tension); absolutely critical for preventing foot cut-loose.",
+    "tags": [
+      "髖屈肌群",
+      "攀岩/抱石",
+      "仰角攀登",
+      "核心張力",
+      "屈曲",
+      "內旋",
+      "側屈",
+      "原動肌",
+      "姿勢維持",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "hip_quadratus_femoris",
+    "name_zh": "股方肌",
+    "name_en": "Quadratus Femoris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Quadratus_femoris_large.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Quadratus_femoris_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "強力的外旋肌。在需要極致貼牆（Hips in）的動作中，協助將膝蓋向外轉開，讓身體重心能更貼近岩面。",
+    "desc_en": "Powerful external rotator. Assists in turning the knees out during moves requiring 'hips in', allowing the center of gravity to stay closer to the rock face.",
+    "tags": [
+      "深層外旋肌群",
+      "攀岩/抱石",
+      "貼牆技巧",
+      "外旋",
+      "穩定肌",
+      "股骨頭穩定"
+    ]
+  },
+  {
+    "id": "hip_tensor_fasciae_latae",
+    "name_zh": "闊筋膜張肌 (TFL)",
+    "name_en": "Tensor Fasciae Latae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Tensor-fasciae-latae.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Tensor-fasciae-latae.png\">colorized by Michael Gasperl</a>, Public domain, via Wikimedia Commons",
+    "desc": "折膝（Drop Knee）動作的關鍵肌。協助髖內旋與屈曲，讓攀岩者能鎖住身體位置以釋放單手。常因過度折膝而緊繃。",
+    "desc_en": "Key muscle for Drop Knees. Assists hip internal rotation and flexion, allowing the climber to lock body position and release one hand. Often tight from excessive drop-kneeing.",
+    "tags": [
+      "髖屈肌群",
+      "攀岩/抱石",
+      "折膝技巧",
+      "屈曲",
+      "外展",
+      "內旋",
+      "穩定肌",
+      "核心穩定",
+      "下肢推"
+    ]
+  },
+  {
+    "id": "knee_popliteus",
+    "name_zh": "膕肌",
+    "name_en": "Popliteus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Popliteus_muscle_-animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Popliteus_muscle_-animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "保護膝蓋的守門員。在腳跟勾掛（Heel Hook）轉為推撐的過程中，負責微調脛骨旋轉，防止膝關節鎖死或過度受力。",
+    "desc_en": "Goalie of the knee. Fine-tunes tibial rotation when transitioning from a heel hook to a press, preventing knee locking or excessive stress.",
+    "tags": [
+      "膝關節",
+      "攀岩/抱石",
+      "勾腳技巧",
+      "屈曲",
+      "膝關節屈曲",
+      "膝關節內旋",
+      "穩定肌",
+      "膝關節穩定"
+    ]
+  },
+  {
+    "id": "neck_anterior_scalene",
+    "name_zh": "前斜角肌",
+    "name_en": "Anterior Scalene",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Scalenus_anterior_-_animation04.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Scalenus_anterior_-_animation04.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "攀岩者常見緊繃區。負責向上看（Looking up）尋找手點或確保時的頸部穩定。過度緊繃可能壓迫臂叢神經導致手部發麻。",
+    "desc_en": "Common tight spot for climbers. Stabilizes the neck when looking up for holds or belaying. Excessive tightness can compress the brachial plexus, causing hand numbness.",
+    "tags": [
+      "頸部肌群",
+      "頸椎",
+      "攀岩/抱石",
+      "確保姿勢",
+      "屈曲",
+      "側屈",
+      "穩定肌",
+      "呼吸輔助",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "neck_digastric",
+    "name_zh": "二腹肌",
+    "name_en": "Digastric",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gray_%E2%80%94_musculus_digastricus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_digastricus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助張口與穩定舌骨。攀岩時若過度咬牙切齒，會間接影響此區域，造成下顎與頸部深層疲勞。",
+    "desc_en": "Assists mouth opening and hyoid stabilization. Excessive teeth clenching while climbing indirectly affects this area, causing deep jaw and neck fatigue.",
+    "tags": [
+      "頸部肌群",
+      "攀岩/抱石",
+      "提升/下壓",
+      "穩定肌",
+      "呼吸輔助",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "neck_longus_colli",
+    "name_zh": "頸長肌",
+    "name_en": "Longus Colli",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/96/Gray_%E2%80%94_musculus_longus_colli.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_longus_colli.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "抵抗「確保者頸（Belayer's Neck）」的關鍵肌。負責收下巴的動作，平衡長時間仰頭造成的頸椎後側壓力。",
+    "desc_en": "Key muscle against 'Belayer's Neck'. Performs the chin tuck, balancing posterior cervical stress caused by prolonged looking up.",
+    "tags": [
+      "頸椎",
+      "頸部肌群",
+      "攀岩/抱石",
+      "確保姿勢",
+      "屈曲",
+      "穩定肌",
+      "姿勢維持",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "neck_mylohyoid",
+    "name_zh": "顎舌骨肌",
+    "name_en": "Mylohyoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/92/Mylohyoid_muscle.PNG",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Mylohyoid_muscle.PNG\">User:Mikael Häggström</a>, Public domain, via Wikimedia Commons",
+    "desc": "構成口腔底部。攀岩時應保持舌頭放鬆（抵住下顎或放平），避免用力頂上顎，這有助於釋放頸部前側張力。",
+    "desc_en": "Forms the floor of the mouth. Climbers should keep the tongue relaxed (down or flat) rather than pressing against the palate to release anterior neck tension.",
+    "tags": [
+      "頸部肌群",
+      "攀岩/抱石",
+      "屈曲",
+      "提升/下壓",
+      "穩定肌",
+      "姿勢維持",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "neck_omohyoid",
+    "name_zh": "肩胛舌骨肌",
+    "name_en": "Omohyoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Muscle_omo-hyoidien.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_omo-hyoidien.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "連結肩胛骨與舌骨。在攀岩高舉手（High Reach）動作時，協調肩部與頸部的張力，避免因聳肩而拉傷頸部。",
+    "desc_en": "Connects scapula to hyoid. Coordinates shoulder and neck tension during high reaching moves, preventing neck strain caused by shrugging.",
+    "tags": [
+      "頸部肌群",
+      "攀岩/抱石",
+      "提升/下壓",
+      "穩定肌",
+      "姿勢維持",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "neck_sternocleidomastoid",
+    "name_zh": "胸鎖乳突肌",
+    "name_en": "Sternocleidomastoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Sternomastoid_muscle_animation_small2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Sternomastoid_muscle_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責頭部轉動以尋找腳點。在長時間仰頭確保（Belaying）後最容易緊繃疼痛的肌肉。需要經常伸展。",
+    "desc_en": "Rotates head to spot footholds. The muscle most prone to tightness and pain after prolonged belaying (looking up). Requires frequent stretching.",
+    "tags": [
+      "頸部肌群",
+      "攀岩/抱石",
+      "確保姿勢",
+      "尋找腳點",
+      "軀幹旋轉與對角線",
+      "屈曲",
+      "側屈",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "neck_sternohyoid",
+    "name_zh": "胸骨舌骨肌",
+    "name_en": "Sternohyoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/67/Sternohyoid_muscle.PNG",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Sternohyoid_muscle.PNG\">User:Mikael Häggström</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助穩定喉部。在攀岩極限發力發出吼聲（Power Screaming）時，參與喉部的控制與保護。",
+    "desc_en": "Stabilizes the larynx. Participates in control and protection of the throat during 'power screaming' in limit climbing moves.",
+    "tags": [
+      "頸部肌群",
+      "攀岩/抱石",
+      "提升/下壓",
+      "穩定肌",
+      "姿勢維持",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "pelvis_levator_ani",
+    "name_zh": "提肛肌",
+    "name_en": "Levator Ani",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Levator_ani.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Levator_ani.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "核心的基底。在攀岩墜落瞬間（Taking a fall）反射性收縮以穩定臟器。與呼吸配合，在發力時提供腹內壓支持。",
+    "desc_en": "The base of the core. Reflexively contracts to support organs during falls. Coordinates with breathing to provide intra-abdominal pressure support during power moves.",
+    "tags": [
+      "骨盆帶",
+      "攀岩/抱石",
+      "核心張力",
+      "提升/下壓",
+      "核心穩定",
+      "姿勢維持",
+      "穩定肌",
+      "衝擊吸收"
+    ]
+  },
+  {
+    "id": "posterior_thigh_biceps_femoris",
+    "name_zh": "股二頭肌",
+    "name_en": "Biceps Femoris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Biceps_femoris_muscle_animation_1.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Biceps_femoris_muscle_animation_1.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "腳跟勾掛（Heel Hook）的靈魂肌肉。負責強力的屈膝動作，將身體拉向岩點。在外側勾掛時亦負責維持髖外旋穩定。",
+    "desc_en": "The soul of the Heel Hook. Responsible for powerful knee flexion to pull the body toward the hold. Also maintains hip external rotation stability during lateral hooks.",
+    "tags": [
+      "腿後肌群",
+      "攀岩/抱石",
+      "勾腳技巧",
+      "屈曲",
+      "伸展",
+      "膝關節屈曲",
+      "髖關節伸展",
+      "膝關節外旋",
+      "原動肌",
+      "下肢拉/髖絞鍊"
+    ]
+  },
+  {
+    "id": "posterior_thigh_semitendinosus",
+    "name_zh": "半腱肌",
+    "name_en": "Semitendinosus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Semitendinosus.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Semitendinosus.png\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "協助腳跟勾掛（Heel Hook）的穩定性。與股二頭肌共同工作，在需要膝蓋內旋的勾掛動作中提供控制力。",
+    "desc_en": "Assists in Heel Hook stability. Works with the biceps femoris to provide control during hooking moves that require internal knee rotation.",
+    "tags": [
+      "髖部與大腿",
+      "攀岩/抱石",
+      "勾腳技巧",
+      "屈曲",
+      "伸展",
+      "膝關節屈曲",
+      "髖關節伸展",
+      "原動肌",
+      "下肢拉/髖絞鍊"
+    ]
+  },
+  {
+    "id": "shin_tibialis_anterior",
+    "name_zh": "脛骨前肌",
+    "name_en": "Tibialis Anterior",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/63/Tibialis_anterior_muscle_animation_1.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Tibialis_anterior_muscle_animation_1.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "腳尖勾掛（Toe Hook）的主動肌。負責強力的背屈動作，將腳背鎖在岩點上。亦負責在踩點時調整腳踝角度。",
+    "desc_en": "The prime mover for Toe Hooks. Responsible for powerful dorsiflexion to lock the top of the foot onto a hold. Also adjusts ankle angle during edging.",
+    "tags": [
+      "小腿前側肌群",
+      "攀岩/抱石",
+      "勾腳技巧",
+      "背屈",
+      "內翻",
+      "原動肌",
+      "足弓支撐"
+    ]
+  },
+  {
+    "id": "shoulder_deltoid_anterior",
+    "name_zh": "三角肌前部",
+    "name_en": "Anterior Deltoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在推撐動作（Mantling）與擠壓動作（Compression/Bear hug）中發揮重要作用。負責將身體推離岩面或夾住岩石。",
+    "desc_en": "Plays a vital role in mantling and compression (bear hug) moves. Responsible for pushing the body away from the wall or squeezing features.",
+    "tags": [
+      "肩帶與肩關節",
+      "攀岩/抱石",
+      "推撐/翻越",
+      "擠壓攀登",
+      "屈曲",
+      "內旋",
+      "原動肌"
+    ]
+  },
+  {
+    "id": "shoulder_deltoid_middle",
+    "name_zh": "三角肌中部",
+    "name_en": "Middle Deltoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責手臂外展。在做十字支撐（Iron Cross）類型的動作或遠距離側拉（Far reach sidepull）時，維持肩膀高度與穩定性。",
+    "desc_en": "Responsible for arm abduction. Maintains shoulder height and stability during Iron Cross-style moves or far-reaching sidepulls.",
+    "tags": [
+      "肩帶與肩關節",
+      "攀岩/抱石",
+      "側拉技巧",
+      "外展",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "shoulder_deltoid_posterior",
+    "name_zh": "三角肌後部",
+    "name_en": "Posterior Deltoid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "與背肌協同進行拉引。在仰角地形中，協助將手臂向後拉以維持身體貼近岩壁，防止重心後倒。",
+    "desc_en": "Works synergistically with back muscles for pulling. In overhangs, assists in pulling the arm back to keep the body close to the wall, preventing backward center-of-gravity shifts.",
+    "tags": [
+      "肩帶與肩關節",
+      "攀岩/抱石",
+      "仰角攀登",
+      "伸展",
+      "外旋",
+      "原動肌",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "shoulder_infraspinatus",
+    "name_zh": "棘下肌",
+    "name_en": "Infraspinatus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Infraspinatus_muscle_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Infraspinatus_muscle_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "肩袖肌群的重要成員。負責肩外旋，在手臂高舉過頭或處於不穩定位置（Chicken wing）時保護盂肱關節，預防肩部夾擠。",
+    "desc_en": "Vital member of the rotator cuff. Responsible for external rotation; protects the glenohumeral joint during overhead reaches or unstable positions (chicken wing), preventing impingement.",
+    "tags": [
+      "肩帶與肩關節",
+      "攀岩/抱石",
+      "肩部穩定",
+      "受傷預防",
+      "外旋",
+      "上肢拉-水平",
+      "原動肌",
+      "穩定肌",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "shoulder_levator_scapulae",
+    "name_zh": "提肩胛肌",
+    "name_en": "Levator Scapulae",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/97/Levator_scapulae_muscle_animation_small.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Levator_scapulae_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "攀岩頸痛的常見來源。長時間仰頭確保（Belaying）或在高強度拉引時代償性聳肩，皆會導致此肌肉過度緊繃。",
+    "desc_en": "Common source of climber's neck pain. Prolonged belaying (looking up) or compensatory shrugging during high-intensity pulling leads to excessive tightness.",
+    "tags": [
+      "肩帶與肩關節",
+      "頸部肌群",
+      "攀岩/抱石",
+      "確保姿勢",
+      "提升/下壓",
+      "內旋",
+      "肩帶穩定",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_subscapularis",
+    "name_zh": "肩胛下肌",
+    "name_en": "Subscapularis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Subscapularis_muscle_animation3.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Subscapularis_muscle_animation3.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "肩袖肌群中唯一的內旋肌。在做Rose Move（大交叉旋轉）或Gaston動作時，提供極為重要的動態穩定，防止肩膀脫臼。",
+    "desc_en": "The only internal rotator of the rotator cuff. Provides critical dynamic stability during Rose Moves or Gastons, preventing shoulder dislocation.",
+    "tags": [
+      "肩帶與肩關節",
+      "攀岩/抱石",
+      "側拉技巧",
+      "內旋",
+      "上肢推-水平",
+      "原動肌",
+      "穩定肌",
+      "核心穩定",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_supraspinatus",
+    "name_zh": "棘上肌",
+    "name_en": "Supraspinatus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Supraspinatus_muscle_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Supraspinatus_muscle_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責啟動手臂外展。在單臂懸吊或動態接點瞬間，負責將肱骨頭緊緊拉入關節窩，是攀岩者肩部夾擠與撕裂的高風險肌群。",
+    "desc_en": "Initiates arm abduction. During single-arm hangs or catching dynamic moves, it tightly compresses the humeral head into the socket. High risk for impingement and tears in climbers.",
+    "tags": [
+      "肩帶與肩關節",
+      "攀岩/抱石",
+      "受傷風險",
+      "外展",
+      "上肢推-垂直",
+      "原動肌",
+      "穩定肌",
+      "核心穩定",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_teres_major",
+    "name_zh": "大圓肌",
+    "name_en": "Teres Major",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Gray_%E2%80%94_musculus_teres_major.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_teres_major.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "背闊肌的「小助手」。在引體向上（Pull-up）與前水平（Front Lever）動作中，協助強力的肩伸展與內收。",
+    "desc_en": "The 'Little Helper' of the lats. Assists in powerful shoulder extension and adduction during pull-ups and front levers.",
+    "tags": [
+      "肩帶與肩關節",
+      "攀岩/抱石",
+      "引體向上",
+      "伸展",
+      "內收",
+      "內旋",
+      "上肢拉-垂直",
+      "原動肌",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "shoulder_teres_minor",
+    "name_zh": "小圓肌",
+    "name_en": "Teres Minor",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gray_%E2%80%94_musculus_teres_minor.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_teres_minor.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助肩外旋。與棘下肌共同維持肩關節後方的穩定性，在攀爬大角度懸岩（Overhang）時防止手臂過度內旋。",
+    "desc_en": "Assists in shoulder external rotation. Works with the infraspinatus to maintain posterior stability, preventing excessive internal rotation on steep overhangs.",
+    "tags": [
+      "肩帶與肩關節",
+      "攀岩/抱石",
+      "肩部穩定",
+      "外旋",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_trapezius_lower",
+    "name_zh": "斜方肌下部",
+    "name_en": "Trapezius (Lower)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Trapezius_animation_small2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Trapezius_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "維持良好懸吊姿勢（Active Hang）的關鍵。負責下壓肩胛骨，避免依靠韌帶被動懸掛（Passive Hang）而傷害肩膀。",
+    "desc_en": "Key for maintaining good 'Active Hang' posture. Depresses the scapula, preventing injury from relying on passive ligament suspension.",
+    "tags": [
+      "肩帶與肩關節",
+      "攀岩/抱石",
+      "懸吊姿勢",
+      "下壓",
+      "外旋",
+      "肩帶穩定",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_trapezius_middle",
+    "name_zh": "斜方肌中部",
+    "name_en": "Trapezius (Middle)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Trapezius_animation_small2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Trapezius_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責肩胛骨後收。在做大角度水平拉引（如屋簷攀登）時，將肩胛骨夾緊以穩定上肢發力平台。",
+    "desc_en": "Responsible for scapular retraction. During steep horizontal pulling (like roof climbing), pinches the scapulae together to stabilize the upper limb power platform.",
+    "tags": [
+      "肩帶與肩關節",
+      "攀岩/抱石",
+      "仰角攀登",
+      "內收",
+      "肩帶穩定",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "shoulder_trapezius_upper",
+    "name_zh": "斜方肌上部",
+    "name_en": "Trapezius (Upper)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Trapezius_animation_small2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Trapezius_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "代償動作的指標。當背肌疲勞時，攀岩者常不自覺聳肩，導致此處僵硬。但在動態移動（Dyno）落地時，協助吸收向下的衝擊力。",
+    "desc_en": "Indicator of compensation. When back muscles fatigue, climbers unconsciously shrug, causing stiffness here. However, it helps absorb downward shock during dyno landings.",
+    "tags": [
+      "肩帶與肩關節",
+      "攀岩/抱石",
+      "動態移動",
+      "提升/下壓",
+      "外旋",
+      "肩帶穩定",
+      "原動肌",
+      "穩定肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "thigh_adductor_longus",
+    "name_zh": "長內收肌",
+    "name_en": "Adductor Longus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/Adductor_longus.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Adductor_longus.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在推撐（Stemming）動作中極為重要。負責將雙腿向內夾緊岩壁以對抗滑落，同時協助懸空腿的擺盪控制。",
+    "desc_en": "Crucial for Stemming. Squeezes legs inward against the walls to prevent sliding, and assists in controlling the swing of the flagging leg.",
+    "tags": [
+      "內收肌群",
+      "髖部與大腿",
+      "攀岩/抱石",
+      "推撐技巧",
+      "內收",
+      "屈曲",
+      "內旋",
+      "原動肌",
+      "穩定肌",
+      "核心"
+    ]
+  },
+  {
+    "id": "thigh_adductor_magnus",
+    "name_zh": "大內收肌",
+    "name_en": "Adductor Magnus",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Muscle_grand_adducteur_copie.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_grand_adducteur_copie.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "desc": "強大的髖伸展肌。在極限高抬腿（High Step）並需要站起來的過程中，提供主要的向上推力，並保持骨盆貼牆。",
+    "desc_en": "Powerful hip extensor. Provides the primary upward thrust when standing up from a limit High Step, while keeping the pelvis close to the wall.",
+    "tags": [
+      "髖部與大腿",
+      "攀岩/抱石",
+      "高抬腿",
+      "內收",
+      "伸展",
+      "原動肌",
+      "穩定肌",
+      "下肢拉/髖絞鍊",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "thigh_gracilis",
+    "name_zh": "股薄肌",
+    "name_en": "Gracilis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gracilis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gracilis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在折膝（Drop Knee）動作中，協助穩定膝關節內側，防止韌帶受傷。在寬站姿推撐時負責大腿內收。",
+    "desc_en": "In Drop Knee moves, assists in stabilizing the medial knee to prevent ligament injury. Responsible for thigh adduction during wide stemming stances.",
+    "tags": [
+      "髖部與大腿",
+      "攀岩/抱石",
+      "折膝技巧",
+      "內收",
+      "屈曲",
+      "膝關節屈曲",
+      "膝關節內旋",
+      "原動肌",
+      "穩定肌",
+      "膝關節穩定"
+    ]
+  },
+  {
+    "id": "thigh_rectus_femoris",
+    "name_zh": "股直肌",
+    "name_en": "Rectus Femoris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/48/Rectus_femoris_3D.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Rectus_femoris_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責高抬腿（Flexion）與隨後的伸膝（Extension）動作。在連續的踩踏與起立過程中，是不斷重複發力的關鍵肌。",
+    "desc_en": "Responsible for high stepping (flexion) followed by knee extension. The key muscle continuously engaged during repetitive stepping up motions.",
+    "tags": [
+      "股四頭肌",
+      "攀岩/抱石",
+      "高抬腿",
+      "伸展",
+      "屈曲",
+      "膝關節伸展",
+      "髖關節屈曲",
+      "原動肌",
+      "下肢推"
+    ]
+  },
+  {
+    "id": "thigh_sartorius",
+    "name_zh": "縫匠肌",
+    "name_en": "Sartorius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Sartorius_3D.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Sartorius_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "負責「4字腿（Figure-4）」動作。協助將腿部抬起並外旋，以便將腳踝跨過另一隻手或腿進行鎖定。",
+    "desc_en": "Responsible for 'Figure-4' moves. Assists in lifting and externally rotating the leg to hook the ankle over an arm or leg for locking.",
+    "tags": [
+      "髖部與大腿",
+      "攀岩/抱石",
+      "特殊技巧",
+      "屈曲",
+      "外旋",
+      "外展",
+      "膝關節屈曲",
+      "膝關節內旋",
+      "原動肌",
+      "膝關節穩定"
+    ]
+  },
+  {
+    "id": "thigh_vastus_intermedius",
+    "name_zh": "股中間肌",
+    "name_en": "Vastus Intermedius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Vastus_intermedialis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Vastus_intermedialis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "單腳深蹲（Pistol Squat）式起身的深層力量。在從極低腳點站起時，提供穩定且強大的膝伸展力。",
+    "desc_en": "Deep power source for pistol-squat style moves. Provides stable and powerful knee extension when standing up from very low footholds.",
+    "tags": [
+      "股四頭肌",
+      "攀岩/抱石",
+      "深蹲動作",
+      "伸展",
+      "膝關節伸展",
+      "原動肌",
+      "膝關節穩定",
+      "下肢推",
+      "衝擊吸收"
+    ]
+  },
+  {
+    "id": "thigh_vastus_lateralis",
+    "name_zh": "股外側肌",
+    "name_en": "Vastus Lateralis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Vastus_lateralis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Vastus_lateralis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "動態移動（Dyno）的推進器。在起跳瞬間提供爆發性的膝伸展力量。在墜落著地時，亦是吸收衝擊的主要肌肉。",
+    "desc_en": "Thruster for Dynos. Provides explosive knee extension power at takeoff. Also the primary muscle for absorbing impact during falls.",
+    "tags": [
+      "股四頭肌",
+      "攀岩/抱石",
+      "動態移動",
+      "伸展",
+      "膝關節伸展",
+      "原動肌",
+      "膝關節穩定",
+      "下肢推",
+      "衝擊吸收"
+    ]
+  },
+  {
+    "id": "thigh_vastus_medialis",
+    "name_zh": "股內側肌",
+    "name_en": "Vastus Medialis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Vastus_medialis.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Vastus_medialis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "膝蓋穩定的守護神。在極限角度踩點或折膝（Drop Knee）時，負責鎖定髕骨位置，防止髕骨脫位或疼痛。",
+    "desc_en": "Guardian of knee stability. Locks the patella position during extreme edging angles or drop knees, preventing dislocation or pain.",
+    "tags": [
+      "股四頭肌",
+      "攀岩/抱石",
+      "折膝技巧",
+      "伸展",
+      "膝關節伸展",
+      "原動肌",
+      "膝關節穩定",
+      "下肢推"
+    ]
+  },
+  {
+    "id": "thorax_diaphragm",
+    "name_zh": "橫隔膜",
+    "name_en": "Diaphragm",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/71/Diaphragm_-_2.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Diaphragm_-_2.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
+    "desc": "核心穩定的開關。透過腹式呼吸增加腹內壓，在靜態平衡（Rest）時幫助降低心率，在爆發發力前瞬間閉氣以穩定軀幹。",
+    "desc_en": "Switch for core stability. Increases intra-abdominal pressure via diaphragmatic breathing; helps lower heart rate during rests and stabilizes the trunk by bracing before explosive moves.",
+    "tags": [
+      "胸廓",
+      "攀岩/抱石",
+      "呼吸控制",
+      "屈曲",
+      "提升/下壓",
+      "核心穩定",
+      "呼吸輔助",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "thorax_intercostal_internal",
+    "name_zh": "內側肋間肌",
+    "name_en": "Internal Intercostal",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Internal_intercostal_muscles_animation.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Internal_intercostal_muscles_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在極限發力時（如Power Scream）協助強力呼氣。收緊胸廓，將上半身整合成堅固的傳力結構。",
+    "desc_en": "Assists in forceful expiration during limit moves (Power Scream). Tightens the rib cage, integrating the upper body into a rigid force-transmission structure.",
+    "tags": [
+      "胸廓",
+      "攀岩/抱石",
+      "極限發力",
+      "呼吸輔助",
+      "核心穩定"
+    ]
+  },
+  {
+    "id": "thorax_pectoralis_major",
+    "name_zh": "胸大肌",
+    "name_en": "Pectoralis Major",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/39/PectoralisMajor.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:PectoralisMajor.gif\">DrJanaOfficial</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "desc": "擠壓攀登（Compression Climbing）的主力。在抱石中負責「熊抱（Bear Hug）」大型岩塊，以及在推撐（Mantle）動作末期的推力。",
+    "desc_en": "Powerhouse for Compression Climbing. Responsible for 'Bear Hugging' large volumes in bouldering and providing push power during the final phase of mantling.",
+    "tags": [
+      "胸廓",
+      "肩帶與肋關節",
+      "攀岩/抱石",
+      "擠壓攀登",
+      "推撐/翻越",
+      "屈曲",
+      "內收",
+      "內旋",
+      "上肢推-水平",
+      "原動肌",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "thorax_pectoralis_minor",
+    "name_zh": "胸小肌",
+    "name_en": "Pectoralis Minor",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/37/Pectoralis_minor_muscle_animation_small.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pectoralis_minor_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "攀岩者圓肩（Climber's Hunch）的元兇之一。過度緊繃會限制手臂上舉幅度（Reach），需定期伸展以維持靈活性。",
+    "desc_en": "A culprit behind 'Climber's Hunch'. Excessive tightness restricts overhead reach; requires regular stretching to maintain mobility.",
+    "tags": [
+      "胸廓",
+      "肩帶與肋關節",
+      "攀岩/抱石",
+      "受傷風險",
+      "下壓",
+      "前伸",
+      "下迴旋",
+      "內旋",
+      "肩帶穩定",
+      "穩定肌",
+      "呼吸輔助",
+      "姿勢維持"
+    ]
+  },
+  {
+    "id": "thorax_serratus_anterior",
+    "name_zh": "前鋸肌",
+    "name_en": "Serratus Anterior",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/31/Serratus_anterior_muscle_animation_small.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Serratus_anterior_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "增加攀登距離的隱藏肌肉。負責肩胛前伸（Protraction），在極限伸展抓點（Reach）時能多延伸出關鍵的幾公分。",
+    "desc_en": "Hidden muscle for extra reach. Responsible for scapular protraction, extending the arm those critical few centimeters during limit reaches.",
+    "tags": [
+      "胸廓",
+      "肩帶與肋關節",
+      "攀岩/抱石",
+      "極限伸展",
+      "外展",
+      "上肢推-水平",
+      "上肢推-垂直",
+      "屈曲",
+      "肩帶穩定",
+      "核心穩定",
+      "呼吸輔助"
+    ]
+  },
+  {
+    "id": "thorax_subclavius",
+    "name_zh": "鎖下肌",
+    "name_en": "Subclavius",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Subclavius_muscle_animation2.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Subclavius_muscle_animation2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "在劇烈的單臂懸吊或鎖定動作中，負責穩定鎖骨，保護其下方的臂叢神經與血管免受壓迫。",
+    "desc_en": "Stabilizes the clavicle during intense single-arm hangs or lock-offs, protecting the underlying brachial plexus and blood vessels from compression.",
+    "tags": [
+      "胸廓",
+      "攀岩/抱石",
+      "懸吊保護",
+      "呼吸輔助",
+      "穩定肌"
+    ]
+  },
+  {
+    "id": "thorax_transversus_thoracis",
+    "name_zh": "胸橫肌",
+    "name_en": "Transversus Thoracis",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Transversus_thoracis.png",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Transversus_thoracis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
+    "desc": "協助呼氣。在核心極度收縮（如前水平或懸岩攀登）導致胸廓活動受限時，輔助氣體排出。",
+    "desc_en": "Assists expiration. Aids in expelling air when thoracic mobility is restricted due to extreme core compression (e.g., front levers or roof climbing).",
+    "tags": [
+      "胸廓",
+      "攀岩/抱石",
+      "呼吸輔助"
+    ]
+  }
+]

@@ -5,13 +5,12 @@
     "name_en": "Digastric",
     "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gray_%E2%80%94_musculus_digastricus.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_digastricus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "在激烈的籃球攻防轉換中，協助大口喘氣時的呼吸道暢通。同時在身體遭受衝撞或急停時，協助穩定頭部位置，保持視野清晰。",
-    "desc_en": "Assists in maintaining airway patency during heavy breathing in intense transition plays. Helps stabilize head position and maintain visual focus during physical contact or sudden stops.",
+    "desc": "在張口換氣時協助打開下顎，並穩定舌骨位置。良好的控制能確保在極短的換氣窗口內吸入最大氣量。",
+    "desc_en": "Assists in jaw opening during breathing and stabilizes the hyoid. Good control ensures maximum air intake within the very short breathing window.",
     "tags": [
       "頸部肌群",
-      "籃球",
       "游泳",
-      "瑜伽",
+      "換氣技巧",
       "提升/下壓",
       "穩定肌",
       "呼吸輔助",
@@ -24,20 +23,16 @@
     "name_en": "Middle Deltoid",
     "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "防守時維持張開雙臂（Wingspan）干擾傳球路線的關鍵肌肉。在投籃動作中負責上臂的外展與穩定，也是搶籃板時高舉雙手的主要力量來源。",
-    "desc_en": "Key muscle for maintaining arm width (wingspan) to disrupt passing lanes on defense. Responsible for arm abduction and stability during the shooting motion and lifting arms for rebounds.",
+    "desc": "蝶式空中回臂（Recovery）的主要升力來源。在自由式中，協助提肘（High Elbow Recovery）動作，確保手臂順利出水。",
+    "desc_en": "Primary lift source for butterfly recovery. In freestyle, assists in the High Elbow Recovery, ensuring the arm clears the water smoothly.",
     "tags": [
       "肩帶與肩關節",
-      "籃球",
       "游泳",
-      "健身/重訓",
-      "羽毛球",
-      "網球",
+      "蝶式",
+      "自由式",
       "外展",
-      "穩定肌",
-      "步態與移動",
-      "投籃",
-      "防守"
+      "原動肌",
+      "回臂技巧"
     ]
   },
   {
@@ -46,21 +41,19 @@
     "name_en": "Anterior Deltoid",
     "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "投籃動作中負責手臂上舉（屈曲）與推球的關鍵肌肉。在發動長傳（Chest Pass）或運球切入對抗時，提供必要的肩部前側力量。",
-    "desc_en": "Critical for arm elevation (flexion) and the pushing motion during shooting. Provides necessary anterior shoulder strength for chest passes or driving through contact.",
+    "desc": "負責空中移臂（Recovery）後的入水延伸（Reach）。將手臂向前送出以增加划距（Distance Per Stroke）。過度使用或圓肩容易導致夾擠症候群。",
+    "desc_en": "Responsible for the reach after aerial recovery. Drives the arm forward to maximize Distance Per Stroke. Overuse or rounded shoulders can lead to impingement syndrome.",
     "tags": [
       "肩帶與肩關節",
-      "籃球",
       "游泳",
-      "健身/重訓",
-      "羽毛球",
-      "網球",
+      "自由式",
+      "蝶式",
+      "仰式",
       "屈曲",
       "內旋",
       "原動肌",
-      "步態與移動",
-      "投籃",
-      "傳球"
+      "入水技巧",
+      "游泳肩風險"
     ]
   },
   {
@@ -69,22 +62,17 @@
     "name_en": "Posterior Deltoid",
     "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deltoid_muscle_animation4.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Deltoid_muscle_animation4.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "搶下籃板球後用力「抓下」護球的關鍵肌肉。在防守端負責手臂後展以卡位，並在傳球前的向後引臂動作中發揮作用。",
-    "desc_en": "Crucial for forcefully pulling the ball down to secure a rebound. Active in defensive boxing out and the wind-up phase of passing.",
+    "desc": "在划手結束後的「提臂出水」階段至關重要。將手臂向後上方拉起，啟動回臂動作。疲勞時手肘會抬不起來（拖水）。",
+    "desc_en": "Crucial for lifting the arm out of the water at the end of the stroke. Pulls the arm back and up to initiate recovery. Fatigue here causes low elbows (water dragging).",
     "tags": [
       "肩帶與肩關節",
-      "籃球",
       "游泳",
-      "划艇",
-      "羽毛球",
-      "網球",
-      "棒球/壘球",
+      "自由式",
+      "蝶式",
       "伸展",
       "外旋",
       "原動肌",
-      "穩定肌",
-      "步態與移動",
-      "籃板"
+      "回臂技巧"
     ]
   },
   {
@@ -93,25 +81,19 @@
     "name_en": "Adductor Magnus",
     "img": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Muscle_grand_adducteur_copie.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_grand_adducteur_copie.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
-    "desc": "防守滑步（Defensive Slide）時負責快速並腿與穩定骨盆。作為強大的伸髖肌，在深蹲起跳搶籃板或低位單打時提供巨大的爆發力。",
-    "desc_en": "Responsible for rapid leg adduction and pelvic stability during defensive slides. As a powerful hip extensor, it provides immense power for jumping from a squat position (rebounding) or low-post moves.",
+    "desc": "強大的伸髖與內收肌。在蝶式打腿的下壓（Downbeat）與蛙式夾水動作中均扮演重要角色，提供深層且強勁的推進力。",
+    "desc_en": "Powerful hip extensor and adductor. Plays a major role in both the butterfly downbeat and breaststroke squeeze, providing deep, robust propulsion.",
     "tags": [
       "髖部與大腿",
-      "籃球",
-      "足球",
-      "健身/重訓",
-      "登山/健行",
-      "瑜伽",
       "游泳",
+      "蝶式",
+      "蛙式",
       "內收",
       "伸展",
       "原動肌",
       "穩定肌",
-      "下肢拉/髖絞鍊",
       "核心穩定",
-      "步態與移動",
-      "防守",
-      "跳躍"
+      "打腿技巧"
     ]
   },
   {
@@ -120,21 +102,19 @@
     "name_en": "Teres Major",
     "img": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Gray_%E2%80%94_musculus_teres_major.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_teres_major.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "協助背闊肌進行強力的手臂下壓與內旋動作，例如灌籃後的掛框穩定，或是防守時用力拍掉對手的球（Strip）。",
-    "desc_en": "Assists the latissimus dorsi in powerful arm depression and internal rotation, such as stabilizing on the rim after a dunk or forcefully stripping the ball on defense.",
+    "desc": "被稱為「背闊肌的小助手」。全力協助自由式與蝶式的划水動作（內旋與伸展）。在衝刺時提供額外的爆發力。",
+    "desc_en": "Known as the 'Lat's Little Helper'. Fully assists in the pulling motion (internal rotation and extension) of freestyle and butterfly. Provides extra explosive power during sprints.",
     "tags": [
       "肩帶與肩關節",
-      "籃球",
       "游泳",
-      "划艇",
-      "健身/重訓",
+      "自由式",
+      "蝶式",
       "伸展",
       "內收",
       "內旋",
       "上肢拉-垂直",
       "原動肌",
-      "穩定肌",
-      "防守"
+      "划手技巧"
     ]
   },
   {
@@ -143,17 +123,15 @@
     "name_en": "Abductor Digiti Minimi",
     "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gray_%E2%80%94_musculus_abductor_digiti_minimi.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "單手抓球（Palming）的關鍵肌肉。在投籃出手的瞬間，負責將手掌撐開至最大範圍，增加對球的控制面積與穩定性。",
-    "desc_en": "Key muscle for palming the ball. Spreads the hand to its maximum width during the shooting release, increasing surface area for better ball control and stability.",
+    "desc": "微調手掌寬度。部分游泳教練主張手指微張（約2-3mm）能利用流體邊界層效應增加抓水力，此肌肉負責控制該張開幅度。",
+    "desc_en": "Fine-tunes hand width. Some coaches advocate for slight finger spreading (~2-3mm) to leverage fluid boundary layer effects for better grip; this muscle controls that spread.",
     "tags": [
       "手腕與手部",
-      "籃球",
+      "游泳",
       "外展",
       "精細運動",
       "原動肌",
-      "姿勢維持",
-      "運球/控球",
-      "投籃"
+      "手部控制"
     ]
   },
   {
@@ -162,15 +140,14 @@
     "name_en": "Extensor Digiti Minimi",
     "img": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gray_%E2%80%94_musculus_extensor_digiti_minimi.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "在運球或接球準備動作中，協助張開手指準備接觸球體。投籃出手後的跟隨動作（Follow-through）亦需此肌肉維持張力。",
-    "desc_en": "Assists in spreading fingers to prepare for catching or dribbling. Maintains tension during the follow-through phase of a shot.",
+    "desc": "維持小指伸直以增加划水表面積。在自由式入水時，小指通常先入水（視技術流派而定），此肌肉需負責精確控制。",
+    "desc_en": "Keeps the little finger extended to increase stroke surface area. In freestyle entry (depending on technique), the little finger often enters first, requiring precise control by this muscle.",
     "tags": [
       "肘部與前臂",
-      "籃球",
+      "游泳",
       "伸展",
       "原動肌",
-      "姿勢維持",
-      "投籃"
+      "手部控制"
     ]
   },
   {
@@ -179,16 +156,15 @@
     "name_en": "Flexor Digiti Minimi Brevis",
     "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Gray_%E2%80%94_musculus_flexor_digiti_minimi_brevis.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_digiti_minimi_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "負責手指對球的抓握力。在強力運球（Pound Dribble）或爭搶地板球時，提供穩固的抓地力防止球脫手。",
-    "desc_en": "Responsible for grip strength on the ball. Provides a secure hold preventing turnovers during power dribbles or scrambling for loose balls.",
+    "desc": "協助維持手掌外側（尺側）的張力。在抱水時，有助於捕捉更多水流。",
+    "desc_en": "Assists in maintaining tension on the lateral (ulnar) side of the palm. Helps trap more water during the catch.",
     "tags": [
       "手腕與手部",
-      "籃球",
+      "游泳",
       "屈曲",
       "精細運動",
       "原動肌",
-      "姿勢維持",
-      "運球/控球"
+      "手部控制"
     ]
   },
   {
@@ -197,17 +173,15 @@
     "name_en": "Opponens Digiti Minimi",
     "img": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Gray_%E2%80%94_musculus_opponens_digiti_minimi.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_opponens_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "協助形成手掌的「杯狀」結構，這對於精準的單手傳球與投籃手型的維持至關重要，確保球體貼合掌心邊緣。",
-    "desc_en": "Helps form the 'cupped' shape of the palm, essential for accurate one-handed passes and maintaining the shooting pocket, ensuring the ball sits well against the palm edges.",
+    "desc": "稍微增加手掌的凹陷度（Cupping）。雖然過度杯狀手不被推薦，但適度的對立能增加抓水時的穩定感。",
+    "desc_en": "Slightly increases palm cupping. While excessive cupping is discouraged, moderate opposition enhances stability during the catch.",
     "tags": [
       "手腕與手部",
-      "籃球",
+      "游泳",
       "對立",
       "精細運動",
       "原動肌",
-      "姿勢維持",
-      "投籃",
-      "傳球"
+      "手部控制"
     ]
   },
   {
@@ -216,20 +190,16 @@
     "name_en": "Abductor Digiti Minimi",
     "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gray_%E2%80%94_musculus_abductor_digiti_minimi.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_digiti_minimi.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "防止腳踝扭傷的第一道防線。在歐洲步（Euro-step）或急速變向切入時，擴大足底支撐面積，抵抗巨大的側向剪力。",
-    "desc_en": "The first line of defense against ankle sprains. Increases plantar support area during Euro-steps or rapid directional cuts, resisting immense lateral shear forces.",
+    "desc": "在游泳時通常保持放鬆。但在蛙式踢水時，些微的外展有助於最大化腳掌對水的接觸面積。",
+    "desc_en": "Usually relaxed during swimming. However, during the breaststroke kick, slight abduction helps maximize the plantar surface area against the water.",
     "tags": [
       "踝部與足部",
-      "籃球",
-      "足球",
-      "瑜伽",
+      "游泳",
+      "蛙式",
       "外展",
       "屈曲",
-      "原動肌",
-      "足弓支撐",
       "穩定肌",
-      "步態與移動",
-      "變向/切入"
+      "打腿技巧"
     ]
   },
   {
@@ -238,21 +208,15 @@
     "name_en": "Teres Minor",
     "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gray_%E2%80%94_musculus_teres_minor.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_teres_minor.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "投籃動作中負責外旋，幫助維持手肘內收（Elbow in）的正確姿勢。作為肩袖肌群，在對抗性上籃中穩定肩關節防止脫臼。",
-    "desc_en": "Responsible for external rotation in shooting, helping maintain the correct 'elbow in' form. As a rotator cuff muscle, stabilizes the shoulder joint during contact layups.",
+    "desc": "肩袖穩定肌。協助棘下肌進行外旋，在手臂高肘抱水（EVF）時，對抗強大的內旋力矩，保持關節穩定。",
+    "desc_en": "Rotator cuff stabilizer. Assists the infraspinatus in external rotation. During the Early Vertical Forearm (EVF) catch, counters strong internal rotation torque to maintain joint stability.",
     "tags": [
       "肩帶與肩關節",
-      "籃球",
       "游泳",
-      "棒球/壘球",
-      "網球",
-      "羽毛球",
-      "健身/重訓",
       "外旋",
       "原動肌",
       "穩定肌",
-      "姿勢維持",
-      "投籃"
+      "抱水技巧"
     ]
   },
   {
@@ -261,15 +225,14 @@
     "name_en": "Internal Intercostal",
     "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Internal_intercostal_muscles_animation.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Internal_intercostal_muscles_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "在高強度的全場攻防轉換後，負責暫停期間的強制呼氣與恢復。在發生身體碰撞時，協助固定胸廓保護內臟。",
-    "desc_en": "Manages forced expiration and recovery during timeouts after high-intensity full-court transitions. Stabilizes the rib cage to protect organs during physical collisions.",
+    "desc": "負責在水中用力呼氣（吐氣泡）。有效的呼氣是快速吸氣的前提，此肌肉確保廢氣能迅速排出，防止二氧化碳堆積。",
+    "desc_en": "Responsible for forceful exhalation (blowing bubbles) underwater. Effective exhalation is the prerequisite for fast inhalation; this muscle ensures rapid CO2 expulsion.",
     "tags": [
       "胸廓",
-      "籃球",
-      "HIIT/CrossFit",
+      "游泳",
+      "換氣技巧",
       "呼吸輔助",
-      "核心穩定",
-      "防守"
+      "核心穩定"
     ]
   },
   {
@@ -278,13 +241,12 @@
     "name_en": "Medial Pterygoid",
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Medial_pterygoid_muscle_animation_2.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Medial_pterygoid_muscle_animation_2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "在禁區激烈對抗或專注防守時，常會不自覺咬緊牙關導致此肌肉緊張。適度放鬆下顎有助於釋放頸部壓力，保持反應靈敏。",
-    "desc_en": "Often tightened unconsciously during intense paint battles or focused defense. Relaxing the jaw helps release neck tension and maintains reaction agility.",
+    "desc": "與咬肌協同。緊張的下顎會連帶影響頸部肌肉，破壞頭部流線型位置。放鬆下顎是改善換氣效率的第一步。",
+    "desc_en": "Synergistic with the masseter. A tense jaw recruits neck muscles, disrupting the streamlined head position. Relaxing the jaw is the first step to improving breathing efficiency.",
     "tags": [
       "顱骨與顳顎關節",
-      "籃球",
-      "拳擊/格鬥",
-      "健身/重訓",
+      "游泳",
+      "換氣技巧",
       "屈曲",
       "內收",
       "原動肌",
@@ -297,17 +259,15 @@
     "name_en": "Extensor Carpi Ulnaris",
     "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gray_%E2%80%94_musculus_extensor_carpi_ulnaris.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_carpi_ulnaris.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "投籃出手瞬間（Wrist Snap）的重要肌肉，確保手腕伸展並將球向正前方投出。運球時負責手腕的穩定回彈控制。",
-    "desc_en": "Crucial for the wrist snap in shooting, ensuring extension and straight trajectory. Controls wrist stability and rebound during dribbling.",
+    "desc": "在入水延伸（Entry and Extension）階段穩定手腕尺側。防止手掌向外翻轉，確保切入水面的角度正確。",
+    "desc_en": "Stabilizes the ulnar side of the wrist during Entry and Extension. Prevents outward hand deviation, ensuring the correct angle for slicing into the water.",
     "tags": [
       "肘部與前臂",
-      "籃球",
+      "游泳",
       "伸展",
       "內收",
       "原動肌",
-      "姿勢維持",
-      "投籃",
-      "運球/控球"
+      "入水技巧"
     ]
   },
   {
@@ -316,17 +276,15 @@
     "name_en": "Flexor Carpi Ulnaris",
     "img": "https://upload.wikimedia.org/wikipedia/commons/7/75/Flexor_carpi_ulnaris.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Flexor_carpi_ulnaris.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "負責投籃壓腕的最後一擊，產生球的後旋（Backspin）。強力傳球時提供手腕屈曲的力量。頻繁運球容易導致其疲勞。",
-    "desc_en": "Delivers the final wrist flexion in shooting to generate backspin. Provides wrist flexion power for strong passes. Frequent dribbling can lead to fatigue here.",
+    "desc": "與橈側腕屈肌共同完成推水動作。同時在抱水初期（Catch）協助手腕微彎，以利捕捉水流。",
+    "desc_en": "Works with the radialis to complete the push phase. Also assists in slight wrist flexion during the initial Catch to help trap water.",
     "tags": [
       "肘部與前臂",
-      "籃球",
+      "游泳",
       "屈曲",
       "內收",
       "原動肌",
-      "姿勢維持",
-      "投籃",
-      "傳球"
+      "推水技巧"
     ]
   },
   {
@@ -335,18 +293,14 @@
     "name_en": "Quadratus Plantae",
     "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Muscle_carr%C3%A9_plantaire.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_carr%C3%A9_plantaire.png\">Berichard d&#039;après Gray&#039;s anatomy</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
-    "desc": "協助腳趾抓地，在急停跳投（Pull-up Jumper）與刺探步（Jab Step）時提供足底穩定，修正屈趾肌的角度以利瞬間發力。",
-    "desc_en": "Assists toe grip for stability during pull-up jumpers and jab steps. Corrects the angle of toe flexors to facilitate instantaneous power generation.",
+    "desc": "輔助足部穩定。在強力轉身蹬牆（Wall Push-off）時協助調整足部受力，避免力量分散。",
+    "desc_en": "Assists in foot stability. Helps align foot force application during powerful wall push-offs, preventing power dissipation.",
     "tags": [
       "踝部與足部",
-      "籃球",
-      "足球",
-      "瑜伽",
+      "游泳",
       "屈曲",
       "原動肌",
-      "足弓支撐",
-      "步態與移動",
-      "跳躍"
+      "轉身技巧"
     ]
   },
   {
@@ -355,16 +309,17 @@
     "name_en": "Pronator Quadratus",
     "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Pronator-quadratus.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pronator-quadratus.png\">Selket at English Wikipedia</a>, Public domain, via Wikimedia Commons",
-    "desc": "運球時負責維持手掌朝下（旋前）的姿勢。在投籃輔助手的擺放上，協助維持拇指正確指向，確保不干擾球的路徑。",
-    "desc_en": "Maintains the palms-down (pronated) position while dribbling. Helps align the guide hand thumb in shooting, ensuring it doesn't interfere with the ball's path.",
+    "desc": "游泳「高肘抱水 (EVF)」的關鍵肌。在抓水瞬間負責將前臂旋前（內旋），使手掌與前臂能垂直於水面，大幅提升推進效率。",
+    "desc_en": "Key muscle for 'Early Vertical Forearm (EVF)'. Pronates the forearm at the catch, positioning the palm and forearm perpendicular to the water surface for maximum propulsion.",
     "tags": [
       "肘部與前臂",
-      "籃球",
+      "游泳",
+      "自由式",
+      "蝶式",
+      "仰式",
       "旋前",
       "原動肌",
-      "姿勢維持",
-      "運球/控球",
-      "投籃"
+      "抱水技巧"
     ]
   },
   {
@@ -373,23 +328,17 @@
     "name_en": "Soleus",
     "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Soleus_muscle_-_animation.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Soleus_muscle_-_animation.gif\">Polygon data is generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "籃球員維持「防守站姿（Defensive Stance）」的關鍵耐力肌。在膝蓋彎曲的狀態下提供支撐，並協助垂直起跳與變速過人。",
-    "desc_en": "Key endurance muscle for maintaining the 'defensive stance.' Provides support while knees are bent and assists in vertical jumps and changing speeds to blow by defenders.",
+    "desc": "協助長時間維持足部伸直的流線型姿勢。在長距離游泳中，防止腳板不自覺勾起（Dorsiflexion）而產生巨大的阻力剎車效應。",
+    "desc_en": "Helps maintain the streamlined pointed-foot position over time. In distance swimming, prevents unconscious dorsiflexion which would create a massive drag/braking effect.",
     "tags": [
       "小腿",
-      "籃球",
-      "足球",
-      "健身/重訓",
-      "登山/健行",
-      "單車",
+      "游泳",
+      "長泳",
       "蹠屈",
       "姿勢維持",
       "原動肌",
       "穩定肌",
-      "衝擊吸收",
-      "步態與移動",
-      "防守",
-      "跳躍"
+      "流線型"
     ]
   },
   {
@@ -398,24 +347,19 @@
     "name_en": "Semitendinosus",
     "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Semitendinosus.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Semitendinosus.png\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "保護膝蓋十字韌帶（ACL）的重要肌肉。在著地時防止脛骨過度前移，並在衝刺快攻（Fast Break）時提供爆發性伸髖力量。",
-    "desc_en": "Vital for protecting the ACL. Prevents excessive tibial translation upon landing and provides explosive hip extension power during fast breaks.",
+    "desc": "在蛙式收腿（Recovery）時負責屈膝將腳跟拉向臀部。在自由式中，協助上踢（Upbeat）動作，並維持腿部的流線型位置。",
+    "desc_en": "Responsible for knee flexion during the breaststroke recovery, pulling heels toward the glutes. In freestyle, assists in the upbeat phase and maintains streamlined leg positioning.",
     "tags": [
       "髖部與大腿",
-      "籃球",
-      "足球",
-      "健身/重訓",
-      "登山/健行",
-      "瑜伽",
+      "游泳",
+      "蛙式",
+      "自由式",
       "屈曲",
       "伸展",
       "膝關節屈曲",
       "髖關節伸展",
       "原動肌",
-      "衝擊吸收",
-      "步態與移動",
-      "下肢拉/髖絞鍊",
-      "跳躍"
+      "打腿技巧"
     ]
   },
   {
@@ -424,20 +368,15 @@
     "name_en": "Lumbricals (Foot)",
     "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Lumbricales_pedis.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_pedis.png\">Uwe Gille</a>, Public domain, via Wikimedia Commons",
-    "desc": "在防守滑步與急停跳投時，負責穩定腳趾關節，防止腳趾抓地（Clawing），確保前腳掌能平穩地傳遞爆發力。",
-    "desc_en": "Stabilizes toe joints during defensive slides and pull-ups. Prevents clawing, ensuring the forefoot can smoothly transmit explosive power.",
+    "desc": "維持腳趾平順的關鍵。避免腳趾蜷曲（Clawing），確保水流能順暢通過腳面，減少微小渦流阻力。",
+    "desc_en": "Key to keeping toes streamlined. Prevents toe clawing, ensuring smooth water flow over the foot surface and minimizing micro-eddy drag.",
     "tags": [
       "足部內在肌-第二層",
-      "籃球",
-      "足球",
-      "瑜伽",
+      "游泳",
       "屈曲",
       "伸展",
       "足部穩定",
-      "原動肌",
-      "步態與移動",
-      "防守",
-      "跳躍"
+      "流線型"
     ]
   },
   {
@@ -446,20 +385,15 @@
     "name_en": "Adductor Hallucis",
     "img": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Musculus_adductor_hallucis.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Musculus_adductor_hallucis.png\">Image:Gray445.png modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
-    "desc": "變向切入（Crossover）時，負責穩定前腳掌並維持橫向足弓。在急停與旋轉（Pivot）動作中，協助大拇指抓地，提供穩固的旋轉支點。",
-    "desc_en": "Stabilizes the forefoot and transverse arch during crossovers. Assists big toe grip during sudden stops and pivoting, providing a solid fulcrum for rotation.",
+    "desc": "在游泳時應保持放鬆。許多初學者因腳部過度緊張而導致此肌肉與足底筋膜緊繃，引發足底抽筋。",
+    "desc_en": "Should remain relaxed while swimming. Many beginners experience plantar cramping due to excessive tension in this muscle and the plantar fascia.",
     "tags": [
       "踝部與足部",
-      "籃球",
-      "足球",
-      "瑜伽",
+      "游泳",
       "內收",
       "屈曲",
-      "原動肌",
       "足弓支撐",
-      "橫向足弓",
-      "步態與移動",
-      "變向/切入"
+      "預防抽筋"
     ]
   },
   {
@@ -468,22 +402,17 @@
     "name_en": "Abductor Hallucis",
     "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Abductor_hallucis.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Abductor_hallucis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
-    "desc": "籃球員足部核心的第一道防線。在跳躍著地（Landing）時抵抗足弓塌陷與過度內旋，預防足底筋膜炎，並在三重威脅（Triple Threat）站姿中提供抓地力。",
-    "desc_en": "The first line of defense for the basketball foot core. Resists arch collapse and overpronation during landings, preventing plantar fasciitis, and provides grip in the triple threat stance.",
+    "desc": "在蹬牆出發（Push-off）時提供足弓穩定。游泳過程中若腳趾過度用力抓水（非必要動作），容易導致此肌肉痙攣（抽筋）。",
+    "desc_en": "Provides arch stability during wall push-offs. Excessive toe gripping while swimming (unnecessary) often leads to spasms (cramps) in this muscle.",
     "tags": [
       "踝部與足部",
-      "籃球",
-      "足球",
-      "瑜伽",
-      "登山/健行",
+      "游泳",
+      "轉身技巧",
       "外展",
       "屈曲",
       "原動肌",
-      "足弓支撐",
       "足部穩定",
-      "步態與移動",
-      "籃板",
-      "跳躍"
+      "預防抽筋"
     ]
   },
   {
@@ -492,17 +421,15 @@
     "name_en": "Adductor Pollicis",
     "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gray_%E2%80%94_musculus_adductor_pollicis.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_adductor_pollicis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "保護球權（Ball Security）的關鍵。在雙手持球被對手拍擊時，負責將大拇指緊扣球體，防止球被抄截（Steal）。",
-    "desc_en": "Critical for ball security. Clamps the thumb tightly against the ball when opponents swipe at it, preventing steals.",
+    "desc": "游泳時的重要肌肉。負責將拇指緊貼食指邊緣，消除指間縫隙，創造一個堅實、不漏水的划手槳面。",
+    "desc_en": "Vital for swimming. Keeps the thumb tight against the index finger, eliminating gaps to create a solid, leak-proof paddle for pulling.",
     "tags": [
       "手腕與手部",
-      "籃球",
+      "游泳",
       "內收",
       "精細運動",
       "原動肌",
-      "姿勢維持",
-      "防守",
-      "運球/控球"
+      "手部控制"
     ]
   },
   {
@@ -511,16 +438,14 @@
     "name_en": "Abductor Pollicis Longus",
     "img": "https://upload.wikimedia.org/wikipedia/commons/6/61/Gray_%E2%80%94_musculus_abductor_pollicis_longus.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_pollicis_longus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "防守時盡可能擴大雙手干擾範圍。在接球（Catching）準備動作中，協助張開大拇指以迎接高速傳球。",
-    "desc_en": "Maximizes hand span for defensive disruption. Assists in spreading the thumb to receive high-velocity passes during catching.",
+    "desc": "控制入水時的手掌張力。適度的外展有助於形成穩定的划手槳面（Paddle），但過度僵硬會導致前臂疲勞。",
+    "desc_en": "Controls hand tension at entry. Moderate abduction helps form a stable paddle shape, but excessive stiffness leads to forearm fatigue.",
     "tags": [
       "肘部與前臂",
-      "籃球",
+      "游泳",
       "外展",
       "原動肌",
-      "姿勢維持",
-      "防守",
-      "接球"
+      "抱水技巧"
     ]
   },
   {
@@ -529,18 +454,16 @@
     "name_en": "Abductor Pollicis Brevis",
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Gray_%E2%80%94_musculus_abductor_pollicis_brevis.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_abductor_pollicis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "控球時維持虎口張開的姿勢，使手掌能覆蓋更大的球面。對於單手抓球或精準的單手傳球（如棒球式傳球）至關重要。",
-    "desc_en": "Maintains the open web space between thumb and index finger, allowing the hand to cover more ball surface. Crucial for palming and precise one-handed passes (e.g., baseball pass).",
+    "desc": "穩定拇指基部。在划手遭遇強大水阻時，防止拇指塌陷或移位，維持手掌結構的完整性。",
+    "desc_en": "Stabilizes the thumb base. Prevents thumb collapse or shifting under heavy water resistance during the pull, maintaining hand structural integrity.",
     "tags": [
       "手腕與手部",
-      "籃球",
+      "游泳",
       "外展",
       "屈曲",
       "精細運動",
-      "原動肌",
-      "姿勢維持",
-      "運球/控球",
-      "傳球"
+      "穩定肌",
+      "手部控制"
     ]
   },
   {
@@ -549,16 +472,14 @@
     "name_en": "Extensor Pollicis Longus",
     "img": "https://upload.wikimedia.org/wikipedia/commons/8/80/Gray_%E2%80%94_musculus_extensor_pollicis_longus.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_pollicis_longus.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "投籃出手後，確保大拇指不干擾球的飛行路徑（避免「卡指」）。在防守封阻（Block）時，協助將手指完全伸展以達到最大高度。",
-    "desc_en": "Ensures the thumb clears the ball's path after release (preventing thumb interference). Assists in fully extending the digit for maximum height during shot blocking.",
+    "desc": "負責拇指伸展。游泳時避免拇指過度外展（翹起），這會增加水阻。應保持拇指與手掌平面一致。",
+    "desc_en": "Extends the thumb. Avoid excessive abduction (hitchhiking) while swimming, as it increases drag. Keep the thumb aligned with the palm plane.",
     "tags": [
       "肘部與前臂",
-      "籃球",
+      "游泳",
       "伸展",
       "原動肌",
-      "姿勢維持",
-      "投籃",
-      "防守"
+      "手部控制"
     ]
   },
   {
@@ -567,16 +488,15 @@
     "name_en": "Extensor Pollicis Brevis",
     "img": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Gray_%E2%80%94_musculus_extensor_pollicis_brevis.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_pollicis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "與長肌協同，在快速運球變向時，協助大拇指迅速彈開準備下一次觸球。",
-    "desc_en": "Works with the longus to quickly extend the thumb during rapid dribbling moves, preparing the hand for the next touch.",
+    "desc": "協助控制拇指位置。在划手時，拇指通常需貼近食指以減少縫隙，此肌肉需適度調節張力。",
+    "desc_en": "Assists in controlling thumb position. During the stroke, the thumb should usually be close to the index finger to minimize gaps; this muscle regulates tension appropriately.",
     "tags": [
       "肘部與前臂",
-      "籃球",
+      "游泳",
       "伸展",
       "外展",
       "原動肌",
-      "姿勢維持",
-      "運球/控球"
+      "手部控制"
     ]
   },
   {
@@ -585,16 +505,15 @@
     "name_en": "Flexor Pollicis Brevis",
     "img": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Gray_%E2%80%94_musculus_flexor_pollicis_brevis.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_pollicis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "投籃輔助手（Guide Hand）的穩定肌。輕柔地控制大拇指位置，確保球體穩定但不施加多餘推力。",
-    "desc_en": "Stabilizer for the guide hand. Gently controls thumb position to steady the ball without applying unwanted force.",
+    "desc": "強化大魚際區的穩定性。防止划水時拇指因疲勞而鬆動，確保每一划的效率。",
+    "desc_en": "Reinforces stability in the thenar eminence. Prevents the thumb from loosening due to fatigue during strokes, ensuring efficiency in every pull.",
     "tags": [
       "手腕與手部",
-      "籃球",
+      "游泳",
       "屈曲",
       "精細運動",
       "原動肌",
-      "姿勢維持",
-      "投籃"
+      "手部控制"
     ]
   },
   {
@@ -603,17 +522,15 @@
     "name_en": "Opponens Pollicis",
     "img": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Gray_%E2%80%94_musculus_opponens_pollicis.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_opponens_pollicis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "單手抓球（Palming）的核心力量。負責將大拇指拉向掌心，鎖住球體。在強力灌籃或空中對抗時，確保球不會滑脫。",
-    "desc_en": "Core muscle for palming the ball. Pulls the thumb towards the palm to lock the ball in place. Ensures ball security during dunks or aerial contact.",
+    "desc": "協助拇指稍微向手掌中心旋轉，這有助於鎖定拇指位置，使其成為堅固划手面的一部分。",
+    "desc_en": "Assists in rotating the thumb slightly toward the palm center, helping lock the thumb position as part of a solid stroke surface.",
     "tags": [
       "手腕與手部",
-      "籃球",
+      "游泳",
       "對立",
       "精細運動",
       "原動肌",
-      "姿勢維持",
-      "灌籃",
-      "運球/控球"
+      "手部控制"
     ]
   },
   {
@@ -622,17 +539,15 @@
     "name_en": "Abductor Hallucis (Intrinsic)",
     "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Abductor_hallucis.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Abductor_hallucis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
-    "desc": "在罰球線單腳站立或歐洲步（Euro-step）著地時，主動控制大拇指位置以維持身體平衡。增強前腳掌的本體感覺。",
-    "desc_en": "Actively controls big toe position to maintain balance during single-leg free throw alignment or Euro-step landings. Enhances forefoot proprioception.",
+    "desc": "與足部流體力學有關。在蛙式蹬腿（Kick）瞬間，穩定的足部內側結構有助於更有效地推水。",
+    "desc_en": "Related to foot hydrodynamics. A stable medial foot structure enhances water displacement efficiency during the propulsive phase of the breaststroke kick.",
     "tags": [
       "踝部與足部",
-      "籃球",
+      "游泳",
+      "蛙式",
       "外展",
       "穩定肌",
-      "足弓支撐",
-      "步態與移動",
-      "平衡",
-      "變向/切入"
+      "打腿技巧"
     ]
   },
   {
@@ -641,26 +556,20 @@
     "name_en": "Biceps Femoris",
     "img": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Biceps_femoris_muscle_-_animation_1.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Biceps_femoris_muscle_-_animation_1.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "保護籃球員膝蓋的守護神。在跳躍著地與急停（Deceleration）時，防止膝蓋內扣（Dynamic Valgus），降低前十字韌帶（ACL）撕裂風險。",
-    "desc_en": "Guardian of the basketball player's knee. Prevents dynamic knee valgus during landing and deceleration, reducing the risk of ACL tears.",
+    "desc": "負責自由式與蝶式打腿的「上踢（Upbeat）」準備動作（屈膝與伸髖）。在蛙式中，負責收腿時的屈膝動作。",
+    "desc_en": "Responsible for the 'upbeat' preparation (knee flexion/hip extension) in freestyle/fly kicks. In breaststroke, handles knee flexion during recovery.",
     "tags": [
       "腿後肌群",
-      "籃球",
-      "足球",
-      "健身/重訓",
-      "登山/健行",
-      "瑜伽",
+      "游泳",
+      "自由式",
+      "蛙式",
       "屈曲",
       "伸展",
       "膝關節屈曲",
       "髖關節伸展",
       "膝關節外旋",
       "原動肌",
-      "衝擊吸收",
-      "步態與移動",
-      "下肢拉/髖絞鍊",
-      "跳躍",
-      "傷害預防"
+      "打腿技巧"
     ]
   },
   {
@@ -669,24 +578,19 @@
     "name_en": "Vastus Intermedius",
     "img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Vastus_intermedialis.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Vastus_intermedialis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "垂直起跳（Vertical Jump）的深層引擎。在爭搶籃板與跳投時，透過離心收縮吸收著地衝擊，並提供強力的膝蓋伸展力量。",
-    "desc_en": "Deep engine for the vertical jump. Absorbs landing impact via eccentric contraction and generates powerful knee extension for rebounding and jump shots.",
+    "desc": "提供膝關節伸展的純粹力量。在所有泳姿的推水/踢水階段，負責將彎曲的膝蓋強力打直，對抗水的阻力。",
+    "desc_en": "Provides pure power for knee extension. In the push/kick phase of all strokes, responsible for forcibly straightening the flexed knee against water resistance.",
     "tags": [
       "股四頭肌",
-      "籃球",
-      "足球",
-      "健身/重訓",
-      "瑜伽",
-      "登山/健行",
+      "游泳",
+      "自由式",
+      "蝶式",
+      "蛙式",
       "伸展",
       "膝關節伸展",
       "原動肌",
       "膝關節穩定",
-      "下肢推",
-      "衝擊吸收",
-      "步態與移動",
-      "跳躍",
-      "投籃"
+      "打腿技巧"
     ]
   },
   {
@@ -695,24 +599,17 @@
     "name_en": "Vastus Medialis",
     "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Vastus_medialis.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Vastus_medialis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "籃球員頻繁跳躍導致的「跳躍膝」（Jumper's Knee）預防關鍵。在半蹲防守站姿與著地瞬間，負責鎖定髕骨位置，維持膝關節穩定。",
-    "desc_en": "Key to preventing 'Jumper's Knee' caused by frequent jumping. Locks the patella and stabilizes the knee joint during the defensive stance and upon landing.",
+    "desc": "負責膝關節伸展的最後階段。在蛙式踢腿結束雙腿併攏伸直時，負責鎖定膝蓋，維持流線型並保護髕骨穩定。",
+    "desc_en": "Responsible for the final degrees of knee extension. Locks the knee when legs close together at the end of the breaststroke kick, maintaining streamline and patellar stability.",
     "tags": [
       "股四頭肌",
-      "籃球",
-      "足球",
-      "健身/重訓",
-      "瑜伽",
-      "登山/健行",
+      "游泳",
+      "蛙式",
       "伸展",
       "膝關節伸展",
       "原動肌",
       "膝關節穩定",
-      "下肢推",
-      "步態與移動",
-      "防守",
-      "跳躍",
-      "傷害預防"
+      "打腿技巧"
     ]
   },
   {
@@ -721,18 +618,16 @@
     "name_en": "Quadratus Femoris",
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Quadratus_femoris_large.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Quadratus_femoris_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "防守滑步中快速轉身（Drop Step）的軸心。協助髖關節外旋，讓身體能迅速改變防守角度以跟上進攻者。",
-    "desc_en": "Pivot point for the 'drop step' in defense. Assists in hip external rotation, allowing the body to quickly change angles to mirror the attacker.",
+    "desc": "協助髖關節外旋。在蛙式收腿末端，協助定位大腿以利進行最強力的蹬夾動作。",
+    "desc_en": "Assists in hip external rotation. At the end of the breaststroke recovery, helps position the thigh for the most powerful whip kick.",
     "tags": [
       "深層外旋肌群",
-      "籃球",
-      "健身/重訓",
+      "游泳",
+      "蛙式",
       "外旋",
       "穩定肌",
       "股骨頭穩定",
-      "步態與移動",
-      "防守",
-      "步法"
+      "打腿技巧"
     ]
   },
   {
@@ -741,25 +636,17 @@
     "name_en": "Vastus Lateralis",
     "img": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Vastus_lateralis.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Vastus_lateralis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "籃球員大腿最強壯的肌肉。在切入變向（Cutting）與單腳起跳時承受巨大負荷，也是吸收高處落地衝擊的主要吸震器。",
-    "desc_en": "The strongest quadriceps muscle in basketball players. Bears immense load during cutting and single-leg takeoffs, and acts as the primary shock absorber for high-altitude landings.",
+    "desc": "股四頭肌中最大的部分，提供打腿的主要爆發力。在轉身蹬牆（Push-off）時，它是產生初速度的最關鍵肌肉。",
+    "desc_en": "Largest part of the quads, providing main explosive power for kicking. During wall push-offs, it is the most critical muscle for generating initial velocity.",
     "tags": [
       "股四頭肌",
-      "籃球",
-      "足球",
-      "健身/重訓",
-      "瑜伽",
-      "登山/健行",
-      "單車",
+      "游泳",
+      "轉身技巧",
       "伸展",
       "膝關節伸展",
       "原動肌",
       "膝關節穩定",
-      "下肢推",
-      "衝擊吸收",
-      "步態與移動",
-      "切入",
-      "跳躍"
+      "打腿技巧"
     ]
   },
   {
@@ -768,24 +655,19 @@
     "name_en": "Rectus Femoris",
     "img": "https://upload.wikimedia.org/wikipedia/commons/4/48/Rectus_femoris_3D.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Rectus_femoris_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "雙關節優勢使其成為「跑動跳躍」的關鍵。在上籃（Layup）起跳時，同時負責大腿上提與膝蓋伸直，將水平動能轉換為垂直高度。",
-    "desc_en": "Key muscle for 'running jumps' due to its biarticular nature. Simultaneously lifts the thigh and extends the knee during layup takeoffs, converting horizontal momentum into vertical height.",
+    "desc": "自由式與仰式打腿的關鍵雙關節肌。負責屈髖（仰式上踢/自由式下壓準備）並強力伸膝（踢水）。是產生鞭狀打水動作的核心。",
+    "desc_en": "Key biarticular muscle for freestyle/backstroke kicks. Flexes the hip (backstroke up-kick/free downbeat prep) and powerfully extends the knee (the kick). Core to the whip-like kicking action.",
     "tags": [
       "股四頭肌",
-      "籃球",
-      "足球",
-      "健身/重訓",
-      "瑜伽",
-      "登山/健行",
+      "游泳",
+      "自由式",
+      "仰式",
       "伸展",
       "屈曲",
       "膝關節伸展",
       "髖關節屈曲",
       "原動肌",
-      "下肢推",
-      "步態與移動",
-      "上籃",
-      "快攻"
+      "打腿技巧"
     ]
   },
   {
@@ -794,23 +676,19 @@
     "name_en": "Gracilis",
     "img": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gracilis.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gracilis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "協助大幅度的變向動作（Crossover）。當腿部向外跨出時，負責控制動作幅度並協助快速回收到中線，保持重心穩定。",
-    "desc_en": "Assists in wide crossover moves. Controls the range of motion when the leg steps out and helps quickly adduct it back to the midline, maintaining center of gravity.",
+    "desc": "跨越雙關節的內收肌。在蛙式踢腿時，除了協助夾腿，還幫助控制膝蓋的屈曲角度，防止膝關節在強力踢水時受傷。",
+    "desc_en": "Biarticular adductor. During breaststroke kick, besides assisting the squeeze, it helps control knee flexion angle, preventing injury during powerful kicks.",
     "tags": [
       "髖部與大腿",
-      "籃球",
-      "足球",
-      "瑜伽",
-      "單車",
+      "游泳",
+      "蛙式",
       "內收",
       "屈曲",
       "膝關節屈曲",
       "膝關節內旋",
       "原動肌",
       "穩定肌",
-      "步態與移動",
-      "膝關節穩定",
-      "變向/切入"
+      "膝關節穩定"
     ]
   },
   {
@@ -819,22 +697,19 @@
     "name_en": "Subscapularis",
     "img": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Subscapularis_muscle_animation3.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Subscapularis_muscle_animation3.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "在低位防守（Post Defense）時，抵抗對手背框推擠的力量。投籃時確保肱骨頭在關節窩內旋轉，維持出手穩定性。",
-    "desc_en": "Resists pushing forces from opponents during post defense. Ensures humeral head rotation within the socket during shooting, maintaining release stability.",
+    "desc": "肩袖中唯一的內旋肌。在強力的划水（Pull）階段，保護肩關節前側，防止肱骨頭向前滑動。游泳肩痛常涉及此肌肉的肌腱病變。",
+    "desc_en": "The only internal rotator of the cuff. During the powerful Pull phase, protects the anterior shoulder, preventing anterior humeral glide. Swimmer's shoulder often involves tendinopathy here.",
     "tags": [
       "肩帶與肩關節",
-      "籃球",
       "游泳",
-      "健身/重訓",
-      "棒球/壘球",
+      "自由式",
+      "蝶式",
       "內旋",
       "上肢推-水平",
       "原動肌",
       "穩定肌",
       "核心穩定",
-      "姿勢維持",
-      "防守",
-      "投籃"
+      "游泳肩風險"
     ]
   },
   {
@@ -843,18 +718,16 @@
     "name_en": "Omohyoid",
     "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Muscle_omo-hyoidien.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_omo-hyoidien.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
-    "desc": "在全場衝刺後的暫停時間，協助頸部筋膜張力，維持大口呼吸時的氣道效率。",
-    "desc_en": "Maintains cervical fascia tension to assist airway efficiency during heavy breathing in timeouts after full-court sprints.",
+    "desc": "連結肩胛骨與頸部。在自由式划手（肩胛骨活動）與換氣（頸部活動）之間協調筋膜張力，確保呼吸道通暢。",
+    "desc_en": "Connects scapula to neck. Coordinates fascial tension between arm pulls (scapular movement) and breathing (neck movement) in freestyle, ensuring an open airway.",
     "tags": [
       "頸部肌群",
-      "籃球",
       "游泳",
-      "瑜伽",
+      "換氣技巧",
       "提升/下壓",
       "穩定肌",
       "姿勢維持",
-      "呼吸輔助",
-      "體能恢復"
+      "呼吸輔助"
     ]
   },
   {
@@ -863,21 +736,19 @@
     "name_en": "Biceps Brachii",
     "img": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Biceps_brachii.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Biceps_brachii.png\">Bildbearbetning: sv:Användare:Chrizz</a>, <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>, via Wikimedia Commons",
-    "desc": "搶下籃板球後「護球（Chin the ball）」動作的關鍵。強烈收縮以將球緊抱於胸前，防止對手撥掉。",
-    "desc_en": "Key muscle for 'chinning the ball' after a rebound. Contracts strongly to hug the ball tightly to the chest, preventing opponents from stripping it.",
+    "desc": "在划手初期的「抱水 (Catch)」階段至關重要，負責屈肘建立高肘位置（High Elbow）。雖然不是主要推進肌，但決定了抓水的效率。",
+    "desc_en": "Crucial during the initial 'Catch' phase, flexing the elbow to establish a High Elbow position. While not the primary propulsive muscle, it determines water catching efficiency.",
     "tags": [
       "上臂",
-      "籃球",
       "游泳",
-      "健身/重訓",
-      "攀岩/抱石",
+      "自由式",
+      "蝶式",
+      "仰式",
       "屈曲",
       "旋後",
       "上肢拉-垂直",
-      "原動肌",
-      "姿勢維持",
-      "籃板",
-      "護球"
+      "穩定肌",
+      "抱水技巧"
     ]
   },
   {
@@ -886,19 +757,17 @@
     "name_en": "Triceps Brachii (Medial Head)",
     "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Triceps_brachii_muscle06.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Triceps_brachii_muscle06.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "負責投籃動作中手肘伸展的精細控制。在連續投籃練習或比賽後段，其耐力直接影響投籃命中率的穩定性。",
-    "desc_en": "Responsible for fine control of elbow extension during shooting. Its endurance directly affects shooting consistency during repetitive practice or late-game situations.",
+    "desc": "長距離游泳的耐力推手。在數千次的划手中，持續負責完成每次划手的最後伸直動作，對抗水的黏滯力。",
+    "desc_en": "The endurance engine for distance swimming. Responsbile for completing the final extension of every stroke over thousands of repetitions against water viscosity.",
     "tags": [
       "上臂",
-      "籃球",
-      "健身/重訓",
-      "拳擊/格鬥",
+      "游泳",
+      "長泳",
       "伸展",
       "上肢推-垂直",
       "原動肌",
       "穩定肌",
-      "姿勢維持",
-      "投籃"
+      "姿勢維持"
     ]
   },
   {
@@ -907,19 +776,18 @@
     "name_en": "Triceps Brachii (Lateral Head)",
     "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Triceps_brachii_muscle06.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Triceps_brachii_muscle06.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "提供三分球或超遠距離投籃（Deep Threes）所需的爆發性推力。也是強力胸前傳球（Bullet Pass）的主要動力來源。",
-    "desc_en": "Provides the explosive thrust needed for three-pointers or deep threes. Also the primary power source for strong bullet passes.",
+    "desc": "游泳推進力的最後一哩路。負責「推水 (Push)」階段的爆發性伸展，將水用力向後推過臀部，是決定划手速度的關鍵肌群。",
+    "desc_en": "The final mile of swimming propulsion. Responsible for explosive extension during the 'Push' phase, driving water past the hips; a key muscle group for stroke velocity.",
     "tags": [
       "上臂",
-      "籃球",
-      "健身/重訓",
-      "拳擊/格鬥",
+      "游泳",
+      "自由式",
+      "蝶式",
+      "仰式",
       "伸展",
       "上肢推-垂直",
       "原動肌",
-      "步態與移動",
-      "投籃",
-      "傳球"
+      "推水技巧"
     ]
   },
   {
@@ -928,22 +796,18 @@
     "name_en": "Triceps Brachii (Long Head)",
     "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Triceps_brachii_muscle06.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Triceps_brachii_muscle06.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "唯一跨越肩關節的三頭肌部分。在搶籃板或防守蓋火鍋（Block）時，負責將手臂高高舉起並向後延伸。投籃時若緊繃會限制出手點的高度。",
-    "desc_en": "The only part of the triceps crossing the shoulder. Responsible for reaching high and back during rebounding or shot blocking. Tightness here can restrict the height of the shooting release point.",
+    "desc": "跨越肩關節，協助划手向後的動作。在推水結束後的手臂回覆（Recovery）階段，幫助抬高上臂離開水面。",
+    "desc_en": "Crosses the shoulder joint, assisting the backward pull. Helps elevate the upper arm out of the water during the recovery phase after the push.",
     "tags": [
       "上臂",
-      "籃球",
       "游泳",
-      "健身/重訓",
-      "拳擊/格鬥",
+      "自由式",
+      "蝶式",
       "伸展",
       "內收",
       "上肢推-垂直",
       "原動肌",
-      "步態與移動",
-      "籃板",
-      "防守",
-      "投籃"
+      "回臂技巧"
     ]
   },
   {
@@ -952,19 +816,17 @@
     "name_en": "Brachialis",
     "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/Brachialis_muscle_-_animation03.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Brachialis_muscle_-_animation03.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "在對抗中「抱球切入」或強行上籃時，負責強力維持手肘彎曲，防止球被防守者拍掉（Strip）。是上肢對抗力量的基石。",
-    "desc_en": "Maintains forceful elbow flexion when driving through traffic or protecting the ball, preventing defenders from stripping it. The foundation of upper body contact strength.",
+    "desc": "在划水過程的前半段協助維持手肘彎曲。在長距離游泳中，幫助鎖定手臂角度以對抗強大的水壓阻力。",
+    "desc_en": "Assists in maintaining elbow flexion during the first half of the stroke. In long-distance swimming, it helps lock the arm angle against substantial water resistance.",
     "tags": [
       "上臂",
-      "籃球",
-      "健身/重訓",
-      "攀岩/抱石",
+      "游泳",
+      "自由式",
       "屈曲",
       "上肢拉-垂直",
       "原動肌",
       "姿勢維持",
-      "護球",
-      "切入"
+      "抱水技巧"
     ]
   },
   {
@@ -973,17 +835,15 @@
     "name_en": "Brachioradialis",
     "img": "https://upload.wikimedia.org/wikipedia/commons/0/09/Brachioradialis.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Brachioradialis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "運球時將前臂維持在功能性位置。在投籃準備動作（Set Point）中，協助穩定球在額頭上方的位置，確保舉球路徑流暢。",
-    "desc_en": "Maintains the forearm in a functional position while dribbling. Stabilizes the ball at the 'set point' above the forehead during shooting, ensuring a smooth lift path.",
+    "desc": "維持前臂姿勢。在自由式抓水（Catch）階段，協助穩定手肘與前臂的角度，確保力量能有效施加於水。",
+    "desc_en": "Maintains forearm posture. During the freestyle catch, assists in stabilizing the elbow-forearm angle to ensure effective force application against the water.",
     "tags": [
       "肘部與前臂",
-      "籃球",
+      "游泳",
       "屈曲",
       "上肢拉-水平",
       "原動肌",
-      "姿勢維持",
-      "運球/控球",
-      "投籃"
+      "抱水技巧"
     ]
   },
   {
@@ -992,24 +852,19 @@
     "name_en": "Adductor Longus",
     "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/Adductor_longus.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Adductor_longus.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "防守滑步（Defensive Slide）與快速交叉步（Crossover）時承受極大張力。由於籃球頻繁的橫向急停，此肌肉是鼠蹊部拉傷的高風險區。",
-    "desc_en": "Undergoes high tension during defensive slides and crossovers. Due to frequent lateral stops in basketball, this muscle is a high-risk area for groin strains.",
+    "desc": "蛙式踢腿的主要動力肌之一。在夾水（Squeeze）階段爆發收縮，將雙腿快速併攏，產生向後的推力。",
+    "desc_en": "One of the primary power muscles for the breaststroke kick. Explosively contracts during the squeeze phase, snapping legs together to generate backward thrust.",
     "tags": [
       "內收肌群",
       "髖部與大腿",
-      "籃球",
-      "足球",
-      "健身/重訓",
-      "瑜伽",
+      "游泳",
+      "蛙式",
       "內收",
       "屈曲",
       "內旋",
       "原動肌",
       "穩定肌",
-      "核心",
-      "步態與移動",
-      "防守",
-      "變向/切入"
+      "打腿技巧"
     ]
   },
   {
@@ -1018,17 +873,14 @@
     "name_en": "Flexor Pollicis Longus",
     "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Musculus_flexor_pollicis_longus.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Musculus_flexor_pollicis_longus.png\">Me</a>, Public domain, via Wikimedia Commons",
-    "desc": "灌籃或強力抓板時，負責大拇指的最後扣合力量。在單手持球做假動作（Fake）時，提供關鍵的抓握力。",
-    "desc_en": "Provides the final thumb clamping force during dunks or strong rebounds. Delivers critical grip strength when palming the ball for fakes.",
+    "desc": "將拇指保持在手掌旁。避免拇指張開導致的「漏水」現象，確保划水面積完整。",
+    "desc_en": "Keeps the thumb alongside the palm. Prevents water 'leakage' caused by an open thumb, ensuring a complete stroke surface area.",
     "tags": [
       "肘部與前臂",
-      "籃球",
+      "游泳",
       "屈曲",
       "原動肌",
-      "姿勢維持",
-      "灌籃",
-      "籃板",
-      "護球"
+      "手部控制"
     ]
   },
   {
@@ -1037,19 +889,16 @@
     "name_en": "Extensor Hallucis Longus (Distal)",
     "img": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Extensor_hallucis_longus_muscle_-_animation_2.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_hallucis_longus_muscle_-_animation_2.gif\">Was a bee</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "在跳躍著地前預先作動（Pre-activation），將腳尖勾起以準備緩衝。在後撤步（Step-back）時防止腳尖拖地絆倒。",
-    "desc_en": "Pre-activates before landing to dorsiflex the foot for shock absorption. Prevents toe drag and tripping during step-back moves.",
+    "desc": "游泳時的「煞車」。若不自覺翹起大拇指，會擾亂經過腳背的水流。應專注於放鬆並讓大拇指與腳背呈一直線。",
+    "desc_en": "The 'brake' in swimming. Subconscious big toe extension disrupts water flow over the foot. Focus on relaxing and keeping the toe aligned with the instep.",
     "tags": [
       "小腿",
       "踝部與足部",
-      "籃球",
-      "足球",
+      "游泳",
       "背屈",
       "伸展",
-      "原動肌",
-      "步態與移動",
-      "跳躍",
-      "步法"
+      "流線型",
+      "姿勢維持"
     ]
   },
   {
@@ -1058,18 +907,16 @@
     "name_en": "Extensor Digitorum Longus (Distal)",
     "img": "https://upload.wikimedia.org/wikipedia/commons/7/77/Extensor_digitorum_longus_muscle_-_animation_2.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_digitorum_longus_muscle_-_animation_2.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "急停跳投（Pull-up）時，協助快速勾起腳背並分散著地衝擊。籃球鞋頭過窄常壓迫此處，導致腳趾瘀青。",
-    "desc_en": "Assists in rapid dorsiflexion and impact distribution during pull-up jumpers. Narrow basketball shoe toe boxes often compress this area, causing toe bruising.",
+    "desc": "主要需保持放鬆伸展。若此肌肉過度收縮（勾腳趾），會破壞壓腳背的流線型，顯著增加水阻。",
+    "desc_en": "Should remain relaxed and extended. Excessive contraction (dorsiflexing toes) disrupts the pointed-foot streamline, significantly increasing drag.",
     "tags": [
       "小腿",
       "踝部與足部",
-      "籃球",
-      "足球",
+      "游泳",
       "背屈",
       "伸展",
-      "原動肌",
-      "衝擊吸收",
-      "投籃"
+      "流線型",
+      "姿勢維持"
     ]
   },
   {
@@ -1078,21 +925,16 @@
     "name_en": "Peroneus Longus",
     "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Superior_view_fibularis_longus_muscle_-_animation.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Superior_view_fibularis_longus_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "變向過人（Crossover）時的關鍵肌。負責將第一蹠骨壓向地面，為爆發性側向推蹬提供穩固支點，並防止腳踝內翻扭傷。",
-    "desc_en": "Key muscle for crossovers. Depresses the first metatarsal to ground, providing a rigid pivot for explosive lateral push-off and preventing inversion sprains.",
+    "desc": "負責足部蹠屈與外翻。在自由式打水時，維持腳掌內八（Internal Rotation of leg, Eversion of foot）的姿勢，以增加推進力。",
+    "desc_en": "Responsible for plantarflexion and eversion. Maintains the 'pigeon-toed' foot orientation during freestyle kicking to enhance propulsion.",
     "tags": [
       "小腿",
       "踝部與足部",
-      "籃球",
-      "足球",
+      "游泳",
       "蹠屈",
       "外翻",
       "原動肌",
-      "穩定肌",
-      "足弓支撐",
-      "步態與移動",
-      "變向/切入",
-      "傷害預防"
+      "打腿技巧"
     ]
   },
   {
@@ -1101,16 +943,13 @@
     "name_en": "Anterior Scalene",
     "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Scalenus_anterior_-_animation04.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Scalenus_anterior_-_animation04.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "罰球或暫停時的輔助呼吸肌。在劇烈無氧運動後，協助胸廓上提以增加進氣量。過度緊繃可能導致投籃時頸部僵硬。",
-    "desc_en": "Accessory respiratory muscle during free throws or timeouts. Assists in lifting the rib cage for oxygen recovery after anaerobic bursts. Tightness can cause neck stiffness during shooting.",
+    "desc": "用力換氣時的輔助肌。游泳者若習慣將頭抬得太高換氣，會導致此肌肉過度使用與肥大，甚至壓迫神經造成手麻。",
+    "desc_en": "Accessory muscle for forceful breathing. Swimmers who lift their heads too high to breathe overuse and hypertrophy this muscle, potentially compressing nerves and causing hand numbness.",
     "tags": [
       "頸部肌群",
       "頸椎",
-      "籃球",
-      "單車",
       "游泳",
-      "攀岩/抱石",
-      "步態與移動",
+      "換氣技巧",
       "屈曲",
       "側屈",
       "穩定肌",
@@ -1124,26 +963,21 @@
     "name_en": "Serratus Anterior",
     "img": "https://upload.wikimedia.org/wikipedia/commons/3/31/Serratus_anterior_muscle_animation_small.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Serratus_anterior_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "舉手防守（High Hands）與搶籃板時，負責將肩胛骨向上旋轉並貼緊胸壁。在胸前傳球（Chest Pass）的延伸動作中也扮演重要推手。",
-    "desc_en": "Rotates scapula upward and anchors it during high-hands defense and rebounding. Also a key driver in the extension phase of a chest pass.",
+    "desc": "被稱為「游泳者的肌肉」。負責肩胛骨的旋轉與前伸，允許手臂在入水時盡量向前延伸（Reach）。穩定的肩胛骨是強效划水的基石。",
+    "desc_en": "Known as the 'Swimmer's Muscle'. Responsible for scapular rotation and protraction, allowing maximum forward Reach upon entry. A stable scapula is the cornerstone of a powerful stroke.",
     "tags": [
       "胸廓",
       "肩帶與肋關節",
-      "籃球",
       "游泳",
-      "拳擊/格鬥",
-      "健身/重訓",
-      "攀岩/抱石",
+      "自由式",
+      "仰式",
       "外展",
       "上肢推-水平",
       "上肢推-垂直",
       "屈曲",
       "肩帶穩定",
       "核心穩定",
-      "呼吸輔助",
-      "防守",
-      "傳球",
-      "籃板"
+      "入水技巧"
     ]
   },
   {
@@ -1152,13 +986,12 @@
     "name_en": "Masseter",
     "img": "https://upload.wikimedia.org/wikipedia/commons/1/13/Masseter_muscle_animation_small.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Masseter_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "在禁區肉搏戰（Physical Play）時常不自覺咬緊。過度緊繃會影響頸部放鬆與動態視力，建議在罰球線前深呼吸放鬆此處。",
-    "desc_en": "Often clenched unconsciously during physical play in the paint. Excessive tension affects neck relaxation and dynamic vision; relax here before free throws.",
+    "desc": "水中張力指標。游泳換氣時需要嘴部自然張開，若咬肌緊繃（咬牙切齒），會阻礙快速吸氣並導致頸部僵硬下沉。",
+    "desc_en": "Underwater tension indicator. Breathing requires a naturally open mouth; a tight masseter (clenching) hinders rapid inhalation and causes the neck to stiffen and sink.",
     "tags": [
       "顱骨與顳顎關節",
-      "籃球",
-      "拳擊/格鬥",
-      "健身/重訓",
+      "游泳",
+      "換氣技巧",
       "屈曲",
       "提升/下壓",
       "姿勢維持"
@@ -1170,15 +1003,14 @@
     "name_en": "Extensor Digitorum",
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Extensor_digitorum_muscle.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_digitorum_muscle.png\">Mikael Häggström</a>, Public domain, via Wikimedia Commons",
-    "desc": "投籃出手後的「跟隨動作（Follow-through）」需保持手指伸直但放鬆。防守封阻時，協助張開手指覆蓋最大空域。",
-    "desc_en": "Maintains extended but relaxed fingers during the shooting follow-through. Assists in spreading fingers to cover maximum airspace during shot blocking.",
+    "desc": "抵抗水的阻力，保持手指伸直平坦。在划水過程中，水壓會試圖將手指推向彎曲，此肌肉需持續用力以維持「槳」的形狀。",
+    "desc_en": "Resists water drag to keep fingers extended and flat. During the stroke, water pressure tries to curl the fingers; this muscle must work to maintain the 'paddle' shape.",
     "tags": [
       "肘部與前臂",
-      "籃球",
+      "游泳",
       "伸展",
-      "姿勢維持",
-      "投籃",
-      "防守"
+      "穩定肌",
+      "划手技巧"
     ]
   },
   {
@@ -1187,16 +1019,15 @@
     "name_en": "Dorsal Interosseous 1",
     "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/1121_Intrinsic_Muscles_of_the_Hand_DIL.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_DIL.png\">CFCF</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
-    "desc": "負責食指外展。控球時協助撐開虎口，增加對球的控制力。在單手肩上傳球時提供手指的穩定性。",
-    "desc_en": "Abducts the index finger. Helps widen the grip span for ball control. Provides finger stability during one-handed overhead passes.",
+    "desc": "控制食指外展。協助調整手指間距，以適應不同的水感需求。若過度張開會導致力量分散，需適度控制。",
+    "desc_en": "Controls index finger abduction. Adjusts finger spacing to adapt to water feel. Excessive spreading dissipates power, so moderate control is needed.",
     "tags": [
       "手腕與手部",
-      "籃球",
+      "游泳",
       "外展",
       "屈曲",
       "精細運動",
-      "姿勢維持",
-      "運球/控球"
+      "手部控制"
     ]
   },
   {
@@ -1205,16 +1036,15 @@
     "name_en": "Dorsal Interosseous 2",
     "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/1121_Intrinsic_Muscles_of_the_Hand_DIL.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_DIL.png\">CFCF</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
-    "desc": "中指外展肌。投籃手型中，負責微調中指位置，確保其作為「最後觸球點」的穩定性（視個人投籃習慣而定）。",
-    "desc_en": "Middle finger abductor. Fine-tunes middle finger position in the shooting hand, ensuring stability if it serves as the 'last touch point' (depending on style).",
+    "desc": "穩定中指。中指是划手軌跡的中心軸，此肌肉確保其在水中的穩定性。",
+    "desc_en": "Stabilizes the middle finger. As the central axis of the stroke trajectory, this muscle ensures its stability in the water.",
     "tags": [
       "手腕與手部",
-      "籃球",
+      "游泳",
       "外展",
       "屈曲",
       "精細運動",
-      "姿勢維持",
-      "投籃"
+      "手部控制"
     ]
   },
   {
@@ -1223,16 +1053,15 @@
     "name_en": "Dorsal Interosseous 3",
     "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/1121_Intrinsic_Muscles_of_the_Hand_DIL.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_DIL.png\">CFCF</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
-    "desc": "無名指外展肌。協助張開手掌以最大化接觸球的表面積，對於單手持球與運球穩定性至關重要。",
-    "desc_en": "Ring finger abductor. Helps splay the hand to maximize ball contact area, critical for palming and dribbling stability.",
+    "desc": "控制無名指位置。與其他骨間肌協同，防止強水流衝散手型。",
+    "desc_en": "Controls ring finger position. Works with other interossei to prevent strong water currents from disrupting hand shape.",
     "tags": [
       "手腕與手部",
-      "籃球",
+      "游泳",
       "外展",
       "屈曲",
       "精細運動",
-      "姿勢維持",
-      "運球/控球"
+      "手部控制"
     ]
   },
   {
@@ -1241,16 +1070,15 @@
     "name_en": "Dorsal Interosseous 4",
     "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/1121_Intrinsic_Muscles_of_the_Hand_DIL.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_DIL.png\">CFCF</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
-    "desc": "小指外展肌。投籃時確保輔助手的五指張開，提供球體側向的穩定支撐，防止球路偏移。",
-    "desc_en": "Little finger abductor. Ensures the guide hand fingers are spread during shooting, providing lateral support to prevent ball deviation.",
+    "desc": "控制小指外展。在划手時，防止小指被水流沖開，維持手掌邊緣的完整性。",
+    "desc_en": "Controls little finger abduction. Prevents the pinky from being pushed out by water flow during the pull, maintaining the integrity of the palm's edge.",
     "tags": [
       "手腕與手部",
-      "籃球",
+      "游泳",
       "外展",
       "屈曲",
       "精細運動",
-      "姿勢維持",
-      "投籃"
+      "手部控制"
     ]
   },
   {
@@ -1259,24 +1087,22 @@
     "name_en": "Latissimus Dorsi",
     "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/Latissimus_dorsi_muscle_animation3.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Latissimus_dorsi_muscle_animation3.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "搶下籃板後的「護球（Chinning）」力量來源。在低位背框（Post Up）時對抗防守者的推擠，並在灌籃時穩定身體與手臂的連接。",
-    "desc_en": "Power source for 'chinning' the ball after rebounds. Resists defensive pressure during post-ups and stabilizes the arm-body connection during dunks.",
+    "desc": "游泳者的「主引擎」。幾乎參與所有泳姿的「抱水後拉（Pull）」動作，提供最強大的推進力。發達的背闊肌形成的倒三角形身材是游泳選手的特徵。",
+    "desc_en": "The swimmer's 'Main Engine'. Involved in the 'Pull' phase of almost all strokes, providing the strongest propulsion. The V-taper physique from developed lats is a hallmark of swimmers.",
     "tags": [
       "背部肌群",
-      "籃球",
       "游泳",
-      "攀岩/抱石",
-      "健身/重訓",
+      "自由式",
+      "蝶式",
+      "蛙式",
+      "仰式",
       "內收",
       "伸展",
       "內旋",
       "上肢拉-垂直",
       "原動肌",
       "核心穩定",
-      "步態與移動",
-      "軀幹旋轉與對角線",
-      "籃板",
-      "低位單打"
+      "划手技巧"
     ]
   },
   {
@@ -1285,14 +1111,13 @@
     "name_en": "Extensor Indicis",
     "img": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Extensor_indicis_muscle.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_indicis_muscle.png\">Mikael Häggström</a>, Public domain, via Wikimedia Commons",
-    "desc": "對於習慣用食指撥球的射手，此肌肉負責投籃出手後的食指指向（Pointing），是精準度與球路控制的末端環節。",
-    "desc_en": "For shooters who release off the index finger, this muscle controls the final 'pointing' motion, crucial for accuracy and trajectory control.",
+    "desc": "確保食指伸直並與其他手指併攏（或保持最佳間隙）。食指是指尖入水的引導點，其穩定性影響入水後的軌跡。",
+    "desc_en": "Ensures the index finger remains extended and aligned (or optimally spaced). As the guide point for fingertip entry, its stability affects the underwater trajectory.",
     "tags": [
       "肘部與前臂",
-      "籃球",
+      "游泳",
       "伸展",
-      "姿勢維持",
-      "投籃"
+      "手部控制"
     ]
   },
   {
@@ -1301,21 +1126,18 @@
     "name_en": "Pectineus",
     "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Pectineus_3D.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pectineus_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "防守步法中負責腿部快速內收與交叉。在頻繁的防守變向與滑步中，容易因為過度使用而緊繃，影響橫移速度。",
-    "desc_en": "Responsible for rapid leg adduction and crossing in defensive footwork. Prone to tightness from frequent defensive slides and direction changes, affecting lateral speed.",
+    "desc": "協助髖屈曲與內收。在自由式打腿中，確保大腿上下擺動時不偏離中線，維持狹窄且有效率的水流通道。",
+    "desc_en": "Assists in hip flexion and adduction. In freestyle kicking, ensures the thigh moves vertically without deviating from the midline, maintaining a narrow, efficient slipstream.",
     "tags": [
       "內收肌群",
-      "籃球",
-      "足球",
-      "健身/重訓",
-      "瑜伽",
+      "游泳",
+      "自由式",
       "內收",
       "屈曲",
       "內旋",
       "原動肌",
       "穩定肌",
-      "步態與移動",
-      "防守"
+      "打腿技巧"
     ]
   },
   {
@@ -1324,24 +1146,22 @@
     "name_en": "Pectoralis Major",
     "img": "https://upload.wikimedia.org/wikipedia/commons/3/39/PectoralisMajor.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:PectoralisMajor.gif\">DrJanaOfficial</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
-    "desc": "強力胸前傳球（Chest Pass）的主引擎。在切入禁區時，負責對抗身體碰撞，並在防守卡位（Box Out）時將手肘向外撐開。",
-    "desc_en": "Primary engine for powerful chest passes. Absorbs contact when driving to the lane and flares elbows out during defensive box-outs.",
+    "desc": "游泳推進力的最大來源之一。負責自由式、蝶式與蛙式抱水後拉（Pull）階段的強大內收與內旋力量。過度訓練易導致圓肩。",
+    "desc_en": "One of the greatest sources of swimming propulsion. Responsible for powerful adduction and internal rotation during the Pull phase of freestyle, butterfly, and breaststroke. Over-training leads to rounded shoulders.",
     "tags": [
       "胸廓",
       "肩帶與肋關節",
-      "籃球",
       "游泳",
-      "健身/重訓",
-      "拳擊/格鬥",
+      "自由式",
+      "蝶式",
+      "蛙式",
       "屈曲",
       "內收",
       "內旋",
       "上肢推-水平",
       "原動肌",
-      "步態與移動",
-      "姿勢維持",
-      "傳球",
-      "對抗"
+      "划手技巧",
+      "姿勢維持"
     ]
   },
   {
@@ -1350,14 +1170,12 @@
     "name_en": "Pectoralis Minor",
     "img": "https://upload.wikimedia.org/wikipedia/commons/3/37/Pectoralis_minor_muscle_animation_small.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Pectoralis_minor_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "過度緊繃會導致圓肩，限制投籃時的手臂上舉幅度（影響投籃弧度）。在激烈的全場攻防中輔助快速換氣。",
-    "desc_en": "Tightness causes rounded shoulders, restricting arm elevation for shooting (affecting arc). Assists rapid breathing during intense full-court transitions.",
+    "desc": "常見的問題肌肉。游泳者常因胸小肌緊繃導致肩胛骨前傾，造成肩峰下空間變窄，引發夾擠症候群（游泳肩）並限制划手幅度。",
+    "desc_en": "A problematic muscle. Tightness here in swimmers often tilts the scapula anteriorly, narrowing the subacromial space, causing impingement (Swimmer's Shoulder) and restricting stroke range.",
     "tags": [
       "胸廓",
       "肩帶與肋關節",
-      "籃球",
       "游泳",
-      "健身/重訓",
       "下壓",
       "前伸",
       "下迴旋",
@@ -1365,7 +1183,8 @@
       "肩帶穩定",
       "穩定肌",
       "呼吸輔助",
-      "姿勢維持"
+      "姿勢維持",
+      "游泳肩風險"
     ]
   },
   {
@@ -1374,14 +1193,12 @@
     "name_en": "Sternohyoid",
     "img": "https://upload.wikimedia.org/wikipedia/commons/6/67/Sternohyoid_muscle.PNG",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Sternohyoid_muscle.PNG\">User:Mikael Häggström</a>, Public domain, via Wikimedia Commons",
-    "desc": "在比賽暫停或罰球時，協助劇烈喘氣時的喉部穩定。維持頸部前側張力，確保呼吸道暢通以利體能恢復。",
-    "desc_en": "Stabilizes the larynx during heavy panting in timeouts or free throws. Maintains anterior neck tension to ensure airway patency for recovery.",
+    "desc": "在快速且大口吸氣時穩定喉部。游泳比賽中換氣時間極短，此肌肉確保氣管結構穩定不塌陷。",
+    "desc_en": "Stabilizes the larynx during rapid, deep inhalation. In competitive swimming, breathing windows are tiny; this muscle ensures tracheal stability.",
     "tags": [
       "頸部肌群",
-      "籃球",
       "游泳",
-      "瑜伽",
-      "皮拉提斯",
+      "換氣技巧",
       "提升/下壓",
       "穩定肌",
       "姿勢維持",
@@ -1394,12 +1211,13 @@
     "name_en": "Transversus Thoracis",
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Transversus_thoracis.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Transversus_thoracis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
-    "desc": "在高強度折返跑後的恢復期，協助強制呼氣，將二氧化碳快速排出肺部，幫助球員在短時間內調整呼吸節奏。",
-    "desc_en": "Assists forced expiration during recovery after high-intensity suicides/sprints. Expels CO2 rapidly, helping players regulate breathing rhythm quickly.",
+    "desc": "協助強力呼氣。在轉身後的水下潛泳階段，幫助控制氣體緩慢且穩定地排出。",
+    "desc_en": "Assists in forced expiration. Helps control the slow, steady release of air during the underwater streamline phase after a turn.",
     "tags": [
       "胸廓",
-      "籃球",
-      "呼吸輔助"
+      "游泳",
+      "呼吸輔助",
+      "換氣技巧"
     ]
   },
   {
@@ -1408,24 +1226,20 @@
     "name_en": "Sternocleidomastoid",
     "img": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Sternomastoid_muscle_animation_small2.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Sternomastoid_muscle_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "負責快速轉頭觀察全場（Court Vision）。在搶籃板時，協助頭部向上仰起鎖定球的落點。疲勞時會代償輔助呼吸。",
-    "desc_en": "Enables rapid head turning for court vision. Assists in tilting the head back to track the ball for rebounds. Compensates as a respiratory muscle when fatigued.",
+    "desc": "自由式換氣的主動肌。負責旋轉頭部露出水面吸氣。若技術不良（抬頭過高而非轉頭），此肌肉會極度疲勞且增加水阻。",
+    "desc_en": "The prime mover for freestyle breathing. Rotates the head to clear the water for inhalation. Poor technique (lifting instead of turning) exhausts this muscle and increases drag.",
     "tags": [
       "頸部肌群",
-      "籃球",
-      "單車",
       "游泳",
-      "拳擊/格鬥",
-      "瑜伽",
-      "步態與移動",
+      "自由式",
+      "換氣技巧",
       "軀幹旋轉與對角線",
       "屈曲",
       "側屈",
       "原動肌",
       "穩定肌",
       "姿勢維持",
-      "呼吸輔助",
-      "籃板"
+      "呼吸輔助"
     ]
   },
   {
@@ -1434,16 +1248,15 @@
     "name_en": "Lumbrical 1 (Index)",
     "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lumbricales_%28hand%29.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png\">Image:Gray427.png modified</a>, Public domain, via Wikimedia Commons",
-    "desc": "「投籃柔和手感（Soft Touch）」的關鍵。負責掌指關節屈曲，使手指能包裹球體，同時伸展指間關節，讓指尖在出手瞬間保持靈敏。",
-    "desc_en": "Key to a 'soft touch' in shooting. Flexes MCP joints to cup the ball while extending IP joints, keeping fingertips sensitive at the release.",
+    "desc": "微調掌指關節角度。在划水過程中，防止手指過度後伸（Hyperextension），保持扁平或微屈的有效受力面。",
+    "desc_en": "Fine-tunes MCP joint angle. Prevents finger hyperextension during the pull, maintaining a flat or slightly flexed effective surface area.",
     "tags": [
       "手腕與手部",
-      "籃球",
+      "游泳",
       "屈曲",
       "伸展",
       "精細運動",
-      "姿勢維持",
-      "投籃"
+      "手部控制"
     ]
   },
   {
@@ -1452,17 +1265,15 @@
     "name_en": "Lumbrical 2 (Middle)",
     "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lumbricales_%28hand%29.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png\">Image:Gray427.png modified</a>, Public domain, via Wikimedia Commons",
-    "desc": "維持中指在運球與投籃時的自然弧度。避免手指過度僵硬導致球體控制力下降。",
-    "desc_en": "Maintains the natural arc of the middle finger during dribbling and shooting. Prevents finger stiffness that reduces ball control.",
+    "desc": "維持中指與手掌的平面一致性。抵抗水的壓力，確保力量傳遞不中斷。",
+    "desc_en": "Maintains alignment between the middle finger and palm plane. Resists water pressure to ensure uninterrupted force transmission.",
     "tags": [
       "手腕與手部",
-      "籃球",
+      "游泳",
       "屈曲",
       "伸展",
       "精細運動",
-      "姿勢維持",
-      "投籃",
-      "運球/控球"
+      "手部控制"
     ]
   },
   {
@@ -1471,16 +1282,15 @@
     "name_en": "Lumbrical 3 (Ring)",
     "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lumbricales_%28hand%29.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png\">Image:Gray427.png modified</a>, Public domain, via Wikimedia Commons",
-    "desc": "確保無名指在接觸球時保持適當張力。在單手抓球時，協助環抱球體。",
-    "desc_en": "Ensures appropriate tension in the ring finger upon ball contact. Assists in wrapping around the ball during palming.",
+    "desc": "協助無名指保持正確的划水角度，防止因疲勞而變形。",
+    "desc_en": "Assists the ring finger in maintaining the correct stroke angle, preventing deformation due to fatigue.",
     "tags": [
       "手腕與手部",
-      "籃球",
+      "游泳",
       "屈曲",
       "伸展",
       "精細運動",
-      "姿勢維持",
-      "運球/控球"
+      "手部控制"
     ]
   },
   {
@@ -1489,16 +1299,15 @@
     "name_en": "Lumbrical 4 (Little)",
     "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lumbricales_%28hand%29.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png\">Image:Gray427.png modified</a>, Public domain, via Wikimedia Commons",
-    "desc": "投籃輔助手的微調器。確保小指輕柔接觸球體側面，不施加多餘壓力，維持投籃穩定性。",
-    "desc_en": "Fine-tuner for the guide hand. Ensures the little finger rests gently on the side of the ball without applying excess pressure, maintaining shot stability.",
+    "desc": "控制小指的微細動作，確保手掌邊緣不會讓水流溜走（Slip）。",
+    "desc_en": "Controls fine movements of the little finger, ensuring the palm edge doesn't let water slip away.",
     "tags": [
       "手腕與手部",
-      "籃球",
+      "游泳",
       "屈曲",
       "伸展",
       "精細運動",
-      "姿勢維持",
-      "投籃"
+      "手部控制"
     ]
   },
   {
@@ -1507,21 +1316,17 @@
     "name_en": "Trapezius (Upper)",
     "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Trapezius_animation_small2.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Trapezius_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "在高強度的身體對抗（如擠過擋拆 Fighting through screens）時保護頸部。疲勞時容易不自覺聳肩，影響投籃時的肩膀放鬆度。",
-    "desc_en": "Protects the neck during high-contact plays like fighting through screens. Fatigue leads to unconscious shrugging, negatively affecting shoulder relaxation during shooting.",
+    "desc": "容易過度緊張的區域。雖然協助移臂向上，但游泳者應避免習慣性聳肩，否則會增加頸部阻力並限制手臂延伸。",
+    "desc_en": "Area prone to excess tension. While assisting upward recovery, swimmers must avoid habitual shrugging, which increases neck drag and restricts arm extension.",
     "tags": [
       "肩帶與肩關節",
-      "籃球",
       "游泳",
-      "健身/重訓",
-      "划艇",
       "提升/下壓",
       "外旋",
       "肩帶穩定",
       "原動肌",
       "穩定肌",
-      "姿勢維持",
-      "防守"
+      "姿勢維持"
     ]
   },
   {
@@ -1530,21 +1335,18 @@
     "name_en": "Trapezius (Lower)",
     "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Trapezius_animation_small2.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Trapezius_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "優質射手的標誌性肌肉。負責下壓肩胛骨，確保投籃時肩膀遠離耳朵，創造輕鬆流暢的出手機制（Shooting Mechanics）。",
-    "desc_en": "The hallmark muscle of elite shooters. Depresses the scapula to ensure shoulders stay away from ears during the shot, creating a relaxed and fluid shooting mechanic.",
+    "desc": "游泳流線型姿勢的關鍵。負責下壓肩胛骨，使手臂能貼近耳朵向前延伸（Streamline）。對抗划手時肩膀上聳的傾向。",
+    "desc_en": "Critical for streamline posture. Depresses the scapula, allowing arms to extend forward close to the ears. Counteracts the tendency to shrug during the pull.",
     "tags": [
       "肩帶與肩關節",
-      "籃球",
       "游泳",
-      "划艇",
-      "健身/重訓",
+      "流線型",
       "下壓",
       "外旋",
       "肩帶穩定",
       "原動肌",
       "穩定肌",
-      "姿勢維持",
-      "投籃"
+      "姿勢維持"
     ]
   },
   {
@@ -1553,20 +1355,16 @@
     "name_en": "Trapezius (Middle)",
     "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Trapezius_animation_small2.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Trapezius_animation_small2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "在防守擴大防守範圍時，負責肩胛骨後收，維持挺胸姿勢。防止因疲勞而出現的圓肩，確保上肢佔據最大防守空間。",
-    "desc_en": "Responsible for scapular retraction to maintain an upright chest during defense. Prevents fatigue-induced rounding of shoulders, ensuring the upper body occupies maximum defensive space.",
+    "desc": "負責肩胛骨後收。在自由式移臂（Recovery）時，協助抬高肩膀以利提肘。強化此肌肉有助於改善圓肩，增加肺活量。",
+    "desc_en": "Responsible for scapular retraction. During freestyle recovery, helps elevate the shoulder to facilitate a high elbow. Strengthening here improves rounded shoulders and lung capacity.",
     "tags": [
       "肩帶與肩關節",
-      "籃球",
-      "划艇",
       "游泳",
-      "健身/重訓",
       "內收",
       "肩帶穩定",
       "原動肌",
       "穩定肌",
-      "姿勢維持",
-      "防守"
+      "姿勢維持"
     ]
   },
   {
@@ -1575,17 +1373,17 @@
     "name_en": "Pronator Teres",
     "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Gray_%E2%80%94_musculus_pronator_teres.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_pronator_teres.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "運球動作（Dribbling）的核心肌。每次將球向下拍擊時，負責前臂的強力旋前，確保手掌正對地面施力。",
-    "desc_en": "Core muscle for dribbling. Responsible for powerful forearm pronation with every downward dribble, ensuring the palm faces the floor to apply force.",
+    "desc": "啟動前臂的旋前動作。在自由式入水後，立即協助手臂旋轉進入抱水位置，是建立良好划手軌跡的起始點。",
+    "desc_en": "Initiates forearm pronation. Immediately assists arm rotation into the catch position after freestyle entry, the starting point for a good stroke trajectory.",
     "tags": [
       "肘部與前臂",
-      "籃球",
+      "游泳",
+      "自由式",
       "屈曲",
       "旋前",
       "上肢拉-水平",
       "原動肌",
-      "姿勢維持",
-      "運球/控球"
+      "抱水技巧"
     ]
   },
   {
@@ -1594,16 +1392,15 @@
     "name_en": "Supinator",
     "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Gray_%E2%80%94_musculus_supinator.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_supinator.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "執行高難度上籃（如拉桿 Layup 或 Jelly Fam 動作）時，負責將掌心向上翻轉挑籃。變向運球（In-and-out）時亦需快速切換旋前旋後。",
-    "desc_en": "Executes difficult layups (e.g., finger rolls or Jelly Fam moves) by supinating the forearm. Also crucial for rapid pronation-supination switches during in-and-out dribbles.",
+    "desc": "主要在仰式（Backstroke）的最後推水與空中回臂（Recovery）階段運作。在自由式中，則在空中移臂時幫助手臂放鬆與位置調整。",
+    "desc_en": "Active primarily during the final push and aerial recovery of Backstroke. In freestyle, assists in arm relaxation and repositioning during the recovery phase.",
     "tags": [
       "肘部與前臂",
-      "籃球",
+      "游泳",
+      "仰式",
       "旋後",
       "原動肌",
-      "姿勢維持",
-      "上籃",
-      "運球/控球"
+      "回臂技巧"
     ]
   },
   {
@@ -1612,19 +1409,17 @@
     "name_en": "Piriformis",
     "img": "https://upload.wikimedia.org/wikipedia/commons/3/39/Piriformis_large.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Piriformis_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "防守站姿（Defensive Stance）的穩定器。負責維持髖部外旋與外展，讓球員能橫向快速移動。過度使用易導致臀部深層疼痛。",
-    "desc_en": "Stabilizer for the defensive stance. Maintains hip external rotation and abduction, allowing players to move laterally with speed. Overuse often leads to deep gluteal pain.",
+    "desc": "蛙式選手需特別注意。在收腿階段負責大腿外旋。若過度緊繃，會限制收腿幅度，甚至導致髖部或膝蓋疼痛。",
+    "desc_en": "Of special concern for breaststrokers. Responsible for thigh external rotation during recovery. If overly tight, it restricts recovery range and can cause hip or knee pain.",
     "tags": [
       "深層外旋肌群",
-      "籃球",
-      "瑜伽",
-      "健身/重訓",
+      "游泳",
+      "蛙式",
       "外旋",
       "外展",
       "穩定肌",
       "核心穩定",
-      "步態與移動",
-      "防守"
+      "打腿技巧"
     ]
   },
   {
@@ -1633,17 +1428,14 @@
     "name_en": "Flexor Digitorum Profundus",
     "img": "https://upload.wikimedia.org/wikipedia/commons/2/24/Flexor-digitorum-profundis.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Flexor-digitorum-profundis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "灌籃（Dunking）時緊抓籃框的肌肉。在單手持球或抄截（Steal）時，提供手指末端的強大扣合力（Claw grip）。",
-    "desc_en": "The muscle for hanging on the rim after a dunk. Provides powerful distal finger flexion (claw grip) for palming the ball or making steals.",
+    "desc": "負責維持手指併攏與微彎的「杯狀手（Cupping）」（現代游法傾向平掌，但仍需維持手指張力）。對抗強大水壓，防止手指後翻。",
+    "desc_en": "Maintains finger adduction and slight 'cupping' (though modern technique favors a flatter palm, tension is still needed). Resists water pressure, preventing fingers from bending backward.",
     "tags": [
       "肘部與前臂",
-      "籃球",
+      "游泳",
       "屈曲",
       "原動肌",
-      "姿勢維持",
-      "灌籃",
-      "防守",
-      "護球"
+      "手部控制"
     ]
   },
   {
@@ -1652,40 +1444,32 @@
     "name_en": "Flexor Digitorum Superficialis",
     "img": "https://upload.wikimedia.org/wikipedia/commons/9/93/Gray_%E2%80%94_musculus_flexor_digitorum_superficialis.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_digitorum_superficialis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "控球手感（Handle）的基礎。負責手指中段的屈曲，在運球時提供富有彈性的觸球感，而非僵硬的拍打。",
-    "desc_en": "Foundation of ball handling 'touch.' Flexes the middle finger phalanges, providing an elastic, responsive feel during dribbling rather than a rigid slap.",
+    "desc": "提供手掌整體的剛性。在每一下划水中，手掌都必須像一塊堅硬的板子，此肌肉確保持續的張力。",
+    "desc_en": "Provides overall hand rigidity. During every stroke, the hand must act like a solid board; this muscle ensures continuous tension.",
     "tags": [
       "肘部與前臂",
-      "籃球",
+      "游泳",
       "屈曲",
       "原動肌",
-      "姿勢維持",
-      "運球/控球"
+      "手部控制"
     ]
   },
   {
     "id": "shin_tibialis_anterior",
     "name_zh": "脛骨前肌",
     "name_en": "Tibialis Anterior",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/63/Tibialis_anterior_muscle_-_animation_1.gif",
-    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Tibialis_anterior_muscle_-_animation_1.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "負責急停（Deceleration）與著地緩衝。在快攻急停跳投時，必須強烈收縮以抵抗身體向前的慣性。籃球員常見的脛前疼痛源頭。",
-    "desc_en": "Responsible for deceleration and landing shock absorption. Must contract strongly to resist forward inertia during fast-break pull-up jumpers. A common source of shin splints in hoopers.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/63/Tibialis_anterior_muscle_animation_1.gif",
+    "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Tibialis_anterior_muscle_animation_1.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
+    "desc": "游泳時「最不需要」的肌肉之一。若此肌肉緊繃或收縮（勾腳尖），會造成極大的水阻（鋤頭腳）。游泳選手需要極佳的脛前肌伸展性以維持壓腳背姿勢。",
+    "desc_en": "One of the 'least wanted' muscles in swimming. Tension or contraction (dorsiflexion) creates massive drag (hooked foot). Swimmers require excellent extensibility here to maintain a pointed toe.",
     "tags": [
       "小腿前側肌群",
-      "籃球",
-      "足球",
-      "登山/健行",
-      "瑜伽",
-      "單車",
+      "游泳",
       "背屈",
       "內翻",
-      "原動肌",
-      "衝擊吸收",
-      "足弓支撐",
-      "步態與移動",
-      "跳躍",
-      "傷害預防"
+      "穩定肌",
+      "流線型",
+      "姿勢維持"
     ]
   },
   {
@@ -1694,22 +1478,17 @@
     "name_en": "Tibialis Posterior",
     "img": "https://upload.wikimedia.org/wikipedia/commons/d/df/Inferior_view_of_tibialis_posterior_muscle_-_animation.gif",
     "img_source": "https://upload.wikimedia.org/wikipedia/commons/d/df/Inferior_view_of_tibialis_posterior_muscle_-_animation.gif",
-    "desc": "足弓的動態支撐。在切入變向（Cut）時，防止足弓因承受巨大扭力而塌陷。對於頻繁進行橫向移動的籃球員來說，是預防扁平足與足底筋膜炎的關鍵。",
-    "desc_en": "Dynamic support for the arch. Prevents arch collapse under huge torque during cutting maneuvers. Critical for preventing flat feet and plantar fasciitis in basketball players making frequent lateral moves.",
+    "desc": "協助足內翻。在蛙式踢腿（Breaststroke Kick）的夾水階段提供穩定性，但過度使用容易在強力蹬牆轉身後引發抽筋。",
+    "desc_en": "Assists in foot inversion. Provides stability during the closing phase of the Breaststroke Kick, but prone to cramping after powerful wall push-offs if overused.",
     "tags": [
       "小腿深層肌群",
-      "籃球",
-      "足球",
-      "登山/健行",
-      "瑜伽",
-      "單車",
+      "游泳",
+      "蛙式",
       "蹠屈",
       "內翻",
-      "足弓支撐",
       "原動肌",
       "穩定肌",
-      "步態與移動",
-      "變向/切入"
+      "打腿技巧"
     ]
   },
   {
@@ -1718,18 +1497,17 @@
     "name_en": "Obturator Internus",
     "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Obturator_internus_large.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Obturator_internus_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "防守時的深層髖部穩定肌。當對手進行假動作晃動時，負責微調股骨頭位置，保持重心穩定不被輕易騙過。",
-    "desc_en": "Deep hip stabilizer during defense. Fine-tunes femoral head position when opponents use fakes, keeping the center of gravity stable and resisting deception.",
+    "desc": "協助蛙式踢腿的「收腿（Recovery）」階段。將大腿外旋以準備進行夾水動作，是蛙式技術細膩度的關鍵肌群。",
+    "desc_en": "Assists in the 'Recovery' phase of the breaststroke kick. Externally rotates the thigh to prepare for the squeeze, a key muscle for technical finesse in breaststroke.",
     "tags": [
       "深層外旋肌群",
-      "籃球",
-      "健身/重訓",
+      "游泳",
+      "蛙式",
       "外旋",
       "外展",
       "穩定肌",
       "股骨頭穩定",
-      "步態與移動",
-      "防守"
+      "打腿技巧"
     ]
   },
   {
@@ -1738,16 +1516,15 @@
     "name_en": "Obturator Externus",
     "img": "https://upload.wikimedia.org/wikipedia/commons/1/14/Obturator_externus_large.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Obturator_externus_large.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "協助穩定單腳起跳或著地時的髖關節。在複雜的空中對抗後落地，提供深層關節的本體感覺與保護。",
-    "desc_en": "Stabilizes the hip during single-leg takeoffs or landings. Provides deep joint proprioception and protection when landing after complex aerial contact.",
+    "desc": "穩定髖關節。在蛙式踢腿準備動作（收腿外翻）時，保護關節囊，防止因角度過大而受傷。",
+    "desc_en": "Stabilizes the hip joint. During the breaststroke kick preparation (recovery and eversion), protects the joint capsule from injury due to excessive angles.",
     "tags": [
       "深層外旋肌群",
-      "籃球",
-      "健身/重訓",
+      "游泳",
+      "蛙式",
       "外旋",
       "穩定肌",
-      "股骨頭穩定",
-      "跳躍"
+      "股骨頭穩定"
     ]
   },
   {
@@ -1756,18 +1533,17 @@
     "name_en": "Coracobrachialis",
     "img": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Coracobrachialis_muscle_-_animation02.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Coracobrachialis_muscle_-_animation02.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "在上籃（Layup）或伸手抄截（Reach-in）時，協助手臂向前上方伸展並靠攏身體中線，增加動作的控制範圍。",
-    "desc_en": "Assists in extending the arm forward and upward toward the midline during layups or reach-in steals, increasing the controlled range of motion.",
+    "desc": "協助划手時的上臂內收動作。特別在自由式的手臂回波（Recovery）轉入入水延伸階段，引導手臂回到中線位置。",
+    "desc_en": "Assists in arm adduction during the pull. Particularly guides the arm back to the midline during the transition from recovery to entry and extension in freestyle.",
     "tags": [
       "上臂",
-      "籃球",
+      "游泳",
+      "自由式",
       "屈曲",
       "內收",
       "上肢推-垂直",
       "穩定肌",
-      "步態與移動",
-      "上籃",
-      "防守"
+      "入水技巧"
     ]
   },
   {
@@ -1776,15 +1552,14 @@
     "name_en": "Palmaris Longus",
     "img": "https://upload.wikimedia.org/wikipedia/commons/8/86/Palmaris-longus-horizontal.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Palmaris-longus-horizontal.png\">Henry Gray</a>, Public domain, via Wikimedia Commons",
-    "desc": "部分人群缺失。在強力扣籃或極限拉桿時，若手腕過度屈曲用力，肌腱會明顯浮起，協助拉緊掌腱膜。",
-    "desc_en": "Absent in some. Tendon becomes visible during forceful dunks or extreme jelly layups involving excessive wrist flexion, helping tense the palmar aponeurosis.",
+    "desc": "協助屈腕並拉緊手掌筋膜。在划手推水階段，幫助手掌形成穩固的受力面。",
+    "desc_en": "Assists in wrist flexion and tightens the palmar fascia. Helps the palm form a stable force-bearing surface during the push phase.",
     "tags": [
       "肘部與前臂",
-      "籃球",
+      "游泳",
       "屈曲",
       "原動肌",
-      "姿勢維持",
-      "灌籃"
+      "手部控制"
     ]
   },
   {
@@ -1793,15 +1568,15 @@
     "name_en": "Palmar Interosseous 1",
     "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Braus_1921_215.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Braus_1921_215.png\">Braus, Hermann</a>, Public domain, via Wikimedia Commons",
-    "desc": "負責食指內收。在需要手指併攏的動作（如某些手型的防守遮眼或特殊的撥球技巧）中發揮作用。",
-    "desc_en": "Adducts the index finger. Active in movements requiring fingers to be close together, such as specific defensive face-guarding techniques or subtle ball flicks.",
+    "desc": "負責食指內收。在游泳時，必須持續用力將食指靠攏中指，防止指縫漏水，這是構建有效划手槳面的基礎。",
+    "desc_en": "Adducts the index finger. Must continuously contract to keep the index finger close to the middle finger, preventing water leakage through gaps; fundamental for building an effective hand paddle.",
     "tags": [
       "手腕與手部",
-      "籃球",
+      "游泳",
       "內收",
       "屈曲",
       "精細運動",
-      "姿勢維持"
+      "手部控制"
     ]
   },
   {
@@ -1810,15 +1585,15 @@
     "name_en": "Palmar Interosseous 2",
     "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Braus_1921_215.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Braus_1921_215.png\">Braus, Hermann</a>, Public domain, via Wikimedia Commons",
-    "desc": "負責無名指內收。協助維持手掌整體結構的緊湊性，避免手指在混亂的撥球中受傷。",
-    "desc_en": "Adducts the ring finger. Helps maintain the compactness of the hand structure, preventing finger injuries during chaotic loose ball scrambles.",
+    "desc": "負責無名指內收。與其他掌側骨間肌共同作用，確保手掌在強大的水阻下維持緊密的鏟狀結構。",
+    "desc_en": "Adducts the ring finger. Works with other palmar interossei to ensure the hand maintains a tight, scoop-like structure against strong water resistance.",
     "tags": [
       "手腕與手部",
-      "籃球",
+      "游泳",
       "內收",
       "屈曲",
       "精細運動",
-      "姿勢維持"
+      "手部控制"
     ]
   },
   {
@@ -1827,15 +1602,15 @@
     "name_en": "Palmar Interosseous 3",
     "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Braus_1921_215.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Braus_1921_215.png\">Braus, Hermann</a>, Public domain, via Wikimedia Commons",
-    "desc": "負責小指內收。與背側骨間肌平衡，確保小指在運球或投籃時不會過度外翻或無力擺動。",
-    "desc_en": "Adducts the little finger. Balances with dorsal interossei to ensure the pinky doesn't flare out excessively or flop during dribbling or shooting.",
+    "desc": "負責小指內收。小指若在划水時外開，會導致嚴重的水流分離（Flow Separation）。此肌肉確保手掌外緣封閉，引導水流向後。",
+    "desc_en": "Adducts the little finger. If the pinky splays during the stroke, it causes severe flow separation. This muscle ensures the outer edge of the palm remains closed, guiding water backward.",
     "tags": [
       "手腕與手部",
-      "籃球",
+      "游泳",
       "內收",
       "屈曲",
       "精細運動",
-      "姿勢維持"
+      "手部控制"
     ]
   },
   {
@@ -1844,14 +1619,13 @@
     "name_en": "Palmaris Brevis",
     "img": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Gray_%E2%80%94_musculus_palmaris_brevis.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_palmaris_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "保護小魚際區（手掌內側緣）。在運球或倒地支撐時，增加手掌尺側皮膚的緩衝厚度。",
-    "desc_en": "Protects the hypothenar eminence (medial palm edge). Increases cushioning of the ulnar palm skin during dribbling or bracing for a fall.",
+    "desc": "位於小魚際皮下。協助提升手掌內側的皮膚隆起，雖對推進力貢獻微小，但在極限衝刺時協助手掌抓握水感。",
+    "desc_en": "Located under the hypothenar skin. Assists in raising the skin of the medial palm; while its contribution to propulsion is minimal, it aids in the tactile 'feel' of the water during maximal sprinting.",
     "tags": [
       "手腕與手部",
-      "籃球",
+      "游泳",
       "姿勢維持",
-      "穩定肌",
-      "運球/控球"
+      "穩定肌"
     ]
   },
   {
@@ -1860,19 +1634,16 @@
     "name_en": "Levator Ani",
     "img": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Levator_ani.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Levator_ani.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
-    "desc": "核心肌群的底層。在垂直起跳落地（Landing）產生巨大衝擊力時，反射性收縮承托內臟，是高強度跳躍運動的隱形守護者。",
-    "desc_en": "The floor of the core. Reflexively contracts to support organs against massive impact forces during vertical jump landings. An invisible guardian in high-impact jumping sports.",
+    "desc": "核心底板。協助維持腹內壓（IAP），這對於在水中保持身體剛性（避免像麵條般軟趴趴）至關重要，直接影響浮力與流線型。",
+    "desc_en": "Core floor. Assists in maintaining intra-abdominal pressure (IAP), vital for keeping body rigidity in water (preventing 'noodling'), directly affecting buoyancy and streamline.",
     "tags": [
       "骨盆帶",
-      "籃球",
-      "瑜伽",
-      "皮拉提斯",
+      "游泳",
       "提升/下壓",
       "核心穩定",
       "姿勢維持",
       "穩定肌",
-      "衝擊吸收",
-      "跳躍"
+      "流線型"
     ]
   },
   {
@@ -1881,12 +1652,13 @@
     "name_en": "Levator Scapulae",
     "img": "https://upload.wikimedia.org/wikipedia/commons/9/97/Levator_scapulae_muscle_animation_small.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Levator_scapulae_muscle_animation_small.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "緊張壓力的累積點。比賽關鍵時刻若過度聳肩緊張，會導致此肌肉僵硬，限制頭部轉動觀察視野（Court Vision）。",
-    "desc_en": "Accumulation point for stress. Excessive shrugging during clutch moments tightens this muscle, restricting head rotation and limiting court vision.",
+    "desc": "換氣時的常見代償肌。若轉頭換氣技術不佳而習慣聳肩，此肌肉會過度緊繃導致頸部僵硬，影響呼吸順暢度。",
+    "desc_en": "Common compensation muscle during breathing. If shrugging occurs due to poor head-turning technique, this muscle becomes tight, causing neck stiffness and impairing breathing flow.",
     "tags": [
       "肩帶與肩關節",
       "頸部肌群",
-      "籃球",
+      "游泳",
+      "換氣技巧",
       "提升/下壓",
       "內旋",
       "肩帶穩定",
@@ -1900,22 +1672,17 @@
     "name_en": "Supraspinatus",
     "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Supraspinatus_muscle_animation.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Supraspinatus_muscle_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "負責手臂外展的前15度啟動。在搶籃板或防守舉手時，負責將肱骨頭穩定在關節窩內，預防夾擠症候群（Impingement）。",
-    "desc_en": "Initiates the first 15 degrees of arm abduction. Stabilizes the humeral head in the socket during rebounding or raising arms for defense, preventing impingement syndrome.",
+    "desc": "負責啟動手臂外展（回臂初期）。由於游泳涉及數千次過頂動作，此肌腱極易在肩峰下空間受到夾擠（游泳肩），需注意姿勢控制。",
+    "desc_en": "Initiates arm abduction (early recovery). Due to thousands of overhead motions in swimming, this tendon is highly prone to subacromial impingement (Swimmer's Shoulder); requires careful posture control.",
     "tags": [
       "肩帶與肩關節",
-      "籃球",
       "游泳",
-      "棒球/壘球",
-      "健身/重訓",
       "外展",
       "上肢推-垂直",
       "原動肌",
       "穩定肌",
       "核心穩定",
-      "姿勢維持",
-      "籃板",
-      "防守"
+      "游泳肩風險"
     ]
   },
   {
@@ -1924,20 +1691,16 @@
     "name_en": "Infraspinatus",
     "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Infraspinatus_muscle_animation.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Infraspinatus_muscle_animation.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "投籃動作的煞車皮。在出手後負責手臂的減速與外旋穩定。若此肌肉疲勞或受傷，會直接影響投籃的後續動作穩定性。",
-    "desc_en": "The brake pad for the shooting motion. Decelerates and stabilizes the arm via external rotation after release. Fatigue or injury here directly impacts follow-through stability.",
+    "desc": "肩袖肌群之一，負責外旋。在手臂入水前的剎車階段與空中回臂時穩定肱骨頭，預防肩膀脫位與肌腱炎。",
+    "desc_en": "Rotator cuff muscle responsible for external rotation. Stabilizes the humeral head during the braking phase before entry and during aerial recovery, preventing dislocation and tendonitis.",
     "tags": [
       "肩帶與肩關節",
-      "籃球",
       "游泳",
-      "棒球/壘球",
-      "健身/重訓",
       "外旋",
       "上肢拉-水平",
-      "原動肌",
       "穩定肌",
       "核心穩定",
-      "投籃"
+      "游泳肩風險"
     ]
   },
   {
@@ -1946,21 +1709,18 @@
     "name_en": "Adductor Brevis",
     "img": "https://upload.wikimedia.org/wikipedia/commons/5/55/Adductor_brevis.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Adductor_brevis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "防守滑步時的骨盆穩定器。在快速的左右變向中，防止雙腿過度劈開，確保重心維持在可控範圍內。",
-    "desc_en": "Pelvic stabilizer during defensive slides. Prevents excessive leg splaying during rapid directional changes, keeping the center of gravity controlled.",
+    "desc": "蛙式踢腿（Breaststroke Kick）的關鍵肌。在踢水的第二階段（夾腿）負責將大腿強力內收，產生向前的噴射動力。",
+    "desc_en": "Key muscle for the Breaststroke Kick. Responsible for powerfully adducting the thighs during the second phase (squeeze) of the kick, generating forward jet propulsion.",
     "tags": [
       "內收肌群",
-      "籃球",
-      "足球",
-      "健身/重訓",
-      "瑜伽",
+      "游泳",
+      "蛙式",
       "內收",
       "屈曲",
       "外旋",
       "原動肌",
       "穩定肌",
-      "步態與移動",
-      "防守"
+      "打腿技巧"
     ]
   },
   {
@@ -1969,43 +1729,36 @@
     "name_en": "Flexor Digitorum Brevis (Intrinsic)",
     "img": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Muscle_court_fl%C3%A9chisseur_des_orteils.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Muscle_court_fl%C3%A9chisseur_des_orteils.png\">Berichard</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
-    "desc": "足底筋膜的肌肉夥伴。在每一次起跳與著地時，主動縮短足底以增強足弓剛性，直接關係到跳躍後的再次彈跳能力（Second Jump）。",
-    "desc_en": "Muscular partner to the plantar fascia. Actively shortens the sole to stiffen the arch during every takeoff and landing, directly affecting second-jump ability.",
+    "desc": "游泳足底抽筋的常見部位。通常因為長時間維持壓腳背（Plantarflexion）姿勢導致縮短而痙攣。放鬆腳趾可緩解。",
+    "desc_en": "Common site for swimmer's cramp. Often spasms due to shortening from prolonged plantarflexion. Relaxing the toes helps alleviate tension.",
     "tags": [
       "踝部與足部",
-      "籃球",
+      "游泳",
       "屈曲",
       "穩定肌",
-      "足弓支撐",
-      "步態與移動",
-      "衝擊吸收",
-      "跳躍"
+      "預防抽筋"
     ]
   },
   {
     "id": "calf_fibularis_longus",
-    "name_zh": "腓骨長肌（重複項-請參照Peroneus Longus）",
+    "name_zh": "腓骨長肌",
     "name_en": "Fibularis Longus",
     "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Superior_view_fibularis_longus_muscle_-_animation.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Superior_view_fibularis_longus_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "側向移動（Lateral Movement）的支柱。肌腱鎖定足弓，確保在極限角度切入時，足部仍能有效傳遞地面反作用力。",
-    "desc_en": "Pillar of lateral movement. Tendon locks the arch, ensuring effective ground reaction force transmission even during extreme cutting angles.",
+    "desc": "強化足踝的伸展與外翻。在游泳踢水時，穩固足部結構以對抗水的阻力，確保留暢的鞭狀打腿動作（Whip-like action）。",
+    "desc_en": "Reinforces ankle extension and eversion. Stabilizes foot structure against water resistance during kicking, ensuring a smooth whip-like kicking action.",
     "tags": [
       "小腿外側肌群",
-      "籃球",
-      "足球",
-      "登山/健行",
-      "瑜伽",
-      "衝浪",
+      "游泳",
+      "自由式",
+      "仰式",
       "外翻",
       "蹠屈",
       "踝關節蹠屈",
       "足部外翻",
       "原動肌",
-      "足弓支撐",
       "足部穩定",
-      "步態與移動",
-      "變向/切入"
+      "打腿技巧"
     ]
   },
   {
@@ -2014,23 +1767,20 @@
     "name_en": "Fibularis Brevis",
     "img": "https://upload.wikimedia.org/wikipedia/commons/b/be/Fibularis_brevis_muscle_-_animation.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Fibularis_brevis_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "預防「翻船」（足內翻扭傷）的最後防線。在踩到別人腳背或落地不穩時，負責快速外翻以修正腳踝位置。",
-    "desc_en": "Last line of defense against rolling an ankle (inversion sprain). Rapidly everts the foot to correct ankle position when landing on someone's foot or unevenly.",
+    "desc": "協助維持腳踝伸直（Plantarflexion）與外翻。在自由式打腿時，幫助腳掌維持良好的迎水角度，增加推進表面積。",
+    "desc_en": "Assists in maintaining ankle plantarflexion and eversion. Helps orient the foot for optimal water displacement angle during the freestyle kick, increasing propulsive surface area.",
     "tags": [
       "小腿外側肌群",
-      "籃球",
-      "足球",
-      "登山/健行",
-      "衝浪",
-      "瑜伽",
+      "游泳",
+      "自由式",
+      "仰式",
       "外翻",
       "蹠屈",
       "踝關節蹠屈",
       "足部外翻",
       "原動肌",
       "踝關節穩定",
-      "步態與移動",
-      "傷害預防"
+      "打腿技巧"
     ]
   },
   {
@@ -2039,21 +1789,18 @@
     "name_en": "Gastrocnemius",
     "img": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Gastrocnemius_muscle_-_animation.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gastrocnemius_muscle_-_animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "爆發力之源。富含快縮肌纖維，負責提供垂直起跳（Dunk/Block）與衝刺啟動時的強大推力。易因過度疲勞而抽筋。",
-    "desc_en": "Source of explosive power. Rich in fast-twitch fibers, providing the massive thrust for vertical jumps (dunks/blocks) and sprint starts. Prone to cramping from fatigue.",
+    "desc": "負責強力的「壓腳背（Plantarflexion）」動作。良好的壓腳背能力能顯著減少足部水阻，是自由式與蝶式踢水推進力的關鍵來源。",
+    "desc_en": "Responsible for powerful 'toe pointing' (plantarflexion). Good plantarflexion significantly reduces drag; a key source of propulsion in freestyle and butterfly kicking.",
     "tags": [
       "小腿",
-      "籃球",
-      "足球",
-      "健身/重訓",
-      "登山/健行",
-      "單車",
+      "游泳",
+      "自由式",
+      "蝶式",
+      "打腿技巧",
       "蹠屈",
       "膝關節屈曲",
       "原動肌",
-      "衝擊吸收",
-      "步態與移動",
-      "跳躍"
+      "流線型"
     ]
   },
   {
@@ -2062,23 +1809,20 @@
     "name_en": "Psoas Major",
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Psoas_major_muscle_-_animation04.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Psoas_major_muscle_-_animation04.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "高抬腿上籃（High Knee Layup）與灌籃的驅動者。負責將大腿強力向上提起。緊繃的腰肌會限制髖伸展，導致腰痛並影響爆發力。",
-    "desc_en": "Driver of high-knee layups and dunks. Responsbile for powerfully lifting the thigh. Tight psoas restricts hip extension, causing back pain and limiting explosiveness.",
+    "desc": "仰式打腿的發動機。負責強力的上踢動作，將大腿向上帶起衝破水阻。同時在轉身蹬牆後，維持身體的筆直剛性。",
+    "desc_en": "The engine of the backstroke kick. Responsible for the powerful up-kick, driving the thigh upward against water resistance. Also maintains body rigidity after wall push-offs.",
     "tags": [
       "髖屈肌群",
-      "籃球",
-      "瑜伽",
-      "健身/重訓",
-      "單車",
+      "游泳",
+      "仰式",
+      "蝶式",
+      "海豚踢",
       "屈曲",
       "內旋",
       "側屈",
       "原動肌",
-      "步態與移動",
-      "姿勢維持",
-      "核心穩定",
-      "跳躍",
-      "上籃"
+      "打腿技巧",
+      "流線型"
     ]
   },
   {
@@ -2087,20 +1831,19 @@
     "name_en": "Quadratus Lumborum",
     "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Quadratuslumborum.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Quadratuslumborum.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
-    "desc": "空中對抗（Body Control）的穩定軸。在跳躍滯空且身體傾斜時，負責維持脊椎穩定，防止過度扭曲受傷。",
-    "desc_en": "Stabilizing axis for aerial body control. Maintains spine stability while airborne and tilted, preventing injury from excessive twisting.",
+    "desc": "負責蝶式與蛙式的水下海豚踢（Undulation）動作核心。協助骨盆與肋骨的連動，產生波浪狀的推進力。",
+    "desc_en": "Core to the underwater dolphin kick (undulation) in butterfly and breaststroke. Assists the linkage between pelvis and ribs to generate wave-like propulsion.",
     "tags": [
       "背部肌群",
       "腹部與核心",
-      "籃球",
-      "登山/健行",
+      "游泳",
+      "蝶式",
+      "海豚踢",
       "側屈",
       "伸展",
       "穩定肌",
       "核心穩定",
-      "步態與移動",
-      "姿勢維持",
-      "跳躍"
+      "姿勢維持"
     ]
   },
   {
@@ -2109,20 +1852,17 @@
     "name_en": "Internal Abdominal Oblique",
     "img": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Gray395.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray395.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "協助轉身過人（Spin Move）的旋轉控制。與外斜肌協同，在被對手撞擊時鎖定核心，保持平衡。",
-    "desc_en": "Assists rotational control in spin moves. Works with external obliques to lock the core upon contact, maintaining balance.",
+    "desc": "與腹外斜肌協同運作，精確控制水中軀幹的旋轉幅度。在轉身（Flip Turn）時協助快速屈曲與旋轉，是轉身速度的關鍵。",
+    "desc_en": "Works synergistically with the external oblique to precisely control trunk rotation in water. Assists in rapid flexion and rotation during flip turns, key for turn speed.",
     "tags": [
       "腹部與核心",
-      "籃球",
-      "網球",
-      "健身/重訓",
-      "皮拉提斯",
-      "屈曲",
-      "側屈",
+      "游泳",
+      "轉身技巧",
+      "自由式",
+      "仰式",
       "軀幹旋轉與對角線",
       "穩定肌",
-      "核心穩定",
-      "步法"
+      "核心穩定"
     ]
   },
   {
@@ -2131,21 +1871,18 @@
     "name_en": "External Abdominal Oblique",
     "img": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Grays_Anatomy_Muscle_oblique_externe.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Grays_Anatomy_Muscle_oblique_externe.png\">Par Henry Vandyke Carter</a>, CC0, via Wikimedia Commons",
-    "desc": "產生旋轉爆發力。在長傳（Baseball Pass）或強力切入扭轉身體時，負責將力量從核心傳遞至四肢。",
-    "desc_en": "Generates rotational power. Transfers force from the core to the limbs during baseball passes or powerful driving twists.",
+    "desc": "游泳「身體滾動 (Body Roll)」的主要驅動者。負責連結划手與打腿的動力鏈，將上半身的旋轉力矩傳遞至核心，減少水阻並增加划距。",
+    "desc_en": "Primary driver of 'Body Roll' in swimming. Connects the kinetic chain between the pull and the kick, transferring rotational torque to the core to minimize drag and increase stroke distance.",
     "tags": [
       "腹部與核心",
-      "籃球",
-      "網球",
-      "健身/重訓",
-      "拳擊/格鬥",
-      "屈曲",
-      "側屈",
+      "游泳",
+      "自由式",
+      "仰式",
+      "蝶式",
       "軀幹旋轉與對角線",
       "原動肌",
       "核心穩定",
-      "步態與移動",
-      "傳球"
+      "流線型"
     ]
   },
   {
@@ -2154,19 +1891,17 @@
     "name_en": "Rectus Abdominis",
     "img": "https://upload.wikimedia.org/wikipedia/commons/9/94/Rectus_abdominis_vi.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Rectus_abdominis_vi.png\">Mongrangvebet</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
-    "desc": "對抗衝撞的鎧甲。在製造進攻犯規（Taking a Charge）時吸收衝擊。跳投時負責捲腹收縮，幫助力量傳遞。",
-    "desc_en": "Armor against contact. Absorbs impact when taking a charge. Contracts (crunches) during jump shots to aid force transmission.",
+    "desc": "維持水中「流線型 (Streamline)」姿勢的核心。負責在蝶式踢腿與滾翻轉身時的強力屈曲。無力的腹直肌會導致腰部下沉，大幅增加水阻。",
+    "desc_en": "Core to maintaining the 'Streamline' posture. Responsible for powerful flexion during dolphin kicks and flip turns. Weakness leads to sagging hips, significantly increasing drag.",
     "tags": [
       "腹部與核心",
-      "籃球",
-      "健身/重訓",
-      "HIIT/CrossFit",
+      "游泳",
+      "蝶式",
+      "轉身技巧",
       "屈曲",
-      "側屈",
       "核心穩定",
       "姿勢維持",
-      "防守",
-      "投籃"
+      "流線型"
     ]
   },
   {
@@ -2175,20 +1910,17 @@
     "name_en": "Transversus Abdominis",
     "img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Transversus_abdominis.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Transversus_abdominis.png\">modified by Uwe Gille</a>, Public domain, via Wikimedia Commons",
-    "desc": "核心穩定的天然腰帶。在空中對抗（Hang Time）或禁區肉搏時，透過增加腹內壓來保護脊椎，是所有爆發性動作的穩定基石。",
-    "desc_en": "Natural corset for core stability. Protects the spine during hang time or physical play in the paint by increasing intra-abdominal pressure. The foundation for all explosive movements.",
+    "desc": "控制水中浮力與平衡的關鍵。透過壓縮腹腔維持剛性，使身體像梭子一樣穿過水面。若此肌肉鬆懈，身體會在水中像麵條般扭曲，力量傳遞效率大減。",
+    "desc_en": "Key to buoyancy control and balance. Compresses the abdominal cavity to maintain rigidity, allowing the body to cut through water like a shuttle. Without it, the body snakes through water, losing power transfer efficiency.",
     "tags": [
       "腹部與核心",
-      "籃球",
-      "單車",
-      "瑜伽",
-      "皮拉提斯",
+      "游泳",
+      "水感",
       "穩定肌",
       "核心穩定",
       "呼吸輔助",
       "姿勢維持",
-      "對抗",
-      "跳躍"
+      "流線型"
     ]
   },
   {
@@ -2197,23 +1929,18 @@
     "name_en": "Popliteus",
     "img": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Popliteus_muscle_-animation.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Popliteus_muscle_-animation.gif\">Polygon data were generated by Database Center for Life Science (DBCLS)[2]</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "膝關節的「解鎖」肌。在防守蹲低（Defensive Stance）時維持膝蓋微彎的靈活性。防止在急停或單腳著地時膝蓋過度伸直（鎖死）而受傷。",
-    "desc_en": "The knee 'unlocker'. Maintains knee flexibility in the defensive stance. Prevents hyperextension injuries during sudden stops or single-leg landings.",
+    "desc": "蛙式膝蓋保護者。在蛙式收腿準備外翻時，負責解鎖膝關節並微量內旋脛骨，使小腿能順暢甩動（Whip）。",
+    "desc_en": "Breaststroke knee protector. During recovery preparation for eversion, unlocks the knee and slightly internalizes the tibia, allowing a smooth whip motion.",
     "tags": [
       "膝關節",
-      "籃球",
-      "籃球",
-      "足球",
-      "瑜伽",
-      "登山/健行",
+      "游泳",
+      "蛙式",
       "屈曲",
       "膝關節屈曲",
       "膝關節內旋",
       "穩定肌",
       "膝關節穩定",
-      "步態與移動",
-      "防守",
-      "傷害預防"
+      "打腿技巧"
     ]
   },
   {
@@ -2222,21 +1949,19 @@
     "name_en": "Erector Spinae",
     "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Gray389_-_Erector_spinae.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray389_-_Erector_spinae.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "維持防守站姿時背部挺直的關鍵。防止球員因疲勞而彎腰駝背（Hunching）。在搶籃板與著地時，吸收沿著脊椎傳遞的垂直衝擊力。",
-    "desc_en": "Key to maintaining a straight back in defensive stance. Prevents hunching due to fatigue. Absorbs vertical shock transmitted along the spine during rebounding and landings.",
+    "desc": "在蝶式與蛙式中極為重要，負責將上半身與頭部拉出水面進行換氣。在自由式中則維持身體的水平位置，防止下半身下沉。",
+    "desc_en": "Crucial in butterfly and breaststroke for lifting the torso and head for breathing. In freestyle, maintains a horizontal body position, preventing the lower body from sinking.",
     "tags": [
       "脊柱骨骼",
       "背部肌群",
-      "籃球",
-      "健身/重訓",
-      "登山/健行",
+      "游泳",
+      "蝶式",
+      "蛙式",
       "伸展",
       "側屈",
-      "衝擊吸收",
+      "換氣技巧",
       "姿勢維持",
-      "穩定肌",
-      "防守",
-      "籃板"
+      "穩定肌"
     ]
   },
   {
@@ -2245,16 +1970,15 @@
     "name_en": "Extensor Carpi Radialis Longus",
     "img": "https://upload.wikimedia.org/wikipedia/commons/5/53/Extensor_carpi_radialis_longus.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Extensor_carpi_radialis_longus.png\">Me</a>, Public domain, via Wikimedia Commons",
-    "desc": "投籃準備動作（Set Point）時，負責讓手腕保持向後翹起（Cocked）的姿勢，儲存彈性位能以利出手。",
-    "desc_en": "Keeps the wrist cocked at the set point during shooting, storing elastic energy for the release.",
+    "desc": "與短肌協同，維持手腕的剛性。在划水（Pull）階段防止手腕因水阻而塌陷，確保力量直接傳遞至前臂。",
+    "desc_en": "Works with the brevis to maintain wrist rigidity. Prevents the wrist from collapsing under water pressure during the Pull phase, ensuring direct force transfer to the forearm.",
     "tags": [
       "肘部與前臂",
-      "籃球",
+      "游泳",
       "伸展",
       "外展",
       "穩定肌",
-      "姿勢維持",
-      "投籃"
+      "抱水技巧"
     ]
   },
   {
@@ -2263,16 +1987,15 @@
     "name_en": "Extensor Carpi Radialis Brevis",
     "img": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Gray_%E2%80%94_musculus_extensor_carpi_radialis_brevis.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_extensor_carpi_radialis_brevis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "穩定手腕中心的關鍵肌。在投籃過程中確保手腕不會左右晃動，對於保持投籃軌跡直線至關重要。",
-    "desc_en": "Key muscle for central wrist stability. Ensures the wrist doesn't wobble laterally during the shot, critical for maintaining a straight shooting trajectory.",
+    "desc": "在划手全程鎖定手腕。防止手腕在受壓時彎曲（Broken Wrist），確保前臂與手掌形成一個完整的大槳面。",
+    "desc_en": "Locks the wrist throughout the stroke. Prevents the wrist from collapsing (broken wrist) under pressure, ensuring the forearm and hand act as a single large paddle.",
     "tags": [
       "肘部與前臂",
-      "籃球",
+      "游泳",
       "伸展",
       "外展",
       "穩定肌",
-      "姿勢維持",
-      "投籃"
+      "抱水技巧"
     ]
   },
   {
@@ -2281,17 +2004,15 @@
     "name_en": "Flexor Carpi Radialis",
     "img": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Gray_%E2%80%94_musculus_flexor_carpi_radialis.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_flexor_carpi_radialis.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "提供強力的壓腕（Wrist Flexion）力量。在高速單手傳球（Push Pass）或投籃跟隨動作中發揮作用。",
-    "desc_en": "Provides powerful wrist flexion. Active in high-speed push passes and the shooting follow-through.",
+    "desc": "在划手最後的「推水（Push/Finish）」階段發揮關鍵作用。負責快速屈腕，像甩鞭子一樣將水向後最後一推。",
+    "desc_en": "Critical during the final 'Push/Finish' phase of the stroke. Responsbile for rapid wrist flexion, snapping the water back like a whip for final propulsion.",
     "tags": [
       "肘部與前臂",
-      "籃球",
+      "游泳",
       "屈曲",
       "外展",
-      "穩定肌",
-      "姿勢維持",
-      "傳球",
-      "投籃"
+      "原動肌",
+      "推水技巧"
     ]
   },
   {
@@ -2300,19 +2021,17 @@
     "name_en": "Diaphragm",
     "img": "https://upload.wikimedia.org/wikipedia/commons/7/71/Diaphragm_-_2.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Diaphragm_-_2.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "除了呼吸，它是核心穩定的總開關。在製造進攻犯規（Taking a Charge）或卡位前，憋氣以增加腹內壓，能有效承受撞擊。",
-    "desc_en": "Beyond breathing, it's the master switch for core stability. Holding breath to increase intra-abdominal pressure before taking a charge or boxing out helps absorb impact effectively.",
+    "desc": "在水中對抗水壓進行呼吸的引擎。強壯的橫隔膜能增加肺活量，並透過調節腹內壓來控制身體在水中的浮力重心（Lung Buoyancy）。",
+    "desc_en": "The breathing engine working against water pressure. A strong diaphragm increases lung capacity and regulates intra-abdominal pressure to control the center of buoyancy (Lung Buoyancy).",
     "tags": [
       "胸廓",
-      "籃球",
       "游泳",
-      "HIIT/CrossFit",
+      "自由潛水",
       "屈曲",
       "提升/下壓",
       "核心穩定",
       "呼吸輔助",
-      "姿勢維持",
-      "對抗"
+      "姿勢維持"
     ]
   },
   {
@@ -2321,22 +2040,18 @@
     "name_en": "Longus Colli",
     "img": "https://upload.wikimedia.org/wikipedia/commons/9/96/Gray_%E2%80%94_musculus_longus_colli.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gray_%E2%80%94_musculus_longus_colli.png\">Henry Vandyke Carter</a>, Public domain, via Wikimedia Commons",
-    "desc": "在頭部假動作（Head Fake）時維持頸椎穩定。防止因急停或被犯規導致頭部劇烈甩動（Whiplash）。",
-    "desc_en": "Maintains cervical stability during head fakes. Prevents severe whiplash effects from sudden stops or hard fouls.",
+    "desc": "維持流線型頭部位置（收下巴）的關鍵。抵抗水流衝擊頭部產生的抬頭力矩，減少波浪阻力（Wave Drag）。",
+    "desc_en": "Key for maintaining a streamlined head position (chin tuck). Resists the head-lifting torque caused by water impact, minimizing wave drag.",
     "tags": [
       "頸椎",
       "頸部肌群",
-      "籃球",
-      "單車",
       "游泳",
-      "瑜伽",
-      "皮拉提斯",
-      "步態與移動",
+      "自由式",
+      "蝶式",
       "屈曲",
       "穩定肌",
       "姿勢維持",
-      "核心穩定",
-      "傷害預防"
+      "流線型"
     ]
   },
   {
@@ -2345,24 +2060,19 @@
     "name_en": "Sartorius",
     "img": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Sartorius_3D.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Sartorius_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "在防守側滑步或交叉步（Crossover）時，協助腿部的屈曲與外旋。作為「鵝足」肌群，保護膝關節內側免受扭轉應力傷害。",
-    "desc_en": "Assists leg flexion and external rotation during defensive slides or crossovers. As part of the pes anserinus, protects the medial knee from torsional stress.",
+    "desc": "蛙式收腿動作（Recovery）的完美執行者。負責屈髖、屈膝並外旋大腿，將腿部帶入正確的蹬踢準備位置。",
+    "desc_en": "Perfect executor of breaststroke recovery. Flexes hip and knee while externally rotating the thigh, bringing the leg into the correct position for the propulsive kick.",
     "tags": [
       "髖部與大腿",
-      "籃球",
-      "籃球",
-      "足球",
-      "瑜伽",
-      "單車",
+      "游泳",
+      "蛙式",
       "屈曲",
       "外旋",
       "外展",
       "膝關節屈曲",
       "膝關節內旋",
       "原動肌",
-      "步態與移動",
-      "膝關節穩定",
-      "變向/切入"
+      "打腿技巧"
     ]
   },
   {
@@ -2371,27 +2081,21 @@
     "name_en": "Gluteus Maximus",
     "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Gluteus_maximus_3D.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gluteus_maximus_3D.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "籃球場上的爆發力之王。負責垂直起跳搶籃板、灌籃的強大髖伸展。在卡位（Box Out）時，負責將對手向後頂開。",
-    "desc_en": "King of explosiveness on the court. Responsible for powerful hip extension in vertical jumps, rebounds, and dunks. Drives the backward push against opponents during box-outs.",
+    "desc": "負責自由式與蝶式打腿的「下壓」動作（髖伸展）。更重要的是，它負責將臀部保持在水面附近，防止下半身下沉，減少身體截面積阻力。",
+    "desc_en": "Responsible for the 'downbeat' (hip extension) in freestyle and butterfly kicking. More importantly, it keeps the hips near the surface, preventing the lower body from sinking and minimizing frontal drag.",
     "tags": [
       "髖部與大腿",
-      "籃球",
-      "籃球",
-      "足球",
-      "健身/重訓",
-      "登山/健行",
-      "瑜伽",
+      "游泳",
+      "自由式",
+      "蝶式",
+      "仰式",
       "伸展",
       "外旋",
       "外展",
-      "下肢拉/髖絞鍊",
-      "衝擊吸收",
       "原動肌",
       "核心穩定",
-      "步態與移動",
-      "跳躍",
-      "籃板",
-      "防守"
+      "打腿技巧",
+      "流線型"
     ]
   },
   {
@@ -2400,21 +2104,17 @@
     "name_en": "Gluteus Minimus",
     "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Gluteus_minimus_muscle_animation04.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gluteus_minimus_muscle_animation04.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "單腳起跳上籃（One-foot Layup）時的深層穩定肌。確保支撐腿的股骨頭穩定，防止骨盆傾斜，讓力量能垂直向傳遞。",
-    "desc_en": "Deep stabilizer for one-foot layups. Secures the femoral head of the stance leg, preventing pelvic tilt and allowing vertical force transmission.",
+    "desc": "協助髖關節內旋。在自由式打腿時，幫助維持「內八」姿勢，使腳背能有更大的擊水面積。",
+    "desc_en": "Assists in hip internal rotation. During freestyle kicking, helps maintain the 'pigeon-toed' posture, allowing for a larger surface area on the instep to strike the water.",
     "tags": [
       "臀部肌群",
-      "籃球",
-      "籃球",
-      "登山/健行",
-      "瑜伽",
+      "游泳",
+      "自由式",
+      "仰式",
       "外展",
       "內旋",
       "穩定肌",
-      "核心穩定",
-      "步態與移動",
-      "上籃",
-      "跳躍"
+      "打腿技巧"
     ]
   },
   {
@@ -2423,24 +2123,18 @@
     "name_en": "Gluteus Medius",
     "img": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Gluteus_medius_muscle_-_animation01.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gluteus_medius_muscle_-_animation01.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "預防ACL受傷的關鍵肌。在單腳著地或急停變向（Cut）時防止膝蓋內扣（Valgus）。肌力不足是籃球員膝蓋受傷的主因。",
-    "desc_en": "Critical for ACL injury prevention. Prevents knee valgus during single-leg landings or cuts. Weakness here is a primary cause of knee injuries in basketball players.",
+    "desc": "在自由式與仰式的「身體滾動（Body Roll）」中穩定骨盆，防止過度擺動。在蛙式踢腿中，協助控制大腿的外展角度。",
+    "desc_en": "Stabilizes the pelvis during the 'Body Roll' of freestyle and backstroke, preventing excessive swaying. In breaststroke, assists in controlling the abduction angle of the thighs.",
     "tags": [
       "髖部與大腿",
-      "籃球",
-      "籃球",
-      "足球",
-      "健身/重訓",
-      "登山/健行",
-      "瑜伽",
+      "游泳",
+      "自由式",
+      "仰式",
+      "蛙式",
       "外展",
       "外旋",
       "穩定肌",
-      "步態與移動",
-      "衝擊吸收",
-      "核心穩定",
-      "傷害預防",
-      "變向/切入"
+      "核心穩定"
     ]
   },
   {
@@ -2449,23 +2143,18 @@
     "name_en": "Gracilis (Hip)",
     "img": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gracilis.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Gracilis.gif\">BodyParts3D/Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "控制防守滑步的寬度。當雙腿過度張開時負責拉回。在劇烈變向運球（Killer Crossover）時容易拉傷（Groin Strain）。",
-    "desc_en": "Controls the width of defensive slides. Pulls legs back when splayed too wide. Prone to groin strains during aggressive killer crossovers.",
+    "desc": "蛙式專用肌。在蛙式踢腿的夾水階段（Adduction），與內收肌群共同爆發用力，是蛙式推進力的主要貢獻者之一。",
+    "desc_en": "Breaststroke specialist. Explosively contracts with the adductor group during the squeeze phase (adduction) of the breaststroke kick; a major contributor to propulsion.",
     "tags": [
       "內收肌群",
-      "籃球",
-      "籃球",
-      "足球",
-      "瑜伽",
-      "單車",
+      "游泳",
+      "蛙式",
       "內收",
       "屈曲",
       "內旋",
       "原動肌",
       "穩定肌",
-      "步態與移動",
-      "防守",
-      "變向/切入"
+      "打腿技巧"
     ]
   },
   {
@@ -2474,23 +2163,18 @@
     "name_en": "Tensor Fasciae Latae",
     "img": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Tensor-fasciae-latae.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Tensor-fasciae-latae.png\">colorized by Michael Gasperl</a>, Public domain, via Wikimedia Commons",
-    "desc": "防守滑步與側向切入（Lateral Cut）的關鍵穩定肌。透過拉緊髂脛束來穩定膝蓋外側。籃球員常見的「膝外側痛」常源於此肌肉過度代償臀肌。",
-    "desc_en": "Crucial stabilizer for defensive slides and lateral cuts. Stabilizes the lateral knee via the IT Band. Common lateral knee pain in hoopers often stems from TFL compensating for weak glutes.",
+    "desc": "協助髖屈曲與內旋。在自由式打腿中，幫助維持「內八」姿勢，並透過髂脛束穩定膝蓋在水中的伸直狀態。",
+    "desc_en": "Assists in hip flexion and internal rotation. In freestyle kicking, helps maintain the 'pigeon-toed' posture and stabilizes knee extension in water via the IT band.",
     "tags": [
       "髖屈肌群",
-      "籃球",
-      "足球",
-      "瑜伽",
-      "登山/健行",
+      "游泳",
+      "自由式",
       "屈曲",
       "外展",
       "內旋",
       "穩定肌",
       "核心穩定",
-      "步態與移動",
-      "下肢推",
-      "防守",
-      "變向/切入"
+      "打腿技巧"
     ]
   },
   {
@@ -2499,14 +2183,13 @@
     "name_en": "Subclavius",
     "img": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Subclavius_muscle_animation2.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Subclavius_muscle_animation2.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "在衝撞掩護（Pick and Roll）或倒地時，負責穩定鎖骨與第一肋，保護肩膀關節與臂叢神經。",
-    "desc_en": "Stabilizes clavicle and first rib during collisions in pick-and-rolls or falls, protecting the shoulder joint and brachial plexus.",
+    "desc": "穩定鎖骨與胸鎖關節。在游泳頻繁的肩部迴旋動作中，作為保護臂叢神經與血管的緩衝墊。",
+    "desc_en": "Stabilizes the clavicle and SC joint. Acts as a cushion to protect the brachial plexus and vessels during the repetitive shoulder circumduction of swimming.",
     "tags": [
       "胸廓",
-      "籃球",
+      "游泳",
       "呼吸輔助",
-      "穩定肌",
-      "對抗"
+      "穩定肌"
     ]
   },
   {
@@ -2515,20 +2198,16 @@
     "name_en": "Mylohyoid",
     "img": "https://upload.wikimedia.org/wikipedia/commons/9/92/Mylohyoid_muscle.PNG",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Mylohyoid_muscle.PNG\">User:Mikael Häggström</a>, Public domain, via Wikimedia Commons",
-    "desc": "身體張力的指示器。投籃時應保持口腔放鬆，避免用力頂舌頭，這會導致頸部緊繃進而影響肩膀流暢度。",
-    "desc_en": "Indicator of body tension. Keep mouth relaxed during shooting; avoiding forceful tongue pressing prevents neck tightness that disrupts shoulder fluidity.",
+    "desc": "形成口腔底部。在水中閉氣或吞嚥口水時起作用。游泳時應保持此處放鬆，避免頸部不必要的張力。",
+    "desc_en": "Forms the floor of the mouth. Active during breath holding or swallowing. Should remain relaxed while swimming to avoid unnecessary neck tension.",
     "tags": [
       "頸部肌群",
-      "籃球",
       "游泳",
-      "瑜伽",
-      "皮拉提斯",
       "屈曲",
       "提升/下壓",
       "穩定肌",
       "姿勢維持",
-      "呼吸輔助",
-      "投籃"
+      "呼吸輔助"
     ]
   },
   {
@@ -2537,22 +2216,18 @@
     "name_en": "Iliacus",
     "img": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Iliacus_muscle_-_animation05.gif",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Iliacus_muscle_-_animation05.gif\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "啟動「第一步（First Step）」切入的關鍵。負責快速屈髖將大腿提起，對於過人速度與急停跳投的起跳速度至關重要。",
-    "desc_en": "Key to the explosive 'First Step'. Responsible for rapid hip flexion to lift the thigh, critical for blow-by speed and pull-up jump shot takeoff speed.",
+    "desc": "負責仰式踢水（Flutter Kick）的「上踢」動作（髖屈曲），這是仰式的主要推進相。在自由式中則負責腿部的放鬆回位。",
+    "desc_en": "Responsible for the 'up-kick' (hip flexion) in backstroke, which is the primary propulsive phase. In freestyle, it handles the relaxed recovery of the leg.",
     "tags": [
       "髖屈肌群",
-      "籃球",
-      "籃球",
-      "瑜伽",
-      "健身/重訓",
-      "單車",
+      "游泳",
+      "仰式",
+      "自由式",
+      "海豚踢",
       "屈曲",
       "外旋",
       "原動肌",
-      "步態與移動",
-      "核心穩定",
-      "切入",
-      "跳躍"
+      "打腿技巧"
     ]
   },
   {
@@ -2561,23 +2236,19 @@
     "name_en": "Iliopsoas",
     "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Braus_1921_244.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Braus_1921_244.png\">Braus, Hermann</a>, Public domain, via Wikimedia Commons",
-    "desc": "灌籃與高彈跳的核心驅動軸。負責將膝蓋用力向上帶（Drive the knee），轉化為垂直高度。其彈性直接影響爆發力表現。",
-    "desc_en": "Core drive shaft for dunks and high jumps. Drives the knee upward to convert into vertical height. Its elasticity directly impacts explosive performance.",
+    "desc": "連接軀幹與下肢的橋樑。在蝶式海豚踢（Dolphin Kick）中，將核心的波浪動能傳遞至腿部，啟動強有力的屈髖動作。",
+    "desc_en": "The bridge between trunk and legs. In the dolphin kick, it transfers the core's undulatory kinetic energy to the legs, initiating powerful hip flexion.",
     "tags": [
       "髖部與大腿",
-      "籃球",
-      "籃球",
-      "足球",
-      "單車",
-      "登山/健行",
+      "游泳",
+      "蝶式",
+      "仰式",
+      "海豚踢",
       "屈曲",
       "外旋",
-      "下肢推",
-      "步態與移動",
       "原動肌",
       "核心穩定",
-      "跳躍",
-      "灌籃"
+      "流線型"
     ]
   },
   {
@@ -2586,17 +2257,15 @@
     "name_en": "Temporalis",
     "img": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Temporal_muscle_-_lateral_view.png",
     "img_source": "<a href=\"https://commons.wikimedia.org/wiki/File:Temporal_muscle_-_lateral_view.png\">Anatomography</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">CC BY-SA 2.1 JP</a>, via Wikimedia Commons",
-    "desc": "壓力與專注力的副作用。關鍵時刻（Clutch）球員容易咬牙切齒，放鬆此處有助於保持冷靜的投籃心態。",
-    "desc_en": "Side effect of stress and focus. Clutch players often clench teeth; relaxing here helps maintain a calm shooting mindset.",
+    "desc": "游進時應保持放鬆。過度緊張（如因寒冷或費力而咬牙）會消耗氧氣並造成泳後頭痛。面部放鬆有助於全身浮力控制。",
+    "desc_en": "Should remain relaxed while swimming. Excessive tension (e.g., from cold or effort) consumes oxygen and causes post-swim headaches. Facial relaxation aids in overall buoyancy control.",
     "tags": [
       "顱骨與顳顎關節",
-      "籃球",
-      "拳擊/格鬥",
-      "健身/重訓",
+      "游泳",
+      "換氣技巧",
       "屈曲",
       "提升/下壓",
-      "姿勢維持",
-      "心理"
+      "姿勢維持"
     ]
   }
 ]
